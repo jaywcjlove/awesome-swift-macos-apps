@@ -5,7 +5,7 @@
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-048754?logo=buymeacoffee)](https://jaywcjlove.github.io/#/sponsor)
 [![english](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
 
-精选的基于 Swift 的 macOS 应用集合
+精选的基于 Swift 的开源 macOS 应用集合
 
 ✦ 我的 macOS/iOS 应用 ✦
 
