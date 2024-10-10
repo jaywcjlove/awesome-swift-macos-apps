@@ -297,7 +297,6 @@
 ## 生产力
 
 - [Calculeta](https://github.com/varol/Calculeta) - 一款在菜单栏中运行的 macOS 计算器。
-- [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app) - macOS 开发者工具，帮助您快速完成日常小任务，例如 JSON 格式化器、UUID 生成器等。
 - [KeyHolder](https://github.com/Clipy/KeyHolder) - 在 macOS 中记录快捷键，类似 Alfred.app。
 - [Kiwix](https://github.com/kiwix/apple) - 针对 iOS 和 macOS 的 Kiwix，基于 Swift 构建。
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) - 一个简单但强大的工具，帮助您为 UICollectionView 制作复杂布局。
