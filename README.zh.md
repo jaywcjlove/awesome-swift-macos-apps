@@ -403,6 +403,7 @@
 - [PercentCalculator](https://github.com/cemolcay/PercentCalculator) - 一个计算百分比的菜单栏应用程序。
 - [Plain Pasta](https://github.com/hisaac/PlainPasta) - 将剪贴板内容转换为纯文本。
 - [PlayStatus](https://github.com/nbolar/PlayStatus) - PlayStatus 是一款 macOS 应用程序，可通过菜单栏控制 Spotify 和 iTunes 的音乐播放。
+- [Pomosh](https://github.com/stevenselcuk/Pomosh-macOS) - macOS 上的下一个超棒的番茄工作法助手
 - [Quick Recorder](https://github.com/lihaoyun6/QuickRecorder) - 多功能、轻量化、高性能的 macOS 屏幕录制工具
 - [Rugby](https://github.com/swiftyfinch/Rugby) - 🏈 缓存 CocoaPods 以加速 Xcode 项目的重建和索引。
 - [SlimHUD - Cyanocitta](https://github.com/AlexPerathoner/SlimHUD) - 替代 macOS 的音量、亮度和键盘背光 HUD。
