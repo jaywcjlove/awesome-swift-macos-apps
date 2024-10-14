@@ -446,3 +446,9 @@
 - [Amethyst](https://github.com/ianyh/Amethyst) - macOS 的自动平铺窗口管理器。
 - [Desktop Profiles](https://github.com/mamiksik/Desktop-Profiles) - 一款创新的桌面/窗口管理器。
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Rectangle 是一款基于 Spectacle 的窗口管理器，使用 Swift 编写。
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
