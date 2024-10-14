@@ -1,4 +1,4 @@
-精选的 Swift macOS 应用
+精选开源的 Swift macOS 应用
 ===
 <!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
 
