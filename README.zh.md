@@ -350,6 +350,7 @@
 
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - macOS 的高级电池监测工具。
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - 小型 macOS 应用程序，用作系统清理工具（日志、缓存等）。
+- [Americano](https://github.com/LZhenHong/Americano) - 简单的 caffeinate 包装器，常驻在菜单栏中使用。
 - [Diagnostics](https://github.com/macmade/Diagnostics) - 显示 macOS 上应用程序的诊断报告的应用程序。
 - [Juice](https://github.com/brianmichel/Juice) - 让你的电池信息更有趣。
 - [Latest](https://github.com/mangerlahn/Latest) - 小型实用工具应用程序，确保您了解您使用的应用程序的所有最新更新。
