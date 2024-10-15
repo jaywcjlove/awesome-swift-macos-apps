@@ -190,6 +190,7 @@ A curated collection of open-source macOS applications built with `Swift`
 ## Games
 
 - [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - Dynamic Dark Mode is the app you are looking for to power up Dark Mode on macOS Mojave and beyond.
+- [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Retro video game emulation for macOS
 
 ## Graphics
 
