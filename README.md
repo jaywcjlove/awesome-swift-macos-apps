@@ -251,6 +251,7 @@ A curated collection of open-source macOS applications built with `Swift`
 - [eul](https://github.com/gao-sun/eul) - macOS status monitoring app written in SwiftUI.
 - [gSwitch](https://github.com/CodySchrank/gSwitch) - macOS status bar app that allows control over the gpu on dual gpu macbooks. 
 - [iGlance](https://github.com/iglance/iGlance) - macOS System Monitor (cpu, memory, network, fan and battery) for the Status Bar. 
+- [BarTranslate](https://github.com/ThijmenDam/BarTranslate) - BarTranslate, a handy menu bar translator widget for macOS.
 
 ## Music
 

@@ -250,6 +250,7 @@
 - [eul](https://github.com/gao-sun/eul) - 用 SwiftUI 编写的 macOS 状态监视应用程序。
 - [gSwitch](https://github.com/CodySchrank/gSwitch) - macOS 状态栏应用程序，允许控制双 GPU MacBook 上的 GPU。
 - [iGlance](https://github.com/iglance/iGlance) - macOS 系统监视器（CPU、内存、网络、风扇和电池），显示在状态栏中。
+- [BarTranslate](https://github.com/ThijmenDam/BarTranslate) - BarTranslate，适用于 macOS 的便捷菜单栏翻译器小部件。
 
 ## 音乐
 
@@ -294,7 +295,6 @@
 
 - [Doughnut](https://github.com/dyerc/Doughnut) - macOS 的播客播放器和库。
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) - PodcastMenu 是一个简单的应用程序，将 [Overcast](https://overcast.fm/) 放在 Mac 的菜单栏中，以便您在工作时收听自己喜欢的播客。
-当然可以！以下是翻译：
 
 ## 生产力
 
