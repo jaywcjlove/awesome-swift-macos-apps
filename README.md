@@ -229,8 +229,12 @@ A curated collection of open-source macOS applications built with `Swift`
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift. 
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets. 
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items.
+- [eul](https://github.com/gao-sun/eul) - macOS status monitoring app written in SwiftUI.
 - [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Manage grayscale mode from menu bar.
+- [gSwitch](https://github.com/CodySchrank/gSwitch) - macOS status bar app that allows control over the gpu on dual gpu macbooks. 
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
+- [iGlance](https://github.com/iglance/iGlance) - macOS System Monitor (cpu, memory, network, fan and battery) for the Status Bar. 
+- [Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [KubeContext](https://github.com/turkenh/KubeContext) - import, manage and switch between your Kubernetes contexts on Mac. 
 - [LinkLiar](https://github.com/halo/LinkLiar) - Keep your MAC address random for privacy (intuitive GUI for ifconfig)
 - [Market Bar](https://github.com/mnndnl/market-bar ) - Tiny stocks watcher for the menu bar.
@@ -249,9 +253,6 @@ A curated collection of open-source macOS applications built with `Swift`
 - [SlimHUD - Cyanocitta](https://github.com/AlexPerathoner/SlimHUD) - Replacement for MacOS' volume, brightness and keyboard backlight HUDs.
 - [Stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool.
-- [eul](https://github.com/gao-sun/eul) - macOS status monitoring app written in SwiftUI.
-- [gSwitch](https://github.com/CodySchrank/gSwitch) - macOS status bar app that allows control over the gpu on dual gpu macbooks. 
-- [iGlance](https://github.com/iglance/iGlance) - macOS System Monitor (cpu, memory, network, fan and battery) for the Status Bar. 
 - [BarTranslate](https://github.com/ThijmenDam/BarTranslate) - BarTranslate, a handy menu bar translator widget for macOS.
 
 ## Music

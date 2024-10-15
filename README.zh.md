@@ -229,8 +229,12 @@
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - 用 Swift 编写的简单菜单栏天气应用程序。
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - 简单（基本）macOS 菜单栏额外工具，用于应用显示预设。
 - [Dozer](https://github.com/Mortennn/Dozer) - 隐藏 macOS 菜单栏项目。
+- [eul](https://github.com/gao-sun/eul) - 用 SwiftUI 编写的 macOS 状态监视应用程序。
 - [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - 从菜单栏管理灰度模式。
+- [gSwitch](https://github.com/CodySchrank/gSwitch) - macOS 状态栏应用程序，允许控制双 GPU MacBook 上的 GPU。
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - 一款超轻的 macOS 工具，帮助隐藏菜单栏图标。
+- [iGlance](https://github.com/iglance/iGlance) - macOS 系统监视器（CPU、内存、网络、风扇和电池），显示在状态栏中。
+- [Ice](https://github.com/jordanbaird/Ice) - 适用于 macOS 的强大菜单栏管理器。
 - [KubeContext](https://github.com/turkenh/KubeContext) - 在 Mac 上导入、管理和切换 Kubernetes 上下文。
 - [LinkLiar](https://github.com/halo/LinkLiar) - 随机保持您的 MAC 地址以保护隐私（ifconfig 的直观 GUI）。
 - [Market Bar](https://github.com/mnndnl/market-bar) - 菜单栏的小型股票监视器。
@@ -248,9 +252,6 @@
 - [SlimHUD - Cyanocitta](https://github.com/AlexPerathoner/SlimHUD) - 替代 macOS 的音量、亮度和键盘背光 HUD。
 - [Stats](https://github.com/exelban/stats) - macOS 系统监视器，显示在菜单栏中。
 - [SwiftBar](https://github.com/swiftbar/SwiftBar) - 强大的 macOS 菜单栏自定义工具。
-- [eul](https://github.com/gao-sun/eul) - 用 SwiftUI 编写的 macOS 状态监视应用程序。
-- [gSwitch](https://github.com/CodySchrank/gSwitch) - macOS 状态栏应用程序，允许控制双 GPU MacBook 上的 GPU。
-- [iGlance](https://github.com/iglance/iGlance) - macOS 系统监视器（CPU、内存、网络、风扇和电池），显示在状态栏中。
 - [BarTranslate](https://github.com/ThijmenDam/BarTranslate) - BarTranslate，适用于 macOS 的便捷菜单栏翻译器小部件。
 
 ## 音乐
