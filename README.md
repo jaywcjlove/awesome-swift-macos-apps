@@ -131,7 +131,6 @@ A curated collection of open-source macOS applications built with `Swift`
 - [Localizable.strings](https://github.com/cristibaluta/Localizable.strings) - Mac app to localize your iOS and macOS projects.  
 - [Localization Editor](https://github.com/igorkulman/iOSLocalizationEditor) - Simple macOS editor app to help you manage iOS app localizations by allowing you to edit all the translations side by side.  
 - [Localizations](https://github.com/e7711bbear/Localizations) - Localizations is an macOS app that manages your Xcode project localization files (.strings).  
-- [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - macOS app for convenient access to the system color panel.  
 - [Notarize](https://github.com/macmade/Notarize) - Notarization status monitoring tool for macOS, supporting multiple developer accounts 
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater) - macOS app which helps you manage dependency releases in your Podfile.  
 - [Resizr](https://github.com/onurgenes/Resizr) - MacOS application for creating AppIcon for iOS and Android apps. 
@@ -254,6 +253,11 @@ A curated collection of open-source macOS applications built with `Swift`
 - [Stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool.
 - [BarTranslate](https://github.com/ThijmenDam/BarTranslate) - BarTranslate, a handy menu bar translator widget for macOS.
+
+## Color Picker
+
+- [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - macOS app for convenient access to the system color panel.  
+- [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features.  
 
 ## Music
 

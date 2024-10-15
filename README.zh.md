@@ -399,7 +399,6 @@
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) - 一个简单但强大的工具，帮助您为 UICollectionView 制作复杂布局。
 - [Lunar](https://github.com/alin23/lunar) - 为外部显示器提供智能自适应亮度调节。
 - [Maria](https://github.com/shincurry/Maria) - macOS 原生应用程序/小部件，用于 aria2 下载工具。
-- [MeetingBar](https://github.com/leits/MeetingBar) - 用于日历会议的菜单栏应用程序。
 - [Meme Maker](https://github.com/MemeMaker/Meme-Maker-Mac) - 用于创建 Meme 的 macOS 应用程序。
 - [Monolingual](https://github.com/IngmarStein/Monolingual) - 从 macOS 中删除不必要的语言资源。
 - [Mos](https://github.com/Caldis/Mos) - 平滑鼠标滚动并反向鼠标滚动方向。
@@ -421,6 +420,11 @@
 - [eul](https://github.com/gao-sun/eul) - 用 SwiftUI 编写的 macOS 状态监视应用程序。
 - [mac-sound-fix](https://github.com/dragstor/mac-sound-fix) - Mac 声音重新启用工具。
 - [wechsel](https://github.com/friedrichweise/wechsel) - 使用键盘管理蓝牙连接。
+
+## 颜色选择器
+
+- [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - macOS app for convenient access to the system color panel.  
+- [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features.  
 
 ## VPN & 代理
 
