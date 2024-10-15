@@ -153,6 +153,7 @@ A curated collection of open-source macOS applications built with `Swift`
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS. 
 - [Chime](https://github.com/ChimeHQ/Chime) - An editor for macOS
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [Nimble](https://github.com/scade-platform/Nimble) - A lightweight local macOS editor, based on our favorite editors and integrated development environments.
 
 ### Markdown
 
