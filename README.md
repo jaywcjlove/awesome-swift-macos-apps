@@ -338,6 +338,7 @@ A curated collection of open-source macOS applications built with `Swift`
 ## Sharing Files
 
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - Simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless. 
+- [uPic](https://github.com/gee1k/uPic) - A native, powerful, beautiful, and simple image and file upload tool for macOS.
 
 ## Social Networking
 

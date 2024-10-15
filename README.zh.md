@@ -337,6 +337,7 @@
 ## 文件共享
 
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - 一款简单的 Mac 应用，旨在快速轻松地将图像和屏幕截图上传到 Imgur。
+- [uPic](https://github.com/gee1k/uPic) - 一款适用于 macOS 的原生、强大、美观且简单的图片和文件上传工具。
 
 ## 社交网络
 
