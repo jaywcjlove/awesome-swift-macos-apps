@@ -192,6 +192,7 @@
 
 - [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - 动态暗模式是您在 macOS Mojave 及更高版本中寻找的应用程序，可以增强暗模式。
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - 适用于 macOS 的复古视频游戏模拟器
+- [PlayCover](https://github.com/PlayCover/PlayCover) - 在支持鼠标、键盘和手柄的 Apple Silicon Mac 上运行 iOS 应用程序和游戏。
 
 ## 图形
 
