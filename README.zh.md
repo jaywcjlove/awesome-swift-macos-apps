@@ -392,6 +392,7 @@
 - [Catch](https://github.com/mipstian/catch/) - Catch：简化宽广捕获。
 - [CoreLocationCLI](https://github.com/fulldecent/corelocationcli) - 获取设备的物理位置并打印到标准输出。
 - [CornerCal](https://github.com/ekreutz/CornerCal) - 简单、干净的 macOS 日历和时钟应用程序。
+- [Copi](https://github.com/s1ntoneli/Copi) - 一个安全的替代 macOS 剪贴板。
 - [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app) - 为 macOS 提供开发者实用工具，帮助您轻松完成日常小任务，如 JSON 格式化、UUID 生成等。
 - [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) - 一个实用工具，帮助您在特定文件夹中查找所有重名的重复文件。
 - [ECheck](https://github.com/josejuanqm/ECheck) - 用于 macOS 的小型工具，用于验证 epub 文件。

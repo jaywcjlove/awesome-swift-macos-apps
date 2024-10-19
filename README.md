@@ -397,6 +397,7 @@ A curated collection of open-source macOS applications built with `Swift`
 - [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy. 
 - [CoreLocationCLI](https://github.com/fulldecent/corelocationcli) - Get the physical location of your device and prints it to standard output
 - [CornerCal](https://github.com/ekreutz/CornerCal) - Simple, clean calendar and clock app for macOS. 
+- [Copi](https://github.com/s1ntoneli/Copi) - A Secure Alternative to macOS Clipboard.
 - [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app) - Developer Utilities for macOS, helps you with your tiny daily tasks with just a single click! i.e., JSON Formatter, UUID Generator...
 - [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) - It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.
 - [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS. 
