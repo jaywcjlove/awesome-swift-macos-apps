@@ -453,6 +453,7 @@ A curated collection of open-source macOS applications built with `Swift`
 - [Muzei](https://github.com/naman14/Muzei-macOS) - Muzei wallpaper app for macOS. 
 - [Plash](https://github.com/sindresorhus/Plash) - Make any website your desktop wallpaper.
 - [Sunscreen](https://github.com/davidcelis/Sunscreen) - Sunscreen is a fun, lightweight application that changes your desktop wallpaper based on sunrise and sunset. 
+- [Open Wallpaper Engine](https://github.com/haren724/wallpaper-player-mac) - A powerful open source live wallpaper app for mac
 
 ## Window Management
 

@@ -453,6 +453,7 @@
 - [Muzei](https://github.com/naman14/Muzei-macOS) - macOS 的 Muzei 壁纸应用程序。
 - [Plash](https://github.com/sindresorhus/Plash) - 将任何网站设置为桌面壁纸。
 - [Sunscreen](https://github.com/davidcelis/Sunscreen) - Sunscreen 是一款有趣、轻量级的应用程序，根据日出和日落时间更改您的桌面壁纸。
+- [Open Wallpaper Engine](https://github.com/haren724/wallpaper-player-mac) - 功能强大的开源 Mac 实时壁纸应用程序
 
 ## 窗口管理
 
