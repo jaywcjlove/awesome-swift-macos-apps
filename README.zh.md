@@ -186,6 +186,7 @@
 - [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) - 这是一个有用的工具，可以帮助您找到特定文件夹中所有具有相同名称的重复文件。
 - [FiScript](https://github.com/Mortennn/FiScript) - 从 macOS Finder 的上下文菜单（CTRL+单击）执行自定义脚本。 
 - [Finder Go](https://github.com/onmyway133/FinderGo) - macOS 应用程序和 Finder 同步扩展，用于从 Finder 打开 Terminal、iTerm、Hyper。 
+- [SwiftyMenu](https://github.com/lexrus/SwiftyMenu) - 缺失的 Finder 菜单让你的日常工作更轻松。
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - macOS 的 Finder 工具栏应用程序，用于在 Terminal、iTerm、Hyper 或 Alacritty 中打开当前目录。
 
 ## 游戏
