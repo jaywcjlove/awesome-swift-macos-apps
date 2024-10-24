@@ -57,6 +57,7 @@
 
 - [Beagle IM](https://github.com/tigase/beagle-im) - 强大的 XMPP 客户端，支持文件传输、VoIP 和端到端加密。  
 - [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - 一款 macOS 应用，用于方便地浏览和搜索 Messages.app 的历史记录。  
+- [HuggingChat](https://github.com/huggingface/chat-macOS) - 利用开源语言模型的强大功能的原生聊天界面。
 - [Seaglass](https://github.com/neilalexander/seaglass) - 一个真正原生的 [Matrix](https://matrix.org/blog/home/) 客户端，适用于 macOS。  
 - [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - 100% 使用 Swift 构建的 macOS 完全原生 Discord 客户端！
 - [Telegram](https://github.com/overtake/TelegramSwift) - macOS 上使用 Swift 开发的 Telegram 源代码。  
