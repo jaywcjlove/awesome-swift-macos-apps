@@ -197,6 +197,10 @@
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - 适用于 macOS 的复古视频游戏模拟器
 - [PlayCover](https://github.com/PlayCover/PlayCover) - 在支持鼠标、键盘和手柄的 Apple Silicon Mac 上运行 iOS 应用程序和游戏。
 
+## 虚拟机
+
+- [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - 在 Apple Silicon 上虚拟化 macOS 12 及更高版本，VirtualBuddy 是一款适用于 macOS 的虚拟机图形界面工具，支持 M1、M2 和 M3 芯片
+
 ## 图形
 
 - [CaptuocrToy](https://github.com/sfragrance/CaptuocrToy) - 工具，用于捕获屏幕截图并通过在线 OCR API 识别文本。 

@@ -196,6 +196,10 @@ A curated collection of open-source macOS applications built with `Swift`
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Retro video game emulation for macOS
 - [PlayCover](https://github.com/PlayCover/PlayCover) - Run iOS apps and games on Apple Silicon Macs with mouse, keyboard and controller support.
 
+## Virtual Machines
+
+- [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon. VirtualBuddy is a virtual machine GUI for macOS, supporting M1, M2, and M3 chips.
+
 ## Graphics
 
 - [CaptuocrToy](https://github.com/sfragrance/CaptuocrToy) - Tool to capture screenshot and recognize text by online ocr apis. 
