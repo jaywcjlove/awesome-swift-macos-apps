@@ -23,15 +23,15 @@ jobs:
           site: "Awesome Swift macOS Apps"
           description: A curated collection of Swift-based macOS applications
           keywords: Awesome,swift,macOS,macOS app
-          favicon: assets/logo.png
-          logo: ./assets/logo.png
+          favicon: assets/logo.svg
+          logo: ./assets/logo.svg
           openSource: https://github.com/jaywcjlove/awesome-swift-macos-apps
           homepage: https://wangchujiang.com/awesome-swift-macos-apps/
           meta:
             - <meta name="author" content="Kenny Wong">
             - <meta property="og:site_name" content="<%= site %>">
             - <meta property="og:url" content="<%=homepage%><%=RESOLVE_PATH%>">
-            - <meta property="og:image" content="<%=homepage%>assets/logo.png">
+            - <meta property="og:image" content="<%=homepage%>assets/logo.svg">
             - <meta property="og:type" content="application">
             - <meta property="og:title" content="<%= site %>">
             - <meta property="og:description" content="<%= description%>">
