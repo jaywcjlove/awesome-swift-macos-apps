@@ -469,6 +469,7 @@ A curated collection of open-source macOS applications built with `Swift`
 - [Desktop Profiles](https://github.com/mamiksik/Desktop-Profiles) - An innovative desktop/window manager for macOS
 - [Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Rectangle is a window manager heavily based on Spectacle, written in Swift.
+- [SwiftShift](https://github.com/pablopunk/SwiftShift) - Sweet window management for macOS
 
 ## License
 

@@ -469,6 +469,7 @@
 - [Desktop Profiles](https://github.com/mamiksik/Desktop-Profiles) - 一款创新的桌面/窗口管理器。
 - [Loop](https://github.com/MrKai77/Loop) - 优雅的窗口管理。
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Rectangle 是一款基于 Spectacle 的窗口管理器，使用 Swift 编写。
+- [SwiftShift](https://github.com/pablopunk/SwiftShift) - 适用于 macOS 的贴心窗口管理
 
 ## License
 
