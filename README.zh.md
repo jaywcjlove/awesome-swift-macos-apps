@@ -6,7 +6,7 @@
 [![Awesome Mac](https://img.shields.io/badge/Awesome%20Mac-057f95?logo=awesomelists)](https://github.com/jaywcjlove/awesome-mac)
 [![english](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
 
-列表收录了精选的基于 `Swift` 开发的开源 macOS 应用程序，涵盖了从生产力工具到实用小工具的广泛应用场景。对于 macOS 开发者而言，这些应用不仅展示了 Swift 在 macOS 平台上的多种实现方式，还提供了高质量的代码示例和最佳实践。通过参考这些开源项目，您可以学习如何构建优秀的用户界面、优化系统性能、以及集成菜单栏应用、文件管理等 macOS 特定功能的技巧。作为一个宝贵的资源库，它有助于提升您的 macOS 开发技能，并加速项目的开发进程。
+此列表精选了 `Swift` 开发的开源 macOS 应用，涵盖从生产力工具到实用工具的广泛场景。对于 macOS 开发者，这些应用展示了 `Swift` 的多种实现方式，并提供了高质量的代码示例和最佳实践，帮助您掌握用户界面构建、系统性能优化、菜单栏应用集成等 macOS 特定技巧，是提升开发技能的宝贵资源库。
 
 ✦ 我的 macOS/iOS 应用 ✦
 
