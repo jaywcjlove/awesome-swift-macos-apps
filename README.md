@@ -6,7 +6,7 @@ Awesome open-source Swift macOS Apps
 [![Awesome Mac](https://img.shields.io/badge/Awesome%20Mac-057f95?logo=awesomelists)](https://github.com/jaywcjlove/awesome-mac)
 [![中文](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README.zh.md)
 
-A curated collection of open-source macOS applications built with `Swift`
+This list includes a curated selection of open-source macOS applications developed with Swift, covering a wide range of use cases from productivity tools to handy utilities. For macOS developers, these applications not only showcase various ways Swift can be implemented on the macOS platform but also provide high-quality code samples and best practices. By referencing these open-source projects, you can learn how to build excellent user interfaces, optimize system performance, and integrate macOS-specific features, such as menu bar apps and file management. As a valuable resource library, it helps enhance your macOS development skills and accelerates project development.
 
 ✦ My macOS/iOS application ✦
 
