@@ -235,6 +235,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Menubar
 
+- [app-menu](https://github.com/barseghyanartur/app-menu) - The missing Applications Menu for macOS
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Simple menu bar weather app for macOS written in Swift. 
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets. 
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items.

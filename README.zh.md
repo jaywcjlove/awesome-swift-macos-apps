@@ -236,6 +236,7 @@
 
 ## 菜单栏
 
+- [app-menu](https://github.com/barseghyanartur/app-menu) - macOS 中缺失的应用程序菜单
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - 用 Swift 编写的简单菜单栏天气应用程序。
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - 简单（基本）macOS 菜单栏额外工具，用于应用显示预设。
 - [Dozer](https://github.com/Mortennn/Dozer) - 隐藏 macOS 菜单栏项目。
