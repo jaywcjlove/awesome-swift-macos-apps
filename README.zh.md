@@ -471,6 +471,7 @@
 
 ## 窗口管理
 
+- [AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace 是一款类似 i3 的 macOS 平铺窗口管理器。
 - [Amethyst](https://github.com/ianyh/Amethyst) - macOS 的自动平铺窗口管理器。
 - [Desktop Profiles](https://github.com/mamiksik/Desktop-Profiles) - 一款创新的桌面/窗口管理器。
 - [Loop](https://github.com/MrKai77/Loop) - 优雅的窗口管理。

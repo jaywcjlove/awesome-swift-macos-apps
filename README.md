@@ -471,6 +471,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Window Management
 
+- [AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS. 
 - [Desktop Profiles](https://github.com/mamiksik/Desktop-Profiles) - An innovative desktop/window manager for macOS
 - [Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
