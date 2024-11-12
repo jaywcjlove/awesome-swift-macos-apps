@@ -456,6 +456,7 @@
 - [Face Data](https://github.com/xiaohk/FaceData) - 用于自动标注视频中地标的 macOS 应用程序。
 - [Quick Caption](https://github.com/LumingYin/Caption) - 转录并生成字幕文件（SRT、ASS 和 FCPXML），无需手动输入时间码。
 - [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator) - 在视频播放中插入测验并使用 LISNR API 将这些视频播放到接收设备的 macOS 应用程序。
+- [MarkerData](https://github.com/TheAcharya/MarkerData) - 为 Final Cut Pro 精心打造的先锋 Marker 提取应用。
 
 ## 壁纸
 
