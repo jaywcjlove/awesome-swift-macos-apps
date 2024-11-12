@@ -404,6 +404,7 @@ is list features a curated selection of open-source macOS applications developed
 
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android 
 - [ArchiveMounter](https://github.com/ivoronin/ArchiveMounter) - Mounts archives like disk images.
+- [Achico](https://github.com/nuance-dev/achico) - A minimal free macOS local file compressor app
 - [Calculeta](https://github.com/varol/Calculeta) - Calculator for macOS which working on statusbar.
 - [Catch](https://github.com/mipstian/catch/) - Catch: Broadcatching made easy. 
 - [CoreLocationCLI](https://github.com/fulldecent/corelocationcli) - Get the physical location of your device and prints it to standard output
