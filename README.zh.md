@@ -158,6 +158,7 @@
 - [Chime](https://github.com/ChimeHQ/Chime) - macOS 的编辑器。 
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 适用于 macOS 的 CodeEdit 应用——提升您的代码编辑体验。开源，永久免费。
 - [CommitEdit](https://github.com/kra-mo/CommitEdit) - 原生 macOS 提交消息编辑器
+- [CSVEditor](https://github.com/gahntpo/CSVEditor) - 用来打开和编辑 CSV 文件
 - [Nimble](https://github.com/scade-platform/Nimble) - 一款轻量级的本地 macOS 编辑器，它基于我们最喜欢的编辑器和集成开发环境。
 
 ### Markdown
