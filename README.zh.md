@@ -401,6 +401,7 @@
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - 一键截图、视频录制、iOS 和 Android 的应用程序安装。
 - [ArchiveMounter](https://github.com/ivoronin/ArchiveMounter) - 像磁盘映像一样挂载档案。
 - [Achico](https://github.com/nuance-dev/achico) - 免费的 MacOS 本地文件压缩应用
+- [BetterDisplay](https://github.com/waydabber/BetterDisplay) - 解锁 Mac 上的显示屏！灵活的 HiDPI 缩放、PIP/流媒体、EDID 覆盖等等！
 - [Calculeta](https://github.com/varol/Calculeta) - 在状态栏中工作的 macOS 计算器。
 - [Catch](https://github.com/mipstian/catch/) - Catch：简化宽广捕获。
 - [CoreLocationCLI](https://github.com/fulldecent/corelocationcli) - 获取设备的物理位置并打印到标准输出。
