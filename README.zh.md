@@ -188,6 +188,7 @@
 ## Finder
 
 - [Clipy](https://github.com/Clipy/Clipy) - Clipy 是一个 macOS 的剪贴板扩展应用。 
+- [RClick](https://github.com/wflixu/RClick) - 使用最新的 Swift 和 SwiftUl 配置 MacOS 上下文菜单项。
 - [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) - 这是一个有用的工具，可以帮助您找到特定文件夹中所有具有相同名称的重复文件。
 - [FiScript](https://github.com/Mortennn/FiScript) - 从 macOS Finder 的上下文菜单（CTRL+单击）执行自定义脚本。 
 - [Finder Go](https://github.com/onmyway133/FinderGo) - macOS 应用程序和 Finder 同步扩展，用于从 Finder 打开 Terminal、iTerm、Hyper。 
