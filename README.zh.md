@@ -8,7 +8,7 @@
 
 此列表精选了 `Swift` 开发的开源 macOS 应用，涵盖从生产力工具到实用工具的广泛场景。对于 macOS 开发者，这些应用展示了 `Swift` 的多种实现方式，并提供了高质量的代码示例和最佳实践，帮助您掌握用户界面构建、系统性能优化、菜单栏应用集成等 macOS 特定技巧，是提升开发技能的宝贵资源库。
 
-✦ 我的 macOS/iOS 应用 ✦
+[✦ 我的 macOS/iOS 应用 ✦](https://wangchujiang.com/#app)
 
 <p style="display: inline-block">
   <a target="_blank" href="https://wangchujiang.com/rightmenu-master/" title="RightMenu Master for macOS"><img align="center" alt="RightMenu Master" height="50" width="50" src="https://github.com/user-attachments/assets/39a76541-71bf-4de7-a01c-c62f0557dff5"></a>

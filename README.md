@@ -8,7 +8,7 @@ Awesome open-source Swift macOS Apps
 
 is list features a curated selection of open-source macOS applications developed with `Swift`, covering a wide range of tools from productivity to utilities. For macOS developers, these applications demonstrate various `Swift` implementations and provide high-quality code samples and best practices, helping you master macOS-specific skills like UI design, performance optimization, and menu bar integration. It’s a valuable resource for enhancing development skills.
 
-✦ My macOS/iOS application ✦
+[✦ My macOS/iOS application ✦](https://wangchujiang.com/#app)
 
 <p style="display: inline-block">
   <a target="_blank" href="https://wangchujiang.com/rightmenu-master/" title="RightMenu Master for macOS"><img align="center" alt="RightMenu Master" height="50" width="50" src="https://github.com/user-attachments/assets/39a76541-71bf-4de7-a01c-c62f0557dff5"></a>
