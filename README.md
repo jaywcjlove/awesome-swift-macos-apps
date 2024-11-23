@@ -480,6 +480,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Rectangle is a window manager heavily based on Spectacle, written in Swift.
 - [SwiftShift](https://github.com/pablopunk/SwiftShift) - Sweet window management for macOS
+- [Topit](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen
 
 ## License
 

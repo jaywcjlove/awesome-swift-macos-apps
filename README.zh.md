@@ -480,6 +480,7 @@
 - [Loop](https://github.com/MrKai77/Loop) - 优雅的窗口管理。
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Rectangle 是一款基于 Spectacle 的窗口管理器，使用 Swift 编写。
 - [SwiftShift](https://github.com/pablopunk/SwiftShift) - 适用于 macOS 的贴心窗口管理
+- [Topit](https://github.com/lihaoyun6/Topit) - 将任何窗口固定到屏幕顶部
 
 ## License
 
