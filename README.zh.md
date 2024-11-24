@@ -316,6 +316,7 @@
 ## 生产力
 
 - [Calculeta](https://github.com/varol/Calculeta) <img align="bottom" height="13" src="https://badgen.net/github/stars/varol/Calculeta?label=" /> - 一款在菜单栏中运行的 macOS 计算器。
+- [Impulso](https://github.com/nuance-dev/impulso) <img align="bottom" height="13" src="https://badgen.net/github/stars/nuance-dev/impulso?label=" /> - 另一个 macOS 任务管理应用程序。
 - [KeyHolder](https://github.com/Clipy/KeyHolder) <img align="bottom" height="13" src="https://badgen.net/github/stars/Clipy/KeyHolder?label=" /> - 在 macOS 中记录快捷键，类似 Alfred.app。
 - [Kiwix](https://github.com/kiwix/apple) <img align="bottom" height="13" src="https://badgen.net/github/stars/kiwix/apple?label=" /> - 针对 iOS 和 macOS 的 Kiwix，基于 Swift 构建。
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) <img align="bottom" height="13" src="https://badgen.net/github/stars/amirdew/CollectionViewPagingLayout?label=" /> - 一个简单但强大的工具，帮助您为 UICollectionView 制作复杂布局。
@@ -326,6 +327,7 @@
 - [Sessions](https://github.com/AlexPerathoner/Sessions) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexPerathoner/Sessions?label=" /> - 用于保存工作会话的 Safari 扩展。
 - [Speed Reader](https://github.com/LumingYin/SpeedReader) <img align="bottom" height="13" src="https://badgen.net/github/stars/LumingYin/SpeedReader?label=" /> - 借助 SpeedReader 快速阅读，抑制声读的力量。
 - [StickyNotes](https://github.com/LumingYin/StickyNotes) <img align="bottom" height="13" src="https://badgen.net/github/stars/LumingYin/StickyNotes?label=" /> - 实现于 AppKit 的 Windows 10 风格的便签应用。
+- [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) <img align="bottom" height="13" src="https://badgen.net/github/stars/Onix-Systems/osx-status-bar-todo?label=" /> - 一个简单的 macOS 应用，将待办事项列表保存在菜单栏中。
 - [ThenGenerator](https://github.com/87kangsw/ThenGenerator) <img align="bottom" height="13" src="https://badgen.net/github/stars/87kangsw/ThenGenerator?label=" /> - 用于 “Then” 的 Xcode 源代码编辑器扩展。
 - [Timer](https://github.com/michaelvillar/timer-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/michaelvillar/timer-app?label=" /> - 简单的 Mac 定时器应用。
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/ivoronin/TomatoBar?label=" /> - 支持 Touch Bar 的 macOS 番茄钟计时器。
@@ -333,7 +335,6 @@
 - [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/Swift-open-source/UltraTabSaver?label=" /> - Ultra TabSaver 是一个开源的 Safari 标签管理器。
 - [Yomu](https://github.com/sendyhalim/Yomu) <img align="bottom" height="13" src="https://badgen.net/github/stars/sendyhalim/Yomu?label=" /> - 针对 macOS 的漫画阅读器应用。
 - [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) <img align="bottom" height="13" src="https://badgen.net/github/stars/shubhambatra3019/macOrganizer?label=" /> - 用于整理文件或删除不必要文件的 macOS 应用。
-- [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) <img align="bottom" height="13" src="https://badgen.net/github/stars/Onix-Systems/osx-status-bar-todo?label=" /> - 一个简单的 macOS 应用，将待办事项列表保存在菜单栏中。
 
 ## 屏幕保护程序
 

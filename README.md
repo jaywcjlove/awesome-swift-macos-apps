@@ -321,6 +321,7 @@ is list features a curated selection of open-source macOS applications developed
 ## Productivity
 
 - [Calculeta](https://github.com/varol/Calculeta) <img align="bottom" height="13" src="https://badgen.net/github/stars/varol/Calculeta?label=" /> - Calculator for macOS which working on statusbar.
+- [Impulso](https://github.com/nuance-dev/impulso) <img align="bottom" height="13" src="https://badgen.net/github/stars/nuance-dev/impulso?label=" /> - Yet another macOS Task Management App.
 - [KeyHolder](https://github.com/Clipy/KeyHolder) <img align="bottom" height="13" src="https://badgen.net/github/stars/Clipy/KeyHolder?label=" /> - Record shortcuts in macOS, like Alfred.app. 
 - [Kiwix](https://github.com/kiwix/apple) <img align="bottom" height="13" src="https://badgen.net/github/stars/kiwix/apple?label=" /> - Kiwix for iOS and macOS, build on Swift. 
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) <img align="bottom" height="13" src="https://badgen.net/github/stars/amirdew/CollectionViewPagingLayout?label=" /> - A simple but powerful tool that helps you make complex layouts for UICollectionView.
@@ -331,6 +332,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Sessions](https://github.com/AlexPerathoner/Sessions) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexPerathoner/Sessions?label=" /> - Safari extension to save your working sessions
 - [Speed Reader](https://github.com/LumingYin/SpeedReader) <img align="bottom" height="13" src="https://badgen.net/github/stars/LumingYin/SpeedReader?label=" /> - Read faster with the power of silencing vocalization with SpeedReader.
 - [StickyNotes](https://github.com/LumingYin/StickyNotes) <img align="bottom" height="13" src="https://badgen.net/github/stars/LumingYin/StickyNotes?label=" /> - A Windows 10-esque Sticky Notes app implemented in AppKit.
+- [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) <img align="bottom" height="13" src="https://badgen.net/github/stars/Onix-Systems/osx-status-bar-todo?label=" /> - Simple macOS app to keep TODO-list in status bar. 
 - [ThenGenerator](https://github.com/87kangsw/ThenGenerator) <img align="bottom" height="13" src="https://badgen.net/github/stars/87kangsw/ThenGenerator?label=" /> - Xcode Source Editor Extension for 'Then'
 - [Timer](https://github.com/michaelvillar/timer-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/michaelvillar/timer-app?label=" /> - Simple Timer app for Mac. 
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/ivoronin/TomatoBar?label=" /> - Pomodoro Technique Timer for macOS with Touch Bar support.
@@ -338,7 +340,6 @@ is list features a curated selection of open-source macOS applications developed
 - [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/Swift-open-source/UltraTabSaver?label=" /> - Ultra TabSaver is an open-source Tab Manager for Safari
 - [Yomu](https://github.com/sendyhalim/Yomu) <img align="bottom" height="13" src="https://badgen.net/github/stars/sendyhalim/Yomu?label=" /> - Manga reader app for macOS. 
 - [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) <img align="bottom" height="13" src="https://badgen.net/github/stars/shubhambatra3019/macOrganizer?label=" /> - macOS app for organizing files or removing unnecessary files. 
-- [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) <img align="bottom" height="13" src="https://badgen.net/github/stars/Onix-Systems/osx-status-bar-todo?label=" /> - Simple macOS app to keep TODO-list in status bar. 
 
 ## Screensaver
 
