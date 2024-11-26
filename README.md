@@ -157,6 +157,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Chime](https://github.com/ChimeHQ/Chime) <img align="bottom" height="13" src="https://badgen.net/github/stars/ChimeHQ/Chime?label=" /> - An editor for macOS
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) <img align="bottom" height="13" src="https://badgen.net/github/stars/CodeEditApp/CodeEdit?label=" /> - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [CommitEdit](https://github.com/kra-mo/CommitEdit) <img align="bottom" height="13" src="https://badgen.net/github/stars/kra-mo/CommitEdit?label=" /> - A native macOS commit message editor
+- [CopilotForXcode](https://github.com/intitni/CopilotForXcode) <img align="bottom" height="13" src="https://badgen.net/github/stars/intitni/CopilotForXcode?label=" /> - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [CSVEditor](https://github.com/gahntpo/CSVEditor) <img align="bottom" height="13" src="https://badgen.net/github/stars/gahntpo/CSVEditor?label=" /> - Used to open and edit CSV files.
 - [Nimble](https://github.com/scade-platform/Nimble) <img align="bottom" height="13" src="https://badgen.net/github/stars/scade-platform/Nimble?label=" /> - A lightweight local macOS editor, based on our favorite editors and integrated development environments.
 

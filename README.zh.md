@@ -158,6 +158,7 @@
 - [Chime](https://github.com/ChimeHQ/Chime) <img align="bottom" height="13" src="https://badgen.net/github/stars/ChimeHQ/Chime?label=" /> - macOS 的编辑器。 
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) <img align="bottom" height="13" src="https://badgen.net/github/stars/CodeEditApp/CodeEdit?label=" /> - 适用于 macOS 的 CodeEdit 应用——提升您的代码编辑体验。开源，永久免费。
 - [CommitEdit](https://github.com/kra-mo/CommitEdit) <img align="bottom" height="13" src="https://badgen.net/github/stars/kra-mo/CommitEdit?label=" /> - 原生 macOS 提交消息编辑器
+- [CopilotForXcode](https://github.com/intitni/CopilotForXcode) <img align="bottom" height="13" src="https://badgen.net/github/stars/intitni/CopilotForXcode?label=" /> - 首款支持 GitHub Copilot、Codeium 和 ChatGPT 的 Xcode 源代码编辑器扩展插件
 - [CSVEditor](https://github.com/gahntpo/CSVEditor) <img align="bottom" height="13" src="https://badgen.net/github/stars/gahntpo/CSVEditor?label=" /> - 用来打开和编辑 CSV 文件
 - [Nimble](https://github.com/scade-platform/Nimble) <img align="bottom" height="13" src="https://badgen.net/github/stars/scade-platform/Nimble?label=" /> - 一款轻量级的本地 macOS 编辑器，它基于我们最喜欢的编辑器和集成开发环境。
 
