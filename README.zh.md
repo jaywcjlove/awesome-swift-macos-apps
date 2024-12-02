@@ -149,6 +149,7 @@
 
 - [Applite](https://github.com/milanvarady/Applite) <img align="bottom" height="13" src="https://badgen.net/github/stars/milanvarady/Applite?label=" /> - 用户友好的 GUI macOS 应用程序，用于 Homebrew Casks。
 - [App Downloader](https://github.com/yep/app-downloader) <img align="bottom" height="13" src="https://badgen.net/github/stars/yep/app-downloader?label=" /> - 从庞大的 `homebrew cask` 应用目录中轻松搜索和下载 macOS 应用。 
+- [Cork](https://github.com/buresdv/Cork) <img align="bottom" height="13" src="https://badgen.net/github/stars/buresdv/Cork?label=" /> - 一个用 SwiftUI 编写的快速 Homebrew 图形界面工具。
 - [Get It](https://github.com/Kevin-De-Koninck/Get-It) <img align="bottom" height="13" src="https://badgen.net/github/stars/Kevin-De-Koninck/Get-It?label=" /> - 原生 macOS 视频/音频下载器。把它想象成一个在许多网站上都能工作的 YouTube 下载器。 
 - [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) <img align="bottom" height="13" src="https://badgen.net/github/stars/DenBeke/YouTube-Downloader-for-macOS?label=" /> - 简单的菜单栏应用，用于在 Mac 上下载 YouTube 电影。我写这个作为一个测试项目，以便更好地了解 macOS 应用开发。 
 

@@ -148,6 +148,7 @@ is list features a curated selection of open-source macOS applications developed
 
 - [Applite](https://github.com/milanvarady/Applite) <img align="bottom" height="13" src="https://badgen.net/github/stars/milanvarady/Applite?label=" /> - User-friendly GUI macOS application for Homebrew Casks.
 - [App Downloader](https://github.com/yep/app-downloader) <img align="bottom" height="13" src="https://badgen.net/github/stars/yep/app-downloader?label=" /> - Easily search and download macOS apps from the huge `homebrew cask` app catalog. 
+- [Cork](https://github.com/buresdv/Cork) <img align="bottom" height="13" src="https://badgen.net/github/stars/buresdv/Cork?label=" /> - A fast GUI for Homebrew written in SwiftUI. 
 - [Get It](https://github.com/Kevin-De-Koninck/Get-It) <img align="bottom" height="13" src="https://badgen.net/github/stars/Kevin-De-Koninck/Get-It?label=" /> - Native macOS video/audio downloader. Think of it as a youtube downloader that works on many sites. 
 - [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) <img align="bottom" height="13" src="https://badgen.net/github/stars/DenBeke/YouTube-Downloader-for-macOS?label=" /> - Simple menu bar app to download YouTube movies on your Mac. I wrote this as a test project to learn more about app development on macOS. 
 
