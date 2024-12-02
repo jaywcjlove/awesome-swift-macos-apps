@@ -264,6 +264,7 @@
 - [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) <img align="bottom" height="13" src="https://badgen.net/github/stars/paretoSecurity/pareto-mac/?label=" /> - 一个菜单栏应用程序，自动审核您的 Mac 以确保基本的安全卫生。
 - [PlayStatus](https://github.com/nbolar/PlayStatus) <img align="bottom" height="13" src="https://badgen.net/github/stars/nbolar/PlayStatus?label=" /> - PlayStatus 是一个 macOS 应用程序，允许从菜单栏控制 Spotify 和 iTunes 的音乐播放。
 - [Quickeys](https://github.com/alexrosenfeld10/Quickeys) <img align="bottom" height="13" src="https://badgen.net/github/stars/alexrosenfeld10/Quickeys?label=" /> - 一款 macOS 菜单栏应用程序，通过快速下拉菜单提供笔记功能。
+- [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar) <img align="bottom" height="13" src="https://badgen.net/github/stars/DamascenoRafael/reminders-menubar?label=" /> - macOS 菜单栏应用，管理 Apple Reminders，SwiftUI 开发。
 - [Shifty](https://github.com/thompsonate/Shifty) <img align="bottom" height="13" src="https://badgen.net/github/stars/thompsonate/Shifty?label=" /> - macOS 菜单栏应用程序，让您更好地控制 Night Shift。
 - [SlimHUD - Cyanocitta](https://github.com/AlexPerathoner/SlimHUD) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexPerathoner/SlimHUD?label=" /> - 替代 macOS 的音量、亮度和键盘背光 HUD。
 - [Stats](https://github.com/exelban/stats) <img align="bottom" height="13" src="https://badgen.net/github/stars/exelban/stats?label=" /> - macOS 系统监视器，显示在菜单栏中。
