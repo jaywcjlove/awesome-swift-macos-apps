@@ -183,6 +183,7 @@
 - [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?label=" /> - 将 Twitter、YouTube、Reddit、Google Maps、Google Search 和 Google Translate 重定向到隐私友好的替代品。
 - [Sessions](https://github.com/AlexPerathoner/Sessions) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexPerathoner/Sessions?label=" /> - Safari 扩展，用于保存您的工作会话。
 - [Swimat](https://github.com/Jintin/Swimat) <img align="bottom" height="13" src="https://badgen.net/github/stars/Jintin/Swimat?label=" /> - Swimat 是一个格式化 Swift 代码的 Xcode 插件。
+- [SzContext](https://github.com/RoadToDream/SzContext) <img align="bottom" height="13" src="https://badgen.net/github/stars/RoadToDream/SzContext?label=" /> - 为 macOS Finder 添加右键菜单功能。
 - [ThenGenerator](https://github.com/87kangsw/ThenGenerator) <img align="bottom" height="13" src="https://badgen.net/github/stars/87kangsw/ThenGenerator?label=" /> - 用于“Then”的 Xcode 源代码编辑器扩展。
 - [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/Swift-open-source/UltraTabSaver?label=" /> - Ultra TabSaver 是一个开源的 Safari 标签管理器。
 - [nef](https://github.com/bow-swift/nef-plugin) <img align="bottom" height="13" src="https://badgen.net/github/stars/bow-swift/nef-plugin?label=" /> - 这个 Xcode 扩展使您能够选择代码并将其导出为代码片段。可在 Mac App Store 上获得。
