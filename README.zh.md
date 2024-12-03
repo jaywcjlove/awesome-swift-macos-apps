@@ -389,6 +389,7 @@
 
 - [Console](https://github.com/macmade/Console) <img align="bottom" height="13" src="https://badgen.net/github/stars/macmade/Console?label=" /> - macOS 控制台应用程序。
 - [Finder Go](https://github.com/onmyway133/FinderGo) <img align="bottom" height="13" src="https://badgen.net/github/stars/onmyway133/FinderGo?label=" /> - macOS 应用程序和 Finder 同步扩展，可从 Finder 打开 Terminal、iTerm、Hyper。
+- [MenuHelper](https://github.com/Kyle-Ye/MenuHelper) <img align="bottom" height="13" src="https://badgen.net/github/stars/Kyle-Ye/MenuHelper?label=" /> - 一款提升您工作效率的 Finder 扩展工具。
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) <img align="bottom" height="13" src="https://badgen.net/github/stars/Ji4n1ng/OpenInTerminal?label=" /> - macOS 的 Finder 工具栏应用程序，用于在 Terminal、iTerm、Hyper 或 Alacritty 中打开当前目录。
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) <img align="bottom" height="13" src="https://badgen.net/github/stars/es-kumagai/OpenTerminal?label=" /> - macOS 应用程序，打开新 Finder 窗口并将当前目录更改为由该应用程序启动的文件夹。
 - [wallpapper](https://github.com/mczachurski/wallpapper) <img align="bottom" height="13" src="https://badgen.net/github/stars/mczachurski/wallpapper?label=" /> - wallpapper 是一个控制台应用程序，用于创建 Mojave 的动态壁纸。
