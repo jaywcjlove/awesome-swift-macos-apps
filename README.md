@@ -275,6 +275,10 @@ is list features a curated selection of open-source macOS applications developed
 - [SwiftBar](https://github.com/swiftbar/SwiftBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/swiftbar/SwiftBar?label=" /> - Powerful macOS menu bar customization tool.
 - [BarTranslate](https://github.com/ThijmenDam/BarTranslate) <img align="bottom" height="13" src="https://badgen.net/github/stars/ThijmenDam/BarTranslate?label=" /> - BarTranslate, a handy menu bar translator widget for macOS.
 
+## Notch App
+
+- [Peninsula](https://github.com/Celve/Peninsula) <img align="bottom" height="13" src="https://badgen.net/github/stars/Celve/Peninsula?label=" /> - Window manager and notification center based on macOS notch.
+
 ## Color Picker
 
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) <img align="bottom" height="13" src="https://badgen.net/github/stars/nvzqz/Menubar-Colors?label=" /> - macOS app for convenient access to the system color panel.  
@@ -346,6 +350,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/Swift-open-source/UltraTabSaver?label=" /> - Ultra TabSaver is an open-source Tab Manager for Safari
 - [Yomu](https://github.com/sendyhalim/Yomu) <img align="bottom" height="13" src="https://badgen.net/github/stars/sendyhalim/Yomu?label=" /> - Manga reader app for macOS. 
 - [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) <img align="bottom" height="13" src="https://badgen.net/github/stars/shubhambatra3019/macOrganizer?label=" /> - macOS app for organizing files or removing unnecessary files. 
+- [Doll](https://github.com/xiaogdgenuine/Doll) <img align="bottom" height="13" src="https://badgen.net/github/stars/xiaogdgenuine/Doll?label=" /> - A mac app to help monitor your app badges！
 
 ## Screensaver
 

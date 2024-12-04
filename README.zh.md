@@ -274,6 +274,10 @@
 - [SwiftBar](https://github.com/swiftbar/SwiftBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/swiftbar/SwiftBar?label=" /> - 强大的 macOS 菜单栏自定义工具。
 - [BarTranslate](https://github.com/ThijmenDam/BarTranslate) <img align="bottom" height="13" src="https://badgen.net/github/stars/ThijmenDam/BarTranslate?label=" /> - BarTranslate，适用于 macOS 的便捷菜单栏翻译器小部件。
 
+## 刘海应用
+
+- [Peninsula](https://github.com/Celve/Peninsula) <img align="bottom" height="13" src="https://badgen.net/github/stars/Celve/Peninsula?label=" /> - 基于 macOS 刘海的窗口管理器和消息中心
+
 ## 音乐
 
 - [ChordDetector](https://github.com/cemolcay/ChordDetector) <img align="bottom" height="13" src="https://badgen.net/github/stars/cemolcay/ChordDetector?label=" /> - 小型菜单栏应用程序，可以监听 iTunes 和 Spotify，检测歌曲的和弦！
@@ -340,6 +344,7 @@
 - [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/Swift-open-source/UltraTabSaver?label=" /> - Ultra TabSaver 是一个开源的 Safari 标签管理器。
 - [Yomu](https://github.com/sendyhalim/Yomu) <img align="bottom" height="13" src="https://badgen.net/github/stars/sendyhalim/Yomu?label=" /> - 针对 macOS 的漫画阅读器应用。
 - [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) <img align="bottom" height="13" src="https://badgen.net/github/stars/shubhambatra3019/macOrganizer?label=" /> - 用于整理文件或删除不必要文件的 macOS 应用。
+- [Doll](https://github.com/xiaogdgenuine/Doll) <img align="bottom" height="13" src="https://badgen.net/github/stars/xiaogdgenuine/Doll?label=" /> - 一款帮助监控您的应用程序徽章的 Mac 应用程序！
 
 ## 屏幕保护程序
 
