@@ -278,6 +278,7 @@ is list features a curated selection of open-source macOS applications developed
 ## Notch App
 
 - [Peninsula](https://github.com/Celve/Peninsula) <img align="bottom" height="13" src="https://badgen.net/github/stars/Celve/Peninsula?label=" /> - Window manager and notification center based on macOS notch.
+- [NotchDrop](https://github.com/Lakr233/NotchDrop) <img align="bottom" height="13" src="https://badgen.net/github/stars/Lakr233/NotchDrop?label=" /> - Use your MacBook’s notch as a Dynamic Island for temporarily storing files and AirDrop.
 
 ## Color Picker
 
