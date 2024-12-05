@@ -443,6 +443,7 @@
 - [Pomosh](https://github.com/stevenselcuk/Pomosh-macOS) <img align="bottom" height="13" src="https://badgen.net/github/stars/stevenselcuk/Pomosh-macOS?label=" /> - macOS 上的下一个超棒的番茄工作法助手
 - [Quick Recorder](https://github.com/lihaoyun6/QuickRecorder) <img align="bottom" height="13" src="https://badgen.net/github/stars/lihaoyun6/QuickRecorder?label=" /> - 多功能、轻量化、高性能的 macOS 屏幕录制工具
 - [Rugby](https://github.com/swiftyfinch/Rugby) <img align="bottom" height="13" src="https://badgen.net/github/stars/swiftyfinch/Rugby?label=" /> - 🏈 缓存 CocoaPods 以加速 Xcode 项目的重建和索引。
+- [Swift Quit](https://github.com/onebadidea/swiftquit) <img align="bottom" height="13" src="https://badgen.net/github/stars/onebadidea/swiftquit?label=" /> - 在关闭窗口时自动退出 macOS 应用程序。
 - [SlimHUD - Cyanocitta](https://github.com/AlexPerathoner/SlimHUD) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexPerathoner/SlimHUD?label=" /> - 替代 macOS 的音量、亮度和键盘背光 HUD。
 - [Stats](https://github.com/exelban/stats) <img align="bottom" height="13" src="https://badgen.net/github/stars/exelban/stats?label=" /> - macOS 菜单栏系统监视器。
 - [Stringz](https://github.com/mohakapt/Stringz) <img align="bottom" height="13" src="https://badgen.net/github/stars/mohakapt/Stringz?label=" /> - 一个轻量且强大的本地化 iOS、macOS、tvOS 和 watchOS 应用程序的编辑器。

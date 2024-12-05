@@ -448,6 +448,7 @@ is list features a curated selection of open-source macOS applications developed
 - [PlayStatus](https://github.com/nbolar/PlayStatus) <img align="bottom" height="13" src="https://badgen.net/github/stars/nbolar/PlayStatus?label=" /> - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.
 - [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - A lightweight and high-performance screen recorder for macOS
 - [Rugby](https://github.com/swiftyfinch/Rugby) <img align="bottom" height="13" src="https://badgen.net/github/stars/swiftyfinch/Rugby?label=" /> - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
+- [Swift Quit](https://github.com/onebadidea/swiftquit) <img align="bottom" height="13" src="https://badgen.net/github/stars/onebadidea/swiftquit?label=" /> - 在关闭窗口时自动退出 macOS 应用程序。
 - [SlimHUD - Cyanocitta](https://github.com/AlexPerathoner/SlimHUD) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexPerathoner/SlimHUD?label=" /> - Replacement for MacOS' volume, brightness and keyboard backlight HUDs.
 - [Stats](https://github.com/exelban/stats) <img align="bottom" height="13" src="https://badgen.net/github/stars/exelban/stats?label=" /> - macOS system monitor in your menu bar
 - [Stringz](https://github.com/mohakapt/Stringz) <img align="bottom" height="13" src="https://badgen.net/github/stars/mohakapt/Stringz?label=" /> - A lightweight and powerful editor for localizing iOS, macOS, tvOS, and watchOS applications.
