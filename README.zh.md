@@ -424,6 +424,7 @@
 - [DevUtils.app](https://github.com/DevUtilsApp/DevUtils-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/DevUtilsApp/DevUtils-app?label=" /> - 为 macOS 提供开发者实用工具，帮助您轻松完成日常小任务，如 JSON 格式化、UUID 生成等。
 - [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) <img align="bottom" height="13" src="https://badgen.net/github/stars/powerwolf543/DuplicateFinder?label=" /> - 一个实用工具，帮助您在特定文件夹中查找所有重名的重复文件。
 - [ECheck](https://github.com/josejuanqm/ECheck) <img align="bottom" height="13" src="https://badgen.net/github/stars/josejuanqm/ECheck?label=" /> - 用于 macOS 的小型工具，用于验证 epub 文件。
+- [EasyYeelight](https://github.com/xs0521/EasyYeelight) <img align="bottom" height="13" src="https://badgen.net/github/stars/xs0521/EasyYeelight?label=" /> - 非官方软件，支持便捷操作和控制 Yeelight 灯泡。
 - [Gray](https://github.com/zenangst/Gray) <img align="bottom" height="13" src="https://badgen.net/github/stars/zenangst/Gray?label=" /> - 通过点击按钮在每个应用程序中选择浅色或深色外观。
 - [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) <img align="bottom" height="13" src="https://badgen.net/github/stars/rkbhochalya/grayscale-mode?label=" /> - 从菜单栏管理灰度模式。
 - [Keka](https://github.com/aonez/Keka) <img align="bottom" height="13" src="https://badgen.net/github/stars/aonez/Keka?label=" /> - Keka 是一个功能齐全的文件压缩工具，简单易用。
