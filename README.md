@@ -32,7 +32,7 @@ is list features a curated selection of open-source macOS applications developed
 ## Audio
 
 - [AUHost](https://github.com/vgorloff/AUHost) <img align="bottom" height="13" src="https://badgen.net/github/stars/vgorloff/AUHost?label=" /> - Application which hosts AudioUnits v3 using AVFoundation API.   
-- [Aural Player](https://github.com/kartik-venugopal/aural-player) <img align="bottom" height="13" src="https://badgen.net/github/stars/kartik-venugopal/aural-player?label=" /> - Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use.   
+- [Aural Player](https://github.com/kartik-venugopal/aural-player) <img align="bottom" height="13" src="https://badgen.net/github/stars/kartik-venugopal/aural-player?label=" /> - A simple and easy-to-use macOS audio player inspired by the classic Winamp.
 - [LyricsX](https://github.com/ddddxxx/LyricsX) <img align="bottom" height="13" src="https://badgen.net/github/stars/ddddxxx/LyricsX?label=" /> - Lyrics for iTunes, Spotify and Vox.   
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) <img align="bottom" height="13" src="https://badgen.net/github/stars/MonitorControl/MonitorControl?label=" /> - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.  
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/NoiseBuddy?label=" /> - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.  
