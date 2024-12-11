@@ -36,14 +36,14 @@
 - [LyricsX](https://github.com/ddddxxx/LyricsX) <img align="bottom" height="13" src="https://badgen.net/github/stars/ddddxxx/LyricsX?label=" /> - 用于 iTunes、Spotify 和 Vox 的歌词。  
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) <img align="bottom" height="13" src="https://badgen.net/github/stars/MonitorControl/MonitorControl?label=" /> - 通过菜单或快捷键控制外接显示器的亮度、对比度和音量。
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/NoiseBuddy?label=" /> - 在触控条或菜单栏控制 AirPods Pro 的监听模式。  
-- [PlayStatus](https://github.com/nbolar/PlayStatus) <img align="bottom" height="13" src="https://badgen.net/github/stars/nbolar/PlayStatus?label=" /> - PlayStatus 是一个 macOS 应用，允许从菜单栏控制 Spotify 和 iTunes 音乐播放。  
+- [PlayStatus](https://github.com/nbolar/PlayStatus) <img align="bottom" height="13" src="https://badgen.net/github/stars/nbolar/PlayStatus?label=" /> - 菜单栏控制 Spotify 和 iTunes 播放的 macOS 应用。
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?label=" /> - 从 Hype Machine 中发现和聆听音乐。  
 - [Scope](https://github.com/billthefarmer/audiotools/tree/master/Scope/swift) <img align="bottom" height="13" src="https://badgen.net/github/stars/billthefarmer/audiotools/tree/master/Scope/swift?label=" /> - 音频示波器。  
 - [Spotify4BigSur](https://github.com/fabiusBile/Spotify4BigSur) <img align="bottom" height="13" src="https://badgen.net/github/stars/fabiusBile/Spotify4BigSur?label=" /> - 用于通知中心的 Spotify 小部件。  
 - [Suohai](https://github.com/Sunnyyoung/Suohai) <img align="bottom" height="13" src="https://badgen.net/github/stars/Sunnyyoung/Suohai?label=" /> - macOS 的音频输入/输出源锁定工具。  
 - [Tuner](https://github.com/billthefarmer/ctuner) <img align="bottom" height="13" src="https://badgen.net/github/stars/billthefarmer/ctuner?label=" /> - 乐器调音器。  
 - [jmc](https://github.com/jcm93/jmc) <img align="bottom" height="13" src="https://badgen.net/github/stars/jcm93/jmc?label=" /> - jmc 是一个新的 macOS 媒体整理工具。  
-- [waveSDR](https://github.com/getoffmyhack/waveSDR) <img align="bottom" height="13" src="https://badgen.net/github/stars/getoffmyhack/waveSDR?label=" /> - 使用 RTL-SDR USB 设备的 macOS 原生桌面软件定义无线电应用。  
+- [waveSDR](https://github.com/getoffmyhack/waveSDR) <img align="bottom" height="13" src="https://badgen.net/github/stars/getoffmyhack/waveSDR?label=" /> - 使用 RTL-SDR USB 设备的 macOS 软件定义无线电应用。
 
 ## 备份
 
@@ -53,7 +53,7 @@
 
 - [Finicky](https://github.com/johnste/finicky) <img align="bottom" height="13" src="https://badgen.net/github/stars/johnste/finicky?label=" /> - 始终打开正确的浏览器。  
 - [Plash](https://github.com/sindresorhus/Plash) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/Plash?label=" /> - 将任何网站设置为桌面壁纸。  
-- [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?label=" /> - 将 Twitter、YouTube、Reddit、Google Maps、Google Search 和 Google Translate 重定向到隐私友好的替代品。  
+- [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?label=" /> - 重定向到隐私友好的替代品。
 
 ## 聊天
 
@@ -180,7 +180,7 @@
 - [BetterPiP](https://github.com/Capevace/BetterPiP) <img align="bottom" height="13" src="https://badgen.net/github/stars/Capevace/BetterPiP?label=" /> - 使浏览器（如 Google Chrome）中的 HTML5 视频支持原生画中画模式。
 - [Is It Private?](https://github.com/ffittschen/IsItPrivate) <img align="bottom" height="13" src="https://badgen.net/github/stars/ffittschen/IsItPrivate?label=" /> - Safari 扩展，提供工具栏图标，在启用私密浏览时更改其外观。
 - [PiPifier](https://github.com/arnoappenzeller/PiPifier) <img align="bottom" height="13" src="https://badgen.net/github/stars/arnoappenzeller/PiPifier?label=" /> - PiPifier 是一个原生的 macOS 10.12 Safari 扩展，可以让您在画中画模式下使用所有 HTML5 视频。 
-- [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?label=" /> - 将 Twitter、YouTube、Reddit、Google Maps、Google Search 和 Google Translate 重定向到隐私友好的替代品。
+- [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?label=" /> - 重定向到隐私友好的替代品。
 - [Sessions](https://github.com/AlexPerathoner/Sessions) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexPerathoner/Sessions?label=" /> - Safari 扩展，用于保存您的工作会话。
 - [Swimat](https://github.com/Jintin/Swimat) <img align="bottom" height="13" src="https://badgen.net/github/stars/Jintin/Swimat?label=" /> - Swimat 是一个格式化 Swift 代码的 Xcode 插件。
 - [SzContext](https://github.com/RoadToDream/SzContext) <img align="bottom" height="13" src="https://badgen.net/github/stars/RoadToDream/SzContext?label=" /> - 为 macOS Finder 添加右键菜单功能。
@@ -359,7 +359,7 @@
 ## 安全
 
 - [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) <img align="bottom" height="13" src="https://badgen.net/github/stars/paretoSecurity/pareto-mac/?label=" /> - 一个菜单栏应用，自动审核您的 Mac 以确保基本的安全卫生。
-- [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?label=" /> - 将 Twitter、YouTube、Reddit、Google 地图、Google 搜索和 Google 翻译重定向到隐私友好的替代品。
+- [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?label=" /> - 重定向到隐私友好的替代品。
 
 ## 文件共享
 

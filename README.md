@@ -36,14 +36,14 @@ is list features a curated selection of open-source macOS applications developed
 - [LyricsX](https://github.com/ddddxxx/LyricsX) <img align="bottom" height="13" src="https://badgen.net/github/stars/ddddxxx/LyricsX?label=" /> - Lyrics for iTunes, Spotify and Vox.   
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) <img align="bottom" height="13" src="https://badgen.net/github/stars/MonitorControl/MonitorControl?label=" /> - Control the brightness, contrast, and volume of external monitors via menu or shortcuts.
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/NoiseBuddy?label=" /> - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.  
-- [PlayStatus](https://github.com/nbolar/PlayStatus) <img align="bottom" height="13" src="https://badgen.net/github/stars/nbolar/PlayStatus?label=" /> - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.  
+- [PlayStatus](https://github.com/nbolar/PlayStatus) <img align="bottom" height="13" src="https://badgen.net/github/stars/nbolar/PlayStatus?label=" /> - A macOS app to control Spotify and iTunes playback from the menu bar.
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?label=" /> - Discover and listen to music from Hype Machine.  
 - [Scope](https://github.com/billthefarmer/audiotools/tree/master/Scope/swift) <img align="bottom" height="13" src="https://badgen.net/github/stars/billthefarmer/audiotools?label=" /> - Audio Oscilloscope  
 - [Spotify4BigSur](https://github.com/fabiusBile/Spotify4BigSur) <img align="bottom" height="13" src="https://badgen.net/github/stars/fabiusBile/Spotify4BigSur?label=" /> - Spotify widget for Notification Center.  
 - [Suohai](https://github.com/Sunnyyoung/Suohai) <img align="bottom" height="13" src="https://badgen.net/github/stars/Sunnyyoung/Suohai?label=" /> - Audio input/output source lock for macOS.   
 - [Tuner](https://github.com/billthefarmer/ctuner) <img align="bottom" height="13" src="https://badgen.net/github/stars/billthefarmer/ctuner?label=" /> - Musical Instrument Tuner  
 - [jmc](https://github.com/jcm93/jmc) <img align="bottom" height="13" src="https://badgen.net/github/stars/jcm93/jmc?label=" /> - jmc is new macOS media organizer.   
-- [waveSDR](https://github.com/getoffmyhack/waveSDR) <img align="bottom" height="13" src="https://badgen.net/github/stars/getoffmyhack/waveSDR?label=" /> - macOS native desktop Software Defined Radio application using the RTL-SDR USB device.   
+- [waveSDR](https://github.com/getoffmyhack/waveSDR) <img align="bottom" height="13" src="https://badgen.net/github/stars/getoffmyhack/waveSDR?label=" /> - A macOS software-defined radio application using RTL-SDR USB devices.
 
 ## Backup
 
@@ -53,7 +53,7 @@ is list features a curated selection of open-source macOS applications developed
 
 - [Finicky](https://github.com/johnste/finicky) <img align="bottom" height="13" src="https://badgen.net/github/stars/johnste/finicky?label=" /> - Always opens the right browser.   
 - [Plash](https://github.com/sindresorhus/Plash) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/Plash?label=" /> - Make any website your desktop wallpaper.  
-- [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?label=" /> - Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.  
+- [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?label=" /> - Redirect to privacy-friendly alternatives.
 
 ## Chat
 
@@ -179,7 +179,7 @@ is list features a curated selection of open-source macOS applications developed
 - [BetterPiP](https://github.com/Capevace/BetterPiP) <img align="bottom" height="13" src="https://badgen.net/github/stars/Capevace/BetterPiP?label=" /> - Use native picture-in-picture with browsers such as Google Chrome for HTML5 videos. 
 - [Is It Private?](https://github.com/ffittschen/IsItPrivate) <img align="bottom" height="13" src="https://badgen.net/github/stars/ffittschen/IsItPrivate?label=" /> - A Safari Extension providing a toolbar icon that changes its visual appearance if Private Browsing is enabled.
 - [PiPifier](https://github.com/arnoappenzeller/PiPifier) <img align="bottom" height="13" src="https://badgen.net/github/stars/arnoappenzeller/PiPifier?label=" /> - PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode. 
-- [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?label=" /> - Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.
+- [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?label=" /> - Redirect to privacy-friendly alternatives.
 - [Sessions](https://github.com/AlexPerathoner/Sessions) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexPerathoner/Sessions?label=" /> - Safari extension to save your working sessions
 - [Swimat](https://github.com/Jintin/Swimat) <img align="bottom" height="13" src="https://badgen.net/github/stars/Jintin/Swimat?label=" /> - Swimat is an Xcode plug-in to format your Swift code.
 - [SzContext](https://github.com/RoadToDream/SzContext) <img align="bottom" height="13" src="https://badgen.net/github/stars/RoadToDream/SzContext?label=" /> - Add context menu to macOS Finder
@@ -365,7 +365,7 @@ is list features a curated selection of open-source macOS applications developed
 ## Security
 
 - [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) <img align="bottom" height="13" src="https://badgen.net/github/stars/paretoSecurity/pareto-mac/?label=" /> - A MenuBar app to automatically audit your Mac for basic security hygiene.
-- [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?label=" /> - Redirect Twitter, YouTube, Reddit, Google Maps, Google Search, and Google Translate to privacy friendly alternatives.
+- [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?label=" /> - Redirect to privacy-friendly alternatives.
 
 ## Sharing Files
 
