@@ -34,7 +34,7 @@
 - [AUHost](https://github.com/vgorloff/AUHost) <img align="bottom" height="13" src="https://badgen.net/github/stars/vgorloff/AUHost?label=" /> - 一个使用 AVFoundation API 托管 AudioUnits v3 的应用程序。  
 - [Aural Player](https://github.com/kartik-venugopal/aural-player) <img align="bottom" height="13" src="https://badgen.net/github/stars/kartik-venugopal/aural-player?label=" /> - 简洁易用的 macOS 音频播放器，受经典 Winamp 启发。
 - [LyricsX](https://github.com/ddddxxx/LyricsX) <img align="bottom" height="13" src="https://badgen.net/github/stars/ddddxxx/LyricsX?label=" /> - 用于 iTunes、Spotify 和 Vox 的歌词。  
-- [MonitorControl](https://github.com/MonitorControl/MonitorControl) <img align="bottom" height="13" src="https://badgen.net/github/stars/MonitorControl/MonitorControl?label=" /> - 通过菜单或原生键盘快捷键直接控制外接显示器的亮度、对比度或音量。  
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) <img align="bottom" height="13" src="https://badgen.net/github/stars/MonitorControl/MonitorControl?label=" /> - 通过菜单或快捷键控制外接显示器的亮度、对比度和音量。
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/NoiseBuddy?label=" /> - 在触控条或菜单栏控制 AirPods Pro 的监听模式。  
 - [PlayStatus](https://github.com/nbolar/PlayStatus) <img align="bottom" height="13" src="https://badgen.net/github/stars/nbolar/PlayStatus?label=" /> - PlayStatus 是一个 macOS 应用，允许从菜单栏控制 Spotify 和 iTunes 音乐播放。  
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?label=" /> - 从 Hype Machine 中发现和聆听音乐。  
