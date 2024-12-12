@@ -331,6 +331,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Productivity
 
+- [AltTab](https://github.com/lwouis/alt-tab-macos) <img align="bottom" height="13" src="https://badgen.net/github/stars/lwouis/alt-tab-macos?label=" /> - Brings the Windows Alt-Tab functionality to macOS.
 - [Calculeta](https://github.com/varol/Calculeta) <img align="bottom" height="13" src="https://badgen.net/github/stars/varol/Calculeta?label=" /> - Calculator for macOS which working on statusbar.
 - [Impulso](https://github.com/nuance-dev/impulso) <img align="bottom" height="13" src="https://badgen.net/github/stars/nuance-dev/impulso?label=" /> - Yet another macOS Task Management App.
 - [KeyHolder](https://github.com/Clipy/KeyHolder) <img align="bottom" height="13" src="https://badgen.net/github/stars/Clipy/KeyHolder?label=" /> - Record shortcuts in macOS, like Alfred.app. 
