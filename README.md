@@ -130,7 +130,6 @@ is list features a curated selection of open-source macOS applications developed
 - [FilterShop](https://github.com/KrisYu/FilterShop) <img align="bottom" height="13" src="https://badgen.net/github/stars/KrisYu/FilterShop?label=" /> - macOS App to explore CoreImage Filters.  
 - [Iconizer](https://github.com/raphaelhanneken/iconizer) <img align="bottom" height="13" src="https://badgen.net/github/stars/raphaelhanneken/iconizer?label=" /> - Create Xcode image catalogs (xcassets) on the fly.  
 - [Iconology](https://github.com/liamrosenfeld/Iconology) <img align="bottom" height="13" src="https://badgen.net/github/stars/liamrosenfeld/Iconology?label=" /> - Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection.  
-- [icns Creator](https://github.com/alptugan/icns-creator) <img align="bottom" height="13" src="https://badgen.net/github/stars/alptugan/icns-creator?label=" /> - Create .icns files for macOS
 - [LayerX](https://github.com/yuhua-chen/LayerX) <img align="bottom" height="13" src="https://badgen.net/github/stars/yuhua-chen/LayerX?label=" /> - Intuitive app to display transparent images on screen.  
 - [Localizable.strings](https://github.com/cristibaluta/Localizable.strings) <img align="bottom" height="13" src="https://badgen.net/github/stars/cristibaluta/Localizable.strings)?label=" /> - Mac app to localize your iOS and macOS projects.  
 - [Localization Editor](https://github.com/igorkulman/iOSLocalizationEditor) <img align="bottom" height="13" src="https://badgen.net/github/stars/igorkulman/iOSLocalizationEditor?label=" /> - Simple macOS editor app to help you manage iOS app localizations by allowing you to edit all the translations side by side.  
@@ -227,6 +226,8 @@ is list features a curated selection of open-source macOS applications developed
 - [APNGb](https://github.com/shgodoroja/APNGb) <img align="bottom" height="13" src="https://badgen.net/github/stars/shgodoroja/APNGb?label=" /> - macOS app which assembles and disassembles animated png files. 
 - [Freehand](https://github.com/wddwycc/Freehand) <img align="bottom" height="13" src="https://badgen.net/github/stars/wddwycc/Freehand?label=" /> - macOS Status Bar App for quick sketch. 
 - [Iconology](https://github.com/liamrosenfeld/Iconology) <img align="bottom" height="13" src="https://badgen.net/github/stars/liamrosenfeld/Iconology?label=" /> - Edit icons and then export to Xcode, icns, ico, favicon, macOS iconset, or a custom collection. 
+- [icns Creator](https://github.com/alptugan/icns-creator) <img align="bottom" height="13" src="https://badgen.net/github/stars/alptugan/icns-creator?label=" /> - Create .icns files for macOS
+- [Icns Composer](https://github.com/raphaelhanneken/icnscomposer) <img align="bottom" height="13" src="https://badgen.net/github/stars/raphaelhanneken/icnscomposer?label=" /> - Create retina icons for macOS.
 - [PhotoMiner](https://github.com/gergelysanta/photominer) <img align="bottom" height="13" src="https://badgen.net/github/stars/gergelysanta/photominer?label=" /> - macOS app for finding and lost forgotten photos on your disks. 
 - [Screenbar](https://github.com/crilleengvall/Screenbar) <img align="bottom" height="13" src="https://badgen.net/github/stars/crilleengvall/Screenbar?label=" /> - macOS menubar app for automating screenshots. 
 
