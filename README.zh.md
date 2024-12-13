@@ -226,6 +226,7 @@
 - [APNGb](https://github.com/shgodoroja/APNGb) <img align="bottom" height="13" src="https://badgen.net/github/stars/shgodoroja/APNGb?label=" /> - macOS 应用程序，用于组装和拆解动画 PNG 文件。
 - [Freehand](https://github.com/wddwycc/Freehand) <img align="bottom" height="13" src="https://badgen.net/github/stars/wddwycc/Freehand?label=" /> - macOS 状态栏应用程序，用于快速绘图。
 - [Iconology](https://github.com/liamrosenfeld/Iconology) <img align="bottom" height="13" src="https://badgen.net/github/stars/liamrosenfeld/Iconology?label=" /> - 编辑图标并导出到 Xcode、icns、ico、favicon、macOS 图标集或自定义集合。
+- [icns Creator](https://github.com/alptugan/icns-creator) <img align="bottom" height="13" src="https://badgen.net/github/stars/alptugan/icns-creator?label=" /> - 为 macOS 创建 .icns 文件
 - [PhotoMiner](https://github.com/gergelysanta/photominer) <img align="bottom" height="13" src="https://badgen.net/github/stars/gergelysanta/photominer?label=" /> - macOS 应用程序，用于查找和恢复您磁盘上遗失的照片。
 - [Screenbar](https://github.com/crilleengvall/Screenbar) <img align="bottom" height="13" src="https://badgen.net/github/stars/crilleengvall/Screenbar?label=" /> - macOS 菜单栏应用程序，用于自动截图。
 
