@@ -343,6 +343,7 @@
 - [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) <img align="bottom" height="13" src="https://badgen.net/github/stars/Onix-Systems/osx-status-bar-todo?label=" /> - 一个简单的 macOS 应用，将待办事项列表保存在菜单栏中。
 - [ThenGenerator](https://github.com/87kangsw/ThenGenerator) <img align="bottom" height="13" src="https://badgen.net/github/stars/87kangsw/ThenGenerator?label=" /> - 用于 “Then” 的 Xcode 源代码编辑器扩展。
 - [Timer](https://github.com/michaelvillar/timer-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/michaelvillar/timer-app?label=" /> - 简单的 Mac 定时器应用。
+- [TRex](https://github.com/amebalabs/TRex) <img align="bottom" height="13" src="https://badgen.net/github/stars/amebalabs/TRex?label=" /> - 复制屏幕上的任何文本，避免重新输入。
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/ivoronin/TomatoBar?label=" /> - 支持 Touch Bar 的 macOS 番茄钟计时器。
 - [TrelloApp](https://github.com/jlong/TrelloApp) <img align="bottom" height="13" src="https://badgen.net/github/stars/jlong/TrelloApp?label=" /> - 针对 Trello.com 的非官方包装应用，使用 Swift 编写。几乎是一个特定于网站的浏览器的 “Hello World”。
 - [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/Swift-open-source/UltraTabSaver?label=" /> - Ultra TabSaver 是一个开源的 Safari 标签管理器。
