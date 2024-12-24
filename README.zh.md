@@ -392,6 +392,7 @@
 - [Juice](https://github.com/brianmichel/Juice) <img align="bottom" height="13" src="https://badgen.net/github/stars/brianmichel/Juice?label=" /> - 让你的电池信息更有趣。
 - [Latest](https://github.com/mangerlahn/Latest) <img align="bottom" height="13" src="https://badgen.net/github/stars/mangerlahn/Latest?label=" /> - 小型实用工具应用程序，确保您了解您使用的应用程序的所有最新更新。
 - [Overkill](https://github.com/KrauseFx/overkill-for-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/KrauseFx/overkill-for-mac?label=" /> - 连接 iPhone 时停止 iTunes 自动打开。
+- [Pearcleaner](https://github.com/alienator88/Pearcleaner) <img align="bottom" height="13" src="https://badgen.net/github/stars/alienator88/Pearcleaner?label=" /> - 应用清理卸载工具
 - [SlimHUD - Cyanocitta](https://github.com/AlexPerathoner/SlimHUD) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexPerathoner/SlimHUD?label=" /> - 替代 macOS 的音量、亮度和键盘背光 HUD。
 - [Stats](https://github.com/exelban/stats) <img align="bottom" height="13" src="https://badgen.net/github/stars/exelban/stats?label=" /> - macOS 菜单栏系统监视器。
 - [VerticalBar](https://github.com/DeromirNeves/DockSeparator) <img align="bottom" height="13" src="https://badgen.net/github/stars/DeromirNeves/DockSeparator?label=" /> - 用于在 Dock 中添加垂直条的 macOS 应用程序。
