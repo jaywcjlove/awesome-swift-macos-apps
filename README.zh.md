@@ -502,6 +502,7 @@
 - [Rectangle](https://github.com/rxhanson/Rectangle) <img align="bottom" height="13" src="https://badgen.net/github/stars/rxhanson/Rectangle?label=" /> - Rectangle 是一款基于 Spectacle 的窗口管理器，使用 Swift 编写。
 - [SwiftShift](https://github.com/pablopunk/SwiftShift) <img align="bottom" height="13" src="https://badgen.net/github/stars/pablopunk/SwiftShift?label=" /> - 适用于 macOS 的贴心窗口管理
 - [Topit](https://github.com/lihaoyun6/Topit) <img align="bottom" height="13" src="https://badgen.net/github/stars/lihaoyun6/Topit?label=" /> - 将任何窗口固定到屏幕顶部
+- [XEasyMotion](https://github.com/h2ero/XEasyMotion) <img align="bottom" height="13" src="https://badgen.net/github/stars/h2ero/XEasyMotion?label=" /> - 使用键盘控制鼠标。
 
 ## License
 

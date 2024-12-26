@@ -502,6 +502,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Rectangle](https://github.com/rxhanson/Rectangle) <img align="bottom" height="13" src="https://badgen.net/github/stars/rxhanson/Rectangle?label=" /> - Rectangle is a window manager heavily based on Spectacle, written in Swift.
 - [SwiftShift](https://github.com/pablopunk/SwiftShift) <img align="bottom" height="13" src="https://badgen.net/github/stars/pablopunk/SwiftShift?label=" /> - Sweet window management for macOS
 - [Topit](https://github.com/lihaoyun6/Topit) <img align="bottom" height="13" src="https://badgen.net/github/stars/lihaoyun6/Topit?label=" /> - Pin any window to the top of your screen
+- [XEasyMotion](https://github.com/h2ero/XEasyMotion) <img align="bottom" height="13" src="https://badgen.net/github/stars/h2ero/XEasyMotion?label=" /> - Using keyboard control mouse.
 
 ## License
 
