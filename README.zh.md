@@ -287,13 +287,14 @@
 
 ## 音乐
 
+- [Aural](https://github.com/kartik-venugopal/aural-player) <img align="bottom" height="13" src="https://badgen.net/github/stars/kartik-venugopal/aural-player?label=" /> - 音频文件播放器，灵感来自Winamp。
 - [ChordDetector](https://github.com/cemolcay/ChordDetector) <img align="bottom" height="13" src="https://badgen.net/github/stars/cemolcay/ChordDetector?label=" /> - 小型菜单栏应用程序，可以监听 iTunes 和 Spotify，检测歌曲的和弦！
+- [iTunes Graphs](https://github.com/Zac-Garby/iTunes-Graphs) <img align="bottom" height="13" src="https://badgen.net/github/stars/Zac-Garby/iTunes-Graphs?label=" /> - macOS 应用程序，用于将您的 iTunes 库可视化为图表。
+- [lyricsify](https://github.com/mamal72/lyricsify-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/mamal72/lyricsify-mac?label=" /> - 用 Swift 编写的简单 Spotify 歌词查看器菜单栏应用程序。
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/NoiseBuddy?label=" /> - 在 Touch Bar 或菜单栏中控制 AirPods Pro 的听音模式。
 - [PlayStatus](https://github.com/nbolar/PlayStatus) <img align="bottom" height="13" src="https://badgen.net/github/stars/nbolar/PlayStatus?label=" /> - PlayStatus 是一款 macOS 应用程序，允许从菜单栏控制 Spotify 和 iTunes 的音乐播放。
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?label=" /> - 从 Hype Machine 中发现和收听音乐。
 - [YouTube-Music](https://github.com/steve228uk/YouTube-Music) <img align="bottom" height="13" src="https://badgen.net/github/stars/steve228uk/YouTube-Music?label=" /> - 针对 music.youtube.com 的 macOS 包装应用。
-- [iTunes Graphs](https://github.com/Zac-Garby/iTunes-Graphs) <img align="bottom" height="13" src="https://badgen.net/github/stars/Zac-Garby/iTunes-Graphs?label=" /> - macOS 应用程序，用于将您的 iTunes 库可视化为图表。
-- [lyricsify](https://github.com/mamal72/lyricsify-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/mamal72/lyricsify-mac?label=" /> - 用 Swift 编写的简单 Spotify 歌词查看器菜单栏应用程序。
 
 ## 新闻
 
@@ -323,7 +324,6 @@
 
 - [IINA](https://github.com/iina/iina) <img align="bottom" height="13" src="https://badgen.net/github/stars/iina/iina?label=" /> - 现代化的 macOS 视频播放器。
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?label=" /> - 从 Hype Machine 中发现和收听音乐。
-- [Aural](https://github.com/kartik-venugopal/aural-player) <img align="bottom" height="13" src="https://badgen.net/github/stars/kartik-venugopal/aural-player?label=" /> - 音频文件播放器，灵感来自Winamp。
 
 ## 播客
 

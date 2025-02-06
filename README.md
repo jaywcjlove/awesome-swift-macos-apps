@@ -293,13 +293,14 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Music
 
+- [Aural](https://github.com/kartik-venugopal/aural-player) <img align="bottom" height="13" src="https://badgen.net/github/stars/kartik-venugopal/aural-player?label=" /> - An audio file player for macOS, inspired by Winamp.
 - [ChordDetector](https://github.com/cemolcay/ChordDetector) <img align="bottom" height="13" src="https://badgen.net/github/stars/cemolcay/ChordDetector?label=" /> - Tiny menu bar app that listens iTunes and Spotify to detect chords of songs! 
+- [iTunes Graphs](https://github.com/Zac-Garby/iTunes-Graphs) <img align="bottom" height="13" src="https://badgen.net/github/stars/Zac-Garby/iTunes-Graphs?label=" /> - macOS app to visualise your iTunes library as graphs. 
+- [lyricsify](https://github.com/mamal72/lyricsify-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/mamal72/lyricsify-mac?label=" /> - Simple Spotify lyrics viewer menu bar app for macOS in Swift. 
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/NoiseBuddy?label=" /> - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.
 - [PlayStatus](https://github.com/nbolar/PlayStatus) <img align="bottom" height="13" src="https://badgen.net/github/stars/nbolar/PlayStatus?label=" /> - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?label=" /> - Discover and listen to music from Hype Machine.
 - [YouTube-Music](https://github.com/steve228uk/YouTube-Music) <img align="bottom" height="13" src="https://badgen.net/github/stars/steve228uk/YouTube-Music?label=" /> - macOS wrapper for music.youtube.com. 
-- [iTunes Graphs](https://github.com/Zac-Garby/iTunes-Graphs) <img align="bottom" height="13" src="https://badgen.net/github/stars/Zac-Garby/iTunes-Graphs?label=" /> - macOS app to visualise your iTunes library as graphs. 
-- [lyricsify](https://github.com/mamal72/lyricsify-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/mamal72/lyricsify-mac?label=" /> - Simple Spotify lyrics viewer menu bar app for macOS in Swift. 
 
 ## News
 
@@ -329,7 +330,6 @@ is list features a curated selection of open-source macOS applications developed
 
 - [IINA](https://github.com/iina/iina) <img align="bottom" height="13" src="https://badgen.net/github/stars/iina/iina?label=" /> - The modern video player for macOS. 
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?label=" /> - Discover and listen to music from Hype Machine.
-- [Aural](https://github.com/kartik-venugopal/aural-player) <img align="bottom" height="13" src="https://badgen.net/github/stars/kartik-venugopal/aural-player?label=" /> - An audio file player for macOS, inspired by Winamp.
 
 ## Podcast
 
