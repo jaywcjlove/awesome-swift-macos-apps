@@ -329,6 +329,7 @@ is list features a curated selection of open-source macOS applications developed
 
 - [IINA](https://github.com/iina/iina) <img align="bottom" height="13" src="https://badgen.net/github/stars/iina/iina?label=" /> - The modern video player for macOS. 
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?label=" /> - Discover and listen to music from Hype Machine.
+- [Aural](https://github.com/kartik-venugopal/aural-player) <img align="bottom" height="13" src="https://badgen.net/github/stars/kartik-venugopal/aural-player?label=" /> - An audio file player for macOS, inspired by Winamp.
 
 ## Podcast
 

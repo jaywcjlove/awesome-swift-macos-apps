@@ -323,6 +323,7 @@
 
 - [IINA](https://github.com/iina/iina) <img align="bottom" height="13" src="https://badgen.net/github/stars/iina/iina?label=" /> - 现代化的 macOS 视频播放器。
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?label=" /> - 从 Hype Machine 中发现和收听音乐。
+- [Aural](https://github.com/kartik-venugopal/aural-player) <img align="bottom" height="13" src="https://badgen.net/github/stars/kartik-venugopal/aural-player?label=" /> - 音频文件播放器，灵感来自Winamp。
 
 ## 播客
 
