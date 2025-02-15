@@ -194,6 +194,7 @@
 
 ## Finder
 
+- [RightMenu Master](https://github.com/jaywcjlove/rightmenu-master) <img align="bottom" height="13" src="https://badgen.net/github/stars/jaywcjlove/rightmenu-master?label=" /> - 卓越的 Finder 右键菜单增强工具，让右键菜单更强大。
 - [Clipy](https://github.com/Clipy/Clipy) <img align="bottom" height="13" src="https://badgen.net/github/stars/Clipy/Clipy?label=" /> - Clipy 是一个 macOS 的剪贴板扩展应用。 
 - [RClick](https://github.com/wflixu/RClick) <img align="bottom" height="13" src="https://badgen.net/github/stars/wflixu/RClick?label=" /> - 使用最新的 Swift 和 SwiftUl 配置 MacOS 上下文菜单项。
 - [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) <img align="bottom" height="13" src="https://badgen.net/github/stars/powerwolf543/DuplicateFinder?label=" /> - 这是一个有用的工具，可以帮助您找到特定文件夹中所有具有相同名称的重复文件。

@@ -193,14 +193,15 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Finder
 
+- [RightMenu Master](https://github.com/jaywcjlove/rightmenu-master) <img align="bottom" height="13" src="https://badgen.net/github/stars/jaywcjlove/rightmenu-master?label=" /> - An exceptional Finder right-click menu enhancement tool that makes your right-click menu more powerful.
 - [Clipy](https://github.com/Clipy/Clipy) <img align="bottom" height="13" src="https://badgen.net/github/stars/Clipy/Clipy?label=" /> - Clipy is a Clipboard extension app for macOS. 
-- [RClick](https://github.com/wflixu/RClick) <img align="bottom" height="13" src="https://badgen.net/github/stars/wflixu/RClick?label=" /> - Config you MacOS ContextMenu items, useing Latest Swift and SwiftUI.
 - [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) <img align="bottom" height="13" src="https://badgen.net/github/stars/powerwolf543/DuplicateFinder?label=" /> - It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.
 - [FiScript](https://github.com/Mortennn/FiScript) <img align="bottom" height="13" src="https://badgen.net/github/stars/Mortennn/FiScript?label=" /> - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder. 
 - [Finder Go](https://github.com/onmyway133/FinderGo) <img align="bottom" height="13" src="https://badgen.net/github/stars/onmyway133/FinderGo?label=" /> - macOS app and Finder Sync Extension to open Terminal, iTerm, Hyper from Finder. 
 - [MenuHelper](https://github.com/Kyle-Ye/MenuHelper) <img align="bottom" height="13" src="https://badgen.net/github/stars/Kyle-Ye/MenuHelper?label=" /> - A Finder Extension to boost your productivity.
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) <img align="bottom" height="13" src="https://badgen.net/github/stars/Ji4n1ng/OpenInTerminal?label=" /> - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 - [Quick Symlink](https://github.com/ololx/quick-symlink) <img align="bottom" height="13" src="https://badgen.net/github/stars/ololx/quick-symlink?label=" /> - A Finder extension which provides a contextual menu item for the symbolic links (and other links) creation on macOS.
+- [RClick](https://github.com/wflixu/RClick) <img align="bottom" height="13" src="https://badgen.net/github/stars/wflixu/RClick?label=" /> - Config you MacOS ContextMenu items, useing Latest Swift and SwiftUI.
 - [SwiftyMenu](https://github.com/lexrus/SwiftyMenu) <img align="bottom" height="13" src="https://badgen.net/github/stars/lexrus/SwiftyMenu?label=" /> - The missing Finder menu for your daily ease
 
 ## Games
