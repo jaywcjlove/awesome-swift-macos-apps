@@ -325,6 +325,7 @@ is list features a curated selection of open-source macOS applications developed
 - [RktMachine](https://github.com/woofwoofinc/rktmachine) <img align="bottom" height="13" src="https://badgen.net/github/stars/woofwoofinc/rktmachine?label=" /> - Menu bar macOS app for running rkt in a macOS hypervisor CoreOS VM. 
 - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/SwiftyBeaver/SwiftyBeaver?label=" /> - Convenient logging during development & release in Swift. 
 - [macGist](https://github.com/Bunn/macGist) <img align="bottom" height="13" src="https://badgen.net/github/stars/Bunn/macGist?label=" /> - Simple app to send pasteboard items to GitHub's Gist. 
+- [Stand](https://github.com/asboy2035/Stand) <img align="bottom" height="13" src="https://badgen.net/github/stars/asboy2035/Stand?label=" /> - Keep track of sitting/standing
 
 ## Player
 

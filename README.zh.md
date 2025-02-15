@@ -319,6 +319,7 @@
 - [RktMachine](https://github.com/woofwoofinc/rktmachine) <img align="bottom" height="13" src="https://badgen.net/github/stars/woofwoofinc/rktmachine?label=" /> - 在 macOS 超级计算机 CoreOS VM 中运行 rkt 的菜单栏 macOS 应用。
 - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/SwiftyBeaver/SwiftyBeaver?label=" /> - 在 Swift 开发和发布过程中方便的日志记录。
 - [macGist](https://github.com/Bunn/macGist) <img align="bottom" height="13" src="https://badgen.net/github/stars/Bunn/macGist?label=" /> - 简单的应用程序，将剪贴板项目发送到 GitHub 的 Gist。
+- [Stand](https://github.com/asboy2035/Stand) <img align="bottom" height="13" src="https://badgen.net/github/stars/asboy2035/Stand?label=" /> - 记录坐着/站着的情况
 
 ## 播放器
 
