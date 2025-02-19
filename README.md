@@ -60,6 +60,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Chat
 
+- [CopilotForXcode](https://github.com/github/CopilotForXcode) <img align="bottom" height="13" src="https://badgen.net/github/stars/github/CopilotForXcode?label=" /> - Xcode extension for GitHub Copilot
 - [Beagle IM](https://github.com/tigase/beagle-im) <img align="bottom" height="13" src="https://badgen.net/github/stars/tigase/beagle-im?label=" /> - Powerful XMPP client with support for file transfer, VoIP and end-to-end encryption.
 - [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) <img align="bottom" height="13" src="https://badgen.net/github/stars/glaurent/MessagesHistoryBrowser?label=" /> - macOS application to comfortably browse and search through your Messages.app history. 
 - [HuggingChat](https://github.com/huggingface/chat-macOS) <img align="bottom" height="13" src="https://badgen.net/github/stars/huggingface/chat-macOS?label=" /> - A native chat interface that leverages the powerful capabilities of open-source language models.

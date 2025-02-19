@@ -60,6 +60,7 @@
 
 ## 聊天
 
+- [CopilotForXcode](https://github.com/github/CopilotForXcode) <img align="bottom" height="13" src="https://badgen.net/github/stars/github/CopilotForXcode?label=" /> - GitHub Copilot 的 Xcode 扩展
 - [Beagle IM](https://github.com/tigase/beagle-im) <img align="bottom" height="13" src="https://badgen.net/github/stars/tigase/beagle-im?label=" /> - 强大的 XMPP 客户端，支持文件传输、VoIP 和端到端加密。  
 - [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) <img align="bottom" height="13" src="https://badgen.net/github/stars/glaurent/MessagesHistoryBrowser?label=" /> - 一款 macOS 应用，用于方便地浏览和搜索 Messages.app 的历史记录。  
 - [HuggingChat](https://github.com/huggingface/chat-macOS) <img align="bottom" height="13" src="https://badgen.net/github/stars/huggingface/chat-macOS?label=" /> - 利用开源语言模型的强大功能的原生聊天界面。
