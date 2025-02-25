@@ -252,6 +252,7 @@ is list features a curated selection of open-source macOS applications developed
 ## Menubar
 
 - [app-menu](https://github.com/barseghyanartur/app-menu) <img align="bottom" height="13" src="https://badgen.net/github/stars/barseghyanartur/app-menu?label=" /> - The missing Applications Menu for macOS
+- [Barik](https://github.com/mocki-toki/barik) <img align="bottom" height="13" src="https://badgen.net/github/stars/mocki-toki/barik?label=" /> - macOS menu bar replacement, with yabai and AeroSpace support
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) <img align="bottom" height="13" src="https://badgen.net/github/stars/inderdhir/DatWeatherDoe?label=" /> - Simple menu bar weather app for macOS written in Swift. 
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) <img align="bottom" height="13" src="https://badgen.net/github/stars/Kwpolska/DisplayMenu?label=" /> - Simple (bare-bones) macOS menubar extra to apply display presets. 
 - [Dozer](https://github.com/Mortennn/Dozer) <img align="bottom" height="13" src="https://badgen.net/github/stars/Mortennn/Dozer?label=" /> - Hide MacOS menubar items.
