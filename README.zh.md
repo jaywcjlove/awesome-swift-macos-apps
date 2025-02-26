@@ -347,6 +347,7 @@
 - [Maccy](https://github.com/p0deje/Maccy) <img align="bottom" height="13" src="https://badgen.net/github/stars/p0deje/Maccy?label=" /> - 轻量级的即时搜索剪贴板管理器。
 - [MeetingBar](https://github.com/leits/MeetingBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/leits/MeetingBar?label=" /> - 用于日历会议的菜单栏应用。
 - [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) <img align="bottom" height="13" src="https://badgen.net/github/stars/PDF-Archiver/PDF-Archiver?label=" /> - 用于标记和归档任务的好工具。
+- [Pulse](https://github.com/kean/Pulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/kean/Pulse?label=" /> - 用于 Apple 平台的网络日志记录器
 - [Sessions](https://github.com/AlexPerathoner/Sessions) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexPerathoner/Sessions?label=" /> - 用于保存工作会话的 Safari 扩展。
 - [Speed Reader](https://github.com/LumingYin/SpeedReader) <img align="bottom" height="13" src="https://badgen.net/github/stars/LumingYin/SpeedReader?label=" /> - 借助 SpeedReader 快速阅读，抑制声读的力量。
 - [StickyNotes](https://github.com/LumingYin/StickyNotes) <img align="bottom" height="13" src="https://badgen.net/github/stars/LumingYin/StickyNotes?label=" /> - 实现于 AppKit 的 Windows 10 风格的便签应用。

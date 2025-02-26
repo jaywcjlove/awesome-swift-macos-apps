@@ -353,6 +353,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Maccy](https://github.com/p0deje/Maccy) <img align="bottom" height="13" src="https://badgen.net/github/stars/p0deje/Maccy?label=" /> - Lightweight search-as-you-type clipboard manager. 
 - [MeetingBar](https://github.com/leits/MeetingBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/leits/MeetingBar?label=" /> - Menu bar app for your calendar meetings
 - [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) <img align="bottom" height="13" src="https://badgen.net/github/stars/PDF-Archiver/PDF-Archiver?label=" /> - Nice tool for tagging and archiving tasks. 
+- [Pulse](https://github.com/kean/Pulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/kean/Pulse?label=" /> - Network logger for Apple platforms
 - [Sessions](https://github.com/AlexPerathoner/Sessions) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexPerathoner/Sessions?label=" /> - Safari extension to save your working sessions
 - [Speed Reader](https://github.com/LumingYin/SpeedReader) <img align="bottom" height="13" src="https://badgen.net/github/stars/LumingYin/SpeedReader?label=" /> - Read faster with the power of silencing vocalization with SpeedReader.
 - [StickyNotes](https://github.com/LumingYin/StickyNotes) <img align="bottom" height="13" src="https://badgen.net/github/stars/LumingYin/StickyNotes?label=" /> - A Windows 10-esque Sticky Notes app implemented in AppKit.
