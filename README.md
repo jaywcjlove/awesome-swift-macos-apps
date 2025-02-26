@@ -256,6 +256,7 @@ is list features a curated selection of open-source macOS applications developed
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) <img align="bottom" height="13" src="https://badgen.net/github/stars/inderdhir/DatWeatherDoe?label=" /> - Simple menu bar weather app for macOS written in Swift. 
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) <img align="bottom" height="13" src="https://badgen.net/github/stars/Kwpolska/DisplayMenu?label=" /> - Simple (bare-bones) macOS menubar extra to apply display presets. 
 - [Dozer](https://github.com/Mortennn/Dozer) <img align="bottom" height="13" src="https://badgen.net/github/stars/Mortennn/Dozer?label=" /> - Hide MacOS menubar items.
+- [DNS Easy Switcher](https://github.com/glinford/dns-easy-switcher) <img align="bottom" height="13" src="https://badgen.net/github/stars/glinford/dns-easy-switcher?label=" /> - Allows you to quickly switch between different DNS providers.
 - [eul](https://github.com/gao-sun/eul) <img align="bottom" height="13" src="https://badgen.net/github/stars/gao-sun/eul?label=" /> - macOS status monitoring app written in SwiftUI.
 - [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) <img align="bottom" height="13" src="https://badgen.net/github/stars/rkbhochalya/grayscale-mode?label=" /> - Manage grayscale mode from menu bar.
 - [gSwitch](https://github.com/CodySchrank/gSwitch) <img align="bottom" height="13" src="https://badgen.net/github/stars/CodySchrank/gSwitch?label=" /> - macOS status bar app that allows control over the gpu on dual gpu macbooks. 
