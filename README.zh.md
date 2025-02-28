@@ -47,6 +47,7 @@
 - [Tuner](https://github.com/billthefarmer/ctuner) <img align="bottom" height="13" src="https://badgen.net/github/stars/billthefarmer/ctuner?label=" /> - 乐器调音器。  
 - [jmc](https://github.com/jcm93/jmc) <img align="bottom" height="13" src="https://badgen.net/github/stars/jcm93/jmc?label=" /> - jmc 是一个新的 macOS 媒体整理工具。  
 - [waveSDR](https://github.com/getoffmyhack/waveSDR) <img align="bottom" height="13" src="https://badgen.net/github/stars/getoffmyhack/waveSDR?label=" /> - 使用 RTL-SDR USB 设备的 macOS 软件定义无线电应用。
+- [VoiceInk](https://github.com/Beingpax/VoiceInk) <img align="bottom" height="13" src="https://badgen.net/github/stars/Beingpax/VoiceInk?label=" /> - 语音转文本应用，几乎即时将您的语音转化为文本
 
 ## 备份
 

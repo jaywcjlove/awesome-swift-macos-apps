@@ -47,6 +47,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Tuner](https://github.com/billthefarmer/ctuner) <img align="bottom" height="13" src="https://badgen.net/github/stars/billthefarmer/ctuner?label=" /> - Musical Instrument Tuner  
 - [jmc](https://github.com/jcm93/jmc) <img align="bottom" height="13" src="https://badgen.net/github/stars/jcm93/jmc?label=" /> - jmc is new macOS media organizer.   
 - [waveSDR](https://github.com/getoffmyhack/waveSDR) <img align="bottom" height="13" src="https://badgen.net/github/stars/getoffmyhack/waveSDR?label=" /> - A macOS software-defined radio application using RTL-SDR USB devices.
+- [VoiceInk](https://github.com/Beingpax/VoiceInk) <img align="bottom" height="13" src="https://badgen.net/github/stars/Beingpax/VoiceInk?label=" /> - Voice-to-text app that transcribes your speech to text almost instantly.
 
 ## Backup
 
