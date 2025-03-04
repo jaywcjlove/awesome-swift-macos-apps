@@ -288,6 +288,7 @@
 ## 刘海应用
 
 - [Peninsula](https://github.com/Celve/Peninsula) <img align="bottom" height="13" src="https://badgen.net/github/stars/Celve/Peninsula?label=" /> - 基于 macOS 刘海的窗口管理器和消息中心
+- [MewNotch](https://github.com/monuk7735/mew-notch) <img align="bottom" height="13" src="https://badgen.net/github/stars/monuk7735/mew-notch?label=" /> - 通过在刘海上显示音量和亮度变化，替代了默认的系统 HUD
 - [NotchDrop](https://github.com/Lakr233/NotchDrop) <img align="bottom" height="13" src="https://badgen.net/github/stars/Lakr233/NotchDrop?label=" /> - 将您的 MacBook 刘海用作灵动岛，临时存储文件并进行 AirDrop 传输
 
 ## 音乐
