@@ -99,6 +99,7 @@ is list features a curated selection of open-source macOS applications developed
 - [GithubListener](https://github.com/ad/GithubListener) <img align="bottom" height="13" src="https://badgen.net/github/stars/ad/GithubListener?label=" /> - Simple app that will notify about new commits to watched repositories.  
 - [GithubNotify](https://github.com/erik/github-notify) <img align="bottom" height="13" src="https://badgen.net/github/stars/erik/github-notify?label=" /> - Simple macOS app to alert you when you have unread GitHub notifications.  
 - [TeamStatus-for-GitHub](https://github.com/marcinreliga/TeamStatus-for-GitHub) <img align="bottom" height="13" src="https://badgen.net/github/stars/marcinreliga/TeamStatus-for-GitHub?label=" /> - macOS status bar application for tracking code review process within the team.  
+- [Tempo](https://github.com/maoyama/Tempo) <img align="bottom" height="13" src="https://badgen.net/github/stars/maoyama/Tempo?label=" /> - GUI Git client. Replace the Git CLI with a clear UI and AI assist.  
 - [Trailer](https://github.com/ptsochantaris/trailer) <img align="bottom" height="13" src="https://badgen.net/github/stars/ptsochantaris/trailer?label=" /> - Managing Pull Requests and Issues For GitHub & GitHub Enterprise.  
 - [Xit](https://github.com/Uncommon/Xit) <img align="bottom" height="13" src="https://badgen.net/github/stars/Uncommon/Xit?label=" /> - Xit is a graphical tool for working with git repositories.  
 

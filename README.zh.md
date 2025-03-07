@@ -99,6 +99,7 @@
 - [GithubListener](https://github.com/ad/GithubListener) <img align="bottom" height="13" src="https://badgen.net/github/stars/ad/GithubListener?label=" /> - 简单应用，会通知您所关注的仓库的新提交。  
 - [GithubNotify](https://github.com/erik/github-notify) <img align="bottom" height="13" src="https://badgen.net/github/stars/erik/github-notify?label=" /> - 简单的 macOS 应用，当您有未读的 GitHub 通知时提醒您。  
 - [TeamStatus-for-GitHub](https://github.com/marcinreliga/TeamStatus-for-GitHub) <img align="bottom" height="13" src="https://badgen.net/github/stars/marcinreliga/TeamStatus-for-GitHub?label=" /> - macOS 状态栏应用，用于跟踪团队中的代码审核过程。  
+- [Tempo](https://github.com/maoyama/Tempo) <img align="bottom" height="13" src="https://badgen.net/github/stars/maoyama/Tempo?label=" /> - GUI Git 客户端。用清晰的用户界面和 AI 辅助替代 Git 命令行。
 - [Trailer](https://github.com/ptsochantaris/trailer) <img align="bottom" height="13" src="https://badgen.net/github/stars/ptsochantaris/trailer?label=" /> - 用于管理 GitHub 和 GitHub Enterprise 的拉取请求和问题。  
 - [Xit](https://github.com/Uncommon/Xit) <img align="bottom" height="13" src="https://badgen.net/github/stars/Uncommon/Xit?label=" /> - Xit 是一个用于处理 git 仓库的图形工具。  
 
