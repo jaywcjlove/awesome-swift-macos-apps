@@ -356,6 +356,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) <img align="bottom" height="13" src="https://badgen.net/github/stars/fespinoza/LinkedIdeas?label=" /> - macOS application to write down and connect ideas. 
 - [Maccy](https://github.com/p0deje/Maccy) <img align="bottom" height="13" src="https://badgen.net/github/stars/p0deje/Maccy?label=" /> - Lightweight search-as-you-type clipboard manager. 
 - [MeetingBar](https://github.com/leits/MeetingBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/leits/MeetingBar?label=" /> - Menu bar app for your calendar meetings
+- [macIconChanger](https://github.com/Bengerthelorf/macIconChanger) <img align="bottom" height="13" src="https://badgen.net/github/stars/Bengerthelorf/macIconChanger?label=" /> - Simply change your app's icon on macOS. Just a click.
 - [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) <img align="bottom" height="13" src="https://badgen.net/github/stars/PDF-Archiver/PDF-Archiver?label=" /> - Nice tool for tagging and archiving tasks. 
 - [Pulse](https://github.com/kean/Pulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/kean/Pulse?label=" /> - Network logger for Apple platforms
 - [Sessions](https://github.com/AlexPerathoner/Sessions) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexPerathoner/Sessions?label=" /> - Safari extension to save your working sessions

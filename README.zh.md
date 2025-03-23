@@ -349,6 +349,7 @@
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) <img align="bottom" height="13" src="https://badgen.net/github/stars/fespinoza/LinkedIdeas?label=" /> - macOS 应用，用于记录和连接想法。
 - [Maccy](https://github.com/p0deje/Maccy) <img align="bottom" height="13" src="https://badgen.net/github/stars/p0deje/Maccy?label=" /> - 轻量级的即时搜索剪贴板管理器。
 - [MeetingBar](https://github.com/leits/MeetingBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/leits/MeetingBar?label=" /> - 用于日历会议的菜单栏应用。
+- [macIconChanger](https://github.com/Bengerthelorf/macIconChanger) <img align="bottom" height="13" src="https://badgen.net/github/stars/Bengerthelorf/macIconChanger?label=" /> - 轻松更改 macOS 应用图标，仅需点击一下。
 - [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) <img align="bottom" height="13" src="https://badgen.net/github/stars/PDF-Archiver/PDF-Archiver?label=" /> - 用于标记和归档任务的好工具。
 - [Pulse](https://github.com/kean/Pulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/kean/Pulse?label=" /> - 用于 Apple 平台的网络日志记录器
 - [Sessions](https://github.com/AlexPerathoner/Sessions) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexPerathoner/Sessions?label=" /> - 用于保存工作会话的 Safari 扩展。
