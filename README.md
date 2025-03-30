@@ -297,7 +297,8 @@ is list features a curated selection of open-source macOS applications developed
 ## Color Picker
 
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) <img align="bottom" height="13" src="https://badgen.net/github/stars/nvzqz/Menubar-Colors?label=" /> - macOS app for convenient access to the system color panel.  
-- [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/System-Color-Picker?label=" /> - The macOS color picker as an app with more features.  
+- [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/System-Color-Picker?label=" /> - The macOS color picker as an app with more features.
+- [Solid](https://github.com/phamfoo/Solid) <img align="bottom" height="13" src="https://badgen.net/github/stars/phamfoo/Solid?label=" /> - Color picker app for macOS inspired by Figma.
 
 ## Music
 
