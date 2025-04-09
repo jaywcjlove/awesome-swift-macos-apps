@@ -133,6 +133,7 @@
 - [Assets](https://github.com/e7711bbear/Assets) <img align="bottom" height="13" src="https://badgen.net/github/stars/e7711bbear/Assets?label=" /> - 资产管理工具，适用于您的开发项目（Xcode、网络等）。  
 - [Attabench](https://github.com/attaswift/Attabench) <img align="bottom" height="13" src="https://badgen.net/github/stars/attaswift/Attabench?label=" /> - Attabench 是一款 macOS 微基准测试应用，旨在测量和可视化 Swift 代码的性能。  
 - [Brisk](https://github.com/br1sk/brisk) <img align="bottom" height="13" src="https://badgen.net/github/stars/br1sk/brisk?label=" /> - 用于提交 radar 的 macOS 应用。  
+- [calabash-launcher](https://github.com/xing/calabash-launcher) <img align="bottom" height="13" src="https://badgen.net/github/stars/xing/calabash-launcher?label=" /> - iOS Calabash Launcher 是一款帮助您在 Mac 上运行和管理 Calabash 测试的 macOS 应用。  
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker) <img align="bottom" height="13" src="https://badgen.net/github/stars/MhdHejazi/CoronaTracker?label=" /> - 针对 iOS 和 macOS 的冠状病毒跟踪应用，具有地图和图表功能。 
 - [FilterShop](https://github.com/KrisYu/FilterShop) <img align="bottom" height="13" src="https://badgen.net/github/stars/KrisYu/FilterShop?label=" /> - macOS 应用，探索 CoreImage 滤镜。  
 - [Iconizer](https://github.com/raphaelhanneken/iconizer) <img align="bottom" height="13" src="https://badgen.net/github/stars/raphaelhanneken/iconizer?label=" /> - 动态创建 Xcode 图像目录（xcassets）。  
@@ -144,13 +145,13 @@
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) <img align="bottom" height="13" src="https://badgen.net/github/stars/nvzqz/Menubar-Colors?label=" /> - 便于访问系统颜色面板的 macOS 应用。  
 - [Notarize](https://github.com/macmade/Notarize) <img align="bottom" height="13" src="https://badgen.net/github/stars/macmade/Notarize?label=" /> - 用于 macOS 的 notarization 状态监控工具，支持多个开发者帐户。 
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater) <img align="bottom" height="13" src="https://badgen.net/github/stars/kizitonwose/PodsUpdater?label=" /> - 帮助您管理 Podfile 中依赖关系版本的 macOS 应用。  
+- [QuickTranslateMac](https://github.com/nikevdok/QuickTranslateMac) <img align="bottom" height="13" src="https://badgen.net/github/stars/nikevdok/QuickTranslateMac?label=" /> - 提供快速语言翻译，直接在菜单栏操作。
 - [Resizr](https://github.com/onurgenes/Resizr) <img align="bottom" height="13" src="https://badgen.net/github/stars/onurgenes/Resizr?label=" /> - 用于 iOS 和 Android 应用创建 AppIcon 的 macOS 应用。 
 - [Stringz](https://github.com/mohakapt/Stringz) <img align="bottom" height="13" src="https://badgen.net/github/stars/mohakapt/Stringz?label=" /> - 一款轻量且强大的编辑器，用于本地化 iOS、macOS、tvOS 和 watchOS 应用。 
 - [TransporterPad](https://github.com/iseebi/TransporterPad) <img align="bottom" height="13" src="https://badgen.net/github/stars/iseebi/TransporterPad?label=" /> - 用于 macOS 的 iOS/Android 应用部署工具。  
 - [WWDC](https://github.com/insidegui/WWDC) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/WWDC?label=" /> - macOS 的非官方 WWDC 应用。  
 - [WWDC.srt](https://github.com/ssamadgh/WWDCsrt) <img align="bottom" height="13" src="https://badgen.net/github/stars/ssamadgh/WWDCsrt?label=" /> - 强大的应用，可下载自 2013 年以来每个 WWDC 会议视频的字幕（srt 格式）。  
 - [Xcodes.app](https://github.com/RobotsAndPencils/XcodesApp) <img align="bottom" height="13" src="https://badgen.net/github/stars/RobotsAndPencils/XcodesApp?label=" /> - 安装和切换多个 Xcode 版本的最简单方法。 
-- [calabash-launcher](https://github.com/xing/calabash-launcher) <img align="bottom" height="13" src="https://badgen.net/github/stars/xing/calabash-launcher?label=" /> - iOS Calabash Launcher 是一款帮助您在 Mac 上运行和管理 Calabash 测试的 macOS 应用。  
 
 ## 下载器
 
