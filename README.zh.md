@@ -439,6 +439,7 @@
 - [Achico](https://github.com/nuance-dev/achico) <img align="bottom" height="13" src="https://badgen.net/github/stars/nuance-dev/achico?label=" /> - 免费的 MacOS 本地文件压缩应用
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) <img align="bottom" height="13" src="https://badgen.net/github/stars/waydabber/BetterDisplay?label=" /> - 解锁 Mac 上的显示屏！灵活的 HiDPI 缩放、PIP/流媒体、EDID 覆盖等等！
 - [Calculeta](https://github.com/varol/Calculeta) <img align="bottom" height="13" src="https://badgen.net/github/stars/varol/Calculeta?label=" /> - 在状态栏中工作的 macOS 计算器。
+- [ConfigForge](https://github.com/samzong/ConfigForge/) <img align="bottom" height="13" src="https://badgen.net/github/stars/samzong/ConfigForge/?label=" /> - 开源 SSH 和 Kubernetes 配置管理工具。
 - [Catch](https://github.com/mipstian/catch/) <img align="bottom" height="13" src="https://badgen.net/github/stars/mipstian/catch/?label=" /> - Catch：简化宽广捕获。
 - [CoreLocationCLI](https://github.com/fulldecent/corelocationcli) <img align="bottom" height="13" src="https://badgen.net/github/stars/fulldecent/corelocationcli?label=" /> - 获取设备的物理位置并打印到标准输出。
 - [CornerCal](https://github.com/ekreutz/CornerCal) <img align="bottom" height="13" src="https://badgen.net/github/stars/ekreutz/CornerCal?label=" /> - 简单、干净的 macOS 日历和时钟应用程序。
