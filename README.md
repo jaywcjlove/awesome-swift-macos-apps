@@ -377,6 +377,7 @@ is list features a curated selection of open-source macOS applications developed
 - [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) <img align="bottom" height="13" src="https://badgen.net/github/stars/shubhambatra3019/macOrganizer?label=" /> - macOS app for organizing files or removing unnecessary files. 
 - [Doll](https://github.com/xiaogdgenuine/Doll) <img align="bottom" height="13" src="https://badgen.net/github/stars/xiaogdgenuine/Doll?label=" /> - A mac app to help monitor your app badges！
 - [Viz](https://github.com/alienator88/Viz) <img align="bottom" height="13" src="https://badgen.net/github/stars/alienator88/Viz?label=" /> - Capture text/QR Codes/Barcodes from screen snippets
+- [QrSnapr](https://github.com/daggy1234/QrSnapr) <img align="bottom" height="13" src="https://badgen.net/github/stars/alienator88/Viz?label=" /> - A simple macos app that turns Qr images into urls for your clipboard
 
 ## Screensaver
 

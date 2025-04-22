@@ -367,6 +367,7 @@
 - [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) <img align="bottom" height="13" src="https://badgen.net/github/stars/shubhambatra3019/macOrganizer?label=" /> - 用于整理文件或删除不必要文件的 macOS 应用。
 - [Doll](https://github.com/xiaogdgenuine/Doll) <img align="bottom" height="13" src="https://badgen.net/github/stars/xiaogdgenuine/Doll?label=" /> - 一款帮助监控您的应用程序徽章的 Mac 应用程序！
 - [Viz](https://github.com/alienator88/Viz) <img align="bottom" height="13" src="https://badgen.net/github/stars/alienator88/Viz?label=" /> - 从屏幕片段中捕获文本/二维码/条形码
+- [QrSnapr](https://github.com/daggy1234/QrSnapr) <img align="bottom" height="13" src="https://badgen.net/github/stars/alienator88/Viz?label=" /> - 简单的 macOS 应用，将二维码图片转换为 URL 并复制到剪贴板。
 
 ## 屏幕保护程序
 
