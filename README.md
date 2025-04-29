@@ -425,6 +425,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Stats](https://github.com/exelban/stats) <img align="bottom" height="13" src="https://badgen.net/github/stars/exelban/stats?label=" /> - macOS system monitor in your menu bar
 - [VerticalBar](https://github.com/DeromirNeves/DockSeparator) <img align="bottom" height="13" src="https://badgen.net/github/stars/DeromirNeves/DockSeparator?label=" /> - macOS application to add a vertical bar to Dock. 
 - [eul](https://github.com/gao-sun/eul) <img align="bottom" height="13" src="https://badgen.net/github/stars/gao-sun/eul?label=" /> - macOS status monitoring app written in SwiftUI.
+- [DockDoor](https://github.com/ejbills/DockDoor) <img align="bottom" height="13" src="https://badgen.net/github/stars/ejbills/DockDoor?label=" /> - Window peeking for macOS
 
 ## Terminal
 
