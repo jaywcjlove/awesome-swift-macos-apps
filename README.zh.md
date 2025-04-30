@@ -11,6 +11,9 @@
 [✦ 我的 macOS/iOS 应用 ✦](https://wangchujiang.com/#app)
 
 <p style="display: inline-block">
+  <a target="_blank" href="https://wangchujiang.com/file-sentinel/" title="FileSentinel for macOS"><img align="center" alt="FileSentinel" height="52" width="52" src="https://github.com/user-attachments/assets/28bce2cc-290e-45bf-9068-585ff6ecafe9"></a>
+  <a target="_blank" href="https://wangchujiang.com/focus-cursor/" title="FocusCursor for macOS"><img align="center" alt="FocusCursor" height="52" width="52" src="https://github.com/user-attachments/assets/d543668a-737b-4853-a6bb-eaa269e69836"></a>
+  <a target="_blank" href="https://wangchujiang.com/videoer/" title="Videoer for macOS"><img align="center" alt="Videoer" height="52" width="52" src="https://github.com/user-attachments/assets/12c02a7a-109e-4048-91f4-ab2dfd1e264e"></a>
   <a target="_blank" href="https://wangchujiang.com/key-clicker/" title="KeyClicker for macOS"><img align="center" alt="KeyClicker" height="50" width="50" src="https://github.com/user-attachments/assets/5a19fcb9-cb81-4855-b4ea-31c604d9612a"></a>
   <a target="_blank" href="https://wangchujiang.com/daybar/" title="DayBar for macOS"><img align="center" alt="DayBar" height="50" width="50" src="https://github.com/user-attachments/assets/b67d4a2e-92e2-4d8c-8c6f-2a1eb3e2fa93"></a>
   <a target="_blank" href="https://wangchujiang.com/iconed/" title="Iconed for macOS"><img align="center" alt="Iconed" height="50" width="50" src="https://github.com/user-attachments/assets/8a35dc7b-4faf-4e2a-9311-f66d6844a896"></a>
@@ -357,6 +360,7 @@
 - [Speed Reader](https://github.com/LumingYin/SpeedReader) <img align="bottom" height="13" src="https://badgen.net/github/stars/LumingYin/SpeedReader?label=" /> - 借助 SpeedReader 快速阅读，抑制声读的力量。
 - [StickyNotes](https://github.com/LumingYin/StickyNotes) <img align="bottom" height="13" src="https://badgen.net/github/stars/LumingYin/StickyNotes?label=" /> - 实现于 AppKit 的 Windows 10 风格的便签应用。
 - [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo) <img align="bottom" height="13" src="https://badgen.net/github/stars/Onix-Systems/osx-status-bar-todo?label=" /> - 一个简单的 macOS 应用，将待办事项列表保存在菜单栏中。
+- [ScrollToZoom](https://github.com/alphaArgon/ScrollToZoom) <img align="bottom" height="13" src="https://badgen.net/github/stars/alphaArgon/ScrollToZoom?label=" /> - 让鼠标滚轮可以精准缩放的 Mac 小工具。
 - [ThenGenerator](https://github.com/87kangsw/ThenGenerator) <img align="bottom" height="13" src="https://badgen.net/github/stars/87kangsw/ThenGenerator?label=" /> - 用于 “Then” 的 Xcode 源代码编辑器扩展。
 - [Timer](https://github.com/michaelvillar/timer-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/michaelvillar/timer-app?label=" /> - 简单的 Mac 定时器应用。
 - [TRex](https://github.com/amebalabs/TRex) <img align="bottom" height="13" src="https://badgen.net/github/stars/amebalabs/TRex?label=" /> - 复制屏幕上的任何文本，避免重新输入。
@@ -414,6 +418,7 @@
 - [Stats](https://github.com/exelban/stats) <img align="bottom" height="13" src="https://badgen.net/github/stars/exelban/stats?label=" /> - macOS 菜单栏系统监视器。
 - [VerticalBar](https://github.com/DeromirNeves/DockSeparator) <img align="bottom" height="13" src="https://badgen.net/github/stars/DeromirNeves/DockSeparator?label=" /> - 用于在 Dock 中添加垂直条的 macOS 应用程序。
 - [eul](https://github.com/gao-sun/eul) <img align="bottom" height="13" src="https://badgen.net/github/stars/gao-sun/eul?label=" /> - 用 SwiftUI 编写的 macOS 状态监视应用程序。
+- [DockDoor](https://github.com/ejbills/DockDoor) <img align="bottom" height="13" src="https://badgen.net/github/stars/ejbills/DockDoor?label=" /> - macOS 的窗口窥视
 
 ## 终端
 
