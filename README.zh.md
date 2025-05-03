@@ -347,6 +347,7 @@
 - [AltTab](https://github.com/lwouis/alt-tab-macos) <img align="bottom" height="13" src="https://badgen.net/github/stars/lwouis/alt-tab-macos?label=" /> - 将 Windows 的 Alt-Tab 功能带到 macOS。
 - [Calculeta](https://github.com/varol/Calculeta) <img align="bottom" height="13" src="https://badgen.net/github/stars/varol/Calculeta?label=" /> - 一款在菜单栏中运行的 macOS 计算器。
 - [Impulso](https://github.com/nuance-dev/impulso) <img align="bottom" height="13" src="https://badgen.net/github/stars/nuance-dev/impulso?label=" /> - 另一个 macOS 任务管理应用程序。
+- [Input Source Pro](https://github.com/runjuu/InputSourcePro) <img align="bottom" height="13" src="https://badgen.net/github/stars/runjuu/InputSourcePro?label=" /> - 自动切换输入法加上适时的提示。
 - [KeyHolder](https://github.com/Clipy/KeyHolder) <img align="bottom" height="13" src="https://badgen.net/github/stars/Clipy/KeyHolder?label=" /> - 在 macOS 中记录快捷键，类似 Alfred.app。
 - [Kiwix](https://github.com/kiwix/apple) <img align="bottom" height="13" src="https://badgen.net/github/stars/kiwix/apple?label=" /> - 针对 iOS 和 macOS 的 Kiwix，基于 Swift 构建。
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout) <img align="bottom" height="13" src="https://badgen.net/github/stars/amirdew/CollectionViewPagingLayout?label=" /> - 一个简单但强大的工具，帮助您为 UICollectionView 制作复杂布局。
