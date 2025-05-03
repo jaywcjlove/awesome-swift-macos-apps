@@ -523,6 +523,7 @@ is list features a curated selection of open-source macOS applications developed
 - [AeroSpace](https://github.com/nikitabobko/AeroSpace) <img align="bottom" height="13" src="https://badgen.net/github/stars/nikitabobko/AeroSpace?label=" /> - AeroSpace is an i3-like tiling window manager for macOS
 - [Amethyst](https://github.com/ianyh/Amethyst) <img align="bottom" height="13" src="https://badgen.net/github/stars/ianyh/Amethyst?label=" /> - Automatic tiling window manager for macOS. 
 - [Desktop Profiles](https://github.com/mamiksik/Desktop-Profiles) <img align="bottom" height="13" src="https://badgen.net/github/stars/mamiksik/Desktop-Profiles?label=" /> - An innovative desktop/window manager for macOS
+- [Dockit](https://github.com/XiCheng148/Dockit) <img align="bottom" height="13" src="https://badgen.net/github/stars/XiCheng148/Dockit?label=" /> - An application that can dock any window to the edge of the screen.
 - [Loop](https://github.com/MrKai77/Loop) <img align="bottom" height="13" src="https://badgen.net/github/stars/MrKai77/Loop?label=" /> - Window management made elegant.
 - [Rectangle](https://github.com/rxhanson/Rectangle) <img align="bottom" height="13" src="https://badgen.net/github/stars/rxhanson/Rectangle?label=" /> - Rectangle is a window manager heavily based on Spectacle, written in Swift.
 - [SwiftShift](https://github.com/pablopunk/SwiftShift) <img align="bottom" height="13" src="https://badgen.net/github/stars/pablopunk/SwiftShift?label=" /> - Sweet window management for macOS

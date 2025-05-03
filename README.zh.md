@@ -522,6 +522,7 @@
 - [AeroSpace](https://github.com/nikitabobko/AeroSpace) <img align="bottom" height="13" src="https://badgen.net/github/stars/nikitabobko/AeroSpace?label=" /> - AeroSpace 是一款类似 i3 的 macOS 平铺窗口管理器。
 - [Amethyst](https://github.com/ianyh/Amethyst) <img align="bottom" height="13" src="https://badgen.net/github/stars/ianyh/Amethyst?label=" /> - macOS 的自动平铺窗口管理器。
 - [Desktop Profiles](https://github.com/mamiksik/Desktop-Profiles) <img align="bottom" height="13" src="https://badgen.net/github/stars/mamiksik/Desktop-Profiles?label=" /> - 一款创新的桌面/窗口管理器。
+- [Dockit](https://github.com/XiCheng148/Dockit) <img align="bottom" height="13" src="https://badgen.net/github/stars/XiCheng148/Dockit?label=" /> - 一款可以将任何窗口停靠到屏幕边缘的应用程序。
 - [Loop](https://github.com/MrKai77/Loop) <img align="bottom" height="13" src="https://badgen.net/github/stars/MrKai77/Loop?label=" /> - 优雅的窗口管理。
 - [Rectangle](https://github.com/rxhanson/Rectangle) <img align="bottom" height="13" src="https://badgen.net/github/stars/rxhanson/Rectangle?label=" /> - Rectangle 是一款基于 Spectacle 的窗口管理器，使用 Swift 编写。
 - [SwiftShift](https://github.com/pablopunk/SwiftShift) <img align="bottom" height="13" src="https://badgen.net/github/stars/pablopunk/SwiftShift?label=" /> - 适用于 macOS 的贴心窗口管理
