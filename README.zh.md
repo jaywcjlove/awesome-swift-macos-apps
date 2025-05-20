@@ -227,6 +227,7 @@
 - [GifCapture](https://github.com/onmyway133/GifCapture) <img align="bottom" height="13" src="https://badgen.net/github/stars/onmyway133/GifCapture?label=" /> - macOS 的 GIF 捕获应用程序。 
 - [Gifski](https://github.com/sindresorhus/Gifski) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/Gifski?label=" /> - 将视频转换为高质量 GIF。 
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) <img align="bottom" height="13" src="https://badgen.net/github/stars/CleanCocoa/InfiniteCanvas?label=" /> - 概念证明 Mac 绘图应用程序。 
+- [ScrollSnap](https://github.com/Brkgng/ScrollSnap) <img align="bottom" height="13" src="https://badgen.net/github/stars/Brkgng/ScrollSnap?label=" /> - 捕捉和拼接滚动截图的 macOS 应用
 
 ## IDE
 
