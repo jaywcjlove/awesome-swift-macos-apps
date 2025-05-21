@@ -528,6 +528,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Desktop Profiles](https://github.com/mamiksik/Desktop-Profiles) <img align="bottom" height="13" src="https://badgen.net/github/stars/mamiksik/Desktop-Profiles?label=" /> - An innovative desktop/window manager for macOS
 - [Dockit](https://github.com/XiCheng148/Dockit) <img align="bottom" height="13" src="https://badgen.net/github/stars/XiCheng148/Dockit?label=" /> - An application that can dock any window to the edge of the screen.
 - [Loop](https://github.com/MrKai77/Loop) <img align="bottom" height="13" src="https://badgen.net/github/stars/MrKai77/Loop?label=" /> - Window management made elegant.
+- [MacsyZones](https://github.com/rohanrhu/MacsyZones) <img align="bottom" height="13" src="https://badgen.net/github/stars/rohanrhu/MacsyZones?label=" /> - Organize your windows with ease.
 - [Rectangle](https://github.com/rxhanson/Rectangle) <img align="bottom" height="13" src="https://badgen.net/github/stars/rxhanson/Rectangle?label=" /> - Rectangle is a window manager heavily based on Spectacle, written in Swift.
 - [SwiftShift](https://github.com/pablopunk/SwiftShift) <img align="bottom" height="13" src="https://badgen.net/github/stars/pablopunk/SwiftShift?label=" /> - Sweet window management for macOS
 - [Topit](https://github.com/lihaoyun6/Topit) <img align="bottom" height="13" src="https://badgen.net/github/stars/lihaoyun6/Topit?label=" /> - Pin any window to the top of your screen
