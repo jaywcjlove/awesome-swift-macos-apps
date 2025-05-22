@@ -66,11 +66,12 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Chat
 
-- [CopilotForXcode](https://github.com/github/CopilotForXcode) <img align="bottom" height="13" src="https://badgen.net/github/stars/github/CopilotForXcode?label=" /> - Xcode extension for GitHub Copilot
 - [Beagle IM](https://github.com/tigase/beagle-im) <img align="bottom" height="13" src="https://badgen.net/github/stars/tigase/beagle-im?label=" /> - Powerful XMPP client with support for file transfer, VoIP and end-to-end encryption.
+- [CopilotForXcode](https://github.com/github/CopilotForXcode) <img align="bottom" height="13" src="https://badgen.net/github/stars/github/CopilotForXcode?label=" /> - Xcode extension for GitHub Copilot
 - [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) <img align="bottom" height="13" src="https://badgen.net/github/stars/glaurent/MessagesHistoryBrowser?label=" /> - macOS application to comfortably browse and search through your Messages.app history. 
 - [HuggingChat](https://github.com/huggingface/chat-macOS) <img align="bottom" height="13" src="https://badgen.net/github/stars/huggingface/chat-macOS?label=" /> - A native chat interface that leverages the powerful capabilities of open-source language models.
 - [LlamaChat](https://github.com/alexrozanski/LlamaChat) <img align="bottom" height="13" src="https://badgen.net/github/stars/alexrozanski/LlamaChat?label=" /> - Chat with your favourite LLaMA models
+- [Onit](https://github.com/synth-inc/onit) <img align="bottom" height="13" src="https://badgen.net/github/stars/synth-inc/onit?label=" /> - An AI chat sidebar that can dock to any app on your Mac!
 - [Seaglass](https://github.com/neilalexander/seaglass) <img align="bottom" height="13" src="https://badgen.net/github/stars/neilalexander/seaglass?label=" /> - A truly native [Matrix](https://matrix.org/blog/home/) client for macOS. 
 - [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) <img align="bottom" height="13" src="https://badgen.net/github/stars/SwiftcordApp/Swiftcord?label=" /> - A fully native Discord client for macOS built 100% in Swift!
 - [Telegram](https://github.com/overtake/TelegramSwift) <img align="bottom" height="13" src="https://badgen.net/github/stars/overtake/TelegramSwift?label=" /> - Source code of Telegram for macOS on Swift. 
