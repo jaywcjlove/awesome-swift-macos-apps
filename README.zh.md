@@ -389,6 +389,7 @@
 
 - [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) <img align="bottom" height="13" src="https://badgen.net/github/stars/paretoSecurity/pareto-mac/?label=" /> - 一个菜单栏应用，自动审核您的 Mac 以确保基本的安全卫生。
 - [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?label=" /> - 重定向到隐私友好的替代品。
+- [Sentry](https://github.com/Lakr233/Sentry) <img align="bottom" height="13" src="https://badgen.net/github/stars/Lakr233/Sentry?label=" /> - 安全监控工具，在你离开电脑时，实时监测设备状态；一旦检测到异常，立即触发报警、发送通知，并自动录制视频。
 
 ## 文件共享
 

@@ -398,6 +398,7 @@ is list features a curated selection of open-source macOS applications developed
 
 - [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) <img align="bottom" height="13" src="https://badgen.net/github/stars/paretoSecurity/pareto-mac/?label=" /> - A MenuBar app to automatically audit your Mac for basic security hygiene.
 - [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?label=" /> - Redirect to privacy-friendly alternatives.
+- [Sentry](https://github.com/Lakr233/Sentry) <img align="bottom" height="13" src="https://badgen.net/github/stars/Lakr233/Sentry?label=" /> - A security tool that monitors your Mac when you’re away—detects anomalies, triggers alerts, and records video automatically.
 
 ## Sharing Files
 
