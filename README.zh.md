@@ -447,6 +447,7 @@
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/mortenjust/androidtool-mac?label=" /> - 一键截图、视频录制、iOS 和 Android 的应用程序安装。
 - [ArchiveMounter](https://github.com/ivoronin/ArchiveMounter) <img align="bottom" height="13" src="https://badgen.net/github/stars/ivoronin/ArchiveMounter?label=" /> - 像磁盘映像一样挂载档案。
 - [Achico](https://github.com/nuance-dev/achico) <img align="bottom" height="13" src="https://badgen.net/github/stars/nuance-dev/achico?label=" /> - 免费的 MacOS 本地文件压缩应用
+- [AlwaysOnTop](https://github.com/itsabhishekolkha/AlwaysOnTop) <img align="bottom" height="13" src="https://badgen.net/github/stars/itsabhishekolkha/AlwaysOnTop?label=" /> - 让你最重要的应用始终显示在 macOS 上
 - [BetterDisplay](https://github.com/waydabber/BetterDisplay) <img align="bottom" height="13" src="https://badgen.net/github/stars/waydabber/BetterDisplay?label=" /> - 解锁 Mac 上的显示屏！灵活的 HiDPI 缩放、PIP/流媒体、EDID 覆盖等等！
 - [Calculeta](https://github.com/varol/Calculeta) <img align="bottom" height="13" src="https://badgen.net/github/stars/varol/Calculeta?label=" /> - 在状态栏中工作的 macOS 计算器。
 - [ConfigForge](https://github.com/samzong/ConfigForge/) <img align="bottom" height="13" src="https://badgen.net/github/stars/samzong/ConfigForge/?label=" /> - 开源 SSH 和 Kubernetes 配置管理工具。
