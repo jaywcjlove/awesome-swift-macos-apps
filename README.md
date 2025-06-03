@@ -322,6 +322,7 @@ is list features a curated selection of open-source macOS applications developed
 ## News
 
 - [Diurna](https://github.com/ngquerol/Diurna) <img align="bottom" height="13" src="https://badgen.net/github/stars/ngquerol/Diurna?label=" /> - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform. 
+- [MenuScores](https://github.com/daniyalmaster693/MenuScores) <img align="bottom" height="13" src="https://badgen.net/github/stars/daniyalmaster693/MenuScores?label=" /> - A menu bar app that delivers real-time sports news and scores.
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) <img align="bottom" height="13" src="https://badgen.net/github/stars/Ranchero-Software/NetNewsWire?label=" /> - Feed reader for macOS. 
 
 ## Notes
