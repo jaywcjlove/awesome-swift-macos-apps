@@ -234,6 +234,7 @@ is list features a curated selection of open-source macOS applications developed
 - [GifCapture](https://github.com/onmyway133/GifCapture) <img align="bottom" height="13" src="https://badgen.net/github/stars/onmyway133/GifCapture?label=" /> - Gif capture app for macOS. 
 - [Gifski](https://github.com/sindresorhus/Gifski) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/Gifski?label=" /> - Convert videos to high-quality GIFs. 
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) <img align="bottom" height="13" src="https://badgen.net/github/stars/CleanCocoa/InfiniteCanvas?label=" /> - Proof of concept Mac drawing application. 
+- [macosrec](https://github.com/xenodium/macosrec) <img align="bottom" height="13" src="https://badgen.net/github/stars/xenodium/macosrec?label=" /> - Take screenshots/videos of macOS windows from the command line
 - [ScrollSnap](https://github.com/Brkgng/ScrollSnap) <img align="bottom" height="13" src="https://badgen.net/github/stars/Brkgng/ScrollSnap?label=" /> - A macOS app for capturing and stitching scrolling screenshots.
 
 ## IDE
