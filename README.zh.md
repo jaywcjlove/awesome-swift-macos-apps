@@ -72,6 +72,7 @@
 - [HuggingChat](https://github.com/huggingface/chat-macOS) <img align="bottom" height="13" src="https://badgen.net/github/stars/huggingface/chat-macOS?label=" /> - 利用开源语言模型的强大功能的原生聊天界面。
 - [LlamaChat](https://github.com/alexrozanski/LlamaChat) <img align="bottom" height="13" src="https://badgen.net/github/stars/alexrozanski/LlamaChat?label=" /> - 与您最喜欢的 LLaMA 模特聊天
 - [Onit](https://github.com/synth-inc/onit) <img align="bottom" height="13" src="https://badgen.net/github/stars/synth-inc/onit?label=" /> - 一个 AI 聊天侧边栏，可以停靠在你 Mac 上的任何应用中！
+- [Sidekick](https://github.com/johnbean393/Sidekick) <img align="bottom" height="13" src="https://badgen.net/github/stars/johnbean393/Sidekick?label=" /> - 在 macOS 上用你的文件与本地 LLM 对话，无需额外配置。
 - [Seaglass](https://github.com/neilalexander/seaglass) <img align="bottom" height="13" src="https://badgen.net/github/stars/neilalexander/seaglass?label=" /> - 一个真正原生的 [Matrix](https://matrix.org/blog/home/) 客户端，适用于 macOS。  
 - [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) <img align="bottom" height="13" src="https://badgen.net/github/stars/SwiftcordApp/Swiftcord?label=" /> - 100% 使用 Swift 构建的 macOS 完全原生 Discord 客户端！
 - [Telegram](https://github.com/overtake/TelegramSwift) <img align="bottom" height="13" src="https://badgen.net/github/stars/overtake/TelegramSwift?label=" /> - macOS 上使用 Swift 开发的 Telegram 源代码。  
