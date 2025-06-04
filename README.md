@@ -47,6 +47,7 @@ is list features a curated selection of open-source macOS applications developed
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/NoiseBuddy?label=" /> - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.  
 - [PlayStatus](https://github.com/nbolar/PlayStatus) <img align="bottom" height="13" src="https://badgen.net/github/stars/nbolar/PlayStatus?label=" /> - A macOS app to control Spotify and iTunes playback from the menu bar.
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?label=" /> - Discover and listen to music from Hype Machine.  
+- [Radiola](https://github.com/SokoloffA/radiola) <img align="bottom" height="13" src="https://badgen.net/github/stars/SokoloffA/radiola?label=" /> - lightweight Internet radio player
 - [Scope](https://github.com/billthefarmer/audiotools/tree/master/Scope/swift) <img align="bottom" height="13" src="https://badgen.net/github/stars/billthefarmer/audiotools?label=" /> - Audio Oscilloscope  
 - [Spotify4BigSur](https://github.com/fabiusBile/Spotify4BigSur) <img align="bottom" height="13" src="https://badgen.net/github/stars/fabiusBile/Spotify4BigSur?label=" /> - Spotify widget for Notification Center.  
 - [Suohai](https://github.com/Sunnyyoung/Suohai) <img align="bottom" height="13" src="https://badgen.net/github/stars/Sunnyyoung/Suohai?label=" /> - Audio input/output source lock for macOS.   

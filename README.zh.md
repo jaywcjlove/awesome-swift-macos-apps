@@ -45,6 +45,7 @@
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/NoiseBuddy?label=" /> - 在触控条或菜单栏控制 AirPods Pro 的监听模式。  
 - [PlayStatus](https://github.com/nbolar/PlayStatus) <img align="bottom" height="13" src="https://badgen.net/github/stars/nbolar/PlayStatus?label=" /> - 菜单栏控制 Spotify 和 iTunes 播放的 macOS 应用。
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?label=" /> - 从 Hype Machine 中发现和聆听音乐。  
+- [Radiola](https://github.com/SokoloffA/radiola) <img align="bottom" height="13" src="https://badgen.net/github/stars/SokoloffA/radiola?label=" /> - 轻量级的 macOS 网络电台播放器。
 - [Scope](https://github.com/billthefarmer/audiotools/tree/master/Scope/swift) <img align="bottom" height="13" src="https://badgen.net/github/stars/billthefarmer/audiotools/tree/master/Scope/swift?label=" /> - 音频示波器。  
 - [Spotify4BigSur](https://github.com/fabiusBile/Spotify4BigSur) <img align="bottom" height="13" src="https://badgen.net/github/stars/fabiusBile/Spotify4BigSur?label=" /> - 用于通知中心的 Spotify 小部件。  
 - [Suohai](https://github.com/Sunnyyoung/Suohai) <img align="bottom" height="13" src="https://badgen.net/github/stars/Sunnyyoung/Suohai?label=" /> - macOS 的音频输入/输出源锁定工具。  
