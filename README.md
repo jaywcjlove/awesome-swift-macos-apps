@@ -76,6 +76,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Seaglass](https://github.com/neilalexander/seaglass) <img align="bottom" height="13" src="https://badgen.net/github/stars/neilalexander/seaglass?label=" /> - A truly native [Matrix](https://matrix.org/blog/home/) client for macOS. 
 - [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) <img align="bottom" height="13" src="https://badgen.net/github/stars/SwiftcordApp/Swiftcord?label=" /> - A fully native Discord client for macOS built 100% in Swift!
 - [Telegram](https://github.com/overtake/TelegramSwift) <img align="bottom" height="13" src="https://badgen.net/github/stars/overtake/TelegramSwift?label=" /> - Source code of Telegram for macOS on Swift. 
+- [WardenApp](https://github.com/SidhuK/WardenApp) <img align="bottom" height="13" src="https://badgen.net/github/stars/SidhuK/WardenApp?label=" /> - A Fully Native AI Chat App For macOS
 - [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/aldychris/WhatsAppBar?label=" /> - Send WhatsApp message from menu bar. 
 
 ## Cryptocurrency

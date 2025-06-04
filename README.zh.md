@@ -74,6 +74,7 @@
 - [Seaglass](https://github.com/neilalexander/seaglass) <img align="bottom" height="13" src="https://badgen.net/github/stars/neilalexander/seaglass?label=" /> - 一个真正原生的 [Matrix](https://matrix.org/blog/home/) 客户端，适用于 macOS。  
 - [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) <img align="bottom" height="13" src="https://badgen.net/github/stars/SwiftcordApp/Swiftcord?label=" /> - 100% 使用 Swift 构建的 macOS 完全原生 Discord 客户端！
 - [Telegram](https://github.com/overtake/TelegramSwift) <img align="bottom" height="13" src="https://badgen.net/github/stars/overtake/TelegramSwift?label=" /> - macOS 上使用 Swift 开发的 Telegram 源代码。  
+- [WardenApp](https://github.com/SidhuK/WardenApp) <img align="bottom" height="13" src="https://badgen.net/github/stars/SidhuK/WardenApp?label=" /> - 一款完全原生的 macOS AI 聊天应用
 - [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/aldychris/WhatsAppBar?label=" /> - 从菜单栏发送 WhatsApp 消息。  
 
 ## 加密货币
