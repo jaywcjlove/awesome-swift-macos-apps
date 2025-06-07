@@ -407,6 +407,7 @@
 - [Leviathan](https://github.com/Swiftodon/Leviathan) <img align="bottom" height="13" src="https://badgen.net/github/stars/Swiftodon/Leviathan?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Swiftodon/Leviathan?style=flat&label=" /> - Leviathan 是针对 Mastodon 社交网络的 iOS 和 macOS 客户端应用。
 - [Product Hunt](https://github.com/producthunt/producthunt-osx) <img align="bottom" height="13" src="https://badgen.net/github/stars/producthunt/producthunt-osx?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/producthunt/producthunt-osx?style=flat&label=" /> - 分享和发现您最喜欢的新产品和应用。
 - [RedditOS](https://github.com/Dimillian/RedditOS) <img align="bottom" height="13" src="https://badgen.net/github/stars/Dimillian/RedditOS?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Dimillian/RedditOS?style=flat&label=" /> - 一个基于 SwiftUI 的 macOS Reddit 客户端。
+- [RsyncUI](https://github.com/rsyncOSX/RsyncUI) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsyncOSX/RsyncUI?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rsyncOSX/RsyncUI?style=flat&label=" /> - 提供 rsync 的图形界面，用于跟远程服务器传输文件。
 - [Simpo](https://github.com/KeliCheng/Simpo) <img align="bottom" height="13" src="https://badgen.net/github/stars/KeliCheng/Simpo?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/KeliCheng/Simpo?style=flat&label=" /> - macOS 菜单栏应用，用于快速发布状态。
 
 ## 流媒体
