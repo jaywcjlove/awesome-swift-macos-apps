@@ -82,7 +82,6 @@
 ## 加密货币
 
 - [Balance Open](https://github.com/balance-io/balance-open) <img align="bottom" height="13" src="https://badgen.net/github/stars/balance-io/balance-open?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/balance-io/balance-open?style=flat&label=" /> - 适用于全球所有货币的应用程序。 
-- [CoinBar](https://github.com/adamwaite/CoinBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/adamwaite/CoinBar?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/adamwaite/CoinBar?style=flat&label=" /> - 用于跟踪加密货币价格的 macOS 菜单栏应用。 
 - [Float coin](https://github.com/kaunteya/FloatCoin) <img align="bottom" height="13" src="https://badgen.net/github/stars/kaunteya/FloatCoin?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kaunteya/FloatCoin?style=flat&label=" /> - 原生菜单栏应用，具有浮动窗口和对多种交易所的支持。 
 
 ## 数据库
