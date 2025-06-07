@@ -228,7 +228,6 @@
 
 ## 图形
 
-- [CaptuocrToy](https://github.com/sfragrance/CaptuocrToy) <img align="bottom" height="13" src="https://badgen.net/github/stars/sfragrance/CaptuocrToy?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sfragrance/CaptuocrToy?style=flat&label=" /> - 工具，用于捕获屏幕截图并通过在线 OCR API 识别文本。 
 - [GifCapture](https://github.com/onmyway133/GifCapture) <img align="bottom" height="13" src="https://badgen.net/github/stars/onmyway133/GifCapture?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/onmyway133/GifCapture?style=flat&label=" /> - macOS 的 GIF 捕获应用程序。 
 - [Gifski](https://github.com/sindresorhus/Gifski) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/Gifski?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sindresorhus/Gifski?style=flat&label=" /> - 将视频转换为高质量 GIF。 
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) <img align="bottom" height="13" src="https://badgen.net/github/stars/CleanCocoa/InfiniteCanvas?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/CleanCocoa/InfiniteCanvas?style=flat&label=" /> - 概念证明 Mac 绘图应用程序。 

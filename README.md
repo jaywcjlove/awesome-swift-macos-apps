@@ -230,7 +230,6 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Graphics
 
-- [CaptuocrToy](https://github.com/sfragrance/CaptuocrToy) <img align="bottom" height="13" src="https://badgen.net/github/stars/sfragrance/CaptuocrToy?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sfragrance/CaptuocrToy?style=flat&label=" /> - Tool to capture screenshot and recognize text by online ocr apis. 
 - [GifCapture](https://github.com/onmyway133/GifCapture) <img align="bottom" height="13" src="https://badgen.net/github/stars/onmyway133/GifCapture?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/onmyway133/GifCapture?style=flat&label=" /> - Gif capture app for macOS. 
 - [Gifski](https://github.com/sindresorhus/Gifski) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/Gifski?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sindresorhus/Gifski?style=flat&label=" /> - Convert videos to high-quality GIFs. 
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) <img align="bottom" height="13" src="https://badgen.net/github/stars/CleanCocoa/InfiniteCanvas?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/CleanCocoa/InfiniteCanvas?style=flat&label=" /> - Proof of concept Mac drawing application. 
