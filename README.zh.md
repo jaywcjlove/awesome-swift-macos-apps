@@ -429,6 +429,10 @@
 - [eul](https://github.com/gao-sun/eul) <img align="bottom" height="13" src="https://badgen.net/github/stars/gao-sun/eul?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gao-sun/eul?style=flat&label=" /> - 用 SwiftUI 编写的 macOS 状态监视应用程序。
 - [DockDoor](https://github.com/ejbills/DockDoor) <img align="bottom" height="13" src="https://badgen.net/github/stars/ejbills/DockDoor?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ejbills/DockDoor?style=flat&label=" /> - macOS 的窗口窥视
 
+## 虚拟机
+
+- [UTM](https://github.com/utmapp/UTM) <img align="bottom" height="13" src="https://badgen.net/github/stars/utmapp/UTM?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/utmapp/UTM?style=flat&label=" /> - 适用于 iOS 和 macOS 的虚拟机
+
 ## 终端
 
 - [Console](https://github.com/macmade/Console) <img align="bottom" height="13" src="https://badgen.net/github/stars/macmade/Console?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/macmade/Console?style=flat&label=" /> - macOS 控制台应用程序。

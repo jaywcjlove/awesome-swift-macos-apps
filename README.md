@@ -438,6 +438,10 @@ is list features a curated selection of open-source macOS applications developed
 - [eul](https://github.com/gao-sun/eul) <img align="bottom" height="13" src="https://badgen.net/github/stars/gao-sun/eul?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gao-sun/eul?style=flat&label=" /> - macOS status monitoring app written in SwiftUI.
 - [DockDoor](https://github.com/ejbills/DockDoor) <img align="bottom" height="13" src="https://badgen.net/github/stars/ejbills/DockDoor?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ejbills/DockDoor?style=flat&label=" /> - Window peeking for macOS
 
+## Virtual Machine
+
+- [UTM](https://github.com/utmapp/UTM) <img align="bottom" height="13" src="https://badgen.net/github/stars/utmapp/UTM?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/utmapp/UTM?style=flat&label=" /> - Virtual machines for iOS and macOS
+
 ## Terminal
 
 - [Console](https://github.com/macmade/Console) <img align="bottom" height="13" src="https://badgen.net/github/stars/macmade/Console?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/macmade/Console?style=flat&label=" /> - macOS console application. 
