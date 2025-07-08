@@ -217,6 +217,7 @@
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) <img align="bottom" height="13" src="https://badgen.net/github/stars/Ji4n1ng/OpenInTerminal?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Ji4n1ng/OpenInTerminal?style=flat&label=" /> - macOS 的 Finder 工具栏应用程序，用于在 Terminal、iTerm、Hyper 或 Alacritty 中打开当前目录。
 - [Quick Symlink](https://github.com/ololx/quick-symlink) <img align="bottom" height="13" src="https://badgen.net/github/stars/ololx/quick-symlink?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ololx/quick-symlink?style=flat&label=" /> - 一个 Finder 扩展，它在 macOS 上提供用于创建符号链接（以及其他链接）的上下文菜单项。
 - [SwiftyMenu](https://github.com/lexrus/SwiftyMenu) <img align="bottom" height="13" src="https://badgen.net/github/stars/lexrus/SwiftyMenu?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lexrus/SwiftyMenu?style=flat&label=" /> - 缺失的 Finder 菜单让你的日常工作更轻松。
+- [Window Glue](https://github.com/Conxt/WindowGlue) <img align="bottom" height="13" src="https://badgen.net/github/stars/Conxt/WindowGlue?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Conxt/WindowGlue?style=flat&label=" /> - 一款 macOS 菜单栏工具，可将两个窗口粘连同步操作。
 
 ## 游戏
 

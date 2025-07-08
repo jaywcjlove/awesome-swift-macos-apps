@@ -219,6 +219,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Quick Symlink](https://github.com/ololx/quick-symlink) <img align="bottom" height="13" src="https://badgen.net/github/stars/ololx/quick-symlink?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ololx/quick-symlink?style=flat&label=" /> - A Finder extension which provides a contextual menu item for the symbolic links (and other links) creation on macOS.
 - [RClick](https://github.com/wflixu/RClick) <img align="bottom" height="13" src="https://badgen.net/github/stars/wflixu/RClick?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wflixu/RClick?style=flat&label=" /> - Config you MacOS ContextMenu items, useing Latest Swift and SwiftUI.
 - [SwiftyMenu](https://github.com/lexrus/SwiftyMenu) <img align="bottom" height="13" src="https://badgen.net/github/stars/lexrus/SwiftyMenu?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lexrus/SwiftyMenu?style=flat&label=" /> - The missing Finder menu for your daily ease
+- [Window Glue](https://github.com/Conxt/WindowGlue) <img align="bottom" height="13" src="https://badgen.net/github/stars/Conxt/WindowGlue?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Conxt/WindowGlue?style=flat&label=" /> - A macOS menu bar tool that links two windows for synchronized movement and resizing.
 
 ## Games
 
