@@ -65,6 +65,7 @@
 - [Finicky](https://github.com/johnste/finicky) <img align="bottom" height="13" src="https://badgen.net/github/stars/johnste/finicky?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/johnste/finicky?style=flat&label=" /> - 始终打开正确的浏览器。  
 - [Plash](https://github.com/sindresorhus/Plash) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/Plash?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sindresorhus/Plash?style=flat&label=" /> - 将任何网站设置为桌面壁纸。  
 - [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/smmr-software/privacy-redirect-safari?style=flat&label=" /> - 重定向到隐私友好的替代品。
+- [Web](https://github.com/nuance-dev/Web) <img align="bottom" height="13" src="https://badgen.net/github/stars/nuance-dev/Web?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nuance-dev/Web?style=flat&label=" /> - 原生 SwiftUI 打造的 AI 浏览器，小巧轻快，仅限 Apple Silicon。
 
 ## 聊天
 

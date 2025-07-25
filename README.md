@@ -68,6 +68,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Finicky](https://github.com/johnste/finicky) <img align="bottom" height="13" src="https://badgen.net/github/stars/johnste/finicky?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/johnste/finicky?style=flat&label=" /> - Always opens the right browser.   
 - [Plash](https://github.com/sindresorhus/Plash) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/Plash?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sindresorhus/Plash?style=flat&label=" /> - Make any website your desktop wallpaper.  
 - [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/smmr-software/privacy-redirect-safari?style=flat&label=" /> - Redirect to privacy-friendly alternatives.
+- [Web](https://github.com/nuance-dev/Web) <img align="bottom" height="13" src="https://badgen.net/github/stars/nuance-dev/Web?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nuance-dev/Web?style=flat&label=" /> - A tiny AI-powered browser built with SwiftUI, fast, private, and Apple Silicon only.
 
 ## Chat
 
