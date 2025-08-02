@@ -72,6 +72,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Chat
 
+- [AppleAi](https://www.theappleai.tech/) <img align="bottom" height="13" src="https://badgen.net/github/stars/bunnysayzz/AppleAI?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/bunnysayzz/AppleAI?style=flat&label=" /> - Access multiple AI assistants from your menu bar with one shortcut.
 - [Beagle IM](https://github.com/tigase/beagle-im) <img align="bottom" height="13" src="https://badgen.net/github/stars/tigase/beagle-im?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tigase/beagle-im?style=flat&label=" /> - Powerful XMPP client with support for file transfer, VoIP and end-to-end encryption.
 - [CopilotForXcode](https://github.com/github/CopilotForXcode) <img align="bottom" height="13" src="https://badgen.net/github/stars/github/CopilotForXcode?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/github/CopilotForXcode?style=flat&label=" /> - Xcode extension for GitHub Copilot
 - [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) <img align="bottom" height="13" src="https://badgen.net/github/stars/glaurent/MessagesHistoryBrowser?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/glaurent/MessagesHistoryBrowser?style=flat&label=" /> - Browse and search Messages.app history.
