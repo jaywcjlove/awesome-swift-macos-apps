@@ -444,6 +444,7 @@
 
 ## 虚拟机
 
+- [MacBox](https://github.com/Moonif/MacBox) <img align="bottom" height="13" src="https://badgen.net/github/stars/Moonif/MacBox?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moonif/MacBox?style=flat&label=" /> - 简化 86Box 虚拟机管理，支持 Apple Silicon 和 Intel 机器。
 - [UTM](https://github.com/utmapp/UTM) <img align="bottom" height="13" src="https://badgen.net/github/stars/utmapp/UTM?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/utmapp/UTM?style=flat&label=" /> - 适用于 iOS 和 macOS 的虚拟机
 
 ## 终端

@@ -450,6 +450,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Virtual Machine
 
+- [MacBox](https://github.com/Moonif/MacBox) <img align="bottom" height="13" src="https://badgen.net/github/stars/Moonif/MacBox?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moonif/MacBox?style=flat&label=" /> -  Simplifying 86Box virtual machine management, supporting both Apple Silicon and Intel machines.
 - [UTM](https://github.com/utmapp/UTM) <img align="bottom" height="13" src="https://badgen.net/github/stars/utmapp/UTM?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/utmapp/UTM?style=flat&label=" /> - Virtual machines for iOS and macOS
 
 ## Terminal
