@@ -128,6 +128,7 @@
 ### 其他开发
 
 - [ChefInspector](https://github.com/Yasumoto/ChefInspector) <img align="bottom" height="13" src="https://badgen.net/github/stars/Yasumoto/ChefInspector?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Yasumoto/ChefInspector?style=flat&label=" /> - Chef 的节点和属性查看器。
+- [ReqRes](https://github.com/OloApps/ReqRes) <img align="bottom" height="13" src="https://badgen.net/github/stars/OloApps/ReqRe?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/OloApps/ReqRe?style=flat&label=" /> - 用于监视、调试和模拟 HTTP(S) 请求和响应的原生 macOS 应用程序。
 
 ### Web 开发
 

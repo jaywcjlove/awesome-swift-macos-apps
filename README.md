@@ -127,6 +127,7 @@ is list features a curated selection of open-source macOS applications developed
 ### Other Development
 
 - [ChefInspector](https://github.com/Yasumoto/ChefInspector) <img align="bottom" height="13" src="https://badgen.net/github/stars/Yasumoto/ChefInspector?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Yasumoto/ChefInspector?style=flat&label=" /> - Node and Attribute viewer for Chef
+- [ReqRes](https://github.com/OloApps/ReqRes) <img align="bottom" height="13" src="https://badgen.net/github/stars/OloApps/ReqRe?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/OloApps/ReqRe?style=flat&label=" /> - Native macOS app to monitor, debug, and mock HTTP(S) requests and responses.
 
 ### Web Development
 
