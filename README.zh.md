@@ -358,6 +358,7 @@
 ## 播放器
 
 - [IINA](https://github.com/iina/iina) <img align="bottom" height="13" src="https://badgen.net/github/stars/iina/iina?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/iina/iina?style=flat&label=" /> - 现代化的 macOS 视频播放器。
+- [MyMedia](https://github.com/photangralenphie/MyMedia) <img align="bottom" height="13" src="https://badgen.net/github/stars/photangralenphie/MyMedia?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/photangralenphie/MyMedia?style=flat&label=" /> - 本地电影和电视节目展示应用，Apple TV 替代品。
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wulkano/Plug?style=flat&label=" /> - 从 Hype Machine 中发现和收听音乐。
 
 ## 播客
