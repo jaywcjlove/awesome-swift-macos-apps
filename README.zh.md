@@ -454,6 +454,10 @@
 - [eul](https://github.com/gao-sun/eul) <img align="bottom" height="13" src="https://badgen.net/github/stars/gao-sun/eul?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gao-sun/eul?style=flat&label=" /> - 用 SwiftUI 编写的 macOS 状态监视应用程序。
 - [DockDoor](https://github.com/ejbills/DockDoor) <img align="bottom" height="13" src="https://badgen.net/github/stars/ejbills/DockDoor?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ejbills/DockDoor?style=flat&label=" /> - macOS 的窗口窥视
 
+## 粘贴板
+
+- [Tweaks](https://github.com/dinoki-ai/tweaks) <img align="bottom" height="13" src="https://badgen.net/github/stars/dinoki-ai/tweaks?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dinoki-ai/tweaks?style=flat&label=" /> - 只需一键，即可即时重写、改写或优化剪贴板中的任何文本。
+
 ## 虚拟机
 
 - [MacBox](https://github.com/Moonif/MacBox) <img align="bottom" height="13" src="https://badgen.net/github/stars/Moonif/MacBox?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moonif/MacBox?style=flat&label=" /> - 简化 86Box 虚拟机管理，支持 Apple Silicon 和 Intel 机器。

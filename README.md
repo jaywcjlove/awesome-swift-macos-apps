@@ -460,9 +460,13 @@ is list features a curated selection of open-source macOS applications developed
 - [eul](https://github.com/gao-sun/eul) <img align="bottom" height="13" src="https://badgen.net/github/stars/gao-sun/eul?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gao-sun/eul?style=flat&label=" /> - macOS status monitoring app written in SwiftUI.
 - [DockDoor](https://github.com/ejbills/DockDoor) <img align="bottom" height="13" src="https://badgen.net/github/stars/ejbills/DockDoor?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ejbills/DockDoor?style=flat&label=" /> - Window peeking for macOS
 
+## Clipboard
+
+- [Tweaks](https://github.com/dinoki-ai/tweaks) <img align="bottom" height="13" src="https://badgen.net/github/stars/dinoki-ai/tweaks?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dinoki-ai/tweaks?style=flat&label=" /> - With just one tap, instantly rewrite, rephrase, or refine any text from your clipboard.
+
 ## Virtual Machine
 
-- [MacBox](https://github.com/Moonif/MacBox) <img align="bottom" height="13" src="https://badgen.net/github/stars/Moonif/MacBox?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moonif/MacBox?style=flat&label=" /> -  Simplifying 86Box virtual machine management, supporting both Apple Silicon and Intel machines.
+- [MacBox](https://github.com/Moonif/MacBox) <img align="bottom" height="13" src="https://badgen.net/github/stars/Moonif/MacBox?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moonif/MacBox?style=flat&label=" /> - Simplifying 86Box virtual machine management, supporting both Apple Silicon and Intel machines.
 - [UTM](https://github.com/utmapp/UTM) <img align="bottom" height="13" src="https://badgen.net/github/stars/utmapp/UTM?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/utmapp/UTM?style=flat&label=" /> - Virtual machines for iOS and macOS
 
 ## Terminal
