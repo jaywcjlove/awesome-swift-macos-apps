@@ -278,6 +278,7 @@
 ## 菜单栏
 
 - [app-menu](https://github.com/barseghyanartur/app-menu) <img align="bottom" height="13" src="https://badgen.net/github/stars/barseghyanartur/app-menu?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/barseghyanartur/app-menu?style=flat&label=" /> - macOS 中缺失的应用程序菜单
+- [Boring Notch](https://github.com/TheBoredTeam/boring.notch) <img align="bottom" height="13" src="https://badgen.net/github/stars/TheBoredTeam/boring.notch?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/TheBoredTeam/boring.notch?style=flat&label=" /> - 让 MacBook 刘海变身音乐与文件控制中心。
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) <img align="bottom" height="13" src="https://badgen.net/github/stars/inderdhir/DatWeatherDoe?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/inderdhir/DatWeatherDoe?style=flat&label=" /> - 用 Swift 编写的简单菜单栏天气应用程序。
 - [Barik](https://github.com/mocki-toki/barik) <img align="bottom" height="13" src="https://badgen.net/github/stars/mocki-toki/barik?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mocki-toki/barik?style=flat&label=" /> - macOS 菜单栏替代，支持 yabai 和 AeroSpace
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) <img align="bottom" height="13" src="https://badgen.net/github/stars/Kwpolska/DisplayMenu?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Kwpolska/DisplayMenu?style=flat&label=" /> - 简单（基本）macOS 菜单栏额外工具，用于应用显示预设。
