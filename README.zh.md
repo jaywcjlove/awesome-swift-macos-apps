@@ -81,12 +81,16 @@
 - [HuggingChat](https://github.com/huggingface/chat-macOS) <img align="bottom" height="13" src="https://badgen.net/github/stars/huggingface/chat-macOS?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/huggingface/chat-macOS?style=flat&label=" /> - 利用开源语言模型的强大功能的原生聊天界面。
 - [LlamaChat](https://github.com/alexrozanski/LlamaChat) <img align="bottom" height="13" src="https://badgen.net/github/stars/alexrozanski/LlamaChat?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alexrozanski/LlamaChat?style=flat&label=" /> - 与您最喜欢的 LLaMA 模特聊天
 - [Onit](https://github.com/synth-inc/onit) <img align="bottom" height="13" src="https://badgen.net/github/stars/synth-inc/onit?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/synth-inc/onit?style=flat&label=" /> - 一个 AI 聊天侧边栏，可以停靠在你 Mac 上的任何应用中！
-- [Sidekick](https://github.com/johnbean393/Sidekick) <img align="bottom" height="13" src="https://badgen.net/github/stars/johnbean393/Sidekick?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/johnbean393/Sidekick?style=flat&label=" /> - 在 macOS 上用你的文件与本地 LLM 对话，无需额外配置。
 - [Seaglass](https://github.com/neilalexander/seaglass) <img align="bottom" height="13" src="https://badgen.net/github/stars/neilalexander/seaglass?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/neilalexander/seaglass?style=flat&label=" /> - 一个真正原生的 [Matrix](https://matrix.org/blog/home/) 客户端，适用于 macOS。  
 - [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) <img align="bottom" height="13" src="https://badgen.net/github/stars/SwiftcordApp/Swiftcord?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/SwiftcordApp/Swiftcord?style=flat&label=" /> - 100% 使用 Swift 构建的 macOS 完全原生 Discord 客户端！
 - [Telegram](https://github.com/overtake/TelegramSwift) <img align="bottom" height="13" src="https://badgen.net/github/stars/overtake/TelegramSwift?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/overtake/TelegramSwift?style=flat&label=" /> - macOS 上使用 Swift 开发的 Telegram 源代码。  
 - [WardenApp](https://github.com/SidhuK/WardenApp) <img align="bottom" height="13" src="https://badgen.net/github/stars/SidhuK/WardenApp?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/SidhuK/WardenApp?style=flat&label=" /> - 一款完全原生的 macOS AI 聊天应用
 - [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/aldychris/WhatsAppBar?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aldychris/WhatsAppBar?style=flat&label=" /> - 从菜单栏发送 WhatsApp 消息。  
+
+## 本地 LLM
+
+- [Osaurus](https://github.com/dinoki-ai/osaurus) <img align="bottom" height="13" src="https://badgen.net/github/stars/dinoki-ai/osaurus?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dinoki-ai/osaurus?style=flat&label=" /> - 原生 Apple Silicon LLM 服务器，支持菜单栏、命令行和 macOS 26 的 Apple 模型。
+- [Sidekick](https://github.com/johnbean393/Sidekick) <img align="bottom" height="13" src="https://badgen.net/github/stars/johnbean393/Sidekick?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/johnbean393/Sidekick?style=flat&label=" /> - 在 macOS 上用你的文件与本地 LLM 对话，无需额外配置。
 
 ## 加密货币
 
