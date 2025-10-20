@@ -546,6 +546,7 @@ is list features a curated selection of open-source macOS applications developed
 - [eul](https://github.com/gao-sun/eul) <img align="bottom" height="13" src="https://badgen.net/github/stars/gao-sun/eul?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gao-sun/eul?style=flat&label=" /> - macOS status monitoring app written in SwiftUI.
 - [mac-sound-fix](https://github.com/dragstor/mac-sound-fix) <img align="bottom" height="13" src="https://badgen.net/github/stars/dragstor/mac-sound-fix?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dragstor/mac-sound-fix?style=flat&label=" /> - Mac Sound Re-Enabler. 
 - [wechsel](https://github.com/friedrichweise/wechsel) <img align="bottom" height="13" src="https://badgen.net/github/stars/friedrichweise/wechsel?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/friedrichweise/wechsel?style=flat&label=" /> - manage bluetooth connections with your keyboard.
+- [VolumeGlass](https://github.com/aarush67/VolumeGlass-Code) <img align="bottom" height="13" src="https://badgen.net/github/stars/aarush67/VolumeGlass-Code?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aarush67/VolumeGlass-Code?style=flat&label=" /> - An iOS-style glass volume indicator for macOS.
 
 ## VPN & Proxy
 
