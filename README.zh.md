@@ -537,6 +537,7 @@
 - [mac-sound-fix](https://github.com/dragstor/mac-sound-fix) <img align="bottom" height="13" src="https://badgen.net/github/stars/dragstor/mac-sound-fix?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dragstor/mac-sound-fix?style=flat&label=" /> - Mac 声音重新启用工具。
 - [wechsel](https://github.com/friedrichweise/wechsel) <img align="bottom" height="13" src="https://badgen.net/github/stars/friedrichweise/wechsel?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/friedrichweise/wechsel?style=flat&label=" /> - 使用键盘管理蓝牙连接。
 - [VolumeGlass](https://github.com/aarush67/VolumeGlass-Code) <img align="bottom" height="13" src="https://badgen.net/github/stars/aarush67/VolumeGlass-Code?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aarush67/VolumeGlass-Code?style=flat&label=" /> - 一款 iOS 风格的玻璃质感 macOS 音量指示器。
+- [YABA](https://github.com/Subfly/YABA) <img align="bottom" height="13" src="https://badgen.net/github/stars/Subfly/YABA?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Subfly/YABA?style=flat&label=" /> - 一款现代跨平台书签管理器，支持离线使用并保障隐私。
 
 ## 压缩工具
 

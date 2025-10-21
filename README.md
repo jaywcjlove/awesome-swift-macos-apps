@@ -547,6 +547,7 @@ is list features a curated selection of open-source macOS applications developed
 - [mac-sound-fix](https://github.com/dragstor/mac-sound-fix) <img align="bottom" height="13" src="https://badgen.net/github/stars/dragstor/mac-sound-fix?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dragstor/mac-sound-fix?style=flat&label=" /> - Mac Sound Re-Enabler. 
 - [wechsel](https://github.com/friedrichweise/wechsel) <img align="bottom" height="13" src="https://badgen.net/github/stars/friedrichweise/wechsel?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/friedrichweise/wechsel?style=flat&label=" /> - manage bluetooth connections with your keyboard.
 - [VolumeGlass](https://github.com/aarush67/VolumeGlass-Code) <img align="bottom" height="13" src="https://badgen.net/github/stars/aarush67/VolumeGlass-Code?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aarush67/VolumeGlass-Code?style=flat&label=" /> - An iOS-style glass volume indicator for macOS.
+- [YABA](https://github.com/Subfly/YABA) <img align="bottom" height="13" src="https://badgen.net/github/stars/Subfly/YABA?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Subfly/YABA?style=flat&label=" /> - A modern cross-platform bookmark manager that’s privacy-focused and works offline.
 
 ## VPN & Proxy
 
