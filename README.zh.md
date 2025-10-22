@@ -458,6 +458,7 @@
 
 ## 剪贴板
 
+- [ClipAi](https://github.com/https://github.com/michaelh03/ClipAi) <img align="bottom" height="13" src="https://badgen.net/github/stars/https://github.com/michaelh03/ClipAi?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/https://github.com/michaelh03/ClipAi?style=flat&label=" /> - 一键将复制内容发送给 AI，高效完成各类任务。
 - [Copi](https://github.com/s1ntoneli/Copi) <img align="bottom" height="13" src="https://badgen.net/github/stars/s1ntoneli/Copi?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/s1ntoneli/Copi?style=flat&label=" /> - 一个安全的替代 macOS 剪贴板。
 - [Clipy](https://github.com/Clipy/Clipy) <img align="bottom" height="13" src="https://badgen.net/github/stars/Clipy/Clipy?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Clipy/Clipy?style=flat&label=" /> - Clipy 是一个 macOS 的剪贴板扩展应用。 
 - [macGist](https://github.com/Bunn/macGist) <img align="bottom" height="13" src="https://badgen.net/github/stars/Bunn/macGist?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Bunn/macGist?style=flat&label=" /> - 简单的应用程序，将剪贴板项目发送到 GitHub 的 Gist。

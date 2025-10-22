@@ -471,6 +471,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Clipboard
 
+- [ClipAi](https://github.com/https://github.com/michaelh03/ClipAi) <img align="bottom" height="13" src="https://badgen.net/github/stars/https://github.com/michaelh03/ClipAi?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/https://github.com/michaelh03/ClipAi?style=flat&label=" /> - Send copied content to AI with one click and get tasks done efficiently.
 - [Copi](https://github.com/s1ntoneli/Copi) <img align="bottom" height="13" src="https://badgen.net/github/stars/s1ntoneli/Copi?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/s1ntoneli/Copi?style=flat&label=" /> - A Secure Alternative to macOS Clipboard.
 - [Clipy](https://github.com/Clipy/Clipy) <img align="bottom" height="13" src="https://badgen.net/github/stars/Clipy/Clipy?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Clipy/Clipy?style=flat&label=" /> - Clipy is a Clipboard extension app for macOS. 
 - [macGist](https://github.com/Bunn/macGist) <img align="bottom" height="13" src="https://badgen.net/github/stars/Bunn/macGist?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Bunn/macGist?style=flat&label=" /> - Simple app to send pasteboard items to GitHub's Gist. 
