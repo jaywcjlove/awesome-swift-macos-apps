@@ -566,6 +566,7 @@
 
 ## 视频
 
+- [Cronica](https://github.com/eggerco/cronica) <img align="bottom" height="13" src="https://badgen.net/github/stars/eggerco/cronica?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/eggerco/cronica?style=flat&label=" /> - 极简跨设备观影追剧提醒应用。
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital) <img align="bottom" height="13" src="https://badgen.net/github/stars/zagahr/Conferences.digital?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zagahr/Conferences.digital?style=flat&label=" /> - 在 Mac 上免费观看您喜欢的开发者大会的最新精彩视频的最佳方式。
 - [Datamosh](https://github.com/maelswarm/Datamosh) <img align="bottom" height="13" src="https://badgen.net/github/stars/maelswarm/Datamosh?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/maelswarm/Datamosh?style=flat&label=" /> - 在 macOS 上对视频进行数据马赛克处理。
 - [Face Data](https://github.com/xiaohk/FaceData) <img align="bottom" height="13" src="https://badgen.net/github/stars/xiaohk/FaceData?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/xiaohk/FaceData?style=flat&label=" /> - 用于自动标注视频中地标的 macOS 应用程序。

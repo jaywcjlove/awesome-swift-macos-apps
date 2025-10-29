@@ -564,6 +564,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Video
 
+- [Cronica](https://github.com/eggerco/cronica) <img align="bottom" height="13" src="https://badgen.net/github/stars/eggerco/cronica?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/eggerco/cronica?style=flat&label=" /> - A minimalist cross-device watchlist app for movies and TV shows.
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital) <img align="bottom" height="13" src="https://badgen.net/github/stars/zagahr/Conferences.digital?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zagahr/Conferences.digital?style=flat&label=" /> - Best way to watch the latest and greatest videos from your favourite developer conferences for free on your Mac.
 - [Datamosh](https://github.com/maelswarm/Datamosh) <img align="bottom" height="13" src="https://badgen.net/github/stars/maelswarm/Datamosh?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/maelswarm/Datamosh?style=flat&label=" /> - Datamosh your videos on macOS. 
 - [Face Data](https://github.com/xiaohk/FaceData) <img align="bottom" height="13" src="https://badgen.net/github/stars/xiaohk/FaceData?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/xiaohk/FaceData?style=flat&label=" /> - macOS application used to auto-annotate landmarks from a video. 
