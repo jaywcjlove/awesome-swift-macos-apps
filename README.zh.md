@@ -61,7 +61,7 @@
 - [jmc](https://github.com/jcm93/jmc) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jcm93/jmc?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jcm93/jmc?style=flat&label=" /> - macOS 媒体管理器。   
 - [waveSDR](https://github.com/getoffmyhack/waveSDR) <img align="bottom" height="13" src="https://img.shields.io/github/stars/getoffmyhack/waveSDR?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/getoffmyhack/waveSDR?style=flat&label=" /> - 无线电接收应用。
 - [VoiceInk](https://github.com/Beingpax/VoiceInk) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Beingpax/VoiceInk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Beingpax/VoiceInk?style=flat&label=" /> - 实时语音转文字工具。
-- [FluidVoice](https://github.com/altic-dev/Fluid-oss) <img align="bottom" height="13" src="https://img.shields.io/github/stars/altic-dev/Fluid-oss?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/altic-dev/Fluid-oss?style=flat&label=" /> - 带 AI 增强功能的语音转文字应用。
+- [FluidVoice](https://github.com/altic-dev/FluidVoice) <img align="bottom" height="13" src="https://img.shields.io/github/stars/altic-dev/FluidVoice?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/altic-dev/FluidVoice?style=flat&label=" /> - 带 AI 增强功能的语音转文字应用。
 
 ## 备份
 
