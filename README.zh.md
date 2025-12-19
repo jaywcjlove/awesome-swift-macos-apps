@@ -94,6 +94,7 @@
 
 ## 本地 LLM
 
+- [LlamaBarn](https://github.com/ggml-org/LlamaBarn) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ggml-org/LlamaBarn?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ggml-org/LlamaBarn?style=flat&label=" /> - 菜单栏应用，轻松在 Mac 上安装、运行并访问本地 LLM。
 - [Osaurus](https://github.com/dinoki-ai/osaurus) <img align="bottom" height="13" src="https://img.shields.io/github/stars/dinoki-ai/osaurus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dinoki-ai/osaurus?style=flat&label=" /> - 原生 Apple Silicon LLM 服务器，支持菜单栏、命令行和 macOS 26 的 Apple 模型。
 - [Sidekick](https://github.com/johnbean393/Sidekick) <img align="bottom" height="13" src="https://img.shields.io/github/stars/johnbean393/Sidekick?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/johnbean393/Sidekick?style=flat&label=" /> - 在 macOS 上用你的文件与本地 LLM 对话，无需额外配置。
 

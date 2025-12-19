@@ -94,6 +94,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Local LLM
 
+- [LlamaBarn](https://github.com/ggml-org/LlamaBarn) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ggml-org/LlamaBarn?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ggml-org/LlamaBarn?style=flat&label=" /> - A menu bar app to easily install, run, and access local LLMs on your Mac.
 - [Osaurus](https://github.com/dinoki-ai/osaurus) <img align="bottom" height="13" src="https://img.shields.io/github/stars/dinoki-ai/osaurus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dinoki-ai/osaurus?style=flat&label=" /> - Native Apple Silicon LLM server with menu bar, CLI, and support for macOS 26 Apple models.
 - [Sidekick](https://github.com/johnbean393/Sidekick) <img align="bottom" height="13" src="https://img.shields.io/github/stars/johnbean393/Sidekick?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/johnbean393/Sidekick?style=flat&label=" /> - Chat with a local LLM on macOS using your files — no extra setup.
 
