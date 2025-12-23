@@ -44,6 +44,64 @@ Awesome open-source Swift macOS Apps
 
 is list features a curated selection of open-source macOS applications developed with `Swift`, covering a wide range of tools from productivity to utilities. For macOS developers, these applications demonstrate various `Swift` implementations and provide high-quality code samples and best practices, helping you master macOS-specific skills like UI design, performance optimization, and menu bar integration. It’s a valuable resource for enhancing development skills.
 
+<!--idoc:ignore:start-->
+## Contents
+
+- [Audio](#audio)
+- [Backup](#backup)
+- [Browser](#browser)
+- [Chat](#chat)
+- [Local LLM](#local-llm)
+- [Cryptocurrency](#cryptocurrency)
+- [Database](#database)
+- [Development](#development)
+  - [Git](#git)
+  - [JSON Parsing](#json-parsing)
+  - [Other Development](#other-development)
+  - [Web Development](#web-development)
+  - [iOS / macOS](#ios--macos)
+- [Downloader](#downloader)
+- [Editors](#editors)
+  - [Markdown](#markdown)
+  - [Text](#text)
+- [Extensions](#extensions)
+- [Finder](#finder)
+- [Games](#games)
+- [Virtual Machines](#virtual-machine)
+- [Graphics](#graphics)
+- [IDE](#ide)
+- [Images](#images)
+- [Keyboard](#keyboard)
+- [Mail](#mail)
+- [Menubar](#menubar)
+- [Notch App](#notch-app)
+- [Compression tool](#compression-tool)
+- [Color Picker](#color-picker)
+- [Music](#music)
+- [News](#news)
+- [Notes](#notes)
+- [Other](#other)
+- [Player](#player)
+- [Podcast](#podcast)
+- [Launchpad](#launchpad)
+- [Productivity](#productivity)
+- [Screensaver](#screensaver)
+- [Security](#security)
+- [Sharing Files](#sharing-files)
+- [Social Networking](#social-networking)
+- [Streaming](#streaming)
+- [System](#system)
+- [Clipboard](#clipboard)
+- [Terminal](#terminal)
+- [Touch Bar](#touch-bar)
+- [Utilities](#utilities)
+- [VPN & Proxy](#vpn--proxy)
+- [Video](#video)
+- [Wallpaper](#wallpaper)
+- [Window Management](#window-management)
+
+<!--idoc:ignore:end-->
+
 ## Audio
 
 - [AUHost](https://github.com/vgorloff/AUHost) <img align="bottom" height="13" src="https://img.shields.io/github/stars/vgorloff/AUHost?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vgorloff/AUHost?style=flat&label=" /> - Host AudioUnits v3 plugins.   
@@ -244,6 +302,8 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Virtual Machines
 
+- [MacBox](https://github.com/Moonif/MacBox) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Moonif/MacBox?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moonif/MacBox?style=flat&label=" /> - Simplifying 86Box virtual machine management, supporting both Apple Silicon and Intel machines.
+- [UTM](https://github.com/utmapp/UTM) <img align="bottom" height="13" src="https://img.shields.io/github/stars/utmapp/UTM?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/utmapp/UTM?style=flat&label=" /> - Virtual machines for iOS and macOS
 - [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) <img align="bottom" height="13" src="https://img.shields.io/github/stars/insidegui/VirtualBuddy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/insidegui/VirtualBuddy?style=flat&label=" /> - Virtualize macOS 12 and later on Apple Silicon. VirtualBuddy is a virtual machine GUI for macOS, supporting M1, M2, and M3 chips.
 
 ## Graphics
@@ -504,11 +564,6 @@ is list features a curated selection of open-source macOS applications developed
 - [Plain Pasta](https://github.com/hisaac/PlainPasta) <img align="bottom" height="13" src="https://img.shields.io/github/stars/hisaac/PlainPasta?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/hisaac/PlainPasta?style=flat&label=" /> - Plaintextify your clipboard
 - [QrSnapr](https://github.com/daggy1234/QrSnapr) <img align="bottom" height="13" src="https://img.shields.io/github/stars/alienator88/Viz?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alienator88/Viz?style=flat&label=" /> - A simple macos app that turns Qr images into urls for your clipboard
 - [Tweaks](https://github.com/dinoki-ai/tweaks) <img align="bottom" height="13" src="https://img.shields.io/github/stars/dinoki-ai/tweaks?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dinoki-ai/tweaks?style=flat&label=" /> - With just one tap, instantly rewrite, rephrase, or refine any text from your clipboard.
-
-## Virtual Machine
-
-- [MacBox](https://github.com/Moonif/MacBox) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Moonif/MacBox?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moonif/MacBox?style=flat&label=" /> - Simplifying 86Box virtual machine management, supporting both Apple Silicon and Intel machines.
-- [UTM](https://github.com/utmapp/UTM) <img align="bottom" height="13" src="https://img.shields.io/github/stars/utmapp/UTM?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/utmapp/UTM?style=flat&label=" /> - Virtual machines for iOS and macOS
 
 ## Terminal
 

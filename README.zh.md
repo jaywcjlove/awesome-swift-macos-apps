@@ -44,6 +44,64 @@
 
 此列表精选了 `Swift` 开发的开源 macOS 应用，涵盖从生产力工具到实用工具的广泛场景。对于 macOS 开发者，这些应用展示了 `Swift` 的多种实现方式，并提供了高质量的代码示例和最佳实践，帮助您掌握用户界面构建、系统性能优化、菜单栏应用集成等 macOS 特定技巧，是提升开发技能的宝贵资源库。
 
+<!--idoc:ignore:start-->
+## 目录
+
+- [音频](#音频)
+- [备份](#备份)
+- [浏览器](#浏览器)
+- [聊天](#聊天)
+- [本地 LLM](#本地-llm)
+- [加密货币](#加密货币)
+- [数据库](#数据库)
+- [开发](#开发)
+  - [Git](#git)
+  - [JSON 解析](#json-解析)
+  - [其他开发](#其他开发)
+  - [Web 开发](#web-开发)
+  - [iOS / macOS](#ios--macos)
+- [下载器](#下载器)
+- [编辑器](#编辑器)
+  - [Markdown](#markdown)
+  - [文本](#文本)
+- [扩展](#扩展)
+- [Finder](#finder)
+- [游戏](#游戏)
+- [虚拟机](#虚拟机)
+- [图形](#图形)
+- [IDE](#ide)
+- [图像](#图像)
+- [键盘](#键盘)
+- [邮件](#邮件)
+- [菜单栏](#菜单栏)
+- [刘海应用](#刘海应用)
+- [音乐](#音乐)
+- [新闻](#新闻)
+- [笔记](#笔记)
+- [其他](#其他)
+- [播放器](#播放器)
+- [播客](#播客)
+- [启动台](#启动台)
+- [生产力](#生产力)
+- [屏幕保护程序](#屏幕保护程序)
+- [安全](#安全)
+- [文件共享](#文件共享)
+- [社交网络](#社交网络)
+- [流媒体](#流媒体)
+- [系统](#系统)
+- [剪贴板](#剪贴板)
+- [终端](#终端)
+- [Touch Bar](#touch-bar)
+- [实用工具](#实用工具)
+- [压缩工具](#压缩工具)
+- [颜色选择器](#颜色选择器)
+- [VPN & 代理](#vpn--代理)
+- [视频](#视频)
+- [壁纸](#壁纸)
+- [窗口管理](#窗口管理)
+
+<!--idoc:ignore:end-->
+
 ## 音频
 
 - [AUHost](https://github.com/vgorloff/AUHost) <img align="bottom" height="13" src="https://img.shields.io/github/stars/vgorloff/AUHost?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vgorloff/AUHost?style=flat&label=" /> - AudioUnits v3 插件托管工具。   
@@ -246,6 +304,8 @@
 
 ## 虚拟机
 
+- [MacBox](https://github.com/Moonif/MacBox) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Moonif/MacBox?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moonif/MacBox?style=flat&label=" /> - 简化 86Box 虚拟机管理，支持 Apple Silicon 和 Intel 机器。
+- [UTM](https://github.com/utmapp/UTM) <img align="bottom" height="13" src="https://img.shields.io/github/stars/utmapp/UTM?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/utmapp/UTM?style=flat&label=" /> - 适用于 iOS 和 macOS 的虚拟机
 - [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) <img align="bottom" height="13" src="https://img.shields.io/github/stars/insidegui/VirtualBuddy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/insidegui/VirtualBuddy?style=flat&label=" /> - 在 Apple Silicon 上虚拟化 macOS 12 及更高版本，VirtualBuddy 是一款适用于 macOS 的虚拟机图形界面工具，支持 M1、M2 和 M3 芯片
 
 ## 图形
@@ -491,11 +551,6 @@
 - [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) <img align="bottom" height="13" src="https://img.shields.io/github/stars/sindresorhus/Pasteboard-Viewer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sindresorhus/Pasteboard-Viewer?style=flat&label=" /> - 检查系统剪贴板。 
 - [QrSnapr](https://github.com/daggy1234/QrSnapr) <img align="bottom" height="13" src="https://img.shields.io/github/stars/alienator88/Viz?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alienator88/Viz?style=flat&label=" /> - 简单的 macOS 应用，将二维码图片转换为 URL 并复制到剪贴板。
 - [Tweaks](https://github.com/dinoki-ai/tweaks) <img align="bottom" height="13" src="https://img.shields.io/github/stars/dinoki-ai/tweaks?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dinoki-ai/tweaks?style=flat&label=" /> - 只需一键，即可即时重写、改写或优化剪贴板中的任何文本。
-
-## 虚拟机
-
-- [MacBox](https://github.com/Moonif/MacBox) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Moonif/MacBox?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moonif/MacBox?style=flat&label=" /> - 简化 86Box 虚拟机管理，支持 Apple Silicon 和 Intel 机器。
-- [UTM](https://github.com/utmapp/UTM) <img align="bottom" height="13" src="https://img.shields.io/github/stars/utmapp/UTM?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/utmapp/UTM?style=flat&label=" /> - 适用于 iOS 和 macOS 的虚拟机
 
 ## 终端
 
