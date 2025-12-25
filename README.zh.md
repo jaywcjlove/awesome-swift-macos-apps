@@ -458,6 +458,7 @@
 ## 生产力
 
 - [AltTab](https://github.com/lwouis/alt-tab-macos) <img align="bottom" height="13" src="https://img.shields.io/github/stars/lwouis/alt-tab-macos?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lwouis/alt-tab-macos?style=flat&label=" /> - 将 Windows 的 Alt-Tab 功能带到 macOS。
+- [CodexBar](https://github.com/steipete/CodexBar) <img align="bottom" height="13" src="https://img.shields.io/github/stars/steipete/CodexBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/steipete/CodexBar?style=flat&label=" /> - 无需登录即可查看 OpenAI Codex 和 Claude Code 的使用统计信息。
 - [Cling](https://github.com/FuzzyIdeas/Cling) <img align="bottom" height="13" src="https://img.shields.io/github/stars/FuzzyIdeas/Cling?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/FuzzyIdeas/Cling?style=flat&label=" /> - 即时模糊搜索任何文件。
 - [Calculeta](https://github.com/varol/Calculeta) <img align="bottom" height="13" src="https://img.shields.io/github/stars/varol/Calculeta?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/varol/Calculeta?style=flat&label=" /> - 一款在菜单栏中运行的 macOS 计算器。
 - [Impulso](https://github.com/nuance-dev/impulso) <img align="bottom" height="13" src="https://img.shields.io/github/stars/nuance-dev/impulso?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nuance-dev/impulso?style=flat&label=" /> - 另一个 macOS 任务管理应用程序。
