@@ -318,6 +318,7 @@
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) <img align="bottom" height="13" src="https://img.shields.io/github/stars/CleanCocoa/InfiniteCanvas?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/CleanCocoa/InfiniteCanvas?style=flat&label=" /> - 概念证明 Mac 绘图应用程序。 
 - [macosrec](https://github.com/xenodium/macosrec) <img align="bottom" height="13" src="https://img.shields.io/github/stars/xenodium/macosrec?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/xenodium/macosrec?style=flat&label=" /> - 从命令行截图或录制 macOS 窗口的视频
 - [ScrollSnap](https://github.com/Brkgng/ScrollSnap) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Brkgng/ScrollSnap?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Brkgng/ScrollSnap?style=flat&label=" /> - 捕捉和拼接滚动截图的 macOS 应用
+- [ScreenCapture](https://github.com/sadopc/ScreenCapture) <img align="bottom" height="13" src="https://img.shields.io/github/stars/sadopc/ScreenCapture?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sadopc/ScreenCapture?style=flat&label=" /> - 用于截图并进行标注
 
 ## IDE
 

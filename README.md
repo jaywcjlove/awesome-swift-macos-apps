@@ -315,6 +315,7 @@ is list features a curated selection of open-source macOS applications developed
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) <img align="bottom" height="13" src="https://img.shields.io/github/stars/CleanCocoa/InfiniteCanvas?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/CleanCocoa/InfiniteCanvas?style=flat&label=" /> - Proof of concept Mac drawing application. 
 - [macosrec](https://github.com/xenodium/macosrec) <img align="bottom" height="13" src="https://img.shields.io/github/stars/xenodium/macosrec?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/xenodium/macosrec?style=flat&label=" /> - Take screenshots/videos of macOS windows from the command line
 - [ScrollSnap](https://github.com/Brkgng/ScrollSnap) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Brkgng/ScrollSnap?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Brkgng/ScrollSnap?style=flat&label=" /> - A macOS app for capturing and stitching scrolling screenshots.
+- [ScreenCapture](https://github.com/sadopc/ScreenCapture) <img align="bottom" height="13" src="https://img.shields.io/github/stars/sadopc/ScreenCapture?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sadopc/ScreenCapture?style=flat&label=" /> - For capturing and annotating screenshots
 
 ## IDE
 
