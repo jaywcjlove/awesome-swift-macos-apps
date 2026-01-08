@@ -392,6 +392,7 @@ is list features a curated selection of open-source macOS applications developed
 - [SlimHUD - Cyanocitta](https://github.com/AlexPerathoner/SlimHUD) <img align="bottom" height="13" src="https://img.shields.io/github/stars/AlexPerathoner/SlimHUD?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AlexPerathoner/SlimHUD?style=flat&label=" /> - Replacement for MacOS' volume, brightness and keyboard backlight HUDs.
 - [Stats](https://github.com/exelban/stats) <img align="bottom" height="13" src="https://img.shields.io/github/stars/exelban/stats?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/exelban/stats?style=flat&label=" /> - macOS system monitor in your menu bar
 - [SwiftBar](https://github.com/swiftbar/SwiftBar) <img align="bottom" height="13" src="https://img.shields.io/github/stars/swiftbar/SwiftBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/swiftbar/SwiftBar?style=flat&label=" /> - Powerful macOS menu bar customization tool.
+- [SaneBar](https://github.com/stephanjoseph/SaneBar) <img align="bottom" height="13" src="https://img.shields.io/github/stars/stephanjoseph/SaneBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/stephanjoseph/SaneBar?style=flat&label=" /> - Menu Bar Manager — Hide and Organize Icons.
 
 ## Notch App
 
