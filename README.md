@@ -311,6 +311,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Graphics
 
+- [CropBatch](https://github.com/Xpycode/CropBatch) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Xpycode/CropBatch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Xpycode/CropBatch?style=flat&label=" /> - A macOS application to crop images in batch.
 - [GifCapture](https://github.com/onmyway133/GifCapture) <img align="bottom" height="13" src="https://img.shields.io/github/stars/onmyway133/GifCapture?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/onmyway133/GifCapture?style=flat&label=" /> - Gif capture app for macOS. 
 - [Gifski](https://github.com/sindresorhus/Gifski) <img align="bottom" height="13" src="https://img.shields.io/github/stars/sindresorhus/Gifski?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sindresorhus/Gifski?style=flat&label=" /> - Convert videos to high-quality GIFs. 
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) <img align="bottom" height="13" src="https://img.shields.io/github/stars/CleanCocoa/InfiniteCanvas?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/CleanCocoa/InfiniteCanvas?style=flat&label=" /> - Proof of concept Mac drawing application. 

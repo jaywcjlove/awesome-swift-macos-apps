@@ -314,6 +314,7 @@
 
 ## 图形
 
+- [CropBatch](https://github.com/Xpycode/CropBatch) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Xpycode/CropBatch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Xpycode/CropBatch?style=flat&label=" /> - 一款用于批量裁剪图像的 macOS 应用。
 - [GifCapture](https://github.com/onmyway133/GifCapture) <img align="bottom" height="13" src="https://img.shields.io/github/stars/onmyway133/GifCapture?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/onmyway133/GifCapture?style=flat&label=" /> - macOS 的 GIF 捕获应用程序。 
 - [Gifski](https://github.com/sindresorhus/Gifski) <img align="bottom" height="13" src="https://img.shields.io/github/stars/sindresorhus/Gifski?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sindresorhus/Gifski?style=flat&label=" /> - 将视频转换为高质量 GIF。 
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) <img align="bottom" height="13" src="https://img.shields.io/github/stars/CleanCocoa/InfiniteCanvas?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/CleanCocoa/InfiniteCanvas?style=flat&label=" /> - 概念证明 Mac 绘图应用程序。 
