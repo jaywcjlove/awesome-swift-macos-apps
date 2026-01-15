@@ -337,6 +337,7 @@
 - [PhotoMiner](https://github.com/gergelysanta/photominer) <img align="bottom" height="13" src="https://img.shields.io/github/stars/gergelysanta/photominer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gergelysanta/photominer?style=flat&label=" /> - macOS 应用程序，用于查找和恢复您磁盘上遗失的照片。
 - [Quick Draw](https://github.com/maxchuquimia/quickdraw) <img align="bottom" height="13" src="https://img.shields.io/github/stars/maxchuquimia/quickdraw?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/maxchuquimia/quickdraw?style=flat&label=" /> - 用于在屏幕上绘图的应用，非常适合快速截图和演示。
 - [Screenbar](https://github.com/crilleengvall/Screenbar) <img align="bottom" height="13" src="https://img.shields.io/github/stars/crilleengvall/Screenbar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/crilleengvall/Screenbar?style=flat&label=" /> - macOS 菜单栏应用程序，用于自动截图。
+- [ScreenCut](https://github.com/VCBSstudio/ScreenCut) <img align="bottom" height="13" src="https://img.shields.io/github/stars/VCBSstudio/ScreenCut?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/VCBSstudio/ScreenCut?style=flat&label=" /> - Mac 平台上的截图功能。
 
 ## 键盘
 

@@ -334,6 +334,7 @@ is list features a curated selection of open-source macOS applications developed
 - [PhotoMiner](https://github.com/gergelysanta/photominer) <img align="bottom" height="13" src="https://img.shields.io/github/stars/gergelysanta/photominer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gergelysanta/photominer?style=flat&label=" /> - macOS app for finding and lost forgotten photos on your disks. 
 - [Quick Draw](https://github.com/maxchuquimia/quickdraw) <img align="bottom" height="13" src="https://img.shields.io/github/stars/maxchuquimia/quickdraw?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/maxchuquimia/quickdraw?style=flat&label=" /> - An app for drawing on the screen, very suitable for quick screenshots and presentations.
 - [Screenbar](https://github.com/crilleengvall/Screenbar) <img align="bottom" height="13" src="https://img.shields.io/github/stars/crilleengvall/Screenbar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/crilleengvall/Screenbar?style=flat&label=" /> - macOS menubar app for automating screenshots. 
+- [ScreenCut](https://github.com/VCBSstudio/ScreenCut) <img align="bottom" height="13" src="https://img.shields.io/github/stars/VCBSstudio/ScreenCut?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/VCBSstudio/ScreenCut?style=flat&label=" /> - Screenshot Functionality on Mac Platform.
 
 ## Keyboard
 
