@@ -53,6 +53,7 @@
 - [浏览器](#浏览器)
 - [聊天](#聊天)
 - [本地 LLM](#本地-llm)
+- [AI](#ai)
 - [加密货币](#加密货币)
 - [数据库](#数据库)
 - [开发](#开发)
@@ -140,7 +141,6 @@
 
 ## 聊天
 
-- [AppleAi](https://www.theappleai.tech/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/bunnysayzz/AppleAI?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/bunnysayzz/AppleAI?style=flat&label=" /> - 一键快捷访问菜单栏中的多款 AI 助手。
 - [Beagle IM](https://github.com/tigase/beagle-im) <img align="bottom" height="13" src="https://img.shields.io/github/stars/tigase/beagle-im?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tigase/beagle-im?style=flat&label=" /> - 强大的 XMPP 客户端，支持文件传输、VoIP 和端到端加密。  
 - [CopilotForXcode](https://github.com/github/CopilotForXcode) <img align="bottom" height="13" src="https://img.shields.io/github/stars/github/CopilotForXcode?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/github/CopilotForXcode?style=flat&label=" /> - GitHub Copilot 的 Xcode 扩展
 - [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) <img align="bottom" height="13" src="https://img.shields.io/github/stars/glaurent/MessagesHistoryBrowser?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/glaurent/MessagesHistoryBrowser?style=flat&label=" /> - 浏览和搜索 Messages.app 历史记录。
@@ -159,6 +159,14 @@
 - [LlamaBarn](https://github.com/ggml-org/LlamaBarn) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ggml-org/LlamaBarn?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ggml-org/LlamaBarn?style=flat&label=" /> - 菜单栏应用，轻松在 Mac 上安装、运行并访问本地 LLM。
 - [Osaurus](https://github.com/dinoki-ai/osaurus) <img align="bottom" height="13" src="https://img.shields.io/github/stars/dinoki-ai/osaurus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dinoki-ai/osaurus?style=flat&label=" /> - 原生 Apple Silicon LLM 服务器，支持菜单栏、命令行和 macOS 26 的 Apple 模型。
 - [Sidekick](https://github.com/johnbean393/Sidekick) <img align="bottom" height="13" src="https://img.shields.io/github/stars/johnbean393/Sidekick?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/johnbean393/Sidekick?style=flat&label=" /> - 在 macOS 上用你的文件与本地 LLM 对话，无需额外配置。
+
+## AI
+
+- [AppleAi](https://www.theappleai.tech/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/bunnysayzz/AppleAI?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/bunnysayzz/AppleAI?style=flat&label=" /> - 一键快捷访问菜单栏中的多款 AI 助手。
+- [Quotio](https://github.com/nguyenphutrong/quotio) <img align="bottom" height="13" src="https://img.shields.io/github/stars/nguyenphutrong/quotio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nguyenphutrong/quotio?style=flat&label=" /> - 统一管理 AI 订阅并智能切换工具。
+- [ClaudeBar](https://github.com/tddworks/ClaudeBar) <img align="bottom" height="13" src="https://img.shields.io/github/stars/tddworks/ClaudeBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tddworks/ClaudeBar?style=flat&label=" /> - 帮助开发者实时监控各类 AI 编程助手的配额使用情况。
+- [CodexBar](https://github.com/steipete/CodexBar) <img align="bottom" height="13" src="https://img.shields.io/github/stars/steipete/CodexBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/steipete/CodexBar?style=flat&label=" /> - 无需登录即可查看 OpenAI Codex 和 Claude Code 的使用统计信息。
+- [ClipAi](https://github.com/https://github.com/michaelh03/ClipAi) <img align="bottom" height="13" src="https://img.shields.io/github/stars/https://github.com/michaelh03/ClipAi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/https://github.com/michaelh03/ClipAi?style=flat&label=" /> - 一键将复制内容发送给 AI，高效完成各类任务。
 
 ## 加密货币
 
@@ -360,7 +368,6 @@
 - [Boring Notch](https://github.com/TheBoredTeam/boring.notch) <img align="bottom" height="13" src="https://img.shields.io/github/stars/TheBoredTeam/boring.notch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/TheBoredTeam/boring.notch?style=flat&label=" /> - 让 MacBook 刘海变身音乐与文件控制中心。
 - [Barik](https://github.com/mocki-toki/barik) <img align="bottom" height="13" src="https://img.shields.io/github/stars/mocki-toki/barik?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mocki-toki/barik?style=flat&label=" /> - macOS 菜单栏替代，支持 yabai 和 AeroSpace
 - [BarTranslate](https://github.com/ThijmenDam/BarTranslate) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ThijmenDam/BarTranslate?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ThijmenDam/BarTranslate?style=flat&label=" /> - BarTranslate，适用于 macOS 的便捷菜单栏翻译器小部件。
-- [ClaudeBar](https://github.com/tddworks/ClaudeBar) <img align="bottom" height="13" src="https://img.shields.io/github/stars/tddworks/ClaudeBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tddworks/ClaudeBar?style=flat&label=" /> - 帮助开发者实时监控各类 AI 编程助手的配额使用情况。
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) <img align="bottom" height="13" src="https://img.shields.io/github/stars/inderdhir/DatWeatherDoe?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/inderdhir/DatWeatherDoe?style=flat&label=" /> - 用 Swift 编写的简单菜单栏天气应用程序。
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Kwpolska/DisplayMenu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Kwpolska/DisplayMenu?style=flat&label=" /> - 简单（基本）macOS 菜单栏额外工具，用于应用显示预设。
 - [Dozer](https://github.com/Mortennn/Dozer) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Mortennn/Dozer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Mortennn/Dozer?style=flat&label=" /> - 隐藏 macOS 菜单栏项目。
@@ -390,7 +397,6 @@
 - [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/paretoSecurity/pareto-mac/?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/paretoSecurity/pareto-mac/?style=flat&label=" /> - 一个菜单栏应用程序，自动审核您的 Mac 以确保基本的安全卫生。
 - [PlayStatus](https://github.com/nbolar/PlayStatus) <img align="bottom" height="13" src="https://img.shields.io/github/stars/nbolar/PlayStatus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nbolar/PlayStatus?style=flat&label=" /> - PlayStatus 是一个 macOS 应用程序，允许从菜单栏控制 Spotify 和 iTunes 的音乐播放。
 - [Quickeys](https://github.com/alexrosenfeld10/Quickeys) <img align="bottom" height="13" src="https://img.shields.io/github/stars/alexrosenfeld10/Quickeys?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alexrosenfeld10/Quickeys?style=flat&label=" /> - 一款 macOS 菜单栏应用程序，通过快速下拉菜单提供笔记功能。
-- [Quotio](https://github.com/nguyenphutrong/quotio) <img align="bottom" height="13" src="https://img.shields.io/github/stars/nguyenphutrong/quotio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nguyenphutrong/quotio?style=flat&label=" /> - 统一管理 AI 订阅并智能切换工具。
 - [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar) <img align="bottom" height="13" src="https://img.shields.io/github/stars/DamascenoRafael/reminders-menubar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/DamascenoRafael/reminders-menubar?style=flat&label=" /> - macOS 菜单栏应用，管理 Apple Reminders，SwiftUI 开发。
 - [SoundMax](https://github.com/snap-sites/SoundMax) <img align="bottom" height="13" src="https://img.shields.io/github/stars/snap-sites/SoundMax?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/snap-sites/SoundMax?style=flat&label=" /> - 免费的开源 10 带系统均衡器 (EQ)。
 - [Shifty](https://github.com/thompsonate/Shifty) <img align="bottom" height="13" src="https://img.shields.io/github/stars/thompsonate/Shifty?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/thompsonate/Shifty?style=flat&label=" /> - macOS 菜单栏应用程序，让您更好地控制 Night Shift。
@@ -470,7 +476,6 @@
 ## 生产力
 
 - [AltTab](https://github.com/lwouis/alt-tab-macos) <img align="bottom" height="13" src="https://img.shields.io/github/stars/lwouis/alt-tab-macos?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lwouis/alt-tab-macos?style=flat&label=" /> - 将 Windows 的 Alt-Tab 功能带到 macOS。
-- [CodexBar](https://github.com/steipete/CodexBar) <img align="bottom" height="13" src="https://img.shields.io/github/stars/steipete/CodexBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/steipete/CodexBar?style=flat&label=" /> - 无需登录即可查看 OpenAI Codex 和 Claude Code 的使用统计信息。
 - [Cling](https://github.com/FuzzyIdeas/Cling) <img align="bottom" height="13" src="https://img.shields.io/github/stars/FuzzyIdeas/Cling?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/FuzzyIdeas/Cling?style=flat&label=" /> - 即时模糊搜索任何文件。
 - [Calculeta](https://github.com/varol/Calculeta) <img align="bottom" height="13" src="https://img.shields.io/github/stars/varol/Calculeta?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/varol/Calculeta?style=flat&label=" /> - 一款在菜单栏中运行的 macOS 计算器。
 - [Cash](https://github.com/thesmokinator/cash) <img align="bottom" height="13" src="https://img.shields.io/github/stars/thesmokinator/cash?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/thesmokinator/cash?style=flat&label=" /> - 个人财务管理器。
@@ -559,7 +564,6 @@
 
 ## 剪贴板
 
-- [ClipAi](https://github.com/https://github.com/michaelh03/ClipAi) <img align="bottom" height="13" src="https://img.shields.io/github/stars/https://github.com/michaelh03/ClipAi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/https://github.com/michaelh03/ClipAi?style=flat&label=" /> - 一键将复制内容发送给 AI，高效完成各类任务。
 - [Copi](https://github.com/s1ntoneli/Copi) <img align="bottom" height="13" src="https://img.shields.io/github/stars/s1ntoneli/Copi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/s1ntoneli/Copi?style=flat&label=" /> - 一个安全的替代 macOS 剪贴板。
 - [Clipy](https://github.com/Clipy/Clipy) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Clipy/Clipy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Clipy/Clipy?style=flat&label=" /> - Clipy 是一个 macOS 的剪贴板扩展应用。 
 - [ClipPocket](https://github.com/dhahd/ClipPocket) <img align="bottom" height="13" src="https://img.shields.io/github/stars/dhahd/ClipPocket?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dhahd/ClipPocket?style=flat&label=" /> - 适用于 macOS 的智能剪贴板管理器
