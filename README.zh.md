@@ -167,6 +167,7 @@
 - [ClaudeBar](https://github.com/tddworks/ClaudeBar) <img align="bottom" height="13" src="https://img.shields.io/github/stars/tddworks/ClaudeBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tddworks/ClaudeBar?style=flat&label=" /> - 帮助开发者实时监控各类 AI 编程助手的配额使用情况。
 - [CodexBar](https://github.com/steipete/CodexBar) <img align="bottom" height="13" src="https://img.shields.io/github/stars/steipete/CodexBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/steipete/CodexBar?style=flat&label=" /> - 无需登录即可查看 OpenAI Codex 和 Claude Code 的使用统计信息。
 - [ClipAi](https://github.com/https://github.com/michaelh03/ClipAi) <img align="bottom" height="13" src="https://img.shields.io/github/stars/https://github.com/michaelh03/ClipAi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/https://github.com/michaelh03/ClipAi?style=flat&label=" /> - 一键将复制内容发送给 AI，高效完成各类任务。
+- [Mac Vision Tools](https://github.com/christofilojohn/MacVisionTools) <img align="bottom" height="13" src="https://img.shields.io/github/stars/christofilojohn/MacVisionTools?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/christofilojohn/MacVisionTools?style=flat&label=" /> - 一款 macOS 菜单栏应用，实时机器学习检测。
 
 ## 加密货币
 
