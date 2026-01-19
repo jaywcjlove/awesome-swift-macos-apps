@@ -468,6 +468,7 @@
 
 ## 启动台
 
+- [Launchy](https://github.com/Punshnut/macos-launchy) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Punshnut/macos-launchy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Punshnut/macos-launchy?style=flat&label=" /> - 免费开源启动器替代品。
 - [LaunchBack](https://github.com/trey-a-12/LaunchBack) <img align="bottom" height="13" src="https://img.shields.io/github/stars/trey-a-12/LaunchBack?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/trey-a-12/LaunchBack?style=flat&label=" /> - 经典 Launchpad（Tahoe 之前）的替代实现。
 - [LaunchNext](https://github.com/RoversX/LaunchNext) <img align="bottom" height="13" src="https://img.shields.io/github/stars/RoversX/LaunchNext?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/RoversX/LaunchNext?style=flat&label=" /> - 经典 Launchpad 体验，重现旧版 macOS。
 - [LaunchNow](https://github.com/ggkevinnnn/LaunchNow) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ggkevinnnn/LaunchNow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ggkevinnnn/LaunchNow?style=flat&label=" /> - 适用于 macOS Tahoe 的启动台替代方案

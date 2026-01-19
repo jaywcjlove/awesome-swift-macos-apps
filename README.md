@@ -479,6 +479,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Launchpad
 
+- [Launchy](https://github.com/Punshnut/macos-launchy) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Punshnut/macos-launchy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Punshnut/macos-launchy?style=flat&label=" /> - Free open-source launcher alternative.
 - [LaunchBack](https://github.com/trey-a-12/LaunchBack) <img align="bottom" height="13" src="https://img.shields.io/github/stars/trey-a-12/LaunchBack?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/trey-a-12/LaunchBack?style=flat&label=" /> - An alternative implementation of the classic Launchpad (pre-Tahoe).
 - [LaunchNext](https://github.com/RoversX/LaunchNext) <img align="bottom" height="13" src="https://img.shields.io/github/stars/RoversX/LaunchNext?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/RoversX/LaunchNext?style=flat&label=" /> - Classic Launchpad experience, relive old macOS.
 - [LaunchNow](https://github.com/ggkevinnnn/LaunchNow) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ggkevinnnn/LaunchNow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ggkevinnnn/LaunchNow?style=flat&label=" /> - Alternative Launchpad for MacOS Tahoe.
