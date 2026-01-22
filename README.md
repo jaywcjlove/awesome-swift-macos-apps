@@ -175,6 +175,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Database
 
+- [PostgresGUI](https://github.com/postgresgui/postgresgui) <img align="bottom" height="13" src="https://img.shields.io/github/stars/postgresgui/postgresgui?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/postgresgui/postgresgui?style=flat&label=" /> - A native PostgreSQL client. 
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) <img align="bottom" height="13" src="https://img.shields.io/github/stars/PostgresApp/PostgresApp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PostgresApp/PostgresApp?style=flat&label=" /> - The easiest way to get started with PostgreSQL on the Mac. 
 - [Redis.app](https://github.com/jpadilla/redisapp) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jpadilla/redisapp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jpadilla/redisapp?style=flat&label=" /> - The easiest way to get started with Redis on the Mac. 
 - [mongoDB.app](https://github.com/gcollazo/mongodbapp) <img align="bottom" height="13" src="https://img.shields.io/github/stars/gcollazo/mongodbapp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gcollazo/mongodbapp?style=flat&label=" /> - The easiest way to get started with mongoDB on the Mac. 
