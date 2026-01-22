@@ -414,6 +414,7 @@
 
 - [DynamicNotchKit](https://github.com/MrKai77/DynamicNotchKit) <img align="bottom" height="13" src="https://img.shields.io/github/stars/MrKai77/DynamicNotchKit?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/MrKai77/DynamicNotchKit?style=flat&label=" /> - 让你的 macOS 应用无缝适配刘海屏时代
 - [Peninsula](https://github.com/Celve/Peninsula) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Celve/Peninsula?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Celve/Peninsula?style=flat&label=" /> - 基于 macOS 刘海的窗口管理器和消息中心
+- [Droppy](https://github.com/iordv/Droppy) <img align="bottom" height="13" src="https://img.shields.io/github/stars/iordv/Droppy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/iordv/Droppy?style=flat&label=" /> - 屏幕刘海（或动态岛）变成一个多功能工具
 - [MewNotch](https://github.com/monuk7735/mew-notch) <img align="bottom" height="13" src="https://img.shields.io/github/stars/monuk7735/mew-notch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/monuk7735/mew-notch?style=flat&label=" /> - 通过在刘海上显示音量和亮度变化，替代了默认的系统 HUD
 - [NotchDrop](https://github.com/Lakr233/NotchDrop) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Lakr233/NotchDrop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Lakr233/NotchDrop?style=flat&label=" /> - 将您的 MacBook 刘海用作灵动岛，临时存储文件并进行 AirDrop 传输
 
