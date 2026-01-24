@@ -609,6 +609,7 @@
 
 ## 实用工具
 
+- [Airwave](https://github.com/sallliisa/Airwave) <img align="bottom" height="13" src="https://img.shields.io/github/stars/sallliisa/Airwave?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sallliisa/Airwave?style=flat&label=" /> - 为 macOS 提供空间音频效果，让耳机音频更立体。
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) <img align="bottom" height="13" src="https://img.shields.io/github/stars/mortenjust/androidtool-mac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mortenjust/androidtool-mac?style=flat&label=" /> - 一键截图、视频录制、iOS 和 Android 的应用程序安装。
 - [ArchiveMounter](https://github.com/ivoronin/ArchiveMounter) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ivoronin/ArchiveMounter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ivoronin/ArchiveMounter?style=flat&label=" /> - 像磁盘映像一样挂载档案。
 - [AlwaysOnTop](https://github.com/itsabhishekolkha/AlwaysOnTop) <img align="bottom" height="13" src="https://img.shields.io/github/stars/itsabhishekolkha/AlwaysOnTop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/itsabhishekolkha/AlwaysOnTop?style=flat&label=" /> - 让你最重要的应用始终显示在 macOS 上

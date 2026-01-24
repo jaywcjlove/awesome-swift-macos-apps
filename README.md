@@ -619,6 +619,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Utilities
 
+- [Airwave](https://github.com/sallliisa/Airwave) <img align="bottom" height="13" src="https://img.shields.io/github/stars/sallliisa/Airwave?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sallliisa/Airwave?style=flat&label=" /> - Adds spatial audio to macOS for more immersive headphone sound.
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) <img align="bottom" height="13" src="https://img.shields.io/github/stars/mortenjust/androidtool-mac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mortenjust/androidtool-mac?style=flat&label=" /> - One-click screenshots, video recordings, app installation for iOS and Android 
 - [ArchiveMounter](https://github.com/ivoronin/ArchiveMounter) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ivoronin/ArchiveMounter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ivoronin/ArchiveMounter?style=flat&label=" /> - Mounts archives like disk images.
 - [AlwaysOnTop](https://github.com/itsabhishekolkha/AlwaysOnTop) <img align="bottom" height="13" src="https://img.shields.io/github/stars/itsabhishekolkha/AlwaysOnTop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/itsabhishekolkha/AlwaysOnTop?style=flat&label=" /> - Keep your most important app always visible on macOS
