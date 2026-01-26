@@ -203,7 +203,6 @@
 
 ### JSON 解析
 
-- [ipaverse](https://github.com/bahattinkoc/ipaverse) <img align="bottom" height="13" src="https://img.shields.io/github/stars/bahattinkoc/ipaverse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/bahattinkoc/ipaverse?style=flat&label=" /> - 用于下载和管理来自 App Store 的 iOS 应用。 
 - [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper) <img align="bottom" height="13" src="https://img.shields.io/github/stars/AppCraft-LLC/json-mapper?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AppCraft-LLC/json-mapper?style=flat&label=" /> - 简单的 macOS 应用，用于从 JSON 生成 Swift 对象映射类。 
 - [JSON to Model class](https://github.com/chanonly123/Json-Model-Generator) <img align="bottom" height="13" src="https://img.shields.io/github/stars/chanonly123/Json-Model-Generator?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/chanonly123/Json-Model-Generator?style=flat&label=" /> - 基于模板的高度可定制的 macOS 应用，用于从 JSON 字符串生成类，支持多种语言。 
 - [JSONExport](https://github.com/Ahmed-Ali/JSONExport) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Ahmed-Ali/JSONExport?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Ahmed-Ali/JSONExport?style=flat&label=" /> - 用于 macOS 的桌面应用，使您能够将 JSON 对象导出为带有关联构造函数、实用方法、设置器和获取器的模型类，以您喜欢的语言编写。 
@@ -255,6 +254,7 @@
 
 ## 下载器
 
+- [ipaverse](https://github.com/bahattinkoc/ipaverse) <img align="bottom" height="13" src="https://img.shields.io/github/stars/bahattinkoc/ipaverse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/bahattinkoc/ipaverse?style=flat&label=" /> - 用于下载和管理来自 App Store 的 iOS 应用。 
 - [Applite](https://github.com/milanvarady/Applite) <img align="bottom" height="13" src="https://img.shields.io/github/stars/milanvarady/Applite?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/milanvarady/Applite?style=flat&label=" /> - 用户友好的 GUI macOS 应用程序，用于 Homebrew Casks。
 - [App Downloader](https://github.com/yep/app-downloader) <img align="bottom" height="13" src="https://img.shields.io/github/stars/yep/app-downloader?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yep/app-downloader?style=flat&label=" /> - 从庞大的 `homebrew cask` 应用目录中轻松搜索和下载 macOS 应用。 
 - [Cork](https://github.com/buresdv/Cork) <img align="bottom" height="13" src="https://img.shields.io/github/stars/buresdv/Cork?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/buresdv/Cork?style=flat&label=" /> - 一个用 SwiftUI 编写的快速 Homebrew 图形界面工具。
