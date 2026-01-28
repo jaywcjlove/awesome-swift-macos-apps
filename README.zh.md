@@ -724,6 +724,7 @@
 
 ## 其他
 
+- [Cloak](https://github.com/D3OXY/Cloak) <img align="bottom" height="13" src="https://img.shields.io/github/stars/D3OXY/Cloak?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/D3OXY/Cloak?style=flat&label=" /> - 屏幕共享时保护隐私的 macOS 应用。
 - [DevDocs for macOS](https://github.com/dteoh/devdocs-macos) <img align="bottom" height="13" src="https://img.shields.io/github/stars/dteoh/devdocs-macos?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dteoh/devdocs-macos?style=flat&label=" /> - 非官方 DevDocs API 文档查看器。
 - [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) <img align="bottom" height="13" src="https://img.shields.io/github/stars/insidegui/KeyframesPlayer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/insidegui/KeyframesPlayer?style=flat&label=" /> - 简单的 macOS 应用，用于预览使用 Facebook 的关键帧框架创建的动画。
 - [Letters](https://github.com/klaaspieter/letters) <img align="bottom" height="13" src="https://img.shields.io/github/stars/klaaspieter/letters?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/klaaspieter/letters?style=flat&label=" /> - 教孩子们字母和如何打字。

@@ -722,6 +722,7 @@ saw on your Mac.
 
 ## Other
 
+- [Cloak](https://github.com/D3OXY/Cloak) <img align="bottom" height="13" src="https://img.shields.io/github/stars/D3OXY/Cloak?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/D3OXY/Cloak?style=flat&label=" /> - A macOS app that protects privacy during screen sharing.
 - [DevDocs for macOS](https://github.com/dteoh/devdocs-macos) <img align="bottom" height="13" src="https://img.shields.io/github/stars/dteoh/devdocs-macos?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dteoh/devdocs-macos?style=flat&label=" /> - An unofficial DevDocs API documentation viewer.
 - [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) <img align="bottom" height="13" src="https://img.shields.io/github/stars/insidegui/KeyframesPlayer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/insidegui/KeyframesPlayer?style=flat&label=" /> - Simple macOS app to preview animations created with Facebook's keyframes framework. 
 - [Letters](https://github.com/klaaspieter/letters) <img align="bottom" height="13" src="https://img.shields.io/github/stars/klaaspieter/letters?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/klaaspieter/letters?style=flat&label=" /> - Teach your kids the alphabet and how to type.
