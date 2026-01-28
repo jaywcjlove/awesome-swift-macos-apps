@@ -450,16 +450,6 @@
 - [Notes](https://github.com/SauvageP/Notes) <img align="bottom" height="13" src="https://img.shields.io/github/stars/SauvageP/Notes?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/SauvageP/Notes?style=flat&label=" /> - Notes 是一款 macOS 应用，旨在创建笔记，使用文本及其他格式：图像、视频、联系人等。
 - [tmpNote](https://github.com/buddax2/tmpNote) <img align="bottom" height="13" src="https://img.shields.io/github/stars/buddax2/tmpNote?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/buddax2/tmpNote?style=flat&label=" /> - 非常简单的 macOS 应用，用于做临时笔记。
 
-## 其他
-
-- [DevDocs for macOS](https://github.com/dteoh/devdocs-macos) <img align="bottom" height="13" src="https://img.shields.io/github/stars/dteoh/devdocs-macos?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dteoh/devdocs-macos?style=flat&label=" /> - 非官方 DevDocs API 文档查看器。
-- [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) <img align="bottom" height="13" src="https://img.shields.io/github/stars/insidegui/KeyframesPlayer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/insidegui/KeyframesPlayer?style=flat&label=" /> - 简单的 macOS 应用，用于预览使用 Facebook 的关键帧框架创建的动画。
-- [Letters](https://github.com/klaaspieter/letters) <img align="bottom" height="13" src="https://img.shields.io/github/stars/klaaspieter/letters?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/klaaspieter/letters?style=flat&label=" /> - 教孩子们字母和如何打字。
-- [QorumLogs](https://github.com/Esqarrouth/QorumLogs) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Esqarrouth/QorumLogs?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Esqarrouth/QorumLogs?style=flat&label=" /> - 适用于 Xcode 和 Google Docs 的 Swift 日志工具。
-- [RktMachine](https://github.com/woofwoofinc/rktmachine) <img align="bottom" height="13" src="https://img.shields.io/github/stars/woofwoofinc/rktmachine?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/woofwoofinc/rktmachine?style=flat&label=" /> - 在 macOS 超级计算机 CoreOS VM 中运行 rkt 的菜单栏 macOS 应用。
-- [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) <img align="bottom" height="13" src="https://img.shields.io/github/stars/SwiftyBeaver/SwiftyBeaver?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/SwiftyBeaver/SwiftyBeaver?style=flat&label=" /> - 在 Swift 开发和发布过程中方便的日志记录。
-- [Stand](https://github.com/asboy2035/Stand) <img align="bottom" height="13" src="https://img.shields.io/github/stars/asboy2035/Stand?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/asboy2035/Stand?style=flat&label=" /> - 记录坐着/站着的情况
-
 ## 播放器
 
 - [IINA](https://github.com/iina/iina) <img align="bottom" height="13" src="https://img.shields.io/github/stars/iina/iina?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/iina/iina?style=flat&label=" /> - 现代化的 macOS 视频播放器。
@@ -730,6 +720,17 @@
 - [SwiftShift](https://github.com/pablopunk/SwiftShift) <img align="bottom" height="13" src="https://img.shields.io/github/stars/pablopunk/SwiftShift?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/pablopunk/SwiftShift?style=flat&label=" /> - 适用于 macOS 的贴心窗口管理
 - [Topit](https://github.com/lihaoyun6/Topit) <img align="bottom" height="13" src="https://img.shields.io/github/stars/lihaoyun6/Topit?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lihaoyun6/Topit?style=flat&label=" /> - 将任何窗口固定到屏幕顶部
 - [XEasyMotion](https://github.com/h2ero/XEasyMotion) <img align="bottom" height="13" src="https://img.shields.io/github/stars/h2ero/XEasyMotion?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/h2ero/XEasyMotion?style=flat&label=" /> - 使用键盘控制鼠标。
+
+## 其他
+
+- [DevDocs for macOS](https://github.com/dteoh/devdocs-macos) <img align="bottom" height="13" src="https://img.shields.io/github/stars/dteoh/devdocs-macos?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dteoh/devdocs-macos?style=flat&label=" /> - 非官方 DevDocs API 文档查看器。
+- [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) <img align="bottom" height="13" src="https://img.shields.io/github/stars/insidegui/KeyframesPlayer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/insidegui/KeyframesPlayer?style=flat&label=" /> - 简单的 macOS 应用，用于预览使用 Facebook 的关键帧框架创建的动画。
+- [Letters](https://github.com/klaaspieter/letters) <img align="bottom" height="13" src="https://img.shields.io/github/stars/klaaspieter/letters?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/klaaspieter/letters?style=flat&label=" /> - 教孩子们字母和如何打字。
+- [QorumLogs](https://github.com/Esqarrouth/QorumLogs) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Esqarrouth/QorumLogs?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Esqarrouth/QorumLogs?style=flat&label=" /> - 适用于 Xcode 和 Google Docs 的 Swift 日志工具。
+- [RktMachine](https://github.com/woofwoofinc/rktmachine) <img align="bottom" height="13" src="https://img.shields.io/github/stars/woofwoofinc/rktmachine?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/woofwoofinc/rktmachine?style=flat&label=" /> - 在 macOS 超级计算机 CoreOS VM 中运行 rkt 的菜单栏 macOS 应用。
+- [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) <img align="bottom" height="13" src="https://img.shields.io/github/stars/SwiftyBeaver/SwiftyBeaver?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/SwiftyBeaver/SwiftyBeaver?style=flat&label=" /> - 在 Swift 开发和发布过程中方便的日志记录。
+- [Stand](https://github.com/asboy2035/Stand) <img align="bottom" height="13" src="https://img.shields.io/github/stars/asboy2035/Stand?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/asboy2035/Stand?style=flat&label=" /> - 记录坐着/站着的情况
+- [Sajda](https://github.com/apitlekays/Sajda) <img align="bottom" height="13" src="https://img.shields.io/github/stars/apitlekays/Sajda?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/apitlekays/Sajda?style=flat&label=" /> - 美丽、低调的菜单栏应用，旨在帮助你与祷告保持连接。
 
 ## License
 
