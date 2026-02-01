@@ -699,6 +699,7 @@
 - [Quick Caption](https://github.com/LumingYin/Caption) <img align="bottom" height="13" src="https://img.shields.io/github/stars/LumingYin/Caption?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/LumingYin/Caption?style=flat&label=" /> - 转录并生成字幕文件（SRT、ASS 和 FCPXML），无需手动输入时间码。
 - [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator) <img align="bottom" height="13" src="https://img.shields.io/github/stars/sahil-a/vidquizcreator?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sahil-a/vidquizcreator?style=flat&label=" /> - 在视频播放中插入测验并使用 LISNR API 将这些视频播放到接收设备的 macOS 应用程序。
 - [MarkerData](https://github.com/TheAcharya/MarkerData) <img align="bottom" height="13" src="https://img.shields.io/github/stars/TheAcharya/MarkerData?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/TheAcharya/MarkerData?style=flat&label=" /> - 为 Final Cut Pro 精心打造的先锋 Marker 提取应用。
+- [Screenize](https://github.com/syi0808/screenize) <img align="bottom" height="13" src="https://img.shields.io/github/stars/syi0808/screenize?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/syi0808/screenize?style=flat&label=" /> - 开源 macOS 屏幕录制应用，具有自动缩放、光标效果和时间线编辑功能 — Screen Studio 替代品。
 
 ## 壁纸
 
