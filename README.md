@@ -458,6 +458,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Notes
 
+- [DropNote](https://github.com/bastian-js/dropnote) <img align="bottom" height="13" src="https://img.shields.io/github/stars/bastian-js/dropnote?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/bastian-js/dropnote?style=flat&label=" /> - A minimalist macOS app for quick notes directly in the menu bar.
 - [FSNotes](https://github.com/glushchenko/fsnotes) <img align="bottom" height="13" src="https://img.shields.io/github/stars/glushchenko/fsnotes?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/glushchenko/fsnotes?style=flat&label=" /> - Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids. 
 - [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app) <img align="bottom" height="13" src="https://img.shields.io/github/stars/tuxu/nbviewer-app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tuxu/nbviewer-app?style=flat&label=" /> - Notebook viewer for macOS. 
 - [NoteTaker](https://github.com/insidegui/NoteTaker) <img align="bottom" height="13" src="https://img.shields.io/github/stars/insidegui/NoteTaker?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/insidegui/NoteTaker?style=flat&label=" /> - Simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing. 
