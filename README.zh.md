@@ -163,6 +163,7 @@
 
 ## AI
 
+- [ADHD Focus Mate](https://github.com/skainguyen1412/adhd-focus-mate) <img align="bottom" height="13" src="https://img.shields.io/github/stars/skainguyen1412/adhd-focus-mate?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/skainguyen1412/adhd-focus-mate?style=flat&label=" /> - AI 专注助手，通过温和提醒帮助您在分心时保持专注。
 - [AppleAi](https://www.theappleai.tech/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/bunnysayzz/AppleAI?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/bunnysayzz/AppleAI?style=flat&label=" /> - 一键快捷访问菜单栏中的多款 AI 助手。
 - [Quotio](https://github.com/nguyenphutrong/quotio) <img align="bottom" height="13" src="https://img.shields.io/github/stars/nguyenphutrong/quotio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nguyenphutrong/quotio?style=flat&label=" /> - 统一管理 AI 订阅并智能切换工具。
 - [ClaudeBar](https://github.com/tddworks/ClaudeBar) <img align="bottom" height="13" src="https://img.shields.io/github/stars/tddworks/ClaudeBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tddworks/ClaudeBar?style=flat&label=" /> - 帮助开发者实时监控各类 AI 编程助手的配额使用情况。
