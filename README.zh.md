@@ -216,6 +216,7 @@
 ### 其他开发
 
 - [ChefInspector](https://github.com/Yasumoto/ChefInspector) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Yasumoto/ChefInspector?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Yasumoto/ChefInspector?style=flat&label=" /> - Chef 的节点和属性查看器。
+- [Loupe](https://github.com/smughead/Loupe) <img align="bottom" height="13" src="https://img.shields.io/github/stars/smughead/Loupe?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/smughead/Loupe?style=flat&label=" /> - 为应用开发生成AI代理就绪输出的可访问性检查器。
 - [ReqRes](https://github.com/OloApps/ReqRes) <img align="bottom" height="13" src="https://img.shields.io/github/stars/OloApps/ReqRe?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/OloApps/ReqRe?style=flat&label=" /> - 用于监视、调试和模拟 HTTP(S) 请求和响应的原生 macOS 应用程序。
 
 ### Web 开发
