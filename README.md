@@ -185,6 +185,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Redis.app](https://github.com/jpadilla/redisapp) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jpadilla/redisapp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jpadilla/redisapp?style=flat&label=" /> - The easiest way to get started with Redis on the Mac. 
 - [mongoDB.app](https://github.com/gcollazo/mongodbapp) <img align="bottom" height="13" src="https://img.shields.io/github/stars/gcollazo/mongodbapp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gcollazo/mongodbapp?style=flat&label=" /> - The easiest way to get started with mongoDB on the Mac. 
 - [redis-pro](https://github.com/cmushroom/redis-pro) <img align="bottom" height="13" src="https://img.shields.io/github/stars/cmushroom/redis-pro?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/cmushroom/redis-pro?style=flat&label=" /> - Redis management with SwiftUI.
+- [Swifka](https://github.com/Ender-Wang/Swifka) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Ender-Wang/Swifka?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Ender-Wang/Swifka?style=flat&label=" /> - A lightweight Kafka client for monitoring clusters, browsing topics, and tracking consumer lag.
 
 ## Development
 

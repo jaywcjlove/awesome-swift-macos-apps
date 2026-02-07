@@ -186,6 +186,7 @@
 - [Redis.app](https://github.com/jpadilla/redisapp) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jpadilla/redisapp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jpadilla/redisapp?style=flat&label=" /> - 在 Mac 上开始使用 Redis 的最简单方法。 
 - [mongoDB.app](https://github.com/gcollazo/mongodbapp) <img align="bottom" height="13" src="https://img.shields.io/github/stars/gcollazo/mongodbapp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gcollazo/mongodbapp?style=flat&label=" /> - 在 Mac 上开始使用 mongoDB 的最简单方法。 
 - [redis-pro](https://github.com/cmushroom/redis-pro) <img align="bottom" height="13" src="https://img.shields.io/github/stars/cmushroom/redis-pro?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/cmushroom/redis-pro?style=flat&label=" /> - 使用 SwiftUI 进行 Redis 管理。 
+- [Swifka](https://github.com/Ender-Wang/Swifka) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Ender-Wang/Swifka?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Ender-Wang/Swifka?style=flat&label=" /> - 用于监控集群、浏览主题和跟踪消费者延迟的轻量级 Kafka 客户端。
 
 ## 开发
 
