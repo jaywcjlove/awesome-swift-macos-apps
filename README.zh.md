@@ -600,6 +600,7 @@
 - [Stasis](https://github.com/srimanachanta/Stasis) <img align="bottom" height="13" src="https://badgen.net/github/stars/srimanachanta/Stasis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/srimanachanta/Stasis?style=flat&label=" /> - 智能电池菜单栏工具，可实时查看电源指标并管理充电上限。
 - [SolidGlass](https://github.com/rafaelSwi/SolidGlass) <img align="bottom" height="13" src="https://badgen.net/github/stars/rafaelSwi/SolidGlass?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rafaelSwi/SolidGlass?style=flat&label=" /> - 在 macOS Tahoe 上禁用 Liquid Glass 的软件。
 - [VerticalBar](https://github.com/DeromirNeves/DockSeparator) <img align="bottom" height="13" src="https://badgen.net/github/stars/DeromirNeves/DockSeparator?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/DeromirNeves/DockSeparator?style=flat&label=" /> - 用于在 Dock 中添加垂直条的 macOS 应用程序。
+- [Voxt](https://github.com/hehehai/voxt) <img align="bottom" height="13" src="https://badgen.net/github/stars/hehehai/voxt?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/hehehai/voxt?style=flat&label=" /> - 菜单栏语音输入与翻译工具，按住说话，松开发送。
 
 ## 剪贴板
 

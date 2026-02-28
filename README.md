@@ -615,6 +615,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Stasis](https://github.com/srimanachanta/Stasis) <img align="bottom" height="13" src="https://badgen.net/github/stars/srimanachanta/Stasis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/srimanachanta/Stasis?style=flat&label=" /> - Smart battery menu bar tool for real-time power metrics and charge limit control.
 - [SolidGlass](https://github.com/rafaelSwi/SolidGlass) <img align="bottom" height="13" src="https://badgen.net/github/stars/rafaelSwi/SolidGlass?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rafaelSwi/SolidGlass?style=flat&label=" /> - Software to disable Liquid Glass on macOS Tahoe.
 - [VerticalBar](https://github.com/DeromirNeves/DockSeparator) <img align="bottom" height="13" src="https://badgen.net/github/stars/DeromirNeves/DockSeparator?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/DeromirNeves/DockSeparator?style=flat&label=" /> - macOS application to add a vertical bar to Dock. 
+- [Voxt](https://github.com/hehehai/voxt) <img align="bottom" height="13" src="https://badgen.net/github/stars/hehehai/voxt?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/hehehai/voxt?style=flat&label=" /> - Menu bar voice input and translation tool: press to talk, release to paste.
 
 ## Clipboard
 
