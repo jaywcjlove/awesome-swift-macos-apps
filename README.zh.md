@@ -474,6 +474,7 @@
 
 ## 笔记
 
+- [Apple Notes Exporter](https://github.com/kzaremski/apple-notes-exporter) <img align="bottom" height="13" src="https://badgen.net/github/stars/kzaremski/apple-notes-exporter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kzaremski/apple-notes-exporter?style=flat&label=" /> - 可批量导出 Apple Notes 的工具，支持多种格式并保留文件夹结构。
 - [DropNote](https://github.com/bastian-js/dropnote) <img align="bottom" height="13" src="https://badgen.net/github/stars/bastian-js/dropnote?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/bastian-js/dropnote?style=flat&label=" /> - 一个极简的 macOS 菜单栏快速笔记应用。
 - [FSNotes](https://github.com/glushchenko/fsnotes) <img align="bottom" height="13" src="https://badgen.net/github/stars/glushchenko/fsnotes?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/glushchenko/fsnotes?style=flat&label=" /> - 适用于 macOS/iOS 的笔记管理器：现代的记事本速度（nvALT）。
 - [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/tuxu/nbviewer-app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tuxu/nbviewer-app?style=flat&label=" /> - 用于 macOS 的笔记本查看器。
