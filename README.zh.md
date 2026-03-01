@@ -285,6 +285,7 @@
 ### Markdown
 
 - [Notenik](https://github.com/hbowie/notenik-swift) <img align="bottom" height="13" src="https://badgen.net/github/stars/hbowie/notenik-swift?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/hbowie/notenik-swift?style=flat&label=" /> - 拥有许多组织选项的笔记应用。
+- [Pixley Reader](https://github.com/Applacat/PixleyReader) <img align="bottom" height="13" src="https://badgen.net/github/stars/Applacat/PixleyReader?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Applacat/PixleyReader?style=flat&label=" /> - 用于阅读项目目录中 AI 工具生成的 Markdown 文件。
 - [Pine](https://github.com/lukakerr/Pine) <img align="bottom" height="13" src="https://badgen.net/github/stars/lukakerr/Pine?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lukakerr/Pine?style=flat&label=" /> - 现代 macOS markdown 编辑器。 
 
 ### 文本
