@@ -502,6 +502,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Notenik](https://github.com/hbowie/notenik-swift) <img align="bottom" height="13" src="https://badgen.net/github/stars/hbowie/notenik-swift?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/hbowie/notenik-swift?style=flat&label=" /> - Note-taking app with many organizational options.
 - [Notes](https://github.com/SauvageP/Notes) <img align="bottom" height="13" src="https://badgen.net/github/stars/SauvageP/Notes?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/SauvageP/Notes?style=flat&label=" /> - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc. 
 - [tmpNote](https://github.com/buddax2/tmpNote) <img align="bottom" height="13" src="https://badgen.net/github/stars/buddax2/tmpNote?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/buddax2/tmpNote?style=flat&label=" /> - Very simple macOS app to make temporary notes. 
+- [Zettel](https://github.com/AlexW00/Zettel) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexW00/Zettel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AlexW00/Zettel?style=flat&label=" /> - Minimal distraction-free note-taking app with markdown and hashtag organization.
 
 ## Player
 

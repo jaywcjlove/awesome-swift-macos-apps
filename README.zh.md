@@ -487,6 +487,7 @@
 - [Notenik](https://github.com/hbowie/notenik-swift) <img align="bottom" height="13" src="https://badgen.net/github/stars/hbowie/notenik-swift?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/hbowie/notenik-swift?style=flat&label=" /> - 具有多种组织选项的笔记应用。
 - [Notes](https://github.com/SauvageP/Notes) <img align="bottom" height="13" src="https://badgen.net/github/stars/SauvageP/Notes?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/SauvageP/Notes?style=flat&label=" /> - Notes 是一款 macOS 应用，旨在创建笔记，使用文本及其他格式：图像、视频、联系人等。
 - [tmpNote](https://github.com/buddax2/tmpNote) <img align="bottom" height="13" src="https://badgen.net/github/stars/buddax2/tmpNote?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/buddax2/tmpNote?style=flat&label=" /> - 非常简单的 macOS 应用，用于做临时笔记。
+- [Zettel](https://github.com/AlexW00/Zettel) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexW00/Zettel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AlexW00/Zettel?style=flat&label=" /> - 极简无干扰笔记工具，支持 Markdown 与标签组织。
 
 ## 播放器
 
