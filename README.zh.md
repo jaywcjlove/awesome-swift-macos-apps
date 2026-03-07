@@ -451,6 +451,7 @@
 
 ## 刘海应用
 
+- [Atoll](https://github.com/Ebullioscopic/Atoll) <img align="bottom" height="13" src="https://badgen.net/github/stars/Ebullioscopic/Atoll?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Ebullioscopic/Atoll?style=flat&label=" /> - 把刘海区域变成可扩展的控制中心，集中处理媒体、实时活动、小组件和常用工具。
 - [DynamicNotchKit](https://github.com/MrKai77/DynamicNotchKit) <img align="bottom" height="13" src="https://badgen.net/github/stars/MrKai77/DynamicNotchKit?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/MrKai77/DynamicNotchKit?style=flat&label=" /> - 让你的 macOS 应用无缝适配刘海屏时代
 - [Peninsula](https://github.com/Celve/Peninsula) <img align="bottom" height="13" src="https://badgen.net/github/stars/Celve/Peninsula?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Celve/Peninsula?style=flat&label=" /> - 基于 macOS 刘海的窗口管理器和消息中心
 - [Droppy](https://github.com/iordv/Droppy) <img align="bottom" height="13" src="https://badgen.net/github/stars/iordv/Droppy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/iordv/Droppy?style=flat&label=" /> - 屏幕刘海（或动态岛）变成一个多功能工具

@@ -454,6 +454,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Notch App
 
+- [Atoll](https://github.com/Ebullioscopic/Atoll) <img align="bottom" height="13" src="https://badgen.net/github/stars/Ebullioscopic/Atoll?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Ebullioscopic/Atoll?style=flat&label=" /> - Turns the notch into a dynamic control hub for media, live activities, widgets, and quick utilities.
 - [DynamicNotchKit](https://github.com/MrKai77/DynamicNotchKit) <img align="bottom" height="13" src="https://badgen.net/github/stars/MrKai77/DynamicNotchKit?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/MrKai77/DynamicNotchKit?style=flat&label=" /> - Seamlessly adapt your macOS app to the notch era.
 - [Peninsula](https://github.com/Celve/Peninsula) <img align="bottom" height="13" src="https://badgen.net/github/stars/Celve/Peninsula?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Celve/Peninsula?style=flat&label=" /> - Window manager and notification center based on macOS notch.
 - [Droppy](https://github.com/iordv/Droppy) <img align="bottom" height="13" src="https://badgen.net/github/stars/iordv/Droppy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/iordv/Droppy?style=flat&label=" /> - Turns your screen's notch (or Dynamic Island) into a multifunctional tool.
