@@ -191,6 +191,7 @@ is list features a curated selection of open-source macOS applications developed
 - [mongoDB.app](https://github.com/gcollazo/mongodbapp) <img align="bottom" height="13" src="https://badgen.net/github/stars/gcollazo/mongodbapp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gcollazo/mongodbapp?style=flat&label=" /> - The easiest way to get started with mongoDB on the Mac. 
 - [redis-pro](https://github.com/cmushroom/redis-pro) <img align="bottom" height="13" src="https://badgen.net/github/stars/cmushroom/redis-pro?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/cmushroom/redis-pro?style=flat&label=" /> - Redis management with SwiftUI.
 - [Swifka](https://github.com/Ender-Wang/Swifka) <img align="bottom" height="13" src="https://badgen.net/github/stars/Ender-Wang/Swifka?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Ender-Wang/Swifka?style=flat&label=" /> - A lightweight Kafka client for monitoring clusters, browsing topics, and tracking consumer lag.
+- [TablePro](https://github.com/datlechin/TablePro) <img align="bottom" height="13" src="https://badgen.net/github/stars/datlechin/TablePro?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/datlechin/TablePro?style=flat&label=" /> - Multi-database client with SQL autocomplete, inline editing, and built-in AI assistance.
 
 ## Development
 
