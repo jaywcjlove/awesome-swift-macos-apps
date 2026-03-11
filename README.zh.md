@@ -224,6 +224,7 @@
 - [Loupe](https://github.com/smughead/Loupe) <img align="bottom" height="13" src="https://badgen.net/github/stars/smughead/Loupe?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/smughead/Loupe?style=flat&label=" /> - 为应用开发生成AI代理就绪输出的可访问性检查器。
 - [Poirot](https://github.com/LeonardoCardoso/Poirot) <img align="bottom" height="13" src="https://badgen.net/github/stars/LeonardoCardoso/Poirot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/LeonardoCardoso/Poirot?style=flat&label=" /> - Claude Code 会话浏览伴侣应用，支持探索差异和重新运行命令。
 - [ReqRes](https://github.com/OloApps/ReqRes) <img align="bottom" height="13" src="https://badgen.net/github/stars/OloApps/ReqRe?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/OloApps/ReqRe?style=flat&label=" /> - 用于监视、调试和模拟 HTTP(S) 请求和响应的原生 macOS 应用程序。
+- [Supacode](https://github.com/supabitapp/supacode) <img align="bottom" height="13" src="https://badgen.net/github/stars/supabitapp/supacode?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/supabitapp/supacode?style=flat&label=" /> - 面向终端编码代理的原生命令中心。
 
 ### Web 开发
 

@@ -223,6 +223,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Loupe](https://github.com/smughead/Loupe) <img align="bottom" height="13" src="https://badgen.net/github/stars/smughead/Loupe?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/smughead/Loupe?style=flat&label=" /> - An accessibility inspector that generates AI-agent-ready output for app development.
 - [Poirot](https://github.com/LeonardoCardoso/Poirot) <img align="bottom" height="13" src="https://badgen.net/github/stars/LeonardoCardoso/Poirot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/LeonardoCardoso/Poirot?style=flat&label=" /> - A macOS companion app for browsing Claude Code sessions, exploring diffs, and re-running commands. Built with Swift 6 and SwiftUI.
 - [ReqRes](https://github.com/OloApps/ReqRes) <img align="bottom" height="13" src="https://badgen.net/github/stars/OloApps/ReqRe?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/OloApps/ReqRe?style=flat&label=" /> - Native macOS app to monitor, debug, and mock HTTP(S) requests and responses.
+- [Supacode](https://github.com/supabitapp/supacode) <img align="bottom" height="13" src="https://badgen.net/github/stars/supabitapp/supacode?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/supabitapp/supacode?style=flat&label=" /> - Native command center for terminal coding agents.
 
 ### Web Development
 
