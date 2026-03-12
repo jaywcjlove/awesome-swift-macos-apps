@@ -509,6 +509,7 @@
 ## 播客
 
 - [Doughnut](https://github.com/dyerc/Doughnut) <img align="bottom" height="13" src="https://badgen.net/github/stars/dyerc/Doughnut?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dyerc/Doughnut?style=flat&label=" /> - macOS 的播客播放器和库。
+- [Newcast](https://github.com/nbolar/Newcast) <img align="bottom" height="13" src="https://badgen.net/github/stars/nbolar/Newcast?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nbolar/Newcast?style=flat&label=" /> - 轻量级第三方播客播放器，专注于简洁的收听体验。
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/PodcastMenu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/insidegui/PodcastMenu?style=flat&label=" /> - PodcastMenu 是一个简单的应用程序，将 [Overcast](https://overcast.fm/) 放在 Mac 的菜单栏中，以便您在工作时收听自己喜欢的播客。
 
 ## 启动台

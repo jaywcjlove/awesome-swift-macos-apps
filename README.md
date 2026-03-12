@@ -524,6 +524,7 @@ is list features a curated selection of open-source macOS applications developed
 ## Podcast
 
 - [Doughnut](https://github.com/dyerc/Doughnut) <img align="bottom" height="13" src="https://badgen.net/github/stars/dyerc/Doughnut?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dyerc/Doughnut?style=flat&label=" /> - Podcast player and library for mac
+- [Newcast](https://github.com/nbolar/Newcast) <img align="bottom" height="13" src="https://badgen.net/github/stars/nbolar/Newcast?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nbolar/Newcast?style=flat&label=" /> - Lightweight third-party podcast player focused on a clean listening experience.
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/PodcastMenu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/insidegui/PodcastMenu?style=flat&label=" /> - PodcastMenu is a simple app which puts [Overcast](https://overcast.fm/) on your Mac's menu bar so you can listen to your favorite podcasts while you work. 
 
 ## Launchpad
