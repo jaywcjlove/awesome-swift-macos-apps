@@ -42,7 +42,7 @@
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-048754?logo=buymeacoffee)](https://jaywcjlove.github.io/#/sponsor)
 [![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://x.com/jaywcjlove)
-[![Awesome Mac](https://img.shields.io/badge/Awesome%20Mac-057f95?logo=awesomelists)](https://github.com/jaywcjlove/awesome-mac)
+[![Awesome Mac](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
 [![english](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
 
 此列表精选了 `Swift` 开发的开源 macOS 应用，涵盖从生产力工具到实用工具的广泛场景。对于 macOS 开发者，这些应用展示了 `Swift` 的多种实现方式，并提供了高质量的代码示例和最佳实践，帮助您掌握用户界面构建、系统性能优化、菜单栏应用集成等 macOS 特定技巧，是提升开发技能的宝贵资源库。
