@@ -182,6 +182,7 @@
 - [Mac Vision Tools](https://github.com/christofilojohn/MacVisionTools) <img align="bottom" height="13" src="https://badgen.net/github/stars/christofilojohn/MacVisionTools?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/christofilojohn/MacVisionTools?style=flat&label=" /> - 一款 macOS 菜单栏应用，实时机器学习检测。
 - [Mask This](https://github.com/tseylerd/MaskThis) <img align="bottom" height="13" src="https://badgen.net/github/stars/tseylerd/MaskThis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tseylerd/MaskThis?style=flat&label=" /> - 使用端侧 AI 实时检测并遮蔽剪贴板敏感文本的隐私工具。
 - [Osaurus](https://github.com/dinoki-ai/osaurus) <img align="bottom" height="13" src="https://badgen.net/github/stars/dinoki-ai/osaurus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dinoki-ai/osaurus?style=flat&label=" /> - macOS AI 基础设施，支持本地云端模型和跨应用工具共享。
+- [Fazm](https://github.com/m13v/fazm) <img align="bottom" height="13" src="https://badgen.net/github/stars/m13v/fazm?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/m13v/fazm?style=flat&label=" /> - 基于辅助功能 API、ScreenCaptureKit 和 WhisperKit 的开源语音控制 AI 代理。
 
 ## 加密货币
 
