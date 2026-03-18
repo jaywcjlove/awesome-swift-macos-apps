@@ -36,6 +36,28 @@
 </div>
 <hr>
 
+<div align="center" markdown="1">
+  <sup>Special thanks to:</sup>
+  <br>
+  <br>
+  
+  <a href="https://screensage.pro/">
+    <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
+  </a>
+  <br>
+  <a href="https://screensage.pro/">ScreenSage Pro, record beautiful screen recordings in minutes on macOS</a>
+  <br><br>
+
+  <a href="https://ip.im/">
+    <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
+  </a>
+  <br>
+  <a href="https://ip.im/">IP.IM Free IP address information query website</a>
+  <br><br>
+
+</div>
+<hr>
+
 Awesome open-source Swift macOS Apps
 ===
 <!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
