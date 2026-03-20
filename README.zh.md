@@ -251,6 +251,7 @@
 ### 其他开发
 
 - [ChefInspector](https://github.com/Yasumoto/ChefInspector) <img align="bottom" height="13" src="https://badgen.net/github/stars/Yasumoto/ChefInspector?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Yasumoto/ChefInspector?style=flat&label=" /> - Chef 的节点和属性查看器。
+- [DMG Maker](https://github.com/saihgupr/DMGMaker) <img align="bottom" height="13" src="https://badgen.net/github/stars/saihgupr/DMGMaker?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/saihgupr/DMGMaker?style=flat&label=" /> - 用于创建精美 DMG 安装镜像的工具。
 - [Loupe](https://github.com/smughead/Loupe) <img align="bottom" height="13" src="https://badgen.net/github/stars/smughead/Loupe?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/smughead/Loupe?style=flat&label=" /> - 为应用开发生成AI代理就绪输出的可访问性检查器。
 - [Poirot](https://github.com/LeonardoCardoso/Poirot) <img align="bottom" height="13" src="https://badgen.net/github/stars/LeonardoCardoso/Poirot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/LeonardoCardoso/Poirot?style=flat&label=" /> - Claude Code 会话浏览伴侣应用，支持探索差异和重新运行命令。
 - [RegExPlus](https://github.com/lexrus/RegExPlus) <img align="bottom" height="13" src="https://badgen.net/github/stars/lexrus/RegExPlus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lexrus/RegExPlus?style=flat&label=" /> - 基于 SwiftUI 的轻量级正则表达式测试工具。
