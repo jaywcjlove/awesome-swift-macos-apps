@@ -613,6 +613,7 @@
 
 ## 安全
 
+- [Lockpaw](https://github.com/sorkila/lockpaw) <img align="bottom" height="13" src="https://badgen.net/github/stars/sorkila/lockpaw?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sorkila/lockpaw?style=flat&label=" /> - 菜单栏屏幕守卫 — 使用快捷键锁定/解锁显示器，支持 Touch ID 备用解锁。
 - [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) <img align="bottom" height="13" src="https://badgen.net/github/stars/paretoSecurity/pareto-mac/?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/paretoSecurity/pareto-mac/?style=flat&label=" /> - 一个菜单栏应用，自动审核您的 Mac 以确保基本的安全卫生。
 - [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/smmr-software/privacy-redirect-safari?style=flat&label=" /> - 重定向到隐私友好的替代品。
 - [Sentry](https://github.com/Lakr233/Sentry) <img align="bottom" height="13" src="https://badgen.net/github/stars/Lakr233/Sentry?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Lakr233/Sentry?style=flat&label=" /> - 安全监控工具，在你离开电脑时，实时监测设备状态；一旦检测到异常，立即触发报警、发送通知，并自动录制视频。
