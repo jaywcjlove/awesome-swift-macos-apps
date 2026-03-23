@@ -52,7 +52,14 @@
     <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
   </a>
   <br>
-  <a href="https://ip.im/">IP.IM Free IP address information query website</a>
+  <a href="https://ip.im/">IP.IM, Free IP address information query website</a>
+  <br><br>
+
+  <a href="https://hipixel.5km.tech/">
+    <img alt="HiPixel" width="400" src="https://jaywcjlove.github.io/sponsor/HiPixel.jpeg">
+  </a>
+  <br>
+  <a href="https://hipixel.5km.tech/">HiPixel, An AI image super-resolution (upscaling and enhancement) tool designed specifically for macOS</a>
   <br><br>
 
 </div>
