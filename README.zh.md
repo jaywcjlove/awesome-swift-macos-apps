@@ -653,6 +653,7 @@
 
 ## 清理卸载
 
+- [App Uninstaller](https://github.com/kamjin3086/AppUninstaller) <img align="bottom" height="13" src="https://badgen.net/github/stars/kamjin3086/AppUninstaller?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kamjin3086/AppUninstaller?style=flat&label=" /> - 支持拖放操作的轻量应用卸载工具。
 - [Atlas](https://github.com/CSZHK/CleanMyPc) <img align="bottom" height="13" src="https://badgen.net/github/stars/CSZHK/CleanMyPc?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/CSZHK/CleanMyPc?style=flat&label=" /> - 用于诊断、清理、卸载和恢复系统的可回退维护工作台。
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) <img align="bottom" height="13" src="https://badgen.net/github/stars/Kevin-De-Koninck/Clean-Me?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Kevin-De-Koninck/Clean-Me?style=flat&label=" /> - 小型 macOS 应用程序，用作系统清理工具（日志、缓存等）。
 - [ClearDisk](https://github.com/bysiber/cleardisk) <img align="bottom" height="13" src="https://badgen.net/github/stars/bysiber/cleardisk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/bysiber/cleardisk?style=flat&label=" /> - macOS 菜单栏工具，监控 44+ 开发者缓存路径并帮助回收磁盘空间。
