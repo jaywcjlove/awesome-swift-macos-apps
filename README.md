@@ -884,6 +884,16 @@ saw on your Mac.
 - [Stand](https://github.com/asboy2035/Stand) <img align="bottom" height="13" src="https://badgen.net/github/stars/asboy2035/Stand?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/asboy2035/Stand?style=flat&label=" /> - Keep track of sitting/standing
 - [Sajda](https://github.com/apitlekays/Sajda) <img align="bottom" height="13" src="https://badgen.net/github/stars/apitlekays/Sajda?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/apitlekays/Sajda?style=flat&label=" /> - A beautiful, unobtrusive menu bar application designed to keep you connected with your prayers.
 
+## Contributors
+
+As always, thanks to our amazing contributors!
+
+<a href="https://github.com/jaywcjlove/awesome-swift-macos-apps/graphs/contributors">
+  <img src="https://jaywcjlove.github.io/awesome-swift-macos-apps/CONTRIBUTORS.svg" />
+</a>
+
+Made with [Contributors](https://github.com/jaywcjlove/github-action-contributors).
+
 ## License
 
 [![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)

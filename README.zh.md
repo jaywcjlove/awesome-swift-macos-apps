@@ -881,6 +881,16 @@
 - [Stand](https://github.com/asboy2035/Stand) <img align="bottom" height="13" src="https://badgen.net/github/stars/asboy2035/Stand?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/asboy2035/Stand?style=flat&label=" /> - 记录坐着/站着的情况
 - [Sajda](https://github.com/apitlekays/Sajda) <img align="bottom" height="13" src="https://badgen.net/github/stars/apitlekays/Sajda?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/apitlekays/Sajda?style=flat&label=" /> - 美丽、低调的菜单栏应用，旨在帮助你与祷告保持连接。
 
+## 贡献者
+
+一如既往，感谢这些出色的贡献者！
+
+<a href="https://github.com/jaywcjlove/awesome-swift-macos-apps/graphs/contributors">
+  <img src="https://jaywcjlove.github.io/awesome-swift-macos-apps/CONTRIBUTORS.svg" />
+</a>
+
+由 [Contributors](https://github.com/jaywcjlove/github-action-contributors) 生成。
+
 ## License
 
 [![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
