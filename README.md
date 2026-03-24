@@ -567,6 +567,7 @@ is list features a curated selection of open-source macOS applications developed
 
 - [IINA](https://github.com/iina/iina) <img align="bottom" height="13" src="https://badgen.net/github/stars/iina/iina?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/iina/iina?style=flat&label=" /> - The modern video player for macOS. 
 - [MyMedia](https://github.com/photangralenphie/MyMedia) <img align="bottom" height="13" src="https://badgen.net/github/stars/photangralenphie/MyMedia?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/photangralenphie/MyMedia?style=flat&label=" /> - Local movie and TV show viewer, Apple TV alternative.
+- [Pars Player](https://github.com/htutuncu/Pars-Player) <img align="bottom" height="13" src="https://badgen.net/github/stars/htutuncu/Pars-Player?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/htutuncu/Pars-Player?style=flat&label=" /> - IPTV player for loading M3U playlists and watching live streams.
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wulkano/Plug?style=flat&label=" /> - Discover and listen to music from Hype Machine.
 
 ## Podcast

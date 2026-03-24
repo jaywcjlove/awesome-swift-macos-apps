@@ -552,6 +552,7 @@
 
 - [IINA](https://github.com/iina/iina) <img align="bottom" height="13" src="https://badgen.net/github/stars/iina/iina?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/iina/iina?style=flat&label=" /> - 现代化的 macOS 视频播放器。
 - [MyMedia](https://github.com/photangralenphie/MyMedia) <img align="bottom" height="13" src="https://badgen.net/github/stars/photangralenphie/MyMedia?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/photangralenphie/MyMedia?style=flat&label=" /> - 本地电影和电视节目展示应用，Apple TV 替代品。
+- [Pars Player](https://github.com/htutuncu/Pars-Player) <img align="bottom" height="13" src="https://badgen.net/github/stars/htutuncu/Pars-Player?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/htutuncu/Pars-Player?style=flat&label=" /> - 用于加载 M3U 播放列表并观看 IPTV 直播的播放器。
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wulkano/Plug?style=flat&label=" /> - 从 Hype Machine 中发现和收听音乐。
 
 ## 播客
