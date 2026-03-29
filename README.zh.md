@@ -217,6 +217,7 @@
 - [Mask This](https://github.com/tseylerd/MaskThis) <img align="bottom" height="13" src="https://badgen.net/github/stars/tseylerd/MaskThis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tseylerd/MaskThis?style=flat&label=" /> - 使用端侧 AI 实时检测并遮蔽剪贴板敏感文本的隐私工具。
 - [Osaurus](https://github.com/dinoki-ai/osaurus) <img align="bottom" height="13" src="https://badgen.net/github/stars/dinoki-ai/osaurus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dinoki-ai/osaurus?style=flat&label=" /> - macOS AI 基础设施，支持本地云端模型和跨应用工具共享。
 - [Fazm](https://github.com/m13v/fazm) <img align="bottom" height="13" src="https://badgen.net/github/stars/m13v/fazm?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/m13v/fazm?style=flat&label=" /> - 基于辅助功能 API、ScreenCaptureKit 和 WhisperKit 的开源语音控制 AI 代理。
+- [lil agents](https://github.com/ryanstephen/lil-agents) <img align="bottom" height="13" src="https://badgen.net/github/stars/ryanstephen/lil-agents?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ryanstephen/lil-agents?style=flat&label=" /> - 常驻 Dock 的迷你 AI 伙伴，可打开面向编码助手的主题聊天终端。
 
 ## 加密货币
 
