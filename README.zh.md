@@ -522,6 +522,7 @@
 - [Droppy](https://github.com/iordv/Droppy) <img align="bottom" height="13" src="https://badgen.net/github/stars/iordv/Droppy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/iordv/Droppy?style=flat&label=" /> - 屏幕刘海（或动态岛）变成一个多功能工具
 - [MewNotch](https://github.com/monuk7735/mew-notch) <img align="bottom" height="13" src="https://badgen.net/github/stars/monuk7735/mew-notch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/monuk7735/mew-notch?style=flat&label=" /> - 通过在刘海上显示音量和亮度变化，替代了默认的系统 HUD
 - [NotchDrop](https://github.com/Lakr233/NotchDrop) <img align="bottom" height="13" src="https://badgen.net/github/stars/Lakr233/NotchDrop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Lakr233/NotchDrop?style=flat&label=" /> - 将您的 MacBook 刘海用作灵动岛，临时存储文件并进行 AirDrop 传输
+- [NotchMore](https://github.com/Codseus/NotchMore) <img align="bottom" height="13" src="https://badgen.net/github/stars/Codseus/NotchMore?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Codseus/NotchMore?style=flat&label=" /> - 把 MacBook 刘海周围区域变成集成多种实用功能的紧凑控制面板。
 
 ## 音乐
 
