@@ -164,6 +164,7 @@
 - [TypeNo](https://github.com/marswaveai/TypeNo) <img align="bottom" height="13" src="https://badgen.net/github/stars/marswaveai/TypeNo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/marswaveai/TypeNo?style=flat&label=" /> - 本地语音输入工具，可将语音转写后直接粘贴到当前应用。
 - [jmc](https://github.com/jcm93/jmc) <img align="bottom" height="13" src="https://badgen.net/github/stars/jcm93/jmc?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jcm93/jmc?style=flat&label=" /> - macOS 媒体管理器。   
 - [waveSDR](https://github.com/getoffmyhack/waveSDR) <img align="bottom" height="13" src="https://badgen.net/github/stars/getoffmyhack/waveSDR?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/getoffmyhack/waveSDR?style=flat&label=" /> - 无线电接收应用。
+- [VoiceInput](https://github.com/yetone/voice-input-dist) <img align="bottom" height="13" src="https://badgen.net/github/stars/yetone/voice-input-dist?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yetone/voice-input-dist?style=flat&label=" /> - 实时语音转文字菜单栏工具，可将转写内容直接输入到当前聚焦应用。
 - [VoiceInk](https://github.com/Beingpax/VoiceInk) <img align="bottom" height="13" src="https://badgen.net/github/stars/Beingpax/VoiceInk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Beingpax/VoiceInk?style=flat&label=" /> - 实时语音转文字工具。
 
 ## 备份
