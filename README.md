@@ -725,6 +725,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Clipboard
 
+- [Buffer](https://github.com/samirpatil2000/Buffer) <img align="bottom" height="13" src="https://badgen.net/github/stars/samirpatil2000/Buffer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/samirpatil2000/Buffer?style=flat&label=" /> - Lightweight macOS clipboard manager with text, image, and on-device OCR history.
 - [Copi](https://github.com/s1ntoneli/Copi) <img align="bottom" height="13" src="https://badgen.net/github/stars/s1ntoneli/Copi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/s1ntoneli/Copi?style=flat&label=" /> - A Secure Alternative to macOS Clipboard.
 - [Clipy](https://github.com/Clipy/Clipy) <img align="bottom" height="13" src="https://badgen.net/github/stars/Clipy/Clipy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Clipy/Clipy?style=flat&label=" /> - Clipy is a Clipboard extension app for macOS. 
 - [ClipPocket](https://github.com/dhahd/ClipPocket) <img align="bottom" height="13" src="https://badgen.net/github/stars/dhahd/ClipPocket?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dhahd/ClipPocket?style=flat&label=" /> - Your Smart Clipboard Manager for macOS.

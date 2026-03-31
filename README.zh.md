@@ -708,6 +708,7 @@
 
 ## 剪贴板
 
+- [Buffer](https://github.com/samirpatil2000/Buffer) <img align="bottom" height="13" src="https://badgen.net/github/stars/samirpatil2000/Buffer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/samirpatil2000/Buffer?style=flat&label=" /> - 轻量级 macOS 剪贴板管理器，支持文本、图片和端侧 OCR 历史记录。
 - [Copi](https://github.com/s1ntoneli/Copi) <img align="bottom" height="13" src="https://badgen.net/github/stars/s1ntoneli/Copi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/s1ntoneli/Copi?style=flat&label=" /> - 一个安全的替代 macOS 剪贴板。
 - [Clipy](https://github.com/Clipy/Clipy) <img align="bottom" height="13" src="https://badgen.net/github/stars/Clipy/Clipy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Clipy/Clipy?style=flat&label=" /> - Clipy 是一个 macOS 的剪贴板扩展应用。 
 - [ClipPocket](https://github.com/dhahd/ClipPocket) <img align="bottom" height="13" src="https://badgen.net/github/stars/dhahd/ClipPocket?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dhahd/ClipPocket?style=flat&label=" /> - 适用于 macOS 的智能剪贴板管理器
