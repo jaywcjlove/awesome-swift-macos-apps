@@ -645,6 +645,7 @@
 
 ## 安全
 
+- [ClearanceKit](https://github.com/craigjbass/clearancekit) <img align="bottom" height="13" src="https://badgen.net/github/stars/craigjbass/clearancekit?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/craigjbass/clearancekit?style=flat&label=" /> - 基于代码签名策略保护指定路径并阻止未授权进程访问的文件访问控制工具。
 - [Lockpaw](https://github.com/sorkila/lockpaw) <img align="bottom" height="13" src="https://badgen.net/github/stars/sorkila/lockpaw?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sorkila/lockpaw?style=flat&label=" /> - 菜单栏屏幕守卫 — 使用快捷键锁定/解锁显示器，支持 Touch ID 备用解锁。
 - [Noxkey](https://github.com/No-Box-Dev/Noxkey) <img align="bottom" height="13" src="https://badgen.net/github/stars/No-Box-Dev/Noxkey?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/No-Box-Dev/Noxkey?style=flat&label=" /> - 基于钥匙串并支持 Touch ID 的密钥管理工具，可安全保存 API Key 等敏感信息。
 - [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) <img align="bottom" height="13" src="https://badgen.net/github/stars/paretoSecurity/pareto-mac/?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/paretoSecurity/pareto-mac/?style=flat&label=" /> - 一个菜单栏应用，自动审核您的 Mac 以确保基本的安全卫生。
