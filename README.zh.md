@@ -427,7 +427,7 @@
 - [Quick Draw](https://github.com/maxchuquimia/quickdraw) <img align="bottom" height="13" src="https://badgen.net/github/stars/maxchuquimia/quickdraw?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/maxchuquimia/quickdraw?style=flat&label=" /> - 用于在屏幕上绘图的应用，非常适合快速截图和演示。
 - [Screenbar](https://github.com/crilleengvall/Screenbar) <img align="bottom" height="13" src="https://badgen.net/github/stars/crilleengvall/Screenbar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/crilleengvall/Screenbar?style=flat&label=" /> - macOS 菜单栏应用程序，用于自动截图。
 - [ScreenCut](https://github.com/VCBSstudio/ScreenCut) <img align="bottom" height="13" src="https://badgen.net/github/stars/VCBSstudio/ScreenCut?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/VCBSstudio/ScreenCut?style=flat&label=" /> - Mac 平台上的截图功能。
-
+- [SakuraWallpaper](https://github.com/yueseqaz/SakuraWallpaper)<img align="bottom" height="13" src="https://badgen.net/github/stars/yueseqaz/SakuraWallpaper?style=flat&label=" /><img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yueseqaz/SakuraWallpaper?style=flat&label=" /> - Mac菜单栏视频壁纸应用，原生且轻量。
 ## 键盘
 
 - [AnnePro-mac](https://github.com/msvisser/AnnePro-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/msvisser/AnnePro-mac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/msvisser/AnnePro-mac?style=flat&label=" /> - macOS 应用程序，用于通过蓝牙控制 AnnePro 键盘。
