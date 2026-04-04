@@ -196,6 +196,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Local LLM
 
+- [apfel](https://github.com/Arthur-Ficial/apfel) <img align="bottom" height="13" src="https://badgen.net/github/stars/Arthur-Ficial/apfel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Arthur-Ficial/apfel?style=flat&label=" /> - CLI and OpenAI-compatible local server for Apple's on-device foundation model.
 - [LlamaBarn](https://github.com/ggml-org/LlamaBarn) <img align="bottom" height="13" src="https://badgen.net/github/stars/ggml-org/LlamaBarn?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ggml-org/LlamaBarn?style=flat&label=" /> - A menu bar app to easily install, run, and access local LLMs on your Mac.
 - [Osaurus](https://github.com/dinoki-ai/osaurus) <img align="bottom" height="13" src="https://badgen.net/github/stars/dinoki-ai/osaurus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dinoki-ai/osaurus?style=flat&label=" /> - Local LLM server and AI infrastructure with menu bar, CLI, and shared tools.
 - [Sidekick](https://github.com/johnbean393/Sidekick) <img align="bottom" height="13" src="https://badgen.net/github/stars/johnbean393/Sidekick?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/johnbean393/Sidekick?style=flat&label=" /> - Chat with a local LLM on macOS using your files — no extra setup.

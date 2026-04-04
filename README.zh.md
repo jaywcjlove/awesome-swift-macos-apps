@@ -196,6 +196,7 @@
 
 ## 本地 LLM
 
+- [apfel](https://github.com/Arthur-Ficial/apfel) <img align="bottom" height="13" src="https://badgen.net/github/stars/Arthur-Ficial/apfel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Arthur-Ficial/apfel?style=flat&label=" /> - 基于 Apple 设备端基础模型的 CLI 和 OpenAI 兼容本地服务。
 - [LlamaBarn](https://github.com/ggml-org/LlamaBarn) <img align="bottom" height="13" src="https://badgen.net/github/stars/ggml-org/LlamaBarn?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ggml-org/LlamaBarn?style=flat&label=" /> - 菜单栏应用，轻松在 Mac 上安装、运行并访问本地 LLM。
 - [Osaurus](https://github.com/dinoki-ai/osaurus) <img align="bottom" height="13" src="https://badgen.net/github/stars/dinoki-ai/osaurus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dinoki-ai/osaurus?style=flat&label=" /> - 集成菜单栏、命令行与工具共享的本地 LLM 服务器和 AI 基础设施。
 - [Sidekick](https://github.com/johnbean393/Sidekick) <img align="bottom" height="13" src="https://badgen.net/github/stars/johnbean393/Sidekick?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/johnbean393/Sidekick?style=flat&label=" /> - 在 macOS 上用你的文件与本地 LLM 对话，无需额外配置。
