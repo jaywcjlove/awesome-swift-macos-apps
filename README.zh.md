@@ -653,6 +653,7 @@
 - [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/smmr-software/privacy-redirect-safari?style=flat&label=" /> - 重定向到隐私友好的替代品。
 - [SaneHosts](https://github.com/sane-apps/SaneHosts) <img align="bottom" height="13" src="https://badgen.net/github/stars/sane-apps/SaneHosts?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sane-apps/SaneHosts?style=flat&label=" /> - 用于拦截广告、跟踪器和恶意域名的 hosts 文件管理工具。
 - [Sentry](https://github.com/Lakr233/Sentry) <img align="bottom" height="13" src="https://badgen.net/github/stars/Lakr233/Sentry?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Lakr233/Sentry?style=flat&label=" /> - 在你离开时对异常活动发出提醒的安全监控工具。
+- [TouchBridge](https://github.com/HMAKT99/UnTouchID) <img align="bottom" height="13" src="https://badgen.net/github/stars/HMAKT99/UnTouchID?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/HMAKT99/UnTouchID?style=flat&label=" /> - 用手机、手表或浏览器生物识别完成 sudo 与解锁等身份验证。
 
 ## 文件共享
 

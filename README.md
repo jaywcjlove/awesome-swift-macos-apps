@@ -669,6 +669,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Privacy Redirect for Safari](https://github.com/smmr-software/privacy-redirect-safari) <img align="bottom" height="13" src="https://badgen.net/github/stars/smmr-software/privacy-redirect-safari?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/smmr-software/privacy-redirect-safari?style=flat&label=" /> - Redirect to privacy-friendly alternatives.
 - [SaneHosts](https://github.com/sane-apps/SaneHosts) <img align="bottom" height="13" src="https://badgen.net/github/stars/sane-apps/SaneHosts?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sane-apps/SaneHosts?style=flat&label=" /> - Hosts file manager for blocking ads, trackers, and malware.
 - [Sentry](https://github.com/Lakr233/Sentry) <img align="bottom" height="13" src="https://badgen.net/github/stars/Lakr233/Sentry?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Lakr233/Sentry?style=flat&label=" /> - Security monitor that alerts on activity while you're away.
+- [TouchBridge](https://github.com/HMAKT99/UnTouchID) <img align="bottom" height="13" src="https://badgen.net/github/stars/HMAKT99/UnTouchID?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/HMAKT99/UnTouchID?style=flat&label=" /> - Authenticate actions like sudo and screen unlock with your phone, watch, or browser biometrics.
 
 ## Sharing Files
 
