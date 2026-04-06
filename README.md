@@ -313,6 +313,7 @@ is list features a curated selection of open-source macOS applications developed
 - [WWDC.srt](https://github.com/ssamadgh/WWDCsrt) <img align="bottom" height="13" src="https://badgen.net/github/stars/ssamadgh/WWDCsrt?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ssamadgh/WWDCsrt?style=flat&label=" /> - Subtitle downloader for WWDC session videos.
 - [Xcodes.app](https://github.com/RobotsAndPencils/XcodesApp) <img align="bottom" height="13" src="https://badgen.net/github/stars/RobotsAndPencils/XcodesApp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/RobotsAndPencils/XcodesApp?style=flat&label=" /> - The easiest way to install and switch between multiple versions of Xcode.
 - [calabash-launcher](https://github.com/xing/calabash-launcher) <img align="bottom" height="13" src="https://badgen.net/github/stars/xing/calabash-launcher?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/xing/calabash-launcher?style=flat&label=" /> - Launcher for running and managing Calabash tests.
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Swift macOS development workflow orchestration, automated app development management, and multi-agent coordination. MIT licensed.
 
 ## Downloader
 
