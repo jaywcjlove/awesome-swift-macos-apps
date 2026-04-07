@@ -224,6 +224,7 @@
 - [Fazm](https://github.com/m13v/fazm) <img align="bottom" height="13" src="https://badgen.net/github/stars/m13v/fazm?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/m13v/fazm?style=flat&label=" /> - 基于辅助功能和屏幕捕获能力的语音控制 AI 代理。
 - [lil agents](https://github.com/ryanstephen/lil-agents) <img align="bottom" height="13" src="https://badgen.net/github/stars/ryanstephen/lil-agents?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ryanstephen/lil-agents?style=flat&label=" /> - 常驻 Dock 的迷你 AI 伙伴，可打开面向编码助手的主题聊天终端。
 - [Notchy](https://github.com/adamlyttleapps/notchy) <img align="bottom" height="13" src="https://badgen.net/github/stars/adamlyttleapps/notchy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/adamlyttleapps/notchy?style=flat&label=" /> - 将 Claude Code 放进刘海区的终端伴侣，支持项目感知会话与实时状态显示。
+- [CodeIsland](https://github.com/wxtsky/CodeIsland) <img align="bottom" height="13" src="https://badgen.net/github/stars/wxtsky/CodeIsland?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wxtsky/CodeIsland?style=flat&label=" /> - 用于实时查看 AI 编码代理状态、会话进度与权限请求的面板工具。
 
 ## 加密货币
 
