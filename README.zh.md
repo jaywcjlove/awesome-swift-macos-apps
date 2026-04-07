@@ -902,6 +902,7 @@
 - [SwiftShift](https://github.com/pablopunk/SwiftShift) <img align="bottom" height="13" src="https://badgen.net/github/stars/pablopunk/SwiftShift?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/pablopunk/SwiftShift?style=flat&label=" /> - 适用于 macOS 的贴心窗口管理
 - [SwishMini](https://github.com/jzb1006/SwishMini) <img align="bottom" height="13" src="https://badgen.net/github/stars/jzb1006/SwishMini?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jzb1006/SwishMini?style=flat&label=" /> - 通过触控板手势控制任意 macOS 窗口
 - [Topit](https://github.com/lihaoyun6/Topit) <img align="bottom" height="13" src="https://badgen.net/github/stars/lihaoyun6/Topit?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lihaoyun6/Topit?style=flat&label=" /> - 将任何窗口固定到屏幕顶部
+- [WinMux](https://github.com/zimengxiong/winmux/) <img align="bottom" height="13" src="https://badgen.net/github/stars/zimengxiong/winmux?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zimengxiong/winmux?style=flat&label=" /> - 通过悬停意图区移动、分屏、成组和交换窗口的窗口管理器。
 - [XEasyMotion](https://github.com/h2ero/XEasyMotion) <img align="bottom" height="13" src="https://badgen.net/github/stars/h2ero/XEasyMotion?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/h2ero/XEasyMotion?style=flat&label=" /> - 使用键盘控制鼠标。
 
 ## 其他
