@@ -706,6 +706,7 @@ is list features a curated selection of open-source macOS applications developed
 - [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) <img align="bottom" height="13" src="https://badgen.net/github/stars/shubhambatra3019/macOrganizer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/shubhambatra3019/macOrganizer?style=flat&label=" /> - macOS app for organizing files or removing unnecessary files.
 - [MacOptimizer](https://github.com/ddlmanus/MacOptimizer) <img align="bottom" height="13" src="https://badgen.net/github/stars/ddlmanus/MacOptimizer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ddlmanus/MacOptimizer?style=flat&label=" /> - Powerful macOS System Optimization and Management Tool.
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner) <img align="bottom" height="13" src="https://badgen.net/github/stars/alienator88/Pearcleaner?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alienator88/Pearcleaner?style=flat&label=" /> - App Cleaner and Uninstaller Tool
+- [PureMac](https://github.com/momenbasel/PureMac) <img align="bottom" height="13" src="https://badgen.net/github/stars/momenbasel/PureMac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/momenbasel/PureMac?style=flat&label=" /> - Free open-source system cleaner with privacy protection.
 
 ## System
 
