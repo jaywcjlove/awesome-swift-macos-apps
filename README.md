@@ -262,6 +262,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Trailer](https://github.com/ptsochantaris/trailer) <img align="bottom" height="13" src="https://badgen.net/github/stars/ptsochantaris/trailer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ptsochantaris/trailer?style=flat&label=" /> - Managing Pull Requests and Issues For GitHub & GitHub Enterprise.
 - [Xit](https://github.com/Uncommon/Xit) <img align="bottom" height="13" src="https://badgen.net/github/stars/Uncommon/Xit?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Uncommon/Xit?style=flat&label=" /> - Xit is a graphical tool for working with git repositories.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=jaywcjlove_awesome-swift-macos-apps) - Follow developers on GitHub and get a feed of what they star and build.
 ### JSON Parsing
 
 - [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper) <img align="bottom" height="13" src="https://badgen.net/github/stars/AppCraft-LLC/json-mapper?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AppCraft-LLC/json-mapper?style=flat&label=" /> - Simple macOS app to generate Swift Object Mapper classes from JSON.
