@@ -278,6 +278,7 @@ is list features a curated selection of open-source macOS applications developed
 - [RegExPlus](https://github.com/lexrus/RegExPlus) <img align="bottom" height="13" src="https://badgen.net/github/stars/lexrus/RegExPlus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lexrus/RegExPlus?style=flat&label=" /> - Lightweight regex testing tool built with SwiftUI.
 - [ReqRes](https://github.com/OloApps/ReqRes) <img align="bottom" height="13" src="https://badgen.net/github/stars/OloApps/ReqRe?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/OloApps/ReqRe?style=flat&label=" /> - Native macOS app to monitor, debug, and mock HTTP(S) requests and responses.
 - [Supacode](https://github.com/supabitapp/supacode) <img align="bottom" height="13" src="https://badgen.net/github/stars/supabitapp/supacode?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/supabitapp/supacode?style=flat&label=" /> - Native command center for terminal coding agents.
+- [Switzy](https://github.com/yefga/Switzy) <img align="bottom" height="13" src="https://badgen.net/github/stars/yefga/Switzy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yefga/Switzy?style=flat&label=" /> - Git identity manager for switching profiles, emails, and SSH keys.
 
 ### Web Development
 
