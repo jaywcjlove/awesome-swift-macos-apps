@@ -871,6 +871,7 @@ saw on your Mac.
 - [CatBar](https://github.com/QuentinHsu/cat-bar) <img align="bottom" height="13" src="https://badgen.net/github/stars/QuentinHsu/cat-bar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/QuentinHsu/cat-bar?style=flat&label=" /> - Menu bar proxy manager for mihomo connections and system proxy settings.
 - [rvc-mac](https://github.com/riboseinc/cryptode-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/riboseinc/cryptode-mac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/riboseinc/cryptode-mac?style=flat&label=" /> - Ribose VPN Client macOS Menu App.
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) <img align="bottom" height="13" src="https://badgen.net/github/stars/GeiserX/VPN-Bypass?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/GeiserX/VPN-Bypass?style=flat&label=" /> - Menu bar app to route specific domains and services around your VPN.
+- [Rockxy](https://github.com/LocNguyenHuu/Rockxy) <img align="bottom" height="13" src="https://badgen.net/github/stars/LocNguyenHuu/Rockxy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/LocNguyenHuu/Rockxy?style=flat&label=" /> - HTTP/HTTPS debugging proxy for intercepting, inspecting, and manipulating network traffic.
 
 ## Video
 

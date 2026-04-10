@@ -869,6 +869,7 @@
 - [CatBar](https://github.com/QuentinHsu/cat-bar) <img align="bottom" height="13" src="https://badgen.net/github/stars/QuentinHsu/cat-bar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/QuentinHsu/cat-bar?style=flat&label=" /> - 用于管理 mihomo 连接和系统代理的菜单栏工具。
 - [rvc-mac](https://github.com/riboseinc/cryptode-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/riboseinc/cryptode-mac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/riboseinc/cryptode-mac?style=flat&label=" /> - Ribose VPN 客户端 macOS 菜单应用。
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) <img align="bottom" height="13" src="https://badgen.net/github/stars/GeiserX/VPN-Bypass?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/GeiserX/VPN-Bypass?style=flat&label=" /> - 菜单栏应用，将特定域名和服务绕过 VPN 直接路由。
+- [Rockxy](https://github.com/LocNguyenHuu/Rockxy) <img align="bottom" height="13" src="https://badgen.net/github/stars/LocNguyenHuu/Rockxy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/LocNguyenHuu/Rockxy?style=flat&label=" /> - 用于拦截、检查和操作网络流量的 HTTP/HTTPS 调试代理工具。
 
 ## 视频
 
