@@ -10,6 +10,39 @@ Thanks for helping improve this list.
    - `README.zh.md`
 3. Keep changes focused. One app per PR is preferred.
 
+### AI-assisted contributions
+
+AI-assisted PRs are welcome, but contributors are still responsible for the final result.
+
+This repository provides the repo-local skill [`awesome-swift-macos-apps-docs`](../.codex/skills/awesome-swift-macos-apps-docs/SKILL.md) for curation work.
+
+It is intended for:
+- Adding app entries to the bilingual READMEs: `README.md` and `README.zh.md`
+- Updating existing listings in both files
+- Adjusting category placement when an app belongs in a better section
+- Keeping descriptions concise, one-sentence, and semantically aligned across both languages
+
+Example prompt:
+
+```text
+Use $awesome-swift-macos-apps-docs
+
+AppName
+https://github.com/owner/repo
+
+Add it to the English and Chinese docs with a concise one-sentence description. Do not emphasize that it is a macOS app.
+```
+
+- Review category placement before submitting. The closest comparable entries in the repo should guide the category choice.
+- Update both `README.md` and `README.zh.md` together.
+- Keep English and Chinese descriptions to one sentence each.
+- Keep wording concise, factual, and focused on what the app is.
+- Do not over-emphasize that the project is a macOS app unless that detail is required for clarity.
+- Do not submit bulk AI-generated rewrites or unrelated cleanup.
+- Verify the final placement and wording with `rg -n` and review `git diff` before opening the PR.
+
+If you use a repo-local Codex skill or prompt template, make sure the output still follows the rules in this document and the PR template.
+
 ## What can be added
 
 - Open-source apps written in Swift.
@@ -30,17 +63,21 @@ Use the same format as existing items:
 - Describe what the app does, not marketing copy.
 - Do not over-emphasize platform wording like "macOS app" unless needed for clarity.
 - Keep tone neutral and factual.
+- Prefer describing the app's core function over listing multiple features.
 
 ## Category rules
 
 - Place entries in the most relevant category.
 - If multiple categories could fit, choose the primary use case.
+- Match the local section structure in each file instead of assuming both files are identical.
 - Keep nearby ordering style consistent with the existing section.
+- Do not move or rewrite neighboring entries unless needed for the requested change.
 
 ## Bilingual sync
 
 - Every addition or edit in `README.md` must be mirrored in `README.zh.md`.
 - Keep English and Chinese descriptions semantically aligned.
+- Do not translate mechanically; keep the wording natural in each language.
 
 ## Update existing entries
 
@@ -54,7 +91,12 @@ When editing an existing app:
 
 - [ ] Added/updated in both `README.md` and `README.zh.md`
 - [ ] Correct category
+- [ ] Placement follows the local section structure in each file
+- [ ] Ordering is consistent with nearby entries
 - [ ] Description is one concise sentence
+- [ ] English and Chinese descriptions are semantically aligned
+- [ ] App entry appears once per intended file
 - [ ] Link and badges are valid
+- [ ] Checked final locations with `rg -n`
+- [ ] Reviewed `git diff` for only intended listing changes
 - [ ] No unrelated changes
-
