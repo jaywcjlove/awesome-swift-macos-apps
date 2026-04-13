@@ -401,6 +401,7 @@
 
 ## 虚拟机
 
+- [GhostVM](https://github.com/groundwater/GhostVM) <img align="bottom" height="13" src="https://badgen.net/github/stars/groundwater/GhostVM?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/groundwater/GhostVM?style=flat&label=" /> - 用于创建隔离工作区、快照和可移植虚拟机包的虚拟机管理器。
 - [MacBox](https://github.com/Moonif/MacBox) <img align="bottom" height="13" src="https://badgen.net/github/stars/Moonif/MacBox?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moonif/MacBox?style=flat&label=" /> - 86Box 虚拟机管理工具。
 - [UTM](https://github.com/utmapp/UTM) <img align="bottom" height="13" src="https://badgen.net/github/stars/utmapp/UTM?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/utmapp/UTM?style=flat&label=" /> - 适用于 iOS 和 macOS 的虚拟机
 - [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/VirtualBuddy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/insidegui/VirtualBuddy?style=flat&label=" /> - 用于在 Apple Silicon 上运行较新 macOS 版本的虚拟机管理器。

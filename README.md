@@ -402,6 +402,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Virtual Machines
 
+- [GhostVM](https://github.com/groundwater/GhostVM) <img align="bottom" height="13" src="https://badgen.net/github/stars/groundwater/GhostVM?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/groundwater/GhostVM?style=flat&label=" /> - Virtual machine manager for isolated workspaces, snapshots, and portable VM bundles.
 - [MacBox](https://github.com/Moonif/MacBox) <img align="bottom" height="13" src="https://badgen.net/github/stars/Moonif/MacBox?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moonif/MacBox?style=flat&label=" /> - Manager for 86Box virtual machines.
 - [UTM](https://github.com/utmapp/UTM) <img align="bottom" height="13" src="https://badgen.net/github/stars/utmapp/UTM?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/utmapp/UTM?style=flat&label=" /> - Virtual machines for iOS and macOS
 - [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/VirtualBuddy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/insidegui/VirtualBuddy?style=flat&label=" /> - Virtual machine manager for running recent macOS versions on Apple Silicon.
