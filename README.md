@@ -361,6 +361,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Neon Vision Editor](https://github.com/h3pdesign/Neon-Vision-Editor) <img align="bottom" height="13" src="https://badgen.net/github/stars/h3pdesign/Neon-Vision-Editor?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/h3pdesign/Neon-Vision-Editor?style=flat&label=" /> - Lightweight text editor with automatic syntax highlighting.
 - [Noto](https://github.com/brunophilipe/noto) <img align="bottom" height="13" src="https://badgen.net/github/stars/brunophilipe/noto?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/brunophilipe/noto?style=flat&label=" /> - Plain text editor for macOS with customizable themes.
 - [VimR](https://github.com/qvacua/vimr) <img align="bottom" height="13" src="https://badgen.net/github/stars/qvacua/vimr?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/qvacua/vimr?style=flat&label=" /> - Refined Neovim experience for macOS.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## Extensions
 
