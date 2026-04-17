@@ -933,6 +933,7 @@
 - [Topit](https://github.com/lihaoyun6/Topit) <img align="bottom" height="13" src="https://badgen.net/github/stars/lihaoyun6/Topit?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lihaoyun6/Topit?style=flat&label=" /> - 将任何窗口固定到屏幕顶部
 - [WinMux](https://github.com/zimengxiong/winmux/) <img align="bottom" height="13" src="https://badgen.net/github/stars/zimengxiong/winmux?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zimengxiong/winmux?style=flat&label=" /> - 通过悬停意图区移动、分屏、成组和交换窗口的窗口管理器。
 - [XEasyMotion](https://github.com/h2ero/XEasyMotion) <img align="bottom" height="13" src="https://badgen.net/github/stars/h2ero/XEasyMotion?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/h2ero/XEasyMotion?style=flat&label=" /> - 使用键盘控制鼠标。
+- [Loop](https://github.com/MrKai77/Loop) <img align="bottom" height="13" src="https://badgen.net/github/stars/MrKai77/Loop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/MrKai77/Loop?style=flat&label=" /> - 优雅的窗口管理工具，用于高效组织和控制窗口。
 
 ## 其他
 

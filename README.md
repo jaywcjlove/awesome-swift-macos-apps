@@ -935,6 +935,7 @@ saw on your Mac.
 - [Topit](https://github.com/lihaoyun6/Topit) <img align="bottom" height="13" src="https://badgen.net/github/stars/lihaoyun6/Topit?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lihaoyun6/Topit?style=flat&label=" /> - Pin any window to the top of your screen
 - [WinMux](https://github.com/zimengxiong/winmux/) <img align="bottom" height="13" src="https://badgen.net/github/stars/zimengxiong/winmux?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zimengxiong/winmux?style=flat&label=" /> - Window manager with hover intent zones for moving, splitting, tab grouping, and swapping windows.
 - [XEasyMotion](https://github.com/h2ero/XEasyMotion) <img align="bottom" height="13" src="https://badgen.net/github/stars/h2ero/XEasyMotion?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/h2ero/XEasyMotion?style=flat&label=" /> - Using keyboard control mouse.
+- [Loop](https://github.com/MrKai77/Loop) <img align="bottom" height="13" src="https://badgen.net/github/stars/MrKai77/Loop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/MrKai77/Loop?style=flat&label=" /> - Window management tool for organizing and controlling windows efficiently.
 
 ## Other
 
