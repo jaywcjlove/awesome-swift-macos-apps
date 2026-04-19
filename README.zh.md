@@ -873,6 +873,7 @@
 - [MacPacker](https://github.com/sarensw/macpacker) <img align="bottom" height="13" src="https://badgen.net/github/stars/sarensw/macpacker?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sarensw/macpacker?style=flat&label=" /> - 开源的 macOS 压缩包管理器，可预览和提取文件。
 - [Keka](https://github.com/aonez/Keka) <img align="bottom" height="13" src="https://badgen.net/github/stars/aonez/Keka?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aonez/Keka?style=flat&label=" /> - Keka 是一个功能齐全的文件压缩工具，简单易用。
 - [ShichiZip](https://github.com/idawnlight/ShichiZip) <img align="bottom" height="13" src="https://badgen.net/github/stars/idawnlight/ShichiZip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/idawnlight/ShichiZip?style=flat&label=" /> - 基于 7-Zip 的压缩归档工具，用于压缩和解压文件。
+- [Zipper](https://github.com/kshah00/zipper) <img align="bottom" height="13" src="https://badgen.net/github/stars/kshah00/zipper?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kshah00/zipper?style=flat&label=" /> - 一款简洁强大的文件压缩解压工具。
 
 ## 颜色选择器
 

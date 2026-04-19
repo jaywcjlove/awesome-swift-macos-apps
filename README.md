@@ -551,6 +551,7 @@ is list features a curated selection of open-source macOS applications developed
 - [MacPacker](https://github.com/sarensw/macpacker) <img align="bottom" height="13" src="https://badgen.net/github/stars/sarensw/macpacker?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sarensw/macpacker?style=flat&label=" /> - An open-source macOS archive manager for previewing and extracting files.
 - [Keka](https://github.com/aonez/Keka) <img align="bottom" height="13" src="https://badgen.net/github/stars/aonez/Keka?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aonez/Keka?style=flat&label=" /> - Keka is a full featured file archiver, as easy as it can be.
 - [ShichiZip](https://github.com/idawnlight/ShichiZip) <img align="bottom" height="13" src="https://badgen.net/github/stars/idawnlight/ShichiZip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/idawnlight/ShichiZip?style=flat&label=" /> - 7-Zip-derived file archiver for compressing and extracting archives.
+- [Zipper](https://github.com/kshah00/zipper) <img align="bottom" height="13" src="https://badgen.net/github/stars/kshah00/zipper?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kshah00/zipper?style=flat&label=" /> - A simple and powerful file compression and decompression tool.
 
 ## Color Picker
 
