@@ -240,6 +240,7 @@
 
 ## 数据库
 
+- [Gridex](https://github.com/gridex/gridex) <img align="bottom" height="13" src="https://badgen.net/github/stars/gridex/gridex?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gridex/gridex?style=flat&label=" /> - 内置 AI 对话的多数据库 IDE。
 - [PostgresGUI](https://github.com/postgresgui/postgresgui) <img align="bottom" height="13" src="https://badgen.net/github/stars/postgresgui/postgresgui?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/postgresgui/postgresgui?style=flat&label=" /> - 本地 PostgreSQL 客户端。
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) <img align="bottom" height="13" src="https://badgen.net/github/stars/PostgresApp/PostgresApp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PostgresApp/PostgresApp?style=flat&label=" /> - 在 Mac 上开始使用 PostgreSQL 的最简单方法。
 - [Redis.app](https://github.com/jpadilla/redisapp) <img align="bottom" height="13" src="https://badgen.net/github/stars/jpadilla/redisapp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jpadilla/redisapp?style=flat&label=" /> - 在 Mac 上开始使用 Redis 的最简单方法。
