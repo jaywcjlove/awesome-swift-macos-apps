@@ -427,6 +427,7 @@ is list features a curated selection of open-source macOS applications developed
 - [Capso](https://github.com/lzhgus/Capso) <img align="bottom" height="13" src="https://badgen.net/github/stars/lzhgus/Capso?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lzhgus/Capso?style=flat&label=" /> - Screenshot and screen recording tool with annotation, OCR, and pin-to-screen support.
 - [ScrollSnap](https://github.com/Brkgng/ScrollSnap) <img align="bottom" height="13" src="https://badgen.net/github/stars/Brkgng/ScrollSnap?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Brkgng/ScrollSnap?style=flat&label=" /> - A macOS app for capturing and stitching scrolling screenshots.
 - [ScreenCapture](https://github.com/sadopc/ScreenCapture) <img align="bottom" height="13" src="https://badgen.net/github/stars/sadopc/ScreenCapture?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sadopc/ScreenCapture?style=flat&label=" /> - For capturing and annotating screenshots
+- [ShotX](https://github.com/aimen08/shotx) <img align="bottom" height="13" src="https://badgen.net/github/stars/aimen08/shotx?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aimen08/shotx?style=flat&label=" /> - Keyboard-first capture tool for screenshots, recording, GIF export, annotation, and searchable history.
 
 ## IDE
 

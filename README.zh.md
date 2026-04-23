@@ -426,6 +426,7 @@
 - [Capso](https://github.com/lzhgus/Capso) <img align="bottom" height="13" src="https://badgen.net/github/stars/lzhgus/Capso?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lzhgus/Capso?style=flat&label=" /> - 集截图、录屏、标注、OCR 和贴屏展示于一体的工具。
 - [ScrollSnap](https://github.com/Brkgng/ScrollSnap) <img align="bottom" height="13" src="https://badgen.net/github/stars/Brkgng/ScrollSnap?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Brkgng/ScrollSnap?style=flat&label=" /> - 捕捉和拼接滚动截图的 macOS 应用
 - [ScreenCapture](https://github.com/sadopc/ScreenCapture) <img align="bottom" height="13" src="https://badgen.net/github/stars/sadopc/ScreenCapture?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sadopc/ScreenCapture?style=flat&label=" /> - 用于截图并进行标注
+- [ShotX](https://github.com/aimen08/shotx) <img align="bottom" height="13" src="https://badgen.net/github/stars/aimen08/shotx?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aimen08/shotx?style=flat&label=" /> - 支持截图、录屏、GIF 导出、标注和历史检索的键盘优先捕获工具。
 
 ## IDE
 
