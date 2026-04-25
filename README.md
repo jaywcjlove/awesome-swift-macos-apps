@@ -237,6 +237,7 @@ is list features a curated selection of open-source macOS applications developed
 ## Cryptocurrency
 
 - [Balance Open](https://github.com/balance-io/balance-open) <img align="bottom" height="13" src="https://badgen.net/github/stars/balance-io/balance-open?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/balance-io/balance-open?style=flat&label=" /> - App for all the world’s currencies.
+- [Currency Converter](https://github.com/0franco/currency-converter-macos) <img align="bottom" height="13" src="https://badgen.net/github/stars/0franco/currency-converter-macos?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/0franco/currency-converter-macos?style=flat&label=" /> - Live currency converter with instant calculations, offline cache fallback, and favorite pairs.
 - [Float coin](https://github.com/kaunteya/FloatCoin) <img align="bottom" height="13" src="https://badgen.net/github/stars/kaunteya/FloatCoin?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kaunteya/FloatCoin?style=flat&label=" /> - Native menu bar app with floating window and support for many Exchanges.
 
 ## Database
