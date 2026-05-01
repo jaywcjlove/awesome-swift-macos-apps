@@ -896,6 +896,7 @@ saw on your Mac.
 - [wechsel](https://github.com/friedrichweise/wechsel) <img align="bottom" height="13" src="https://badgen.net/github/stars/friedrichweise/wechsel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/friedrichweise/wechsel?style=flat&label=" /> - manage bluetooth connections with your keyboard.
 - [VolumeGlass](https://github.com/aarush67/VolumeGlass-Code) <img align="bottom" height="13" src="https://badgen.net/github/stars/aarush67/VolumeGlass-Code?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aarush67/VolumeGlass-Code?style=flat&label=" /> - An iOS-style glass volume indicator for macOS.
 - [YABA](https://github.com/Subfly/YABA) <img align="bottom" height="13" src="https://badgen.net/github/stars/Subfly/YABA?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Subfly/YABA?style=flat&label=" /> - A modern cross-platform bookmark manager that’s privacy-focused and works offline.
+- [Magic Flip](https://github.com/svekl/magic-flip) <img align="bottom" height="13" src="https://badgen.net/github/stars/svekl/magic-flip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/svekl/magic-flip?style=flat&label=" /> - Inverts Apple Magic Trackpad for upside down use.
 
 ## VPN & Proxy
 
