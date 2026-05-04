@@ -554,6 +554,7 @@
 - [MewNotch](https://github.com/monuk7735/mew-notch) <img align="bottom" height="13" src="https://badgen.net/github/stars/monuk7735/mew-notch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/monuk7735/mew-notch?style=flat&label=" /> - 用刘海区域显示音量和亮度变化的 HUD 替代工具。
 - [NotchDrop](https://github.com/Lakr233/NotchDrop) <img align="bottom" height="13" src="https://badgen.net/github/stars/Lakr233/NotchDrop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Lakr233/NotchDrop?style=flat&label=" /> - 将您的 MacBook 刘海用作灵动岛，临时存储文件并进行 AirDrop 传输
 - [NotchMore](https://github.com/Codseus/NotchMore) <img align="bottom" height="13" src="https://badgen.net/github/stars/Codseus/NotchMore?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Codseus/NotchMore?style=flat&label=" /> - 将刘海周围区域变成实用控制面板的工具。
+- [Notchly](https://github.com/Notchly/Notchly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Notchly/Notchly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Notchly/Notchly?style=flat&label=" /> - 在刘海区显示电池、正在播放和锁屏过渡的灵动岛风格覆盖层。
 
 ## 音乐
 
