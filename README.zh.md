@@ -626,6 +626,7 @@
 ## 生产力
 
 - [AltTab](https://github.com/lwouis/alt-tab-macos) <img align="bottom" height="13" src="https://badgen.net/github/stars/lwouis/alt-tab-macos?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lwouis/alt-tab-macos?style=flat&label=" /> - 将 Windows 的 Alt-Tab 功能带到 macOS。
+- [Switch](https://github.com/Sanyam-G/switch) <img align="bottom" height="13" src="https://badgen.net/github/stars/Sanyam-G/switch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Sanyam-G/switch?style=flat&label=" /> - 支持应用间与应用内循环切换并可即时筛选的键盘驱动窗口切换器。
 - [Cling](https://github.com/FuzzyIdeas/Cling) <img align="bottom" height="13" src="https://badgen.net/github/stars/FuzzyIdeas/Cling?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/FuzzyIdeas/Cling?style=flat&label=" /> - 即时模糊搜索任何文件。
 - [Calculeta](https://github.com/varol/Calculeta) <img align="bottom" height="13" src="https://badgen.net/github/stars/varol/Calculeta?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/varol/Calculeta?style=flat&label=" /> - 一款在菜单栏中运行的 macOS 计算器。
 - [Cash](https://github.com/thesmokinator/cash) <img align="bottom" height="13" src="https://badgen.net/github/stars/thesmokinator/cash?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/thesmokinator/cash?style=flat&label=" /> - 个人财务管理器。
