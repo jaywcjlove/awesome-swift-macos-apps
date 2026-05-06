@@ -726,6 +726,7 @@
 - [MacOptimizer](https://github.com/ddlmanus/MacOptimizer) <img align="bottom" height="13" src="https://badgen.net/github/stars/ddlmanus/MacOptimizer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ddlmanus/MacOptimizer?style=flat&label=" /> - 强大的 macOS 系统优化与管理工具。
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner) <img align="bottom" height="13" src="https://badgen.net/github/stars/alienator88/Pearcleaner?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alienator88/Pearcleaner?style=flat&label=" /> - 应用清理卸载工具
 - [PureMac](https://github.com/momenbasel/PureMac) <img align="bottom" height="13" src="https://badgen.net/github/stars/momenbasel/PureMac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/momenbasel/PureMac?style=flat&label=" /> - 免费开源系统清理工具，注重隐私保护。
+- [Binky](https://github.com/heyderekj/binky) <img align="bottom" height="13" src="https://badgen.net/github/stars/heyderekj/binky?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/heyderekj/binky?style=flat&label=" /> - 自动整理文件夹，智能分类文件的工具。
 
 ## 系统
 
