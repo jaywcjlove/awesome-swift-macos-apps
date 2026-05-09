@@ -399,6 +399,7 @@
 
 ## Finder
 
+- [FileFluss](https://github.com/rana-gmbh/FileFluss) <img align="bottom" height="13" src="https://badgen.net/github/stars/rana-gmbh/FileFluss?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rana-gmbh/FileFluss?style=flat&label=" /> - 支持云存储的双面板文件管理器，提供无缝的文件操作。
 - [RightMenu Master](https://github.com/jaywcjlove/rightmenu-master) <img align="bottom" height="13" src="https://badgen.net/github/stars/jaywcjlove/rightmenu-master?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jaywcjlove/rightmenu-master?style=flat&label=" /> - Finder 右键菜单增强工具。
 - [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) <img align="bottom" height="13" src="https://badgen.net/github/stars/powerwolf543/DuplicateFinder?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/powerwolf543/DuplicateFinder?style=flat&label=" /> - 用于查找同名重复文件的工具。
 - [FiScript](https://github.com/Mortennn/FiScript) <img align="bottom" height="13" src="https://badgen.net/github/stars/Mortennn/FiScript?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Mortennn/FiScript?style=flat&label=" /> - 从 macOS Finder 的上下文菜单（CTRL+单击）执行自定义脚本。

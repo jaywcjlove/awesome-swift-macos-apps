@@ -398,6 +398,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Finder
 
+- [FileFluss](https://github.com/rana-gmbh/FileFluss) <img align="bottom" height="13" src="https://badgen.net/github/stars/rana-gmbh/FileFluss?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rana-gmbh/FileFluss?style=flat&label=" /> - Dual-panel file manager with cloud storage support for seamless file operations.
 - [RightMenu Master](https://github.com/jaywcjlove/rightmenu-master) <img align="bottom" height="13" src="https://badgen.net/github/stars/jaywcjlove/rightmenu-master?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jaywcjlove/rightmenu-master?style=flat&label=" /> - Finder right-click menu enhancer.
 - [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) <img align="bottom" height="13" src="https://badgen.net/github/stars/powerwolf543/DuplicateFinder?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/powerwolf543/DuplicateFinder?style=flat&label=" /> - Finder for duplicate files with matching names.
 - [FiScript](https://github.com/Mortennn/FiScript) <img align="bottom" height="13" src="https://badgen.net/github/stars/Mortennn/FiScript?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Mortennn/FiScript?style=flat&label=" /> - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
