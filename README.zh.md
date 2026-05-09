@@ -241,6 +241,7 @@
 - [CodeIsland](https://github.com/wxtsky/CodeIsland) <img align="bottom" height="13" src="https://badgen.net/github/stars/wxtsky/CodeIsland?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wxtsky/CodeIsland?style=flat&label=" /> - 用于实时查看 AI 编码代理状态、会话进度与权限请求的面板工具。
 - [CodexIsland](https://github.com/ericjypark/codex-island) <img align="bottom" height="13" src="https://badgen.net/github/stars/ericjypark/codex-island?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ericjypark/codex-island?style=flat&label=" /> - 以灵动岛样式监控 Claude Code 与 Codex 用量额度的工具。
 - [Claude Island](https://github.com/farouqaldori/claude-island) <img align="bottom" height="13" src="https://badgen.net/github/stars/farouqaldori/claude-island?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/farouqaldori/claude-island?style=flat&label=" /> - 用于显示 Claude Code 会话状态、审批操作与聊天记录的灵动岛风格面板。
+- [SuperIsland](https://github.com/shobhit99/SuperIsland) <img align="bottom" height="13" src="https://badgen.net/github/stars/shobhit99/SuperIsland?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/shobhit99/SuperIsland?style=flat&label=" /> - 将刘海区域变为可交互灵动岛，实时显示媒体、电量、天气、日历和通知。
 
 ## 加密货币
 
