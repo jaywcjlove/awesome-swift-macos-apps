@@ -441,6 +441,7 @@ is list features a curated selection of open-source macOS applications developed
 - [ScrollSnap](https://github.com/Brkgng/ScrollSnap) <img align="bottom" height="13" src="https://badgen.net/github/stars/Brkgng/ScrollSnap?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Brkgng/ScrollSnap?style=flat&label=" /> - A macOS app for capturing and stitching scrolling screenshots.
 - [ScreenCapture](https://github.com/sadopc/ScreenCapture) <img align="bottom" height="13" src="https://badgen.net/github/stars/sadopc/ScreenCapture?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sadopc/ScreenCapture?style=flat&label=" /> - For capturing and annotating screenshots
 - [ShotX](https://github.com/aimen08/shotx) <img align="bottom" height="13" src="https://badgen.net/github/stars/aimen08/shotx?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aimen08/shotx?style=flat&label=" /> - Keyboard-first capture tool for screenshots, recording, GIF export, annotation, and searchable history.
+- [Snapzy](https://github.com/duongductrong/Snapzy) <img align="bottom" height="13" src="https://badgen.net/github/stars/duongductrong/Snapzy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/duongductrong/Snapzy?style=flat&label=" /> - Open-source tool for screenshots, screen recording, annotation, and editing.
 
 ## IDE
 
