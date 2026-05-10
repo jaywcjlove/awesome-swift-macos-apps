@@ -168,6 +168,7 @@ is list features a curated selection of open-source macOS applications developed
 - [waveSDR](https://github.com/getoffmyhack/waveSDR) <img align="bottom" height="13" src="https://badgen.net/github/stars/getoffmyhack/waveSDR?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/getoffmyhack/waveSDR?style=flat&label=" /> - Software-defined radio app.
 - [VoiceInput](https://github.com/yetone/voice-input-dist) <img align="bottom" height="13" src="https://badgen.net/github/stars/yetone/voice-input-dist?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yetone/voice-input-dist?style=flat&label=" /> - Real-time speech-to-text tool that types transcribed text into the focused app.
 - [VoiceInk](https://github.com/Beingpax/VoiceInk) <img align="bottom" height="13" src="https://badgen.net/github/stars/Beingpax/VoiceInk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Beingpax/VoiceInk?style=flat&label=" /> - Real-time speech-to-text app.
+- [OpenQuack](https://github.com/larryxiao/openquack) <img align="bottom" height="13" src="https://badgen.net/github/stars/larryxiao/openquack?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/larryxiao/openquack?style=flat&label=" /> - Transcribes a 5-minute clip in 2.8 s — local WhisperKit dictation, noise-robust, lives in your menu bar.
 
 ## Backup
 
