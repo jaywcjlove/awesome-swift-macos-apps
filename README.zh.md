@@ -299,6 +299,7 @@
 - [ReqRes](https://github.com/OloApps/ReqRes) <img align="bottom" height="13" src="https://badgen.net/github/stars/OloApps/ReqRe?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/OloApps/ReqRe?style=flat&label=" /> - 用于监视、调试和模拟 HTTP(S) 请求和响应的原生 macOS 应用程序。
 - [Supacode](https://github.com/supabitapp/supacode) <img align="bottom" height="13" src="https://badgen.net/github/stars/supabitapp/supacode?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/supabitapp/supacode?style=flat&label=" /> - 面向终端编码代理的原生命令中心。
 - [Switzy](https://github.com/yefga/Switzy) <img align="bottom" height="13" src="https://badgen.net/github/stars/yefga/Switzy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yefga/Switzy?style=flat&label=" /> - 用于切换 Git 身份、邮箱和 SSH 密钥的管理工具。
+- [SSH Keys Manager](https://github.com/Stmol/ssh-keys-manager-macos-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/Stmol/ssh-keys-manager-macos-app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Stmol/ssh-keys-manager-macos-app?style=flat&label=" /> - 集中浏览、复制、生成和整理 SSH 密钥及 SSH 配置条目的工具。
 
 ### Web 开发
 
