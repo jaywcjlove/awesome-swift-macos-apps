@@ -736,7 +736,7 @@ is list features a curated selection of open-source macOS applications developed
 ## Sharing Files
 
 - [mac2imgur](https://github.com/mileswd/mac2imgur) <img align="bottom" height="13" src="https://badgen.net/github/stars/mileswd/mac2imgur?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mileswd/mac2imgur?style=flat&label=" /> - Quick image and screenshot uploader for Imgur sharing.
-- [uPic](https://github.com/gee1k/uPic) <img align="bottom" height="13" src="https://badgen.net/github/stars/gee1k/uPic?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gee1k/uPic?style=flat&label=" /> - A native, powerful, beautiful, and simple image and file upload tool for macOS.
+- [uPic](https://github.com/gee1k/uPic) <img align="bottom" height="13" src="https://badgen.net/github/stars/gee1k/uPic?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gee1k/uPic?style=flat&label=" /> - Image and file uploader with multi-provider storage support and automatic shareable link copying.
 - [NearDrop](https://github.com/grishka/NearDrop) <img align="bottom" height="13" src="https://badgen.net/github/stars/grishka/NearDrop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/grishka/NearDrop?style=flat&label=" /> - An unofficial Google Nearby Share/Quick Share app for macOS.
 
 ## Social Networking
