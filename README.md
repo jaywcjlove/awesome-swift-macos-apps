@@ -961,6 +961,7 @@ saw on your Mac.
 - [MarkerData](https://github.com/TheAcharya/MarkerData) <img align="bottom" height="13" src="https://badgen.net/github/stars/TheAcharya/MarkerData?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/TheAcharya/MarkerData?style=flat&label=" /> - The avant-garde Marker extraction application crafted for Final Cut Pro.
 - [Screenize](https://github.com/syi0808/screenize) <img align="bottom" height="13" src="https://badgen.net/github/stars/syi0808/screenize?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/syi0808/screenize?style=flat&label=" /> - Screen recorder with auto-zoom, cursor effects, and timeline editing.
 - [Tempo](https://github.com/samirpatil2000/Tempo) <img align="bottom" height="13" src="https://badgen.net/github/stars/samirpatil2000/Tempo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/samirpatil2000/Tempo?style=flat&label=" /> - Video speed control and export utility with multiple quality options.
+- [Maya](https://github.com/ronaldo-avalos/Maya) <img align="bottom" height="13" src="https://badgen.net/github/stars/ronaldo-avalos/Maya?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ronaldo-avalos/Maya?style=flat&label=" /> - Turn iPhone screen recordings into polished videos with device frames and cinematic zoom effects.
 
 ## Wallpaper
 

@@ -959,6 +959,7 @@
 - [MarkerData](https://github.com/TheAcharya/MarkerData) <img align="bottom" height="13" src="https://badgen.net/github/stars/TheAcharya/MarkerData?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/TheAcharya/MarkerData?style=flat&label=" /> - 为 Final Cut Pro 精心打造的先锋 Marker 提取应用。
 - [Screenize](https://github.com/syi0808/screenize) <img align="bottom" height="13" src="https://badgen.net/github/stars/syi0808/screenize?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/syi0808/screenize?style=flat&label=" /> - 支持自动缩放、光标效果和时间线编辑的录屏工具。
 - [Tempo](https://github.com/samirpatil2000/Tempo) <img align="bottom" height="13" src="https://badgen.net/github/stars/samirpatil2000/Tempo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/samirpatil2000/Tempo?style=flat&label=" /> - 视频变速与导出工具，支持多种质量选项。
+- [Maya](https://github.com/ronaldo-avalos/Maya) <img align="bottom" height="13" src="https://badgen.net/github/stars/ronaldo-avalos/Maya?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ronaldo-avalos/Maya?style=flat&label=" /> - 将 iPhone 屏幕录制转换为精美视频，支持设备框架与电影级缩放效果。
 
 ## 壁纸
 
