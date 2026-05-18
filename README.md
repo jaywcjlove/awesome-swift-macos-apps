@@ -738,6 +738,7 @@ is list features a curated selection of open-source macOS applications developed
 
 ## Sharing Files
 
+- [AndroidFileSync](https://github.com/Santosh7017/AndroidFileSync) <img align="bottom" height="13" src="https://badgen.net/github/stars/Santosh7017/AndroidFileSync?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Santosh7017/AndroidFileSync?style=flat&label=" /> - Transfer files between Mac and Android over USB or Wi-Fi, with no cloud account required.
 - [mac2imgur](https://github.com/mileswd/mac2imgur) <img align="bottom" height="13" src="https://badgen.net/github/stars/mileswd/mac2imgur?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mileswd/mac2imgur?style=flat&label=" /> - Quick image and screenshot uploader for Imgur sharing.
 - [uPic](https://github.com/gee1k/uPic) <img align="bottom" height="13" src="https://badgen.net/github/stars/gee1k/uPic?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gee1k/uPic?style=flat&label=" /> - Image and file uploader with multi-provider storage support and automatic shareable link copying.
 - [NearDrop](https://github.com/grishka/NearDrop) <img align="bottom" height="13" src="https://badgen.net/github/stars/grishka/NearDrop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/grishka/NearDrop?style=flat&label=" /> - An unofficial Google Nearby Share/Quick Share app for macOS.

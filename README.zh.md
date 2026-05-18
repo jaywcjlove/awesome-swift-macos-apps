@@ -718,6 +718,7 @@
 
 ## 文件共享
 
+- [AndroidFileSync](https://github.com/Santosh7017/AndroidFileSync) <img align="bottom" height="13" src="https://badgen.net/github/stars/Santosh7017/AndroidFileSync?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Santosh7017/AndroidFileSync?style=flat&label=" /> - 通过 USB 或 Wi-Fi 在 Mac 和 Android 之间传输文件，无需云端账号。
 - [mac2imgur](https://github.com/mileswd/mac2imgur) <img align="bottom" height="13" src="https://badgen.net/github/stars/mileswd/mac2imgur?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mileswd/mac2imgur?style=flat&label=" /> - 图片和截图快速上传 Imgur 分享工具。
 - [uPic](https://github.com/gee1k/uPic) <img align="bottom" height="13" src="https://badgen.net/github/stars/gee1k/uPic?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gee1k/uPic?style=flat&label=" /> - 支持多图床与对象存储的图片和文件上传工具，可自动复制可分享链接。
 - [NearDrop](https://github.com/grishka/NearDrop) <img align="bottom" height="13" src="https://badgen.net/github/stars/grishka/NearDrop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/grishka/NearDrop?style=flat&label=" /> - 适用于 macOS 的非官方 Google 附近共享/快速共享应用程序。
