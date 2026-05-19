@@ -434,6 +434,7 @@
 - [MacBox](https://github.com/Moonif/MacBox) <img align="bottom" height="13" src="https://badgen.net/github/stars/Moonif/MacBox?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moonif/MacBox?style=flat&label=" /> - 86Box 虚拟机管理工具。
 - [UTM](https://github.com/utmapp/UTM) <img align="bottom" height="13" src="https://badgen.net/github/stars/utmapp/UTM?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/utmapp/UTM?style=flat&label=" /> - 适用于 iOS 和 macOS 的虚拟机
 - [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/VirtualBuddy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/insidegui/VirtualBuddy?style=flat&label=" /> - 用于在 Apple Silicon 上运行较新 macOS 版本的虚拟机管理器。
+- [vphone-cli](https://github.com/Lakr233/vphone-cli) <img align="bottom" height="13" src="https://badgen.net/github/stars/Lakr233/vphone-cli?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Lakr233/vphone-cli?style=flat&label=" /> - 基于 Apple Virtualization.framework 与 PCC 研究虚拟机基础设施启动虚拟 iPhone（iOS 26）的命令行工具。
 
 ## 图形
 
