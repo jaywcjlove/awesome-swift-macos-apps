@@ -1,3 +1,42 @@
+<div align="center" markdown="1">
+  <br>
+  <sup>特别感谢：</sup>
+  <br>
+  <br>
+
+  <a href="https://apps.apple.com/app/apple-store/id6757860829?pt=80185800&ct=jay&mt=8">
+    <img alt="SubList" width="400" src="https://jaywcjlove.github.io/sponsor/SubList.jpg">
+  </a>
+  <br>
+  <a href="https://apps.apple.com/app/apple-store/id6757860829?pt=80185800&ct=jay&mt=8">
+    SubList - 账单提醒与续费通知
+  </a>
+  <br><br>
+
+  <a href="https://screensage.pro/">
+    <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
+  </a>
+  <br>
+  <a href="https://screensage.pro/">ScreenSage Pro，在 macOS 上几分钟内录制精美的屏幕录像</a>
+  <br><br>
+
+  <a href="https://ip.im/">
+    <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
+  </a>
+  <br>
+  <a href="https://ip.im/">IP.IM，免费 IP 地址信息查询网站</a>
+  <br><br>
+
+  <a href="https://hipixel.5km.tech/">
+    <img alt="HiPixel" width="400" src="https://jaywcjlove.github.io/sponsor/HiPixel.jpeg">
+  </a>
+  <br>
+  <a href="https://hipixel.5km.tech/">HiPixel，专为 macOS 打造的 AI 图像超分辨率（放大增强）工具</a>
+  <br><br>
+
+</div>
+<hr>
+
 <div markdown="1">
   <sup>使用 <a href="https://wangchujiang.com/#/app" target="_blank">我的应用</a> 也是一种 <a href="https://wangchujiang.com/#/sponsor" target="_blank">支持</a> 我的方式：</sup>
   <br>
@@ -34,35 +73,6 @@
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6476400184" title="Resume Revise for macOS"><img alt="Resume Revise" height="52" src="https://wangchujiang.com/appicon/resume-revise.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6472593276" title="Palette Genius for macOS"><img alt="Palette Genius" height="52" src="https://wangchujiang.com/appicon/palette-genius.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6470879005" title="Symbol Scribe for macOS"><img alt="Symbol Scribe" height="52" src="https://wangchujiang.com/appicon/symbol-scribe.png"></a>
-</div>
-<hr>
-
-<div align="center" markdown="1">
-  <sup>特别感谢：</sup>
-  <br>
-  <br>
-
-  <a href="https://screensage.pro/">
-    <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
-  </a>
-  <br>
-  <a href="https://screensage.pro/">ScreenSage Pro，在 macOS 上几分钟内录制精美的屏幕录像</a>
-  <br><br>
-
-  <a href="https://ip.im/">
-    <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
-  </a>
-  <br>
-  <a href="https://ip.im/">IP.IM，免费 IP 地址信息查询网站</a>
-  <br><br>
-
-  <a href="https://hipixel.5km.tech/">
-    <img alt="HiPixel" width="400" src="https://jaywcjlove.github.io/sponsor/HiPixel.jpeg">
-  </a>
-  <br>
-  <a href="https://hipixel.5km.tech/">HiPixel，专为 macOS 打造的 AI 图像超分辨率（放大增强）工具</a>
-  <br><br>
-
 </div>
 <hr>
 
