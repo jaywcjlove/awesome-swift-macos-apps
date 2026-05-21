@@ -378,6 +378,7 @@
 
 ### Markdown
 
+- [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) <img align="bottom" height="13" src="https://badgen.net/github/stars/MarkEdit-app/MarkEdit?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/MarkEdit-app/MarkEdit?style=flat&label=" /> - 简洁高效的 Markdown 编辑器，专注于纯粹的写作体验。
 - [Clearly Markdown](https://github.com/Shpigford/clearly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Shpigford/clearly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Shpigford/clearly?style=flat&label=" /> - 具备即时预览、语法高亮和 PDF 导出的 Markdown 编辑器。
 - [Notenik](https://github.com/hbowie/notenik-swift) <img align="bottom" height="13" src="https://badgen.net/github/stars/hbowie/notenik-swift?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/hbowie/notenik-swift?style=flat&label=" /> - 拥有许多组织选项的笔记应用。
 - [Pixley Reader](https://github.com/Applacat/PixleyReader) <img align="bottom" height="13" src="https://badgen.net/github/stars/Applacat/PixleyReader?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Applacat/PixleyReader?style=flat&label=" /> - 用于阅读项目目录中 AI 工具生成的 Markdown 文件。
