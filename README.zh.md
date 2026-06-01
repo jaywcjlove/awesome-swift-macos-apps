@@ -992,7 +992,7 @@
 - [Kumo](https://github.com/stvlynn/KumoApp) <img align="bottom" height="13" src="https://badgen.net/github/stars/stvlynn/KumoApp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/stvlynn/KumoApp?style=flat&label=" /> - 专注快速连接与代理状态查看的工具，可直观显示出站模式、系统代理及当前配置。
 - [rvc-mac](https://github.com/riboseinc/cryptode-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/riboseinc/cryptode-mac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/riboseinc/cryptode-mac?style=flat&label=" /> - Ribose VPN 客户端 macOS 菜单应用。
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) <img align="bottom" height="13" src="https://badgen.net/github/stars/GeiserX/VPN-Bypass?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/GeiserX/VPN-Bypass?style=flat&label=" /> - 菜单栏应用，将特定域名和服务绕过 VPN 直接路由。
-- [Rockxy](https://github.com/LocNguyenHuu/Rockxy) <img align="bottom" height="13" src="https://badgen.net/github/stars/LocNguyenHuu/Rockxy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/LocNguyenHuu/Rockxy?style=flat&label=" /> - 用于拦截、检查和操作网络流量的 HTTP/HTTPS 调试代理工具。
+- [Rockxy](https://github.com/RockxyApp/Rockxy) <img align="bottom" height="13" src="https://badgen.net/github/stars/RockxyApp/Rockxy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/RockxyApp/Rockxy?style=flat&label=" /> - 用于拦截、检查和操作网络流量的 HTTP/HTTPS 调试代理工具。
 
 ## 视频
 
