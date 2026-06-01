@@ -10,13 +10,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Cache lychee
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install markdown-link-check
+        run: npm install -g markdown-link-check@3.12.2
+      - name: Cache check results
         uses: actions/cache@v4
         with:
-          path: .lycheecache
-          key: cache-lychee-${{ github.sha }}
-          restore-keys: cache-lychee-
-      - name: Run lychee
+          path: .mlc_cache.json
+          key: cache-mlc-${{ github.sha }}
+          restore-keys: cache-mlc-
+      - name: Run markdown-link-check
         run: |
-          npm install -g lychee
-          lychee --cache --max-cache-age 1d README.md
+          if [ -f .mlc_cache.json ]; then
+            markdown-link-check README.md --config .mlcrc.json --cache .mlc_cache.json
+          else
+            markdown-link-check README.md --config .mlcrc.json
+          fi
+      - name: Show cache
+        run: cat .mlc_cache.json 2>/dev/null || echo "No cache"
