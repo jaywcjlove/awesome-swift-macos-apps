@@ -455,6 +455,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Games
 
+- [AdaEngine](https://github.com/AdaEngine/AdaEngine) <img align="bottom" height="13" src="https://badgen.net/github/stars/AdaEngine/AdaEngine?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AdaEngine/AdaEngine?style=flat&label=" /> - A cross-platform 2D and 3D game engine written in Swift.
 - [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode) <img align="bottom" height="13" src="https://badgen.net/github/stars/ApolloZhu/Dynamic-Dark-Mode?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ApolloZhu/Dynamic-Dark-Mode?style=flat&label=" /> - Dark mode automation tool.
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) <img align="bottom" height="13" src="https://badgen.net/github/stars/OpenEmu/OpenEmu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/OpenEmu/OpenEmu?style=flat&label=" /> - Retro video game emulation for macOS
 - [PlayCover](https://github.com/PlayCover/PlayCover) <img align="bottom" height="13" src="https://badgen.net/github/stars/PlayCover/PlayCover?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PlayCover/PlayCover?style=flat&label=" /> - Tool for running iOS apps and games on Apple Silicon with desktop controls.

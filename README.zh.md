@@ -453,6 +453,7 @@
 
 ## 游戏
 
+- [AdaEngine](https://github.com/AdaEngine/AdaEngine) <img align="bottom" height="13" src="https://badgen.net/github/stars/AdaEngine/AdaEngine?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AdaEngine/AdaEngine?style=flat&label=" /> - 用 Swift 编写的跨平台 2D 和 3D 游戏引擎。
 - [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode) <img align="bottom" height="13" src="https://badgen.net/github/stars/ApolloZhu/Dynamic-Dark-Mode?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ApolloZhu/Dynamic-Dark-Mode?style=flat&label=" /> - 深色模式自动化工具。
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) <img align="bottom" height="13" src="https://badgen.net/github/stars/OpenEmu/OpenEmu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/OpenEmu/OpenEmu?style=flat&label=" /> - 适用于 macOS 的复古视频游戏模拟器
 - [PlayCover](https://github.com/PlayCover/PlayCover) <img align="bottom" height="13" src="https://badgen.net/github/stars/PlayCover/PlayCover?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PlayCover/PlayCover?style=flat&label=" /> - 用桌面控制方式运行 iOS 应用和游戏的工具。
