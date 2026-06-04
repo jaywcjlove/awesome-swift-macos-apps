@@ -189,7 +189,6 @@
 - [VoiceInput](https://github.com/yetone/voice-input-dist) <img align="bottom" height="13" src="https://badgen.net/github/stars/yetone/voice-input-dist?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yetone/voice-input-dist?style=flat&label=" /> - 实时语音转文字工具，可将转写内容直接输入到当前聚焦应用。
 - [VoiceInk](https://github.com/Beingpax/VoiceInk) <img align="bottom" height="13" src="https://badgen.net/github/stars/Beingpax/VoiceInk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Beingpax/VoiceInk?style=flat&label=" /> - 实时语音转文字工具。
 - [OpenQuack](https://github.com/larryxiao/openquack) <img align="bottom" height="13" src="https://badgen.net/github/stars/larryxiao/openquack?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/larryxiao/openquack?style=flat&label=" /> - 菜单栏本地语音听写工具 — 5 分钟音频 2.8 秒完成；基于 WhisperKit，抗噪，无遥测。
-- [Meeting Transcriber](https://github.com/pasrom/meeting-transcriber) <img align="bottom" height="13" src="https://badgen.net/github/stars/pasrom/meeting-transcriber?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/pasrom/meeting-transcriber?style=flat&label=" /> - 自动录制并在本地转写 Teams/Zoom/Webex 会议，区分发言人并生成 Markdown 摘要。
 
 ## 备份
 
