@@ -394,7 +394,7 @@
 - [Media Downloader](https://github.com/pixel-point/media-downloader) <img align="bottom" height="13" src="https://badgen.net/github/stars/pixel-point/media-downloader?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/pixel-point/media-downloader?style=flat&label=" /> - 基于 yt-dlp、支持数千网站的视频下载工具。
 - [schlonk-pad](https://github.com/crux/schlonk-pad) - 用于抓取社交媒体帖子视频的工具，下载后可直接拖拽到聊天、文件夹或其他应用。
 - [Maltex](https://github.com/lpgneg19/Maltex) <img align="bottom" height="13" src="https://badgen.net/github/stars/lpgneg19/Maltex?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lpgneg19/Maltex?style=flat&label=" /> - 基于 aria2 的下载管理器。
-- [TopOff](https://github.com/ihazgithub/TopOff) <img align="bottom" height="13" src="https://badgen.net/github/stars/ihazgithub/TopOff?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ihazgithub/TopOff?style=flat&label=" /> - 支持一键升级的 Homebrew 更新检查工具。
+- [TopOff](https://github.com/ihazgithub/TopOff) <img align="bottom" height="13" src="https://badgen.net/github/stars/ihazgithub/TopOff?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ihazgithub/TopOff?style=flat&label=" /> - 在后台检查 Homebrew 过期包，并支持菜单栏一键升级。
 - [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) <img align="bottom" height="13" src="https://badgen.net/github/stars/DenBeke/YouTube-Downloader-for-macOS?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/DenBeke/YouTube-Downloader-for-macOS?style=flat&label=" /> - 菜单栏 YouTube 视频下载工具。
 
 ## 编辑器
