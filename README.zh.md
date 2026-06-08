@@ -670,6 +670,7 @@
 
 - [Diurna](https://github.com/ngquerol/Diurna) <img align="bottom" height="13" src="https://badgen.net/github/stars/ngquerol/Diurna?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ngquerol/Diurna?style=flat&label=" /> - 基本/经典的 Hacker News 应用，用作 Cocoa 和 Swift 学习平台。
 - [MenuScores](https://github.com/daniyalmaster693/MenuScores) <img align="bottom" height="13" src="https://badgen.net/github/stars/daniyalmaster693/MenuScores?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/daniyalmaster693/MenuScores?style=flat&label=" /> - 在菜单栏实时呈现体育资讯与比分的应用
+- [Vuvuzela](https://github.com/bsnkhua/vuvuzela) - 轻量 FIFA 世界杯 2026 桌面小组件，实时展示积分榜、完整赛程和淘汰赛对阵。
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) <img align="bottom" height="13" src="https://badgen.net/github/stars/Ranchero-Software/NetNewsWire?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Ranchero-Software/NetNewsWire?style=flat&label=" /> - macOS 的 RSS 阅读器。
 
 ## 笔记

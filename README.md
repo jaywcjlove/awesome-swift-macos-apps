@@ -691,6 +691,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 - [Diurna](https://github.com/ngquerol/Diurna) <img align="bottom" height="13" src="https://badgen.net/github/stars/ngquerol/Diurna?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ngquerol/Diurna?style=flat&label=" /> - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform.
 - [MenuScores](https://github.com/daniyalmaster693/MenuScores) <img align="bottom" height="13" src="https://badgen.net/github/stars/daniyalmaster693/MenuScores?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/daniyalmaster693/MenuScores?style=flat&label=" /> - A menu bar app that delivers real-time sports news and scores.
+- [Vuvuzela](https://github.com/bsnkhua/vuvuzela) - Lightweight FIFA World Cup 2026 desktop widget for live standings, full match schedule, and knockout bracket.
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) <img align="bottom" height="13" src="https://badgen.net/github/stars/Ranchero-Software/NetNewsWire?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Ranchero-Software/NetNewsWire?style=flat&label=" /> - Feed reader for macOS.
 
 ## Notes
