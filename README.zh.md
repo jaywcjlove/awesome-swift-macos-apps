@@ -683,6 +683,7 @@
 - [Notenik](https://github.com/hbowie/notenik-swift) <img align="bottom" height="13" src="https://badgen.net/github/stars/hbowie/notenik-swift?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/hbowie/notenik-swift?style=flat&label=" /> - 具有多种组织选项的笔记应用。
 - [Notes](https://github.com/SauvageP/Notes) <img align="bottom" height="13" src="https://badgen.net/github/stars/SauvageP/Notes?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/SauvageP/Notes?style=flat&label=" /> - 支持富内容的笔记应用。
 - [tmpNote](https://github.com/buddax2/tmpNote) <img align="bottom" height="13" src="https://badgen.net/github/stars/buddax2/tmpNote?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/buddax2/tmpNote?style=flat&label=" /> - 非常简单的 macOS 应用，用于做临时笔记。
+- [Wisp](https://github.com/sulemaanhamza/wisp) <img align="bottom" height="13" src="https://badgen.net/github/stars/sulemaanhamza/wisp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sulemaanhamza/wisp?style=flat&label=" /> - 一键快捷调出的极简便签簿，输入后按 Esc 退出。
 - [Zettel](https://github.com/AlexW00/Zettel) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexW00/Zettel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AlexW00/Zettel?style=flat&label=" /> - 极简无干扰笔记工具，支持 Markdown 与标签组织。
 
 ## 播放器
