@@ -196,6 +196,7 @@
 
 - [Arco](https://github.com/loomi-labs/arco) <img align="bottom" height="13" src="https://badgen.net/github/stars/loomi-labs/arco?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/loomi-labs/arco?style=flat&label=" /> - 一款以简洁为设计理念的增量备份工具。
 - [Syncalicious](https://github.com/zenangst/Syncalicious) <img align="bottom" height="13" src="https://badgen.net/github/stars/zenangst/Syncalicious?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zenangst/Syncalicious?style=flat&label=" /> - 同步 macOS 偏好设置。
+- [TimeMachineTrimmer](https://github.com/ricardoleal/TimeMachineTrimmer) <img align="bottom" height="13" src="https://badgen.net/github/stars/ricardoleal/TimeMachineTrimmer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ricardoleal/TimeMachineTrimmer?style=flat&label=" /> - 轻量工具，用于精简旧 Time Machine 备份并回收磁盘空间。
 
 ## 浏览器
 

@@ -197,6 +197,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 - [Arco](https://github.com/loomi-labs/arco) <img align="bottom" height="13" src="https://badgen.net/github/stars/loomi-labs/arco?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/loomi-labs/arco?style=flat&label=" /> - An incremental backup tool designed with simplicity in mind.
 - [Syncalicious](https://github.com/zenangst/Syncalicious) <img align="bottom" height="13" src="https://badgen.net/github/stars/zenangst/Syncalicious?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zenangst/Syncalicious?style=flat&label=" /> - Sync macOS preferences.
+- [TimeMachineTrimmer](https://github.com/ricardoleal/TimeMachineTrimmer) <img align="bottom" height="13" src="https://badgen.net/github/stars/ricardoleal/TimeMachineTrimmer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ricardoleal/TimeMachineTrimmer?style=flat&label=" /> - Lightweight utility to trim old Time Machine backups and reclaim disk space.
 
 ## Browser
 
