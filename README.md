@@ -1098,6 +1098,7 @@ saw on your Mac.
 - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/SwiftyBeaver/SwiftyBeaver?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/SwiftyBeaver/SwiftyBeaver?style=flat&label=" /> - Convenient logging during development & release in Swift.
 - [Stand](https://github.com/asboy2035/Stand) <img align="bottom" height="13" src="https://badgen.net/github/stars/asboy2035/Stand?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/asboy2035/Stand?style=flat&label=" /> - Keep track of sitting/standing
 - [Sajda](https://github.com/apitlekays/Sajda) <img align="bottom" height="13" src="https://badgen.net/github/stars/apitlekays/Sajda?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/apitlekays/Sajda?style=flat&label=" /> - Prayer time tool with unobtrusive menu bar access.
+- [SilentAirDrop](https://github.com/gaptriko/SilentAirDrop) <img align="bottom" height="13" src="https://badgen.net/github/stars/gaptriko/SilentAirDrop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gaptriko/SilentAirDrop?style=flat&label=" /> - Prevent Finder from auto-opening the Downloads folder after receiving files via AirDrop.
 
 ## Contributors
 

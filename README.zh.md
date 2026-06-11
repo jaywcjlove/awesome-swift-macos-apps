@@ -1094,6 +1094,7 @@
 - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/SwiftyBeaver/SwiftyBeaver?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/SwiftyBeaver/SwiftyBeaver?style=flat&label=" /> - 在 Swift 开发和发布过程中方便的日志记录。
 - [Stand](https://github.com/asboy2035/Stand) <img align="bottom" height="13" src="https://badgen.net/github/stars/asboy2035/Stand?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/asboy2035/Stand?style=flat&label=" /> - 记录坐着/站着的情况
 - [Sajda](https://github.com/apitlekays/Sajda) <img align="bottom" height="13" src="https://badgen.net/github/stars/apitlekays/Sajda?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/apitlekays/Sajda?style=flat&label=" /> - 提供低打扰菜单栏入口的祷告时间工具。
+- [SilentAirDrop](https://github.com/gaptriko/SilentAirDrop) <img align="bottom" height="13" src="https://badgen.net/github/stars/gaptriko/SilentAirDrop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gaptriko/SilentAirDrop?style=flat&label=" /> - 防止在通过 AirDrop 接收文件后 Finder 自动打开“下载”文件夹。
 
 ## 贡献者
 
