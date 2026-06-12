@@ -874,6 +874,7 @@
 ## 剪贴板
 
 - [Buffer](https://github.com/samirpatil2000/Buffer) <img align="bottom" height="13" src="https://badgen.net/github/stars/samirpatil2000/Buffer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/samirpatil2000/Buffer?style=flat&label=" /> - 轻量级 macOS 剪贴板管理器，支持文本、图片和端侧 OCR 历史记录。
+- [BetterClip](https://github.com/yarin-mag/BetterClip) <img align="bottom" height="13" src="https://badgen.net/github/stars/yarin-mag/BetterClip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yarin-mag/BetterClip?style=flat&label=" /> - 菜单栏剪贴板管理工具，可存片段、检索记录、全局快捷键操作。
 - [Copi](https://github.com/s1ntoneli/Copi) <img align="bottom" height="13" src="https://badgen.net/github/stars/s1ntoneli/Copi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/s1ntoneli/Copi?style=flat&label=" /> - 一个安全的替代 macOS 剪贴板。
 - [Clipy](https://github.com/Clipy/Clipy) <img align="bottom" height="13" src="https://badgen.net/github/stars/Clipy/Clipy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Clipy/Clipy?style=flat&label=" /> - Clipy 是一个 macOS 的剪贴板扩展应用。
 - [ClipDock](https://github.com/appdev/ClipDock) <img align="bottom" height="13" src="https://badgen.net/github/stars/appdev/ClipDock?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/appdev/ClipDock?style=flat&label=" /> - 本地优先的剪贴板搁架，用于找回、预览、固定并复用复制内容，支持多设备同步与 P2P 文件传输。
