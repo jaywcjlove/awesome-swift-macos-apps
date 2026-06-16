@@ -202,6 +202,7 @@
 
 ## 浏览器
 
+- [BrowSync](https://github.com/chentao1006/BrowSync) <img align="bottom" height="13" src="https://badgen.net/github/stars/chentao1006/BrowSync?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/chentao1006/BrowSync?style=flat&label=" /> - 多浏览器分流与同步中枢。
 - [Finicky](https://github.com/johnste/finicky) <img align="bottom" height="13" src="https://badgen.net/github/stars/johnste/finicky?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/johnste/finicky?style=flat&label=" /> - 始终打开正确的浏览器。
 - [Ora Browser](https://github.com/the-ora/browser) <img align="bottom" height="13" src="https://badgen.net/github/stars/the-ora/browser?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/the-ora/browser?style=flat&label=" /> - 更少干扰，更专注浏览。
 - [Plash](https://github.com/sindresorhus/Plash) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/Plash?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sindresorhus/Plash?style=flat&label=" /> - 将任何网站设置为桌面壁纸。
