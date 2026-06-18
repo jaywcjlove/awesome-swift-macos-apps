@@ -238,6 +238,7 @@
 
 ## AI
 
+- [Agent Island](https://github.com/tristan666666/agent-island) <img align="bottom" height="13" src="https://badgen.net/github/stars/tristan666666/agent-island?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tristan666666/agent-island?style=flat&label=" /> - 自动恢复长时间 AI Agent 运行，在灵动岛区域显示实时会话状态。
 - [AccountyCat](https://github.com/strjonas/AccountyCat) <img align="bottom" height="13" src="https://badgen.net/github/stars/strjonas/AccountyCat?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/strjonas/AccountyCat?style=flat&label=" /> - AI 专注伙伴，识别你何时偏离当前任务并给出简短提醒，帮助你快速回到正轨。
 - [ADHD Focus Mate](https://github.com/skainguyen1412/adhd-focus-mate) <img align="bottom" height="13" src="https://badgen.net/github/stars/skainguyen1412/adhd-focus-mate?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/skainguyen1412/adhd-focus-mate?style=flat&label=" /> - AI 专注助手，在你分心时温和提醒你回到任务上。
 - [AI Memory Reader](https://github.com/nvwalj/ai-memory-reader) <img align="bottom" height="13" src="https://badgen.net/github/stars/nvwalj/ai-memory-reader?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nvwalj/ai-memory-reader?style=flat&label=" /> - 用于浏览、阅读和编辑 AI Agent 记忆文件的工具，支持 Claude Code、Codex、Cursor、Gemini 等。
