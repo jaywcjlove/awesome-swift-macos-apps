@@ -1084,6 +1084,7 @@ saw on your Mac.
 - [MarkerData](https://github.com/TheAcharya/MarkerData) <img align="bottom" height="13" src="https://badgen.net/github/stars/TheAcharya/MarkerData?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/TheAcharya/MarkerData?style=flat&label=" /> - The avant-garde Marker extraction application crafted for Final Cut Pro.
 - [Tempo](https://github.com/samirpatil2000/Tempo) <img align="bottom" height="13" src="https://badgen.net/github/stars/samirpatil2000/Tempo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/samirpatil2000/Tempo?style=flat&label=" /> - Video speed control and export utility with multiple quality options.
 - [Maya](https://github.com/ronaldo-avalos/Maya) <img align="bottom" height="13" src="https://badgen.net/github/stars/ronaldo-avalos/Maya?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ronaldo-avalos/Maya?style=flat&label=" /> - Turn iPhone screen recordings into polished videos with device frames and cinematic zoom effects.
+- [Palmier Pro](https://github.com/palmier-io/palmier-pro) <img align="bottom" height="13" src="https://badgen.net/github/stars/palmier-io/palmier-pro?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/palmier-io/palmier-pro?style=flat&label=" /> - Open source video editor where you and AI agents generate and edit videos together in the timeline.
 
 ## Wallpaper
 
