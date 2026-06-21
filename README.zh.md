@@ -943,6 +943,7 @@
 - [Tintpad](https://github.com/sorkila/tintpad) <img align="bottom" height="13" src="https://badgen.net/github/stars/sorkila/tintpad?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sorkila/tintpad?style=flat&label=" /> - 一键快捷键在对应仓库中打开终端，直接启动 Claude Code、Codex 或任意代理。
 - [NativeTab](https://github.com/achendev/NativeTab) <img align="bottom" height="13" src="https://badgen.net/github/stars/achendev/NativeTab?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/achendev/NativeTab?style=flat&label=" /> - 提供会话管理和输入增强的 Terminal.app 连接管理工具。
 - [wallpapper](https://github.com/mczachurski/wallpapper) <img align="bottom" height="13" src="https://badgen.net/github/stars/mczachurski/wallpapper?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mczachurski/wallpapper?style=flat&label=" /> - wallpapper 是一个控制台应用程序，用于创建 Mojave 的动态壁纸。
+- [VVTerm](https://github.com/vivy-company/vvterm) <img align="bottom" height="13" src="https://badgen.net/github/stars/vivy-company/vvterm?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vivy-company/vvterm?style=flat&label=" /> - 跨平台 SSH 终端，使用 Ghostty 渲染，支持 CloudKit 同步和钥匙串凭据存储。
 
 ## Touch Bar
 
