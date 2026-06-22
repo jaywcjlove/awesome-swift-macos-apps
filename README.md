@@ -882,6 +882,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner) <img align="bottom" height="13" src="https://badgen.net/github/stars/alienator88/Pearcleaner?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alienator88/Pearcleaner?style=flat&label=" /> - App Cleaner and Uninstaller Tool
 - [PureMac](https://github.com/momenbasel/PureMac) <img align="bottom" height="13" src="https://badgen.net/github/stars/momenbasel/PureMac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/momenbasel/PureMac?style=flat&label=" /> - Free open-source system cleaner with privacy protection.
 - [Binky](https://github.com/heyderekj/binky) <img align="bottom" height="13" src="https://badgen.net/github/stars/heyderekj/binky?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/heyderekj/binky?style=flat&label=" /> - Automated file organizer that intelligently sorts files based on types and custom rules.
+- [Mac System Data Cleaner](https://github.com/prabch/Mac-SysData-Cleaner) <img align="bottom" height="13" src="https://badgen.net/github/stars/prabch/Mac-SysData-Cleaner?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/prabch/Mac-SysData-Cleaner?style=flat&label=" /> - Track down and clean bloated system caches and hidden junk files.
 
 ## System
 
