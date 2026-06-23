@@ -974,6 +974,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [NativeTab](https://github.com/achendev/NativeTab) <img align="bottom" height="13" src="https://badgen.net/github/stars/achendev/NativeTab?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/achendev/NativeTab?style=flat&label=" /> - Terminal.app connection manager with session tools and input enhancements.
 - [wallpapper](https://github.com/mczachurski/wallpapper) <img align="bottom" height="13" src="https://badgen.net/github/stars/mczachurski/wallpapper?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mczachurski/wallpapper?style=flat&label=" /> - wallpapper is a console application for creating dynamic wallpapers for Mojave.
 - [VVTerm](https://github.com/vivy-company/vvterm) <img align="bottom" height="13" src="https://badgen.net/github/stars/vivy-company/vvterm?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vivy-company/vvterm?style=flat&label=" /> - Cross-platform SSH terminal with Ghostty rendering, CloudKit sync, and Keychain credential storage.
+- [zshrc](https://github.com/iHongRen/zshrc) <img align="bottom" height="13" src="https://badgen.net/github/stars/iHongRen/zshrc?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/iHongRen/zshrc?style=flat&label=" /> - Minimal app to view and edit ~/.zshrc with automatic syntax checking on save.
 
 ## Touch Bar
 

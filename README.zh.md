@@ -952,6 +952,7 @@
 - [NativeTab](https://github.com/achendev/NativeTab) <img align="bottom" height="13" src="https://badgen.net/github/stars/achendev/NativeTab?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/achendev/NativeTab?style=flat&label=" /> - 提供会话管理和输入增强的 Terminal.app 连接管理工具。
 - [wallpapper](https://github.com/mczachurski/wallpapper) <img align="bottom" height="13" src="https://badgen.net/github/stars/mczachurski/wallpapper?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mczachurski/wallpapper?style=flat&label=" /> - wallpapper 是一个控制台应用程序，用于创建 Mojave 的动态壁纸。
 - [VVTerm](https://github.com/vivy-company/vvterm) <img align="bottom" height="13" src="https://badgen.net/github/stars/vivy-company/vvterm?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vivy-company/vvterm?style=flat&label=" /> - 跨平台 SSH 终端，使用 Ghostty 渲染，支持 CloudKit 同步和钥匙串凭据存储。
+- [zshrc](https://github.com/iHongRen/zshrc) <img align="bottom" height="13" src="https://badgen.net/github/stars/iHongRen/zshrc?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/iHongRen/zshrc?style=flat&label=" /> - 极简的 ~/.zshrc 查看与编辑工具，保存时自动语法检查。
 
 ## Touch Bar
 
