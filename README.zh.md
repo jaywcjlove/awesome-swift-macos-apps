@@ -506,6 +506,7 @@
 ## 图形
 
 - [CropBatch](https://github.com/Xpycode/CropBatch) <img align="bottom" height="13" src="https://badgen.net/github/stars/Xpycode/CropBatch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Xpycode/CropBatch?style=flat&label=" /> - 一款用于批量裁剪图像的 macOS 应用。
+- [ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) <img align="bottom" height="13" src="https://badgen.net/github/stars/chocoford/ExcalidrawZ?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/chocoford/ExcalidrawZ?style=flat&label=" /> - 虚拟白板绘图工具，支持手绘风格示意图，并集成原生文件管理和 iCloud 同步。
 - [ClipZilla](https://github.com/happyjake/ClipZilla) <img align="bottom" height="13" src="https://badgen.net/github/stars/happyjake/ClipZilla?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/happyjake/ClipZilla?style=flat&label=" /> - 快速截图标注工具。
 - [GifCapture](https://github.com/onmyway133/GifCapture) <img align="bottom" height="13" src="https://badgen.net/github/stars/onmyway133/GifCapture?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/onmyway133/GifCapture?style=flat&label=" /> - macOS 的 GIF 捕获应用程序。
 - [Gifski](https://github.com/sindresorhus/Gifski) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/Gifski?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sindresorhus/Gifski?style=flat&label=" /> - 将视频转换为高质量 GIF。
