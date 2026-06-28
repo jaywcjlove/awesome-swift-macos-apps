@@ -501,6 +501,7 @@
 ## 虚拟机
 
 - [GhostVM](https://github.com/groundwater/GhostVM) <img align="bottom" height="13" src="https://badgen.net/github/stars/groundwater/GhostVM?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/groundwater/GhostVM?style=flat&label=" /> - 用于创建隔离工作区、快照和可移植虚拟机包的虚拟机管理器。
+- [Contained](https://github.com/tdeverx/contained-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/tdeverx/contained-app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tdeverx/contained-app?style=flat&label=" /> - 原生 SwiftUI 界面，用于运行和管理 Linux 容器的 Apple Container CLI 前端。
 - [iContainer](https://github.com/nico81/iContainer) <img align="bottom" height="13" src="https://badgen.net/github/stars/nico81/iContainer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nico81/iContainer?style=flat&label=" /> - Apple Container 的 GUI 应用。
 - [MacBox](https://github.com/Moonif/MacBox) <img align="bottom" height="13" src="https://badgen.net/github/stars/Moonif/MacBox?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moonif/MacBox?style=flat&label=" /> - 86Box 虚拟机管理工具。
 - [UTM](https://github.com/utmapp/UTM) <img align="bottom" height="13" src="https://badgen.net/github/stars/utmapp/UTM?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/utmapp/UTM?style=flat&label=" /> - 适用于 iOS 和 macOS 的虚拟机
