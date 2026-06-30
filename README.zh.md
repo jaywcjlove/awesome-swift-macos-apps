@@ -280,6 +280,7 @@
 
 ### AI 用量/状态
 
+- [adrafinil](https://github.com/kageroumado/adrafinil) <img align="bottom" height="13" src="https://badgen.net/github/stars/kageroumado/adrafinil?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kageroumado/adrafinil?style=flat&label=" /> - 仅在 AI 编码代理活跃时阻止系统休眠的菜单栏工具。
 - [AIUsage](https://github.com/sylearn/AIUsage) <img align="bottom" height="13" src="https://badgen.net/github/stars/sylearn/AIUsage?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sylearn/AIUsage?style=flat&label=" /> - 用于跟踪 AI 订阅、配额、成本和账户的仪表盘工具。
 - [AgentPet](https://github.com/ntd4996/agentpet) <img align="bottom" height="13" src="https://badgen.net/github/stars/ntd4996/agentpet?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ntd4996/agentpet?style=flat&label=" /> - 一眼查看多个编码 Agent 的工作中、已完成或等待输入状态，并通过会互动的桌面宠物实时反馈。
 - [Agent Beacon](https://github.com/XiaoLuoLYG/agent-beacon) <img align="bottom" height="13" src="https://badgen.net/github/stars/XiaoLuoLYG/agent-beacon?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/XiaoLuoLYG/agent-beacon?style=flat&label=" /> - 为编码代理提供微型状态灯，显示任务完成、等待、失败或运行中，并可点击跳回对应应用。
