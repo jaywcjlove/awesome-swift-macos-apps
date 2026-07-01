@@ -505,6 +505,7 @@
 
 ## 虚拟机
 
+- [berth](https://github.com/tofa84/berth) <img align="bottom" height="13" src="https://badgen.net/github/stars/tofa84/berth?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tofa84/berth?style=flat&label=" /> - Apple 容器 CLI 的原生 GUI，通过 XPC 提供实时日志、动态状态和类型化数据。
 - [GhostVM](https://github.com/groundwater/GhostVM) <img align="bottom" height="13" src="https://badgen.net/github/stars/groundwater/GhostVM?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/groundwater/GhostVM?style=flat&label=" /> - 用于创建隔离工作区、快照和可移植虚拟机包的虚拟机管理器。
 - [Contained](https://github.com/tdeverx/contained-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/tdeverx/contained-app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tdeverx/contained-app?style=flat&label=" /> - 原生 SwiftUI 界面，用于运行和管理 Linux 容器的 Apple Container CLI 前端。
 - [iContainer](https://github.com/nico81/iContainer) <img align="bottom" height="13" src="https://badgen.net/github/stars/nico81/iContainer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nico81/iContainer?style=flat&label=" /> - Apple Container 的 GUI 应用。

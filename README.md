@@ -507,6 +507,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Virtual Machines
 
+- [berth](https://github.com/tofa84/berth) <img align="bottom" height="13" src="https://badgen.net/github/stars/tofa84/berth?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tofa84/berth?style=flat&label=" /> - Native GUI for Apple's container CLI with streaming logs, live stats, and typed data over XPC.
 - [GhostVM](https://github.com/groundwater/GhostVM) <img align="bottom" height="13" src="https://badgen.net/github/stars/groundwater/GhostVM?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/groundwater/GhostVM?style=flat&label=" /> - Virtual machine manager for isolated workspaces, snapshots, and portable VM bundles.
 - [Contained](https://github.com/tdeverx/contained-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/tdeverx/contained-app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tdeverx/contained-app?style=flat&label=" /> - Native SwiftUI control surface for Apple's container CLI to run and manage Linux containers.
 - [iContainer](https://github.com/nico81/iContainer) <img align="bottom" height="13" src="https://badgen.net/github/stars/nico81/iContainer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nico81/iContainer?style=flat&label=" /> - GUI application for Apple Containers.
