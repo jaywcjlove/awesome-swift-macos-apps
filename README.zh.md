@@ -356,6 +356,7 @@
 
 ### 其他开发
 
+- [CCSwitcher](https://github.com/XueshiQiao/CCSwitcher) <img align="bottom" height="13" src="https://badgen.net/github/stars/XueshiQiao/CCSwitcher?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/XueshiQiao/CCSwitcher?style=flat&label=" /> - 一键切换多个 Claude Code 账号凭证的管理工具。
 - [ChefInspector](https://github.com/Yasumoto/ChefInspector) <img align="bottom" height="13" src="https://badgen.net/github/stars/Yasumoto/ChefInspector?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Yasumoto/ChefInspector?style=flat&label=" /> - Chef 的节点和属性查看器。
 - [DMG Maker](https://github.com/saihgupr/DMGMaker) <img align="bottom" height="13" src="https://badgen.net/github/stars/saihgupr/DMGMaker?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/saihgupr/DMGMaker?style=flat&label=" /> - 用于创建精美 DMG 安装镜像的工具。
 - [CodeBurn](https://github.com/getagentseal/codeburn) <img align="bottom" height="13" src="https://badgen.net/github/stars/getagentseal/codeburn?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/getagentseal/codeburn?style=flat&label=" /> - 追踪 AI 编码 token 成本的交互式仪表板。

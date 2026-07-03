@@ -357,6 +357,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ### Other Development
 
+- [CCSwitcher](https://github.com/XueshiQiao/CCSwitcher) <img align="bottom" height="13" src="https://badgen.net/github/stars/XueshiQiao/CCSwitcher?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/XueshiQiao/CCSwitcher?style=flat&label=" /> - Manage and switch between multiple Claude Code accounts with one-click credential swapping.
 - [ChefInspector](https://github.com/Yasumoto/ChefInspector) <img align="bottom" height="13" src="https://badgen.net/github/stars/Yasumoto/ChefInspector?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Yasumoto/ChefInspector?style=flat&label=" /> - Node and Attribute viewer for Chef
 - [DMG Maker](https://github.com/saihgupr/DMGMaker) <img align="bottom" height="13" src="https://badgen.net/github/stars/saihgupr/DMGMaker?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/saihgupr/DMGMaker?style=flat&label=" /> - Tool for creating polished DMG installers.
 - [CodeBurn](https://github.com/getagentseal/codeburn) <img align="bottom" height="13" src="https://badgen.net/github/stars/getagentseal/codeburn?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/getagentseal/codeburn?style=flat&label=" /> - Dashboard for tracking AI coding token usage and costs across multiple AI code assistants.
