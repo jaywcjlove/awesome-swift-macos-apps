@@ -314,6 +314,7 @@
 - [Balance Open](https://github.com/balance-io/balance-open) <img align="bottom" height="13" src="https://badgen.net/github/stars/balance-io/balance-open?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/balance-io/balance-open?style=flat&label=" /> - 适用于全球所有货币的应用程序。
 - [Currency Converter](https://github.com/0franco/currency-converter-macos) <img align="bottom" height="13" src="https://badgen.net/github/stars/0franco/currency-converter-macos?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/0franco/currency-converter-macos?style=flat&label=" /> - 支持实时汇率、离线缓存与常用货币对收藏的轻量换算工具。
 - [Float coin](https://github.com/kaunteya/FloatCoin) <img align="bottom" height="13" src="https://badgen.net/github/stars/kaunteya/FloatCoin?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kaunteya/FloatCoin?style=flat&label=" /> - 原生菜单栏应用，具有浮动窗口和对多种交易所的支持。
+- [NowCoiner](https://github.com/mylxsw/now-coiner) <img align="bottom" height="13" src="https://badgen.net/github/stars/mylxsw/now-coiner?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mylxsw/now-coiner?style=flat&label=" /> - 轻量级菜单栏加密货币实时价格追踪工具。
 
 ## 数据库
 
