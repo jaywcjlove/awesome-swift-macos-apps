@@ -763,6 +763,7 @@
 - [OmniPlay](https://github.com/nandieling/OmniPlay) <img align="bottom" height="13" src="https://badgen.net/github/stars/nandieling/OmniPlay?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nandieling/OmniPlay?style=flat&label=" /> - 电影剧集海报墙播放器。
 - [Pars Player](https://github.com/htutuncu/Pars-Player) <img align="bottom" height="13" src="https://badgen.net/github/stars/htutuncu/Pars-Player?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/htutuncu/Pars-Player?style=flat&label=" /> - 用于加载 M3U 播放列表并观看 IPTV 直播的播放器。
 - [Lume](https://github.com/bilipp/Lume) <img align="bottom" height="13" src="https://badgen.net/github/stars/bilipp/Lume?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/bilipp/Lume?style=flat&label=" /> - 原生 IPTV 播放器，支持浏览、搜索和流式播放 Xtream Codes 或 M3U/M3U8 播放列表。
+- [NullPlayer](https://github.com/ad-repo/nullplayer) <img align="bottom" height="13" src="https://badgen.net/github/stars/ad-repo/nullplayer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ad-repo/nullplayer?style=flat&label=" /> - 音乐播放器，支持无界面 CLI、多源播放，可投射至 Sonos、Chromecast 与 UPnP/DLNA。
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wulkano/Plug?style=flat&label=" /> - 从 Hype Machine 中发现和收听音乐。
 
 ## 播客
