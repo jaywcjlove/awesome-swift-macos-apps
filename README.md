@@ -210,6 +210,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Browser
 
+- [Browserly](https://github.com/andyzasl/browserly) <img align="bottom" height="13" src="https://badgen.net/github/stars/andyzasl/browserly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/andyzasl/browserly?style=flat&label=" /> - Routes URLs to the right browser based on custom rules.
 - [BrowSync](https://github.com/chentao1006/BrowSync) <img align="bottom" height="13" src="https://badgen.net/github/stars/chentao1006/BrowSync?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/chentao1006/BrowSync?style=flat&label=" /> - Multi-browser traffic splitting and synchronization hub.
 - [Finicky](https://github.com/johnste/finicky) <img align="bottom" height="13" src="https://badgen.net/github/stars/johnste/finicky?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/johnste/finicky?style=flat&label=" /> - Always opens the right browser.
 - [Ora Browser](https://github.com/the-ora/browser) <img align="bottom" height="13" src="https://badgen.net/github/stars/the-ora/browser?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/the-ora/browser?style=flat&label=" /> - Less noise, more browsing.
