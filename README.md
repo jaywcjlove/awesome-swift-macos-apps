@@ -717,6 +717,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Thaw](https://github.com/stonerl/Thaw) <img align="bottom" height="13" src="https://badgen.net/github/stars/stonerl/Thaw?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/stonerl/Thaw?style=flat&label=" /> - A powerful menu bar management tool for hiding and showing menu bar items.
 - [TickerBar](https://github.com/TerrifiedBug/TickerBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/TerrifiedBug/TickerBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/TerrifiedBug/TickerBar?style=flat&label=" /> - Real-time stock price tracker with live quotes and price alerts.
 - [WeekNumber](https://github.com/BaldrianSector/week-number) <img align="bottom" height="13" src="https://badgen.net/github/stars/BaldrianSector/week-number?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/BaldrianSector/week-number?style=flat&label=" /> - Minimal macOS app that displays the current week number in your menu bar.
+- [Zonedial](https://github.com/gostonx/Zonedial) <img align="bottom" height="13" src="https://badgen.net/github/stars/gostonx/Zonedial?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gostonx/Zonedial?style=flat&label=" /> - Lightweight menu bar app for tracking time across multiple time zones at a glance.
 
 ## Notch App
 

@@ -711,6 +711,7 @@
 - [Thaw](https://github.com/stonerl/Thaw) <img align="bottom" height="13" src="https://badgen.net/github/stars/stonerl/Thaw?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/stonerl/Thaw?style=flat&label=" /> - 强大的菜单栏管理工具，用于隐藏和显示菜单栏项目。
 - [TickerBar](https://github.com/TerrifiedBug/TickerBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/TerrifiedBug/TickerBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/TerrifiedBug/TickerBar?style=flat&label=" /> - 实时股价跟踪器，提供实时报价和价格提醒。
 - [WeekNumber](https://github.com/BaldrianSector/week-number) <img align="bottom" height="13" src="https://badgen.net/github/stars/BaldrianSector/week-number?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/BaldrianSector/week-number?style=flat&label=" /> - 简约 macOS 应用，在菜单栏显示当前周数。
+- [Zonedial](https://github.com/gostonx/Zonedial) <img align="bottom" height="13" src="https://badgen.net/github/stars/gostonx/Zonedial?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gostonx/Zonedial?style=flat&label=" /> - 轻量菜单栏应用，一目了然地追踪多个时区的时间。
 
 ## 刘海应用
 
