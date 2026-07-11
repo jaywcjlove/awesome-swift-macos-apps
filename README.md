@@ -1207,6 +1207,7 @@ saw on your Mac.
 
 ## Other
 
+- [Burrete](https://github.com/SergeiNikolenko/Burrete) <img align="bottom" height="13" src="https://badgen.net/github/stars/SergeiNikolenko/Burrete?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/SergeiNikolenko/Burrete?style=flat&label=" /> - Molecular file workspace with 3D visualization, molecule grid rendering, and structure sketching.
 - [C64 Ultimate Toolbox](https://github.com/amiantos/c64-ultimate-toolbox) <img align="bottom" height="13" src="https://badgen.net/github/stars/amiantos/c64-ultimate-toolbox?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/amiantos/c64-ultimate-toolbox?style=flat&label=" /> - Companion toolbox for Commodore 64 Ultimate devices with file management, BASIC editing, and live display control.
 - [Cloak](https://github.com/D3OXY/Cloak) <img align="bottom" height="13" src="https://badgen.net/github/stars/D3OXY/Cloak?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/D3OXY/Cloak?style=flat&label=" /> - A macOS app that protects privacy during screen sharing.
 - [DevDocs for macOS](https://github.com/dteoh/devdocs-macos) <img align="bottom" height="13" src="https://badgen.net/github/stars/dteoh/devdocs-macos?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dteoh/devdocs-macos?style=flat&label=" /> - An unofficial DevDocs API documentation viewer.
