@@ -860,6 +860,7 @@
 - [Yomu](https://github.com/sendyhalim/Yomu) <img align="bottom" height="13" src="https://badgen.net/github/stars/sendyhalim/Yomu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sendyhalim/Yomu?style=flat&label=" /> - 针对 macOS 的漫画阅读器应用。
 - [Viz](https://github.com/alienator88/Viz) <img align="bottom" height="13" src="https://badgen.net/github/stars/alienator88/Viz?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alienator88/Viz?style=flat&label=" /> - 从屏幕片段中捕获文本/二维码/条形码
 - [WebWatcher](https://github.com/ivg-design/web-watcher) <img align="bottom" height="13" src="https://badgen.net/github/stars/ivg-design/web-watcher?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ivg-design/web-watcher?style=flat&label=" /> - 监控网页更新并发送通知。
+- [ZenTime](https://github.com/PatpateePhangern/ZenTime) <img align="bottom" height="13" src="https://badgen.net/github/stars/PatpateePhangern/ZenTime?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PatpateePhangern/ZenTime?style=flat&label=" /> - 限时考试练习工具，追踪每题用时并在超时提醒，可导出带标记的 PDF 报告。
 
 ## 屏幕保护程序
 

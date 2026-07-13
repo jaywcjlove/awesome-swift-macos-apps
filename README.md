@@ -882,6 +882,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Yomu](https://github.com/sendyhalim/Yomu) <img align="bottom" height="13" src="https://badgen.net/github/stars/sendyhalim/Yomu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sendyhalim/Yomu?style=flat&label=" /> - Manga reader app for macOS.
 - [Viz](https://github.com/alienator88/Viz) <img align="bottom" height="13" src="https://badgen.net/github/stars/alienator88/Viz?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alienator88/Viz?style=flat&label=" /> - Capture text/QR Codes/Barcodes from screen snippets
 - [WebWatcher](https://github.com/ivg-design/web-watcher) <img align="bottom" height="13" src="https://badgen.net/github/stars/ivg-design/web-watcher?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ivg-design/web-watcher?style=flat&label=" /> - Monitors website updates and sends notifications.
+- [ZenTime](https://github.com/PatpateePhangern/ZenTime) <img align="bottom" height="13" src="https://badgen.net/github/stars/PatpateePhangern/ZenTime?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PatpateePhangern/ZenTime?style=flat&label=" /> - Timed exam practice tool that tracks per-question time, signals overtime, and exports styled PDF reports.
 
 ## Screensaver
 
