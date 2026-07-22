@@ -497,6 +497,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Neon Vision Editor](https://github.com/h3pdesign/Neon-Vision-Editor) <img align="bottom" height="13" src="https://badgen.net/github/stars/h3pdesign/Neon-Vision-Editor?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/h3pdesign/Neon-Vision-Editor?style=flat&label=" /> - Lightweight text editor with automatic syntax highlighting.
 - [Noto](https://github.com/brunophilipe/noto) <img align="bottom" height="13" src="https://badgen.net/github/stars/brunophilipe/noto?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/brunophilipe/noto?style=flat&label=" /> - Plain text editor for macOS with customizable themes.
 - [VimR](https://github.com/qvacua/vimr) <img align="bottom" height="13" src="https://badgen.net/github/stars/qvacua/vimr?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/qvacua/vimr?style=flat&label=" /> - Refined Neovim experience for macOS.
+- [Mojito](https://github.com/wr/mojito) <img align="bottom" height="13" src="https://badgen.net/github/stars/wr/mojito?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wr/mojito?style=flat&label=" /> - Type emoji shortcodes like `:tada:` to insert 🎉 in any text field.
 
 ## Extensions
 

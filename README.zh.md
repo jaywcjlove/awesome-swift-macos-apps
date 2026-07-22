@@ -496,6 +496,7 @@
 - [Neon Vision Editor](https://github.com/h3pdesign/Neon-Vision-Editor) <img align="bottom" height="13" src="https://badgen.net/github/stars/h3pdesign/Neon-Vision-Editor?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/h3pdesign/Neon-Vision-Editor?style=flat&label=" /> - 轻量现代文本编辑器，专注速度、可读性与自动语法高亮。
 - [Noto](https://github.com/brunophilipe/noto) <img align="bottom" height="13" src="https://badgen.net/github/stars/brunophilipe/noto?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/brunophilipe/noto?style=flat&label=" /> - 具有可自定义主题的 macOS 纯文本编辑器。
 - [VimR](https://github.com/qvacua/vimr) <img align="bottom" height="13" src="https://badgen.net/github/stars/qvacua/vimr?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/qvacua/vimr?style=flat&label=" /> - 精炼的 Neovim 体验，适用于 macOS。
+- [Mojito](https://github.com/wr/mojito) <img align="bottom" height="13" src="https://badgen.net/github/stars/wr/mojito?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wr/mojito?style=flat&label=" /> - 在任何文本框中输入 `:tada:` 等表情短码即可转换为 🎉。
 
 ## 扩展
 
