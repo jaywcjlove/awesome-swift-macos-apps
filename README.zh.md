@@ -1008,6 +1008,7 @@
 - [Vifty](https://github.com/Reedtrullz/Vifty) <img align="bottom" height="13" src="https://badgen.net/github/stars/Reedtrullz/Vifty?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Reedtrullz/Vifty?style=flat&label=" /> - 菜单栏风扇控制与充电功率监控工具，支持实时温度、转速调节和可复用温控曲线。
 - [VerticalBar](https://github.com/DeromirNeves/DockSeparator) <img align="bottom" height="13" src="https://badgen.net/github/stars/DeromirNeves/DockSeparator?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/DeromirNeves/DockSeparator?style=flat&label=" /> - 用于在 Dock 中添加垂直条的 macOS 应用程序。
 - [Voxt](https://github.com/hehehai/voxt) <img align="bottom" height="13" src="https://badgen.net/github/stars/hehehai/voxt?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/hehehai/voxt?style=flat&label=" /> - 菜单栏语音输入与翻译工具，按住说话，松开发送。
+- [Birth](https://github.com/iAmCorey/birth) <img align="bottom" height="13" src="https://badgen.net/github/stars/iAmCorey/birth?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/iAmCorey/birth?style=flat&label=" /> - 集中管理启动项、守护进程与后台代理，可查看代码签名身份与运行状态，一键停用或移除。
 
 ## 剪贴板
 
