@@ -1016,6 +1016,7 @@
 
 ## 剪贴板
 
+- [Batch Clipboard](https://github.com/jpmhouston/Batch-Clipboard) <img align="bottom" height="13" src="https://badgen.net/github/stars/jpmhouston/Batch-Clipboard?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jpmhouston/Batch-Clipboard?style=flat&label=" /> - 批量复制多项内容，并按相同顺序粘贴。
 - [Buffer](https://github.com/samirpatil2000/Buffer) <img align="bottom" height="13" src="https://badgen.net/github/stars/samirpatil2000/Buffer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/samirpatil2000/Buffer?style=flat&label=" /> - 轻量级 macOS 剪贴板管理器，支持文本、图片和端侧 OCR 历史记录。
 - [BetterClip](https://github.com/yarin-mag/BetterClip) <img align="bottom" height="13" src="https://badgen.net/github/stars/yarin-mag/BetterClip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yarin-mag/BetterClip?style=flat&label=" /> - 菜单栏剪贴板管理工具，可存片段、检索记录、全局快捷键操作。
 - [Copi](https://github.com/s1ntoneli/Copi) <img align="bottom" height="13" src="https://badgen.net/github/stars/s1ntoneli/Copi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/s1ntoneli/Copi?style=flat&label=" /> - 一个安全的替代 macOS 剪贴板。

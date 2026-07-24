@@ -1040,6 +1040,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Clipboard
 
+- [Batch Clipboard](https://github.com/jpmhouston/Batch-Clipboard) <img align="bottom" height="13" src="https://badgen.net/github/stars/jpmhouston/Batch-Clipboard?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jpmhouston/Batch-Clipboard?style=flat&label=" /> - Copy multiple items at once and paste them in the same order.
 - [Buffer](https://github.com/samirpatil2000/Buffer) <img align="bottom" height="13" src="https://badgen.net/github/stars/samirpatil2000/Buffer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/samirpatil2000/Buffer?style=flat&label=" /> - Lightweight macOS clipboard manager with text, image, and on-device OCR history.
 - [BetterClip](https://github.com/yarin-mag/BetterClip) <img align="bottom" height="13" src="https://badgen.net/github/stars/yarin-mag/BetterClip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yarin-mag/BetterClip?style=flat&label=" /> - Menu bar clipboard manager for snippet storage, history search and global shortcut operations.
 - [Copi](https://github.com/s1ntoneli/Copi) <img align="bottom" height="13" src="https://badgen.net/github/stars/s1ntoneli/Copi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/s1ntoneli/Copi?style=flat&label=" /> - A Secure Alternative to macOS Clipboard.
