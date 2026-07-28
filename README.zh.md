@@ -202,6 +202,7 @@
 - [VoiceInk](https://github.com/Beingpax/VoiceInk) <img align="bottom" height="13" src="https://badgen.net/github/stars/Beingpax/VoiceInk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Beingpax/VoiceInk?style=flat&label=" /> - 实时语音转文字工具。
 - [VoxFlow](https://github.com/xingbofeng/VoxFlow) <img align="bottom" height="13" src="https://badgen.net/github/stars/xingbofeng/VoxFlow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/xingbofeng/VoxFlow?style=flat&label=" /> - 语音输入工作台，支持本地与云端语音识别、OCR、历史记录和编码助手流程。
 - [OpenQuack](https://github.com/larryxiao/openquack) <img align="bottom" height="13" src="https://badgen.net/github/stars/larryxiao/openquack?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/larryxiao/openquack?style=flat&label=" /> - 菜单栏本地语音听写工具 — 5 分钟音频 2.8 秒完成；基于 WhisperKit，抗噪，无遥测。
+- [Yap](https://github.com/FrigadeHQ/yap) <img align="bottom" height="13" src="https://badgen.net/github/stars/FrigadeHQ/yap?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/FrigadeHQ/yap?style=flat&label=" /> - 快速本地语音听写，无需账户即可在任意文本框中输入。
 
 ## 备份
 
