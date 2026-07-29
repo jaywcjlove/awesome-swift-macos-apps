@@ -246,6 +246,7 @@
 - [Nativ](https://github.com/Blaizzy/nativ) <img align="bottom" height="13" src="https://badgen.net/github/stars/Blaizzy/nativ?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Blaizzy/nativ?style=flat&label=" /> - 本地 AI 工作区，一站式运行 MLX 模型，支持聊天、模型服务、性能监控与模型连接。
 - [Sero](https://github.com/tanayarya/Sero-App) <img align="bottom" height="13" src="https://badgen.net/github/stars/tanayarya/Sero-App?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tanayarya/Sero-App?style=flat&label=" /> - 私有本地 AI 工作区，可用本地模型与文档、研究资料、开发知识和结构化数据对话。
 - [Sidekick](https://github.com/johnbean393/Sidekick) <img align="bottom" height="13" src="https://badgen.net/github/stars/johnbean393/Sidekick?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/johnbean393/Sidekick?style=flat&label=" /> - 在 macOS 上用你的文件与本地 LLM 对话，无需额外配置。
+- [TurboFieldfare](https://github.com/drumih/turbo-fieldfare) <img align="bottom" height="13" src="https://badgen.net/github/stars/drumih/turbo-fieldfare?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/drumih/turbo-fieldfare?style=flat&label=" /> - 基于 Swift + Metal 的自定义运行时，约 2 GB 内存即可运行 Gemma 4 推理。
 
 ## AI
 
