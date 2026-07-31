@@ -603,6 +603,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Screenize](https://github.com/syi0808/screenize) <img align="bottom" height="13" src="https://badgen.net/github/stars/syi0808/screenize?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/syi0808/screenize?style=flat&label=" /> - Screen recorder with auto-zoom, cursor effects, and timeline editing.
 - [ShotX](https://github.com/aimen08/shotx) <img align="bottom" height="13" src="https://badgen.net/github/stars/aimen08/shotx?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aimen08/shotx?style=flat&label=" /> - Keyboard-first capture tool for screenshots, recording, GIF export, annotation, and searchable history.
 - [Snapzy](https://github.com/duongductrong/Snapzy) <img align="bottom" height="13" src="https://badgen.net/github/stars/duongductrong/Snapzy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/duongductrong/Snapzy?style=flat&label=" /> - Open-source tool for screenshots, screen recording, annotation, and editing.
+- [viewio](https://github.com/thisisommore/viewio) <img align="bottom" height="13" src="https://badgen.net/github/stars/thisisommore/viewio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/thisisommore/viewio?style=flat&label=" /> - Cinematic screen recorder with auto zoom, cursor redesign, motion blur, camera PiP, and backgrounds.
 
 ## IDE
 

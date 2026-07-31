@@ -599,6 +599,7 @@
 - [Screenize](https://github.com/syi0808/screenize) <img align="bottom" height="13" src="https://badgen.net/github/stars/syi0808/screenize?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/syi0808/screenize?style=flat&label=" /> - 支持自动缩放、光标效果和时间线编辑的录屏工具。
 - [ShotX](https://github.com/aimen08/shotx) <img align="bottom" height="13" src="https://badgen.net/github/stars/aimen08/shotx?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aimen08/shotx?style=flat&label=" /> - 支持截图、录屏、GIF 导出、标注和历史检索的键盘优先捕获工具。
 - [Snapzy](https://github.com/duongductrong/Snapzy) <img align="bottom" height="13" src="https://badgen.net/github/stars/duongductrong/Snapzy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/duongductrong/Snapzy?style=flat&label=" /> - 开源截图、录屏、标注和编辑工具。
+- [viewio](https://github.com/thisisommore/viewio) <img align="bottom" height="13" src="https://badgen.net/github/stars/thisisommore/viewio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/thisisommore/viewio?style=flat&label=" /> - 电影级录屏工具，支持自动缩放、光标重绘、动态模糊、摄像头画中画与背景替换。
 
 ## IDE
 
