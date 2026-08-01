@@ -1274,6 +1274,7 @@
 - [Sunscreen](https://github.com/davidcelis/Sunscreen) <img align="bottom" height="13" src="https://badgen.net/github/stars/davidcelis/Sunscreen?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/davidcelis/Sunscreen?style=flat&label=" /> - 根据日出和日落切换壁纸的工具。
 - [Tableau](https://github.com/yashashwi-s/Tableau) <img align="bottom" height="13" src="https://badgen.net/github/stars/yashashwi-s/Tableau?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yashashwi-s/Tableau?style=flat&label=" /> - 将照片以完美适配的无边框小组件形式放置在桌面上，无需裁剪。
 - [Open Wallpaper Engine](https://github.com/haren724/wallpaper-player-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/haren724/wallpaper-player-mac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/haren724/wallpaper-player-mac?style=flat&label=" /> - 功能强大的开源 Mac 实时壁纸应用程序
+- [Phosphene](https://github.com/kageroumado/phosphene) <img align="bottom" height="13" src="https://badgen.net/github/stars/kageroumado/phosphene?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kageroumado/phosphene?style=flat&label=" /> - 从系统设置的壁纸面板直接选择自定义视频壁纸，支持桌面与锁屏界面的任意视频播放。
 
 ## 窗口管理
 

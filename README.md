@@ -1280,6 +1280,7 @@ saw on your Mac.
 - [Sunscreen](https://github.com/davidcelis/Sunscreen) <img align="bottom" height="13" src="https://badgen.net/github/stars/davidcelis/Sunscreen?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/davidcelis/Sunscreen?style=flat&label=" /> - Wallpaper switcher that changes backgrounds at sunrise and sunset.
 - [Tableau](https://github.com/yashashwi-s/Tableau) <img align="bottom" height="13" src="https://badgen.net/github/stars/yashashwi-s/Tableau?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yashashwi-s/Tableau?style=flat&label=" /> - Place photos on the desktop as perfectly fitted, borderless widgets with no cropping.
 - [Open Wallpaper Engine](https://github.com/haren724/wallpaper-player-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/haren724/wallpaper-player-mac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/haren724/wallpaper-player-mac?style=flat&label=" /> - A powerful open source live wallpaper app for mac
+- [Phosphene](https://github.com/kageroumado/phosphene) <img align="bottom" height="13" src="https://badgen.net/github/stars/kageroumado/phosphene?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kageroumado/phosphene?style=flat&label=" /> - Custom video wallpapers picked directly from System Settings' Wallpaper pane — any video, on the desktop and the lock screen.
 
 ## Window Management
 
