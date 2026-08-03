@@ -155,6 +155,7 @@
 
 ## 音频
 
+- [AI Dictation](https://github.com/writingmate/aidictation) <img align="bottom" height="13" src="https://badgen.net/github/stars/writingmate/aidictation?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/writingmate/aidictation?style=flat&label=" /> - 语音转文字工具，在支持的设备上提供离线识别以及可选的云端转写和文本整理。
 - [AUHost](https://github.com/vgorloff/AUHost) <img align="bottom" height="13" src="https://badgen.net/github/stars/vgorloff/AUHost?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vgorloff/AUHost?style=flat&label=" /> - AudioUnits v3 插件托管工具。
 - [AudioMator](https://github.com/ChrisLloydME/AudioMator) <img align="bottom" height="13" src="https://badgen.net/github/stars/ChrisLloydME/AudioMator?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ChrisLloydME/AudioMator?style=flat&label=" /> - 音频元数据编辑器，支持标签查阅、批量编辑、封面管理及通过 MusicBrainz 标记发行版。
 - [Aural Player](https://github.com/kartik-venugopal/aural-player) <img align="bottom" height="13" src="https://badgen.net/github/stars/kartik-venugopal/aural-player?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kartik-venugopal/aural-player?style=flat&label=" /> - 类 Winamp 风格音乐播放器。
