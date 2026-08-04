@@ -1115,6 +1115,7 @@
 
 ## Touch Bar
 
+- [Blackout](https://github.com/norgera/Blackout) <img align="bottom" height="13" src="https://badgen.net/github/stars/norgera/Blackout?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/norgera/Blackout?style=flat&label=" /> - 一键将 Touch Bar 变黑，减少干扰。
 - [Muse](https://github.com/xzzz9097/Muse) <img align="bottom" height="13" src="https://badgen.net/github/stars/xzzz9097/Muse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/xzzz9097/Muse?style=flat&label=" /> - 支持 TouchBar 的 Spotify 控制器。
 - [MyTouchbarMyRules](https://github.com/toxblh/MTMR) <img align="bottom" height="13" src="https://badgen.net/github/stars/toxblh/MTMR?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/toxblh/MTMR?style=flat&label=" /> - 用于自定义 Touch Bar 的应用程序。
 - [Pock](https://github.com/pock/pock) <img align="bottom" height="13" src="https://badgen.net/github/stars/pock/pock?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/pock/pock?style=flat&label=" /> - 在 Touch Bar 中显示 macOS Dock。

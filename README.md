@@ -1140,6 +1140,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Touch Bar
 
+- [Blackout](https://github.com/norgera/Blackout) <img align="bottom" height="13" src="https://badgen.net/github/stars/norgera/Blackout?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/norgera/Blackout?style=flat&label=" /> - A utility that instantly blacks out the Touch Bar to reduce distractions.
 - [Muse](https://github.com/xzzz9097/Muse) <img align="bottom" height="13" src="https://badgen.net/github/stars/xzzz9097/Muse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/xzzz9097/Muse?style=flat&label=" /> - Spotify controller with TouchBar support.
 - [MyTouchbarMyRules](https://github.com/toxblh/MTMR) <img align="bottom" height="13" src="https://badgen.net/github/stars/toxblh/MTMR?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/toxblh/MTMR?style=flat&label=" /> - App to customize your Touch Bar as you want.
 - [Pock](https://github.com/pock/pock) <img align="bottom" height="13" src="https://badgen.net/github/stars/pock/pock?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/pock/pock?style=flat&label=" /> - Display macOS Dock in Touch Bar.
