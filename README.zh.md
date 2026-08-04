@@ -4,6 +4,13 @@
   <br>
   <br>
 
+  <a href="https://lizhi.shop/?cid=nboxz71a">
+    <img alt="LIZHI.SHOP｜精选软件，正版保真，超值特惠" width="400" src="https://jaywcjlove.github.io/sponsor/lizhi.shop.png">
+  </a>
+  <br>
+  <a href="https://lizhi.shop/?cid=nboxz71a">LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals.</a>
+  <br><br>
+
   <a href="https://apps.apple.com/app/apple-store/id6757860829?pt=80185800&ct=jay&mt=8">
     <img alt="SubList" width="400" src="https://jaywcjlove.github.io/sponsor/SubList.jpg">
   </a>
