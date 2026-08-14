@@ -1,6 +1,6 @@
 https://wangchujiang.com/awesome-swift-macos-apps/CODE-OF-CONDUCT.html
-https://wangchujiang.com/awesome-swift-macos-apps/CONTRIBUTING.html
 https://wangchujiang.com/awesome-swift-macos-apps/PULL_REQUEST_TEMPLATE.html
+https://wangchujiang.com/awesome-swift-macos-apps/CONTRIBUTING.html
 https://wangchujiang.com/awesome-swift-macos-apps/SECURITY.html
 https://wangchujiang.com/awesome-swift-macos-apps/index.html
 https://wangchujiang.com/awesome-swift-macos-apps/index.zh.html
