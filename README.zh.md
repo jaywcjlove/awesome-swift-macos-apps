@@ -1145,6 +1145,7 @@
 
 ## 实用工具
 
+- [CopySight](https://github.com/copysightapp/copysight) - 开源菜单栏 OCR 工具，使用端侧识别从任意屏幕区域私密复制文字。
 - [MacCam](https://github.com/polyackiy/MacCam) - 完全离线的运动检测安防摄像工具，检测到移动时将视频片段录制到本地。
 - [Browser Cookie Bridge](https://github.com/apoorvdarshan/browser-cookie-bridge) - 在本地迁移已登录的浏览器会话、导入 ChatGPT Codex 会话，也可选择将经过身份验证的配置文件上传到 Browserless Cloud。
 - [File Island](https://github.com/TREAFREE/FileIsland) - 将图片、视频、音频和整个文件夹拖到屏幕顶部即可在本地完成转换。

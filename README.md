@@ -1170,6 +1170,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Utilities
 
+- [CopySight](https://github.com/copysightapp/copysight) - Open-source menu bar OCR tool that privately copies text from any screen region using on-device recognition.
 - [MacCam](https://github.com/polyackiy/MacCam) - Fully offline motion-detecting security camera that records video clips locally when movement is detected.
 - [Browser Cookie Bridge](https://github.com/apoorvdarshan/browser-cookie-bridge) - Move signed-in browser sessions locally, import ChatGPT Codex sessions, or optionally upload authenticated profiles to Browserless Cloud.
 - [File Island](https://github.com/TREAFREE/FileIsland) - Convert images, videos, audio, and entire folders locally by dragging them to the top of your screen.
