@@ -1170,6 +1170,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Utilities
 
+- [Browser Cookie Bridge](https://github.com/apoorvdarshan/browser-cookie-bridge) - Move signed-in browser sessions locally, import ChatGPT Codex sessions, or optionally upload authenticated profiles to Browserless Cloud.
 - [File Island](https://github.com/TREAFREE/FileIsland) - Convert images, videos, audio, and entire folders locally by dragging them to the top of your screen.
 - [Airwave](https://github.com/sallliisa/Airwave) <img align="bottom" height="13" src="https://badgen.net/github/stars/sallliisa/Airwave?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sallliisa/Airwave?style=flat&label=" /> - Adds spatial audio to macOS for more immersive headphone sound.
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/mortenjust/androidtool-mac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mortenjust/androidtool-mac?style=flat&label=" /> - Utility for one-click mobile screenshots, recordings, and app installs.

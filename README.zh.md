@@ -1145,6 +1145,7 @@
 
 ## 实用工具
 
+- [Browser Cookie Bridge](https://github.com/apoorvdarshan/browser-cookie-bridge) - 在本地迁移已登录的浏览器会话、导入 ChatGPT Codex 会话，也可选择将经过身份验证的配置文件上传到 Browserless Cloud。
 - [File Island](https://github.com/TREAFREE/FileIsland) - 将图片、视频、音频和整个文件夹拖到屏幕顶部即可在本地完成转换。
 - [Airwave](https://github.com/sallliisa/Airwave) <img align="bottom" height="13" src="https://badgen.net/github/stars/sallliisa/Airwave?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sallliisa/Airwave?style=flat&label=" /> - 为 macOS 提供空间音频效果，让耳机音频更立体。
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/mortenjust/androidtool-mac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mortenjust/androidtool-mac?style=flat&label=" /> - 用于一键截图、录屏和安装移动应用的工具。
