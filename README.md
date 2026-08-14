@@ -891,6 +891,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Launchpad
 
+- [Tinycast](https://github.com/abue-ammar/tinycast) - Lightweight native launcher with app search, clipboard management, window controls, and custom shortcuts.
 - [Launchy](https://github.com/Punshnut/macos-launchy) <img align="bottom" height="13" src="https://badgen.net/github/stars/Punshnut/macos-launchy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Punshnut/macos-launchy?style=flat&label=" /> - Free open-source launcher alternative.
 - [KidoX](https://github.com/defcc/kidox.app) <img align="bottom" height="13" src="https://badgen.net/github/stars/defcc/kidox.app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/defcc/kidox.app?style=flat&label=" /> - A modern Launchpad replacement with fast search, clean organization, and keyboard-friendly navigation.
 - [LaunchBack](https://github.com/trey-a-12/LaunchBack) <img align="bottom" height="13" src="https://badgen.net/github/stars/trey-a-12/LaunchBack?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/trey-a-12/LaunchBack?style=flat&label=" /> - An alternative implementation of the classic Launchpad (pre-Tahoe).
