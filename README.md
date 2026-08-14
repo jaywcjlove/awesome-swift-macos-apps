@@ -979,6 +979,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Security
 
+- [fob](https://github.com/olivierzol/fob) - Secure Enclave-backed SSH key manager that restricts keys to approved hosts and authenticates with a single touch.
 - [ClearanceKit](https://github.com/craigjbass/clearancekit) <img align="bottom" height="13" src="https://badgen.net/github/stars/craigjbass/clearancekit?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/craigjbass/clearancekit?style=flat&label=" /> - File access control tool for protecting paths from unauthorized processes.
 - [Envkeep](https://github.com/jackofshadowz/envkeep) <img align="bottom" height="13" src="https://badgen.net/github/stars/jackofshadowz/envkeep?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jackofshadowz/envkeep?style=flat&label=" /> - Provide ENV environment variable management and on-demand reading for AI coding assistants.
 - [FaceGate](https://github.com/dweep-desai/FaceGate-Mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/dweep-desai/FaceGate-Mac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dweep-desai/FaceGate-Mac?style=flat&label=" /> - Lock sensitive apps behind Face ID, Touch ID, or a password — all processed on-device.
