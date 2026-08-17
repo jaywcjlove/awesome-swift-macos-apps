@@ -314,6 +314,7 @@
 
 ### AI 用量/状态
 
+- [amtrino](https://github.com/arian-shamaei/amtrino) <img align="bottom" height="13" src="https://badgen.net/github/stars/arian-shamaei/amtrino?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/arian-shamaei/amtrino?style=flat&label=" /> - 菜单栏呼吸圆点，一眼查看 Claude Code 与 Codex CLI 的会话状态。
 - [adrafinil](https://github.com/kageroumado/adrafinil) <img align="bottom" height="13" src="https://badgen.net/github/stars/kageroumado/adrafinil?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kageroumado/adrafinil?style=flat&label=" /> - 仅在 AI 编码代理活跃时阻止系统休眠的菜单栏工具。
 - [AIUsage](https://github.com/sylearn/AIUsage) <img align="bottom" height="13" src="https://badgen.net/github/stars/sylearn/AIUsage?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sylearn/AIUsage?style=flat&label=" /> - 用于跟踪 AI 订阅、配额、成本和账户的仪表盘工具。
 - [AgentPet](https://github.com/ntd4996/agentpet) <img align="bottom" height="13" src="https://badgen.net/github/stars/ntd4996/agentpet?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ntd4996/agentpet?style=flat&label=" /> - 一眼查看多个编码 Agent 的工作中、已完成或等待输入状态，并通过会互动的桌面宠物实时反馈。
