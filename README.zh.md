@@ -814,6 +814,7 @@
 - [NotchMore](https://github.com/Codseus/NotchMore) <img align="bottom" height="13" src="https://badgen.net/github/stars/Codseus/NotchMore?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Codseus/NotchMore?style=flat&label=" /> - 将刘海周围区域变成实用控制面板的工具。
 - [Notchi](https://github.com/cyrus-cai/notchi) <img align="bottom" height="13" src="https://badgen.net/github/stars/cyrus-cai/notchi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/cyrus-cai/notchi?style=flat&label=" /> - 从刘海快速记笔记、设提醒或向 AI 提问。
 - [Notchly](https://github.com/Notchly/Notchly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Notchly/Notchly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Notchly/Notchly?style=flat&label=" /> - 在刘海区显示电池、正在播放和锁屏过渡的灵动岛风格覆盖层。
+- [Zisla](https://github.com/wzz6423/zisla) <img align="bottom" height="13" src="https://badgen.net/github/stars/wzz6423/zisla?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wzz6423/zisla?style=flat&label=" /> - 原生 macOS 刘海工作台，集成媒体控制、文件中转、系统工具和隐私优先的本地 AI 活动监控。
 
 ## 音乐
 
