@@ -879,6 +879,7 @@
 ## 启动台
 
 - [Tinycast](https://github.com/abue-ammar/tinycast) - 轻量原生启动器，支持应用搜索、剪贴板管理、窗口控制和自定义快捷键。
+- [look](https://github.com/kunkka19xx/look) <img align="bottom" height="13" src="https://badgen.net/github/stars/kunkka19xx/look?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kunkka19xx/look?style=flat&label=" /> - 一个键盘优先、本地优先的启动器，无需离开键盘即可打开应用、文件、文件夹、剪贴板历史和快捷命令。
 - [Launchy](https://github.com/Punshnut/macos-launchy) <img align="bottom" height="13" src="https://badgen.net/github/stars/Punshnut/macos-launchy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Punshnut/macos-launchy?style=flat&label=" /> - 免费开源启动器替代品。
 - [KidoX](https://github.com/defcc/kidox.app) <img align="bottom" height="13" src="https://badgen.net/github/stars/defcc/kidox.app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/defcc/kidox.app?style=flat&label=" /> - 现代 Launchpad 替代品，支持快速搜索、清晰组织和键盘友好导航。
 - [LaunchBack](https://github.com/trey-a-12/LaunchBack) <img align="bottom" height="13" src="https://badgen.net/github/stars/trey-a-12/LaunchBack?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/trey-a-12/LaunchBack?style=flat&label=" /> - 经典 Launchpad（Tahoe 之前）的替代实现。
