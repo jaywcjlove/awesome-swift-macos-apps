@@ -955,6 +955,7 @@
 - [WebWatcher](https://github.com/ivg-design/web-watcher) <img align="bottom" height="13" src="https://badgen.net/github/stars/ivg-design/web-watcher?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ivg-design/web-watcher?style=flat&label=" /> - 监控网页更新并发送通知。
 - [Wink](https://github.com/xrf9268-hue/Wink) <img align="bottom" height="13" src="https://badgen.net/github/stars/xrf9268-hue/Wink?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/xrf9268-hue/Wink?style=flat&label=" /> - 通过全局快捷键快速打开、聚焦和隐藏应用。
 - [ZenTime](https://github.com/PatpateePhangern/ZenTime) <img align="bottom" height="13" src="https://badgen.net/github/stars/PatpateePhangern/ZenTime?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PatpateePhangern/ZenTime?style=flat&label=" /> - 限时考试练习工具，追踪每题用时并在超时提醒，可导出带标记的 PDF 报告。
+- [Starcat](https://github.com/starcat-app/Starcat) <img align="bottom" height="13" src="https://badgen.net/github/stars/starcat-app/Starcat?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/starcat-app/Starcat?style=flat&label=" /> - 把 GitHub Stars 同步为可搜索、可打标签、支持 AI 辅助理解的本地知识库。
 
 ## 屏幕保护程序
 
