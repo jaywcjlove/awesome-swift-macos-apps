@@ -1067,7 +1067,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## System
 
-- [Abendrot](https://abendrot.app) - Free and open-source, warms every display at local sunset. [![Open-Source Software][OSS Icon]](https://github.com/matthewrball/abendrot) ![Freeware][Freeware Icon]
+- [Abendrot](https://github.com/matthewrball/abendrot) <img align="bottom" height="13" src="https://badgen.net/github/stars/matthewrball/abendrot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/matthewrball/abendrot?style=flat&label=" /> - Free and open-source, warms every display at local sunset.
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) <img align="bottom" height="13" src="https://badgen.net/github/stars/raphaelhanneken/apple-juice?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/raphaelhanneken/apple-juice?style=flat&label=" /> - Advanced battery gauge for macOS.
 - [Ampere](https://github.com/az-code-lab/ampere) <img align="bottom" height="13" src="https://badgen.net/github/stars/az-code-lab/ampere?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/az-code-lab/ampere?style=flat&label=" /> - Lightweight menu bar app for monitoring battery status and controlling charging on Apple Silicon Macs.
 - [Battery Hog](https://github.com/luke-fairbanks/BatteryHog) <img align="bottom" height="13" src="https://badgen.net/github/stars/luke-fairbanks/BatteryHog?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/luke-fairbanks/BatteryHog?style=flat&label=" /> - Shows per-app energy use to identify and quit what's draining your battery.
