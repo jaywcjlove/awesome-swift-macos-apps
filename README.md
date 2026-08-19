@@ -825,6 +825,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Notchi](https://github.com/cyrus-cai/notchi) <img align="bottom" height="13" src="https://badgen.net/github/stars/cyrus-cai/notchi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/cyrus-cai/notchi?style=flat&label=" /> - Save a note, set a reminder, or ask AI right from the notch.
 - [Notchly](https://github.com/Notchly/Notchly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Notchly/Notchly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Notchly/Notchly?style=flat&label=" /> - Dynamic Island-style overlay for battery, Now Playing, and lock-screen transitions.
 - [Zisla](https://github.com/wzz6423/zisla) <img align="bottom" height="13" src="https://badgen.net/github/stars/wzz6423/zisla?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wzz6423/zisla?style=flat&label=" /> - Native macOS notch workspace for media controls, file handoff, system utilities, and privacy-first local AI activity monitoring.
+- [Re:notch](https://github.com/yosaiy/renotch) <img align="bottom" height="13" src="https://badgen.net/github/stars/yosaiy/renotch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yosaiy/renotch?style=flat&label=" /> - Turns the notch into a lightweight, native developer command center.
 
 ## Compression tool
 
