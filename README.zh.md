@@ -804,6 +804,7 @@
 - [TickerBar](https://github.com/TerrifiedBug/TickerBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/TerrifiedBug/TickerBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/TerrifiedBug/TickerBar?style=flat&label=" /> - 实时股价跟踪器，提供实时报价和价格提醒。
 - [WeekNumber](https://github.com/BaldrianSector/week-number) <img align="bottom" height="13" src="https://badgen.net/github/stars/BaldrianSector/week-number?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/BaldrianSector/week-number?style=flat&label=" /> - 简约 macOS 应用，在菜单栏显示当前周数。
 - [Zonedial](https://github.com/gostonx/Zonedial) <img align="bottom" height="13" src="https://badgen.net/github/stars/gostonx/Zonedial?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gostonx/Zonedial?style=flat&label=" /> - 轻量菜单栏应用，一目了然地追踪多个时区的时间。
+- [AirStats](https://github.com/byrencheema/airstats) <img align="bottom" height="13" src="https://badgen.net/github/stars/byrencheema/airstats?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/byrencheema/airstats?style=flat&label=" /> - 超轻量菜单栏系统监控器，涵盖 CPU、内存、GPU、网络、磁盘、电池、温度、进程与主机等系统统计信息。
 
 ## 刘海应用
 
