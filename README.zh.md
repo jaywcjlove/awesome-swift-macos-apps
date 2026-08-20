@@ -863,6 +863,7 @@
 - [tmpNote](https://github.com/buddax2/tmpNote) <img align="bottom" height="13" src="https://badgen.net/github/stars/buddax2/tmpNote?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/buddax2/tmpNote?style=flat&label=" /> - 非常简单的 macOS 应用，用于做临时笔记。
 - [Wisp](https://github.com/sulemaanhamza/wisp) <img align="bottom" height="13" src="https://badgen.net/github/stars/sulemaanhamza/wisp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sulemaanhamza/wisp?style=flat&label=" /> - 一键快捷调出的极简便签簿，输入后按 Esc 退出。
 - [Zettel](https://github.com/AlexW00/Zettel) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexW00/Zettel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AlexW00/Zettel?style=flat&label=" /> - 极简无干扰笔记工具，支持 Markdown 与标签组织。
+- [Simbi](https://github.com/predict-woo/simbi) <img align="bottom" height="13" src="https://badgen.net/github/stars/predict-woo/simbi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/predict-woo/simbi?style=flat&label=" /> - 会议笔记工具，录制、转写并总结会议，可通过 ChatGPT 与笔记对话。
 
 ## 播放器
 
