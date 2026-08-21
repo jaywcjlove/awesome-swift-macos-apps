@@ -1048,7 +1048,7 @@
 
 ## 系统
 
-- [Abendrot](https://abendrot.app) - 免费开源，在当地日落时温暖每一块显示器。 [![开源软件][OSS Icon]](https://github.com/matthewrball/abendrot) ![免费软件][Freeware Icon]
+- [Abendrot](https://github.com/matthewrball/abendrot) <img align="bottom" height="13" src="https://badgen.net/github/stars/matthewrball/abendrot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/matthewrball/abendrot?style=flat&label=" /> - 免费开源，在当地日落时温暖每一块显示器。
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) <img align="bottom" height="13" src="https://badgen.net/github/stars/raphaelhanneken/apple-juice?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/raphaelhanneken/apple-juice?style=flat&label=" /> - macOS 的高级电池监测工具。
 - [Ampere](https://github.com/az-code-lab/ampere) <img align="bottom" height="13" src="https://badgen.net/github/stars/az-code-lab/ampere?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/az-code-lab/ampere?style=flat&label=" /> - 轻量级菜单栏应用，用于监控电池状态并在 Apple Silicon 设备上控制充电。
 - [Battery Hog](https://github.com/luke-fairbanks/BatteryHog) <img align="bottom" height="13" src="https://badgen.net/github/stars/luke-fairbanks/BatteryHog?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/luke-fairbanks/BatteryHog?style=flat&label=" /> - 按应用展示电池能耗，帮助找出并关闭最耗电的程序。
