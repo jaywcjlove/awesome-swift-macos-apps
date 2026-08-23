@@ -618,6 +618,7 @@
 
 ## 截图/屏幕录制
 
+- [TetherShot](https://github.com/apoorvdarshan/TetherShot) <img align="bottom" height="13" src="https://badgen.net/github/stars/apoorvdarshan/TetherShot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/apoorvdarshan/TetherShot?style=flat&label=" /> - 通过 USB 或 Wi-Fi 捕获 iPhone 真实屏幕，并将像素级清晰的 PNG 图片保存到本地。
 - [BetterCapture](https://github.com/jsattler/BetterCapture) <img align="bottom" height="13" src="https://badgen.net/github/stars/jsattler/BetterCapture?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jsattler/BetterCapture?style=flat&label=" /> - 免费开源的专业屏幕录制工具。
 - [Capso](https://github.com/lzhgus/Capso) <img align="bottom" height="13" src="https://badgen.net/github/stars/lzhgus/Capso?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lzhgus/Capso?style=flat&label=" /> - 集截图、录屏、标注、OCR 和贴屏展示于一体的工具。
 - [capcap](https://github.com/realskyrin/capcap) <img align="bottom" height="13" src="https://badgen.net/github/stars/realskyrin/capcap?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/realskyrin/capcap?style=flat&label=" /> - 集窗口吸附截图、滚动拼接、标注和美化于一体的浮动截图工具。
