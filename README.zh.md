@@ -314,6 +314,7 @@
 - [Warden](https://github.com/SidhuK/WardenApp) <img align="bottom" height="13" src="https://badgen.net/github/stars/SidhuK/WardenApp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/SidhuK/WardenApp?style=flat&label=" /> - 支持本地模型和内置网页搜索的多提供商 AI 聊天客户端。
 - [Writing Tools](https://github.com/theJayTea/WritingTools) <img align="bottom" height="13" src="https://badgen.net/github/stars/theJayTea/WritingTools?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/theJayTea/WritingTools?style=flat&label=" /> - 全局 AI 写作助手，用于语法与表达优化。
 - [OnePagent](https://github.com/sligter/OnePagent) <img align="bottom" height="13" src="https://badgen.net/github/stars/sligter/OnePagent?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sligter/OnePagent?style=flat&label=" /> - 单文件即用的浏览器原生 AI Agent 工作台。
+- [Grux](https://github.com/dotcomjack/grux) <img align="bottom" height="13" src="https://badgen.net/github/stars/dotcomjack/grux?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dotcomjack/grux?style=flat&label=" /> - 可读取当前活动窗口，并访问本地邮件、日历、备忘录和文件的菜单栏助手，支持自带 API 密钥或本地模型。
 
 ### AI 用量/状态
 
