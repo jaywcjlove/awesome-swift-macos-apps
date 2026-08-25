@@ -988,6 +988,7 @@
 ## 安全
 
 - [fob](https://github.com/olivierzol/fob) - 基于 Secure Enclave 的 SSH 密钥管理工具，可将密钥限制在指定主机并通过一次触控完成认证。
+- [hostflip](https://github.com/heronapp/hostflip) <img align="bottom" height="13" src="https://badgen.net/github/stars/heronapp/hostflip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/heronapp/hostflip?style=flat&label=" /> - 菜单栏 hosts 切换工具，可快速在多个 /etc/hosts 配置间切换，无需输入密码、没有网页视图。
 - [ClearanceKit](https://github.com/craigjbass/clearancekit) <img align="bottom" height="13" src="https://badgen.net/github/stars/craigjbass/clearancekit?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/craigjbass/clearancekit?style=flat&label=" /> - 用于保护指定路径免受未授权进程访问的文件访问控制工具。
 - [Envkeep](https://github.com/jackofshadowz/envkeep) <img align="bottom" height="13" src="https://badgen.net/github/stars/jackofshadowz/envkeep?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jackofshadowz/envkeep?style=flat&label=" /> - 为 AI 编码助手提供 ENV 环境变量管理和按需读取功能。
 - [FaceGate](https://github.com/dweep-desai/FaceGate-Mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/dweep-desai/FaceGate-Mac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dweep-desai/FaceGate-Mac?style=flat&label=" /> - 使用人脸识别、Touch ID 或密码锁定敏感应用，所有处理均在设备端完成。
