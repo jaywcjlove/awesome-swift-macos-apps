@@ -229,6 +229,7 @@
 ## 浏览器
 
 - [Browserly](https://github.com/andyzasl/browserly) <img align="bottom" height="13" src="https://badgen.net/github/stars/andyzasl/browserly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/andyzasl/browserly?style=flat&label=" /> - 根据自定义规则将 URL 路由到对应浏览器。
+- [Browseroute](https://github.com/TerrifiedBug/browseroute) <img align="bottom" height="13" src="https://badgen.net/github/stars/TerrifiedBug/browseroute?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/TerrifiedBug/browseroute?style=flat&label=" /> - 接管系统默认浏览器，按域名与路径规则把每个链接分发到指定浏览器。
 - [BrowSync](https://github.com/chentao1006/BrowSync) <img align="bottom" height="13" src="https://badgen.net/github/stars/chentao1006/BrowSync?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/chentao1006/BrowSync?style=flat&label=" /> - 多浏览器分流与同步中枢。
 - [Finicky](https://github.com/johnste/finicky) <img align="bottom" height="13" src="https://badgen.net/github/stars/johnste/finicky?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/johnste/finicky?style=flat&label=" /> - 始终打开正确的浏览器。
 - [Ora Browser](https://github.com/the-ora/browser) <img align="bottom" height="13" src="https://badgen.net/github/stars/the-ora/browser?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/the-ora/browser?style=flat&label=" /> - 更少干扰，更专注浏览。
