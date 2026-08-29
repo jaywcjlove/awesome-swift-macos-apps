@@ -825,6 +825,7 @@
 - [WeekNumber](https://github.com/BaldrianSector/week-number) <img align="bottom" height="13" src="https://badgen.net/github/stars/BaldrianSector/week-number?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/BaldrianSector/week-number?style=flat&label=" /> - 简约 macOS 应用，在菜单栏显示当前周数。
 - [Zonedial](https://github.com/gostonx/Zonedial) <img align="bottom" height="13" src="https://badgen.net/github/stars/gostonx/Zonedial?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gostonx/Zonedial?style=flat&label=" /> - 轻量菜单栏应用，一目了然地追踪多个时区的时间。
 - [AirStats](https://github.com/byrencheema/airstats) <img align="bottom" height="13" src="https://badgen.net/github/stars/byrencheema/airstats?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/byrencheema/airstats?style=flat&label=" /> - 超轻量菜单栏系统监控器，涵盖 CPU、内存、GPU、网络、磁盘、电池、温度、进程与主机等系统统计信息。
+- [StandLock](https://github.com/yagizdo/standlock) <img align="bottom" height="13" src="https://badgen.net/github/stars/yagizdo/standlock?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yagizdo/standlock?style=flat&label=" /> - 菜单栏休息计时器，在你起身前锁定屏幕，会议和通话期间自动跳过休息。
 
 ## 刘海应用
 
