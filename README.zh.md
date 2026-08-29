@@ -889,6 +889,7 @@
 - [Wisp](https://github.com/sulemaanhamza/wisp) <img align="bottom" height="13" src="https://badgen.net/github/stars/sulemaanhamza/wisp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sulemaanhamza/wisp?style=flat&label=" /> - 一键快捷调出的极简便签簿，输入后按 Esc 退出。
 - [Zettel](https://github.com/AlexW00/Zettel) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexW00/Zettel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AlexW00/Zettel?style=flat&label=" /> - 极简无干扰笔记工具，支持 Markdown 与标签组织。
 - [Simbi](https://github.com/predict-woo/simbi) <img align="bottom" height="13" src="https://badgen.net/github/stars/predict-woo/simbi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/predict-woo/simbi?style=flat&label=" /> - 会议笔记工具，录制、转写并总结会议，可通过 ChatGPT 与笔记对话。
+- [Vasa](https://github.com/timurverevkin/Vasa) <img align="bottom" height="13" src="https://badgen.net/github/stars/timurverevkin/Vasa?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/timurverevkin/Vasa?style=flat&label=" /> - 本地优先的无限画布，用于整理笔记、图片、链接、音频和视频。
 
 ## 播放器
 
