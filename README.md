@@ -914,6 +914,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Wisp](https://github.com/sulemaanhamza/wisp) <img align="bottom" height="13" src="https://badgen.net/github/stars/sulemaanhamza/wisp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sulemaanhamza/wisp?style=flat&label=" /> - Dead-simple scratchpad that opens with a hotkey, type and dismiss with Esc.
 - [Zettel](https://github.com/AlexW00/Zettel) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexW00/Zettel?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AlexW00/Zettel?style=flat&label=" /> - Minimal distraction-free note-taking app with markdown and hashtag organization.
 - [Simbi](https://github.com/predict-woo/simbi) <img align="bottom" height="13" src="https://badgen.net/github/stars/predict-woo/simbi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/predict-woo/simbi?style=flat&label=" /> - Meeting note-taker that records, transcribes, and summarizes sessions, letting you chat with your notes via ChatGPT.
+- [Vasa](https://github.com/timurverevkin/Vasa) <img align="bottom" height="13" src="https://badgen.net/github/stars/timurverevkin/Vasa?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/timurverevkin/Vasa?style=flat&label=" /> - Local-first infinite canvas for notes, images, links, audio, and video.
 
 ## Player
 
