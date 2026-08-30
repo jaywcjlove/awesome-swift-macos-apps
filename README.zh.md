@@ -564,6 +564,7 @@
 
 ## Finder
 
+- [Gocci](https://github.com/piro0919/gocci) <img align="bottom" height="13" src="https://badgen.net/github/stars/piro0919/gocci?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/piro0919/gocci?style=flat&label=" /> - 从菜单栏把 Google 云端硬盘挂载到 Finder 的任意位置。
 - [FileFluss](https://github.com/rana-gmbh/FileFluss) <img align="bottom" height="13" src="https://badgen.net/github/stars/rana-gmbh/FileFluss?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rana-gmbh/FileFluss?style=flat&label=" /> - 支持云存储的双面板文件管理器，提供无缝的文件操作。
 - [RightMenu Master](https://github.com/jaywcjlove/rightmenu-master) <img align="bottom" height="13" src="https://badgen.net/github/stars/jaywcjlove/rightmenu-master?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jaywcjlove/rightmenu-master?style=flat&label=" /> - Finder 右键菜单增强工具。
 - [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) <img align="bottom" height="13" src="https://badgen.net/github/stars/powerwolf543/DuplicateFinder?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/powerwolf543/DuplicateFinder?style=flat&label=" /> - 用于查找同名重复文件的工具。
@@ -700,6 +701,9 @@
 
 ## 菜单栏
 
+- [Konechi](https://github.com/piro0919/konechi) <img align="bottom" height="13" src="https://badgen.net/github/stars/piro0919/konechi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/piro0919/konechi?style=flat&label=" /> - 显示当前是通过有线还是 Wi-Fi 连接。
+- [Nonja](https://github.com/piro0919/nonja) <img align="bottom" height="13" src="https://badgen.net/github/stars/piro0919/nonja?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/piro0919/nonja?style=flat&label=" /> - 安静的 macOS 通知收件箱，按来源应用分组。
+- [Okigae](https://github.com/piro0919/okigae) <img align="bottom" height="13" src="https://badgen.net/github/stars/piro0919/okigae?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/piro0919/okigae?style=flat&label=" /> - 把菜单栏的状态图标换成角色插画。
 - [app-menu](https://github.com/barseghyanartur/app-menu) <img align="bottom" height="13" src="https://badgen.net/github/stars/barseghyanartur/app-menu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/barseghyanartur/app-menu?style=flat&label=" /> - macOS 中缺失的应用程序菜单
 - [App Monitor](https://github.com/jcranokc/app-monitor) <img align="bottom" height="13" src="https://badgen.net/github/stars/jcranokc/app-monitor?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jcranokc/app-monitor?style=flat&label=" /> - 本地优先的应用管理仪表盘，集中查看应用使用、存储、清理、更新和卸载影响。
 - [AirBattery](https://github.com/lihaoyun6/AirBattery) <img align="bottom" height="13" src="https://badgen.net/github/stars/lihaoyun6/AirBattery?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lihaoyun6/AirBattery?style=flat&label=" /> - 在 Dock、菜单栏或小组件中显示你所有设备的电量。
