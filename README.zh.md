@@ -696,6 +696,7 @@
 - [Thock](https://github.com/kamillobinski/thock) <img align="bottom" height="13" src="https://badgen.net/github/stars/kamillobinski/thock?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kamillobinski/thock?style=flat&label=" /> - 在菜单栏为键盘键入添加悦耳音效。
 - [Thor](https://github.com/gbammc/Thor) <img align="bottom" height="13" src="https://badgen.net/github/stars/gbammc/Thor?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gbammc/Thor?style=flat&label=" /> - 快速切换到正确的应用程序。
 - [Unshaky](https://github.com/aahung/Unshaky) <img align="bottom" height="13" src="https://badgen.net/github/stars/aahung/Unshaky?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aahung/Unshaky?style=flat&label=" /> - 用于减少蝴蝶键盘重复按键的工具。
+- [WinKeys](https://github.com/neural-beat/winkeys) <img align="bottom" height="13" src="https://badgen.net/github/stars/neural-beat/winkeys?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/neural-beat/winkeys?style=flat&label=" /> - 开源键盘快捷键重映射工具，将 Windows 的快捷键习惯搬到 Mac，适合刚从 Windows 切换过来的用户。
 
 ## 邮件
 

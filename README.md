@@ -699,6 +699,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Thock](https://github.com/kamillobinski/thock) <img align="bottom" height="13" src="https://badgen.net/github/stars/kamillobinski/thock?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kamillobinski/thock?style=flat&label=" /> - Adds satisfying keyboard sound effects right from the menu bar.
 - [Thor](https://github.com/gbammc/Thor) <img align="bottom" height="13" src="https://badgen.net/github/stars/gbammc/Thor?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gbammc/Thor?style=flat&label=" /> - Switch the right application ASAP.
 - [Unshaky](https://github.com/aahung/Unshaky) <img align="bottom" height="13" src="https://badgen.net/github/stars/aahung/Unshaky?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aahung/Unshaky?style=flat&label=" /> - Tool for reducing double key presses on butterfly keyboards.
+- [WinKeys](https://github.com/neural-beat/winkeys) <img align="bottom" height="13" src="https://badgen.net/github/stars/neural-beat/winkeys?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/neural-beat/winkeys?style=flat&label=" /> - Open-source keyboard shortcut remapping tool that brings Windows shortcut habits to Mac for users switching from Windows.
 
 ## Mail
 
