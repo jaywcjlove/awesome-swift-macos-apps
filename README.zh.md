@@ -380,6 +380,7 @@
 - [UsageBoard](https://github.com/marsmay/UsageBoard) <img align="bottom" height="13" src="https://badgen.net/github/stars/marsmay/UsageBoard?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/marsmay/UsageBoard?style=flat&label=" /> - 以插件方式聚合 API、模型服务、搜索服务与代理服务等配额用量的看板工具。
 - [Usage4Claude](https://github.com/f-is-h/Usage4Claude) <img align="bottom" height="13" src="https://badgen.net/github/stars/f-is-h/Usage4Claude?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/f-is-h/Usage4Claude?style=flat&label=" /> - 实时监控 Claude AI 各项使用额度与配额周期的工具。
 - [UsageBar](https://github.com/methol/usage-bar) <img align="bottom" height="13" src="https://badgen.net/github/stars/methol/usage-bar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/methol/usage-bar?style=flat&label=" /> - 顶部状态栏实时显示 Claude 用量与剩余额度。
+- [Codenotch](https://github.com/vinzdg/codenotch) <img align="bottom" height="13" src="https://badgen.net/github/stars/vinzdg/codenotch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vinzdg/codenotch?style=flat&label=" /> - 固定在屏幕边缘的状态条，显示各 AI 编码工具已消耗的会话额度，以及代理正在运行、已完成还是等待你的输入。
 
 ## 加密货币
 
