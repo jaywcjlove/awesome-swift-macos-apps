@@ -382,6 +382,7 @@
 - [Usage4Claude](https://github.com/f-is-h/Usage4Claude) <img align="bottom" height="13" src="https://badgen.net/github/stars/f-is-h/Usage4Claude?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/f-is-h/Usage4Claude?style=flat&label=" /> - 实时监控 Claude AI 各项使用额度与配额周期的工具。
 - [UsageBar](https://github.com/methol/usage-bar) <img align="bottom" height="13" src="https://badgen.net/github/stars/methol/usage-bar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/methol/usage-bar?style=flat&label=" /> - 顶部状态栏实时显示 Claude 用量与剩余额度。
 - [Codenotch](https://github.com/vinzdg/codenotch) <img align="bottom" height="13" src="https://badgen.net/github/stars/vinzdg/codenotch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vinzdg/codenotch?style=flat&label=" /> - 固定在屏幕边缘的状态条，显示各 AI 编码工具已消耗的会话额度，以及代理正在运行、已完成还是等待你的输入。
+- [nootch](https://github.com/DeepanshuMishraa/nootch) <img align="bottom" height="13" src="https://badgen.net/github/stars/DeepanshuMishraa/nootch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/DeepanshuMishraa/nootch?style=flat&label=" /> - 小巧可展开的悬浮层，可随时查看 Claude、Codex、Cursor 等多种 AI 工具的用量限制与代理活动状态。
 
 ## 加密货币
 
