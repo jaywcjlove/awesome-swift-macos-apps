@@ -610,6 +610,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode) <img align="bottom" height="13" src="https://badgen.net/github/stars/ApolloZhu/Dynamic-Dark-Mode?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ApolloZhu/Dynamic-Dark-Mode?style=flat&label=" /> - Dark mode automation tool.
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) <img align="bottom" height="13" src="https://badgen.net/github/stars/OpenEmu/OpenEmu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/OpenEmu/OpenEmu?style=flat&label=" /> - Retro video game emulation for macOS
 - [PlayCover](https://github.com/PlayCover/PlayCover) <img align="bottom" height="13" src="https://badgen.net/github/stars/PlayCover/PlayCover?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PlayCover/PlayCover?style=flat&label=" /> - Tool for running iOS apps and games on Apple Silicon with desktop controls.
+- [Stop Stutter](https://github.com/burakgon/stop-stutter) <img align="bottom" height="13" src="https://badgen.net/github/stars/burakgon/stop-stutter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/burakgon/stop-stutter?style=flat&label=" /> - Automatic boost that makes game streaming smoother and lower latency in Moonlight, GeForce NOW, Parsec, and Steam Link.
 
 ## Virtual Machines
 

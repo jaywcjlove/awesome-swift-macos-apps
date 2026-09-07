@@ -607,6 +607,7 @@
 - [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode) <img align="bottom" height="13" src="https://badgen.net/github/stars/ApolloZhu/Dynamic-Dark-Mode?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ApolloZhu/Dynamic-Dark-Mode?style=flat&label=" /> - 深色模式自动化工具。
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) <img align="bottom" height="13" src="https://badgen.net/github/stars/OpenEmu/OpenEmu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/OpenEmu/OpenEmu?style=flat&label=" /> - 适用于 macOS 的复古视频游戏模拟器
 - [PlayCover](https://github.com/PlayCover/PlayCover) <img align="bottom" height="13" src="https://badgen.net/github/stars/PlayCover/PlayCover?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PlayCover/PlayCover?style=flat&label=" /> - 用桌面控制方式运行 iOS 应用和游戏的工具。
+- [Stop Stutter](https://github.com/burakgon/stop-stutter) <img align="bottom" height="13" src="https://badgen.net/github/stars/burakgon/stop-stutter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/burakgon/stop-stutter?style=flat&label=" /> - 自动为 Moonlight、GeForce NOW、Parsec、Steam Link 等游戏串流应用提速，让画面更流畅、延迟更低。
 
 ## 虚拟机
 
