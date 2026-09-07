@@ -1098,6 +1098,7 @@
 - [Binky](https://github.com/heyderekj/binky) <img align="bottom" height="13" src="https://badgen.net/github/stars/heyderekj/binky?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/heyderekj/binky?style=flat&label=" /> - 自动整理文件夹，智能分类文件的工具。
 - [Burrow](https://github.com/caezium/Burrow) <img align="bottom" height="13" src="https://badgen.net/github/stars/caezium/Burrow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/caezium/Burrow?style=flat&label=" /> - 系统清理与监控工具，集垃圾清理、应用卸载、磁盘分析、实时状态、长期历史记录及 AI 代理 MCP 访问于一体。
 - [Mac System Data Cleaner](https://github.com/prabch/Mac-SysData-Cleaner) <img align="bottom" height="13" src="https://badgen.net/github/stars/prabch/Mac-SysData-Cleaner?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/prabch/Mac-SysData-Cleaner?style=flat&label=" /> - 追踪并清理膨胀的系统缓存与隐藏垃圾文件。
+- [System Data](https://github.com/Jarvis322/macos-sysdata) <img align="bottom" height="13" src="https://badgen.net/github/stars/Jarvis322/macos-sysdata?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Jarvis322/macos-sysdata?style=flat&label=" /> - 逐项查看"系统数据"里到底存了什么，需要时再逐项手动删除。
 
 ## 系统
 
