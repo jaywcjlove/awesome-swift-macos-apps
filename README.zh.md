@@ -1069,6 +1069,7 @@
 - [Perch](https://github.com/maxthegray/Perch) <img align="bottom" height="13" src="https://badgen.net/github/stars/maxthegray/Perch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/maxthegray/Perch?style=flat&label=" /> - 屏幕边缘拖放暂存架，可先存放文件或内容，稍后再拖入任意应用。
 - [uPic](https://github.com/gee1k/uPic) <img align="bottom" height="13" src="https://badgen.net/github/stars/gee1k/uPic?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gee1k/uPic?style=flat&label=" /> - 支持多图床与对象存储的图片和文件上传工具，可自动复制可分享链接。
 - [NearDrop](https://github.com/grishka/NearDrop) <img align="bottom" height="13" src="https://badgen.net/github/stars/grishka/NearDrop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/grishka/NearDrop?style=flat&label=" /> - 适用于 macOS 的非官方 Google 附近共享/快速共享应用程序。
+- [Tethersnap](https://github.com/Luminoid/Tethersnap) <img align="bottom" height="13" src="https://badgen.net/github/stars/Luminoid/Tethersnap?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Luminoid/Tethersnap?style=flat&label=" /> - 用于通过 USB 导出 Nintendo Switch 2 截图和视频的工具，同时提供图形应用与命令行。
 
 ## 社交网络
 

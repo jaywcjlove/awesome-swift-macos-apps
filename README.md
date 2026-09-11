@@ -1097,6 +1097,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Perch](https://github.com/maxthegray/Perch) <img align="bottom" height="13" src="https://badgen.net/github/stars/maxthegray/Perch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/maxthegray/Perch?style=flat&label=" /> - Drag-and-drop shelf on screen edges for staging items and dropping them into apps later.
 - [uPic](https://github.com/gee1k/uPic) <img align="bottom" height="13" src="https://badgen.net/github/stars/gee1k/uPic?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gee1k/uPic?style=flat&label=" /> - Image and file uploader with multi-provider storage support and automatic shareable link copying.
 - [NearDrop](https://github.com/grishka/NearDrop) <img align="bottom" height="13" src="https://badgen.net/github/stars/grishka/NearDrop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/grishka/NearDrop?style=flat&label=" /> - An unofficial Google Nearby Share/Quick Share app for macOS.
+- [Tethersnap](https://github.com/Luminoid/Tethersnap) <img align="bottom" height="13" src="https://badgen.net/github/stars/Luminoid/Tethersnap?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Luminoid/Tethersnap?style=flat&label=" /> - Export Nintendo Switch 2 screenshots and videos over USB, with both an app and a CLI.
 
 ## Social Networking
 
