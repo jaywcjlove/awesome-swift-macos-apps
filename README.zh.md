@@ -667,6 +667,7 @@
 - [Snapzy](https://github.com/duongductrong/Snapzy) <img align="bottom" height="13" src="https://badgen.net/github/stars/duongductrong/Snapzy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/duongductrong/Snapzy?style=flat&label=" /> - 开源截图、录屏、标注和编辑工具。
 - [viewio](https://github.com/thisisommore/viewio) <img align="bottom" height="13" src="https://badgen.net/github/stars/thisisommore/viewio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/thisisommore/viewio?style=flat&label=" /> - 电影级录屏工具，支持自动缩放、光标重绘、动态模糊、摄像头画中画与背景替换。
 - [PinShell](https://github.com/niyongsheng/PinShell) <img align="bottom" height="13" src="https://badgen.net/github/stars/niyongsheng/PinShell?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/niyongsheng/PinShell?style=flat&label=" /> - 可将任意本地 HTML 文件固定为全局置顶浮动窗口，支持点击穿透，适合用作录屏浮层和直播徽章。
+- [Topkit](https://github.com/taimansulimani/topkit) <img align="bottom" height="13" src="https://badgen.net/github/stars/taimansulimani/topkit?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/taimansulimani/topkit?style=flat&label=" /> - 菜单栏工具，支持复制粘贴、演示标注，以及录制带标注的截图与视频，并可自定义全局快捷键。
 
 ## IDE
 
