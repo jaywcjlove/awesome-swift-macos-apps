@@ -913,6 +913,7 @@
 - [MenuScores](https://github.com/daniyalmaster693/MenuScores) <img align="bottom" height="13" src="https://badgen.net/github/stars/daniyalmaster693/MenuScores?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/daniyalmaster693/MenuScores?style=flat&label=" /> - 在菜单栏实时呈现体育资讯与比分的应用
 - [Vuvuzela](https://github.com/bsnkhua/vuvuzela) - 轻量 FIFA 世界杯 2026 桌面小组件，实时展示积分榜、完整赛程和淘汰赛对阵。
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) <img align="bottom" height="13" src="https://badgen.net/github/stars/Ranchero-Software/NetNewsWire?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Ranchero-Software/NetNewsWire?style=flat&label=" /> - macOS 的 RSS 阅读器。
+- [PaperRss](https://github.com/ohmyangboy/PaperRss) <img align="bottom" height="13" src="https://badgen.net/github/stars/ohmyangboy/PaperRss?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ohmyangboy/PaperRss?style=flat&label=" /> - 现代纸感 RSS 阅读器，界面简约沉浸，支持双语翻译与克制的 AI 功能，一切以阅读为先。
 
 ## 笔记
 

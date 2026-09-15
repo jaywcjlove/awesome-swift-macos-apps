@@ -938,6 +938,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [MenuScores](https://github.com/daniyalmaster693/MenuScores) <img align="bottom" height="13" src="https://badgen.net/github/stars/daniyalmaster693/MenuScores?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/daniyalmaster693/MenuScores?style=flat&label=" /> - A menu bar app that delivers real-time sports news and scores.
 - [Vuvuzela](https://github.com/bsnkhua/vuvuzela) - Lightweight FIFA World Cup 2026 desktop widget for live standings, full match schedule, and knockout bracket.
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) <img align="bottom" height="13" src="https://badgen.net/github/stars/Ranchero-Software/NetNewsWire?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Ranchero-Software/NetNewsWire?style=flat&label=" /> - Feed reader for macOS.
+- [PaperRss](https://github.com/ohmyangboy/PaperRss) <img align="bottom" height="13" src="https://badgen.net/github/stars/ohmyangboy/PaperRss?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ohmyangboy/PaperRss?style=flat&label=" /> - Modern paper-like RSS reader with a calm immersive interface, bilingual translation, and restrained AI features that keep reading first.
 
 ## Notes
 
