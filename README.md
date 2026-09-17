@@ -726,8 +726,8 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Thor](https://github.com/gbammc/Thor) <img align="bottom" height="13" src="https://badgen.net/github/stars/gbammc/Thor?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gbammc/Thor?style=flat&label=" /> - Switch the right application ASAP.
 - [Unshaky](https://github.com/aahung/Unshaky) <img align="bottom" height="13" src="https://badgen.net/github/stars/aahung/Unshaky?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aahung/Unshaky?style=flat&label=" /> - Tool for reducing double key presses on butterfly keyboards.
 - [WinKeys](https://github.com/neural-beat/winkeys) <img align="bottom" height="13" src="https://badgen.net/github/stars/neural-beat/winkeys?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/neural-beat/winkeys?style=flat&label=" /> - Open-source keyboard shortcut remapping tool that brings Windows shortcut habits to Mac for users switching from Windows.
-- [vChewing 唯音](https://github.com/vChewing/vChewing-macOS) - Open-source Chinese input method supporting Pinyin and Zhuyin.
-- [Yahoo! KeyKey 2](https://github.com/teddychan/yahoo-keykey-2) - Traditional Chinese Cangjie and Simplex input method.
+- [vChewing 唯音](https://github.com/vChewing/vChewing-macOS) <img align="bottom" height="13" src="https://badgen.net/github/stars/vChewing/vChewing-macOS?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vChewing/vChewing-macOS?style=flat&label=" /> - Open-source Chinese input method supporting Pinyin and Zhuyin.
+- [Yahoo! KeyKey 2](https://github.com/teddychan/yahoo-keykey-2) <img align="bottom" height="13" src="https://badgen.net/github/stars/teddychan/yahoo-keykey-2?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/teddychan/yahoo-keykey-2?style=flat&label=" /> - Traditional Chinese Cangjie and Simplex input method.
 
 ## Mail
 
