@@ -1007,6 +1007,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [LaunchpadOG](https://github.com/SKbarbon/LaunchpadOG) <img align="bottom" height="13" src="https://badgen.net/github/stars/SKbarbon/LaunchpadOG?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/SKbarbon/LaunchpadOG?style=flat&label=" /> - Apple, give me back my Launchpad!
 - [Old-Launchpad](https://github.com/netsvetaev/Old-Launchpad) <img align="bottom" height="13" src="https://badgen.net/github/stars/netsvetaev/Old-Launchpad?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/netsvetaev/Old-Launchpad?style=flat&label=" /> - Good Old Launchpad for MacOS 26 Tahoe
 - [MovApp](https://github.com/akinalpfdn/MovApp) <img align="bottom" height="13" src="https://badgen.net/github/stars/akinalpfdn/MovApp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/akinalpfdn/MovApp?style=flat&label=" /> - A lightweight Launchpad alternative.
+- [QLaunch](https://github.com/qzrzz/QLaunch) <img align="bottom" height="13" src="https://badgen.net/github/stars/qzrzz/QLaunch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/qzrzz/QLaunch?style=flat&label=" /> - Launchpad alternative with Metal rendering, an infinite canvas, and pinyin search.
 
 ## Productivity
 

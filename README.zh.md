@@ -982,6 +982,7 @@
 - [LaunchpadOG](https://github.com/SKbarbon/LaunchpadOG) <img align="bottom" height="13" src="https://badgen.net/github/stars/SKbarbon/LaunchpadOG?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/SKbarbon/LaunchpadOG?style=flat&label=" /> - 苹果，把我的启动台还给我！
 - [Old-Launchpad](https://github.com/netsvetaev/Old-Launchpad) <img align="bottom" height="13" src="https://badgen.net/github/stars/netsvetaev/Old-Launchpad?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/netsvetaev/Old-Launchpad?style=flat&label=" /> - macOS 26 Tahoe 的经典启动台
 - [MovApp](https://github.com/akinalpfdn/MovApp) <img align="bottom" height="13" src="https://badgen.net/github/stars/akinalpfdn/MovApp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/akinalpfdn/MovApp?style=flat&label=" /> - 一个轻量级的 Launchpad 替代方案。
+- [QLaunch](https://github.com/qzrzz/QLaunch) <img align="bottom" height="13" src="https://badgen.net/github/stars/qzrzz/QLaunch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/qzrzz/QLaunch?style=flat&label=" /> - 带 Metal 渲染、无限画布和拼音搜索的 Launchpad 替代工具。
 
 ## 生产力
 
