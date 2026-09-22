@@ -1450,6 +1450,7 @@ saw on your Mac.
 - [rvc-mac](https://github.com/riboseinc/cryptode-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/riboseinc/cryptode-mac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/riboseinc/cryptode-mac?style=flat&label=" /> - Ribose VPN Client macOS Menu App.
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) <img align="bottom" height="13" src="https://badgen.net/github/stars/GeiserX/VPN-Bypass?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/GeiserX/VPN-Bypass?style=flat&label=" /> - Menu bar app to route specific domains and services around your VPN.
 - [Rockxy](https://github.com/RockxyApp/Rockxy) <img align="bottom" height="13" src="https://badgen.net/github/stars/RockxyApp/Rockxy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/RockxyApp/Rockxy?style=flat&label=" /> - HTTP/HTTPS debugging proxy for intercepting, inspecting, and manipulating network traffic.
+- [WhereAmIP](https://github.com/frinsen/whereamip) <img align="bottom" height="13" src="https://badgen.net/github/stars/frinsen/whereamip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/frinsen/whereamip?style=flat&label=" /> - Menu bar flag of your exit IP's country, with VPN and iCloud Private Relay awareness.
 
 ## Video
 
