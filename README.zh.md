@@ -1001,6 +1001,7 @@
 
 ## 生产力
 
+- [Amanu](https://github.com/gsamat/amanu) <img align="bottom" height="13" src="https://badgen.net/github/stars/gsamat/amanu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gsamat/amanu?style=flat&label=" /> - 自动录制并转写网络会议，分离说话人并生成文字纪要。
 - [AltTab](https://github.com/lwouis/alt-tab-macos) <img align="bottom" height="13" src="https://badgen.net/github/stars/lwouis/alt-tab-macos?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lwouis/alt-tab-macos?style=flat&label=" /> - 将 Windows 的 Alt-Tab 功能带到 macOS。
 - [Switch](https://github.com/Sanyam-G/switch) <img align="bottom" height="13" src="https://badgen.net/github/stars/Sanyam-G/switch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Sanyam-G/switch?style=flat&label=" /> - 支持应用间与应用内循环切换并可即时筛选的键盘驱动窗口切换器。
 - [Better Switch](https://github.com/owenzhao/Better-Switch) <img align="bottom" height="13" src="https://badgen.net/github/stars/owenzhao/Better-Switch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/owenzhao/Better-Switch?style=flat&label=" /> - 用 ⌘Tab 切换到某个应用时自动恢复其最小化或已关闭的窗口；若应用已无窗口，则重新打开该应用。

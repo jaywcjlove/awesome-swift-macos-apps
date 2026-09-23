@@ -1026,6 +1026,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Productivity
 
+- [Amanu](https://github.com/gsamat/amanu) <img align="bottom" height="13" src="https://badgen.net/github/stars/gsamat/amanu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gsamat/amanu?style=flat&label=" /> - Auto records and transcribes online meetings with speaker separation and written summaries.
 - [AltTab](https://github.com/lwouis/alt-tab-macos) <img align="bottom" height="13" src="https://badgen.net/github/stars/lwouis/alt-tab-macos?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lwouis/alt-tab-macos?style=flat&label=" /> - Brings the Windows Alt-Tab functionality to macOS.
 - [Switch](https://github.com/Sanyam-G/switch) <img align="bottom" height="13" src="https://badgen.net/github/stars/Sanyam-G/switch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Sanyam-G/switch?style=flat&label=" /> - Keyboard-driven window switcher with inline filtering and app-level cycling.
 - [Command Reopen](https://github.com/Feng6611/mac-command-reopen) <img align="bottom" height="13" src="https://badgen.net/github/stars/Feng6611/mac-command-reopen?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Feng6611/mac-command-reopen?style=flat&label=" /> - Restores minimized or closed app windows when you switch with Cmd+Tab.
