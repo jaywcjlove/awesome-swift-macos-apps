@@ -1307,7 +1307,7 @@
 
 ## 实用工具
 
-- [CopySight](https://github.com/copysightapp/copysight) - 开源菜单栏 OCR 工具，使用端侧识别从任意屏幕区域私密复制文字。
+- [CopySight](https://github.com/copysightapp/copysight) <img align="bottom" height="13" src="https://badgen.net/github/stars/copysightapp/copysight?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/copysightapp/copysight?style=flat&label=" /> - 开源菜单栏 OCR 工具，使用端侧识别从任意屏幕区域私密复制文字。
 - [MacCam](https://github.com/polyackiy/MacCam) - 完全离线的运动检测安防摄像工具，检测到移动时将视频片段录制到本地。
 - [PhoneCam](https://github.com/wybaby168/phonecam) - 把兼容的 Android 手机或 iPhone 变成 Mac 的摄像头。
 - [Browser Cookie Bridge](https://github.com/apoorvdarshan/browser-cookie-bridge) - 在本地迁移已登录的浏览器会话、导入 ChatGPT Codex 会话，也可选择将经过身份验证的配置文件上传到 Browserless Cloud。
