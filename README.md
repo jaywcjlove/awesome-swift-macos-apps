@@ -1107,6 +1107,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Impulso](https://github.com/nuance-dev/impulso) <img align="bottom" height="13" src="https://badgen.net/github/stars/nuance-dev/impulso?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nuance-dev/impulso?style=flat&label=" /> - Yet another macOS Task Management App.
 - [TaskTick](https://github.com/lifedever/TaskTick) <img align="bottom" height="13" src="https://badgen.net/github/stars/lifedever/TaskTick?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lifedever/TaskTick?style=flat&label=" /> - Scheduled task manager for running scripts with flexible schedules, logs, and notifications.
 - [TaskNxt](https://github.com/thamaraiselvam/tasknxt) <img align="bottom" height="13" src="https://badgen.net/github/stars/thamaraiselvam/tasknxt?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/thamaraiselvam/tasknxt?style=flat&label=" /> - Account-free task manager with three lanes: what's due now, what's next, and what can wait.
+- [Tempo (Crows-Storm)](https://github.com/Crows-Storm/Tempo) <img align="bottom" height="13" src="https://badgen.net/github/stars/Crows-Storm/Tempo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Crows-Storm/Tempo?style=flat&label=" /> - Local-first focus timer with a kanban board and private work history.
 
 ## Screensaver
 

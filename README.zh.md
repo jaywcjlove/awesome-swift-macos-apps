@@ -1081,6 +1081,7 @@
 - [Impulso](https://github.com/nuance-dev/impulso) <img align="bottom" height="13" src="https://badgen.net/github/stars/nuance-dev/impulso?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nuance-dev/impulso?style=flat&label=" /> - 另一个 macOS 任务管理应用程序。
 - [TaskTick](https://github.com/lifedever/TaskTick) <img align="bottom" height="13" src="https://badgen.net/github/stars/lifedever/TaskTick?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lifedever/TaskTick?style=flat&label=" /> - 用于按灵活计划执行脚本并查看日志与通知的计划任务管理工具。
 - [TaskNxt](https://github.com/thamaraiselvam/tasknxt) <img align="bottom" height="13" src="https://badgen.net/github/stars/thamaraiselvam/tasknxt?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/thamaraiselvam/tasknxt?style=flat&label=" /> - 无需账号的任务管理器，用三条泳道区分现在做、接下来做和可以再等的事。
+- [Tempo (Crows-Storm)](https://github.com/Crows-Storm/Tempo) <img align="bottom" height="13" src="https://badgen.net/github/stars/Crows-Storm/Tempo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Crows-Storm/Tempo?style=flat&label=" /> - 本地优先的专注计时器，附带看板与私密工作记录。
 
 ## 屏幕保护程序
 
