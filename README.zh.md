@@ -410,6 +410,7 @@
 - [Codenotch](https://github.com/vinzdg/codenotch) <img align="bottom" height="13" src="https://badgen.net/github/stars/vinzdg/codenotch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vinzdg/codenotch?style=flat&label=" /> - 固定在屏幕边缘的状态条，显示各 AI 编码工具已消耗的会话额度，以及代理正在运行、已完成还是等待你的输入。
 - [nootch](https://github.com/DeepanshuMishraa/nootch) <img align="bottom" height="13" src="https://badgen.net/github/stars/DeepanshuMishraa/nootch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/DeepanshuMishraa/nootch?style=flat&label=" /> - 小巧可展开的悬浮层，可随时查看 Claude、Codex、Cursor 等多种 AI 工具的用量限制与代理活动状态。
 - [DeepSeek Status](https://github.com/owenzhao/DeepSeekStatus) <img align="bottom" height="13" src="https://badgen.net/github/stars/owenzhao/DeepSeekStatus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/owenzhao/DeepSeekStatus?style=flat&label=" /> - 以鲸鱼图标展示 DeepSeek API 当前处于高峰还是低谷计费时段，并可查看余额、计费倒计时与时段热力图。
+- [Translate Like Me](https://github.com/wiltodelta/translate-like-me) <img align="bottom" height="13" src="https://badgen.net/github/stars/wiltodelta/translate-like-me?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wiltodelta/translate-like-me?style=flat&label=" /> - 菜单栏翻译工具，通过全局快捷键将任意应用中选中的文本就地替换为译文，可套用你自己的写作风格，支持 Claude、ChatGPT 或 Grok（订阅 CLI 或 API 密钥）。
 
 ## 加密货币
 
