@@ -940,6 +940,7 @@
 - [Notchpad](https://github.com/BirdyTheDev/notchpad) <img align="bottom" height="13" src="https://badgen.net/github/stars/BirdyTheDev/notchpad?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/BirdyTheDev/notchpad?style=flat&label=" /> - 刘海区模块化面板：实时显示 Claude Code 会话与 token 用量、文件架、智能体工作时保持唤醒、系统统计、Unity 与 MCP 状态。
 - [Zisla](https://github.com/wzz6423/zisla) <img align="bottom" height="13" src="https://badgen.net/github/stars/wzz6423/zisla?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wzz6423/zisla?style=flat&label=" /> - 原生 macOS 刘海工作台，集成媒体控制、文件中转、系统工具和隐私优先的本地 AI 活动监控。
 - [Re:notch](https://github.com/yosaiy/renotch) <img align="bottom" height="13" src="https://badgen.net/github/stars/yosaiy/renotch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yosaiy/renotch?style=flat&label=" /> - 把刘海区域变成轻量、原生的开发者命令中心。
+- [HeyMate](https://github.com/UmarSiddiqui/heymate) <img align="bottom" height="13" src="https://badgen.net/github/stars/UmarSiddiqui/heymate?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/UmarSiddiqui/heymate?style=flat&label=" /> - 常驻刘海的 AI 伙伴：按住热键即可提问屏幕内容并语音回答，还能把编码任务交给 AI 代理。
 
 ## 音乐
 
