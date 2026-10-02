@@ -992,6 +992,7 @@
 
 ## 笔记
 
+- [Amber Notes](https://github.com/emilwagman/amber-notes) <img align="bottom" height="13" src="https://badgen.net/github/stars/emilwagman/amber-notes?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/emilwagman/amber-notes?style=flat&label=" /> - 类似 Apple Notes 的笔记应用，ChatGPT、Claude 等 AI 助手可通过 MCP 搜索和编辑笔记，每处 AI 修改都会高亮显示并可撤销。
 - [Apple Notes Exporter](https://github.com/kzaremski/apple-notes-exporter) <img align="bottom" height="13" src="https://badgen.net/github/stars/kzaremski/apple-notes-exporter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kzaremski/apple-notes-exporter?style=flat&label=" /> - Apple Notes 批量导出工具。
 - [Amber Notes](https://github.com/emilwagman/amber-notes) <img align="bottom" height="13" src="https://badgen.net/github/stars/emilwagman/amber-notes?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/emilwagman/amber-notes?style=flat&label=" /> - Apple Notes 风格的笔记应用，ChatGPT、Claude、Claude Code 和 Codex 可直接读取与编辑。
 - [DropNote](https://github.com/bastian-js/dropnote) <img align="bottom" height="13" src="https://badgen.net/github/stars/bastian-js/dropnote?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/bastian-js/dropnote?style=flat&label=" /> - 一个极简的 macOS 菜单栏快速笔记应用。
