@@ -1369,6 +1369,7 @@
 
 ## 实用工具
 
+- [AppDuo](https://github.com/tamia6/AppDuo) <img align="bottom" height="13" src="https://badgen.net/github/stars/tamia6/AppDuo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tamia6/AppDuo?style=flat&label=" /> - 支持自定义名称、图标和独立数据目录的应用分身工具。
 - [CopySight](https://github.com/copysightapp/copysight) <img align="bottom" height="13" src="https://badgen.net/github/stars/copysightapp/copysight?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/copysightapp/copysight?style=flat&label=" /> - 开源菜单栏 OCR 工具，使用端侧识别从任意屏幕区域私密复制文字。
 - [MacCam](https://github.com/polyackiy/MacCam) <img align="bottom" height="13" src="https://badgen.net/github/stars/polyackiy/MacCam?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/polyackiy/MacCam?style=flat&label=" /> - 完全离线的运动检测安防摄像工具，检测到移动时将视频片段录制到本地。
 - [PhoneCam](https://github.com/wybaby168/phonecam) <img align="bottom" height="13" src="https://badgen.net/github/stars/wybaby168/phonecam?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wybaby168/phonecam?style=flat&label=" /> - 把兼容的 Android 手机或 iPhone 变成 Mac 的摄像头。
