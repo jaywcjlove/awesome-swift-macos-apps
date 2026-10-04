@@ -1375,6 +1375,7 @@
 
 ## 实用工具
 
+- [AppDuo](https://github.com/tamia6/AppDuo) <img align="bottom" height="13" src="https://badgen.net/github/stars/tamia6/AppDuo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tamia6/AppDuo?style=flat&label=" /> - 支持自定义名称、图标和独立数据目录的应用分身工具。
 - [CopySight](https://github.com/copysightapp/copysight) <img align="bottom" height="13" src="https://badgen.net/github/stars/copysightapp/copysight?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/copysightapp/copysight?style=flat&label=" /> - 开源菜单栏 OCR 工具，使用端侧识别从任意屏幕区域私密复制文字。
 - [Mac Coffee](https://github.com/Elliotwu-7/Mac-Coffee) <img align="bottom" height="13" src="https://badgen.net/github/stars/Elliotwu-7/Mac-Coffee?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Elliotwu-7/Mac-Coffee?style=flat&label=" /> - 菜单栏防休眠工具，可定时恢复正常睡眠，并在使用电池时自动恢复休眠。
 - [MacCam](https://github.com/polyackiy/MacCam) <img align="bottom" height="13" src="https://badgen.net/github/stars/polyackiy/MacCam?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/polyackiy/MacCam?style=flat&label=" /> - 完全离线的运动检测安防摄像工具，检测到移动时将视频片段录制到本地。
