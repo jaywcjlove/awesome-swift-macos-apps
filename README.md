@@ -124,6 +124,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Extensions](#extensions)
 - [Finder](#finder)
 - [Games](#games)
+- [Hardware](#hardware)
 - [Virtual Machines](#virtual-machine)
 - [Graphics](#graphics)
 - [Screenshot / Screen Recording](#screenshot--screen-recording)
@@ -668,6 +669,10 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Quest for Duskara](https://github.com/Dbhardwaj99/Quest-For-Duskara) <img align="bottom" height="13" src="https://badgen.net/github/stars/Dbhardwaj99/Quest-For-Duskara?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Dbhardwaj99/Quest-For-Duskara?style=flat&label=" /> - Single-player island strategy game: build an economy, raise an army, and capture the archipelago.
 - [Stop Stutter](https://github.com/burakgon/stop-stutter) <img align="bottom" height="13" src="https://badgen.net/github/stars/burakgon/stop-stutter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/burakgon/stop-stutter?style=flat&label=" /> - Automatic boost that makes game streaming smoother and lower latency in Moonlight, GeForce NOW, Parsec, and Steam Link.
 - [Sevoflurane](https://github.com/kageroumado/sevoflurane) <img align="bottom" height="13" src="https://badgen.net/github/stars/kageroumado/sevoflurane?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kageroumado/sevoflurane?style=flat&label=" /> - Native app that runs the Windows Steam client in a hidden Wine bottle to play Steam games on Apple Silicon.
+
+## Hardware
+
+- [OpenNaga](https://github.com/Zer0codestuff/OpenNaga) - Configure Razer Naga mouse buttons, DPI, and polling rate on macOS.
 
 ## Virtual Machines
 

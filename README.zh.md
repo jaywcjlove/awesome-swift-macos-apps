@@ -123,6 +123,7 @@
 - [扩展](#扩展)
 - [Finder](#finder)
 - [游戏](#游戏)
+- [硬件](#硬件)
 - [虚拟机](#虚拟机)
 - [图形](#图形)
 - [截图/屏幕录制](#截图屏幕录制)
@@ -666,6 +667,10 @@
 - [Quest for Duskara](https://github.com/Dbhardwaj99/Quest-For-Duskara) <img align="bottom" height="13" src="https://badgen.net/github/stars/Dbhardwaj99/Quest-For-Duskara?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Dbhardwaj99/Quest-For-Duskara?style=flat&label=" /> - 单人岛屿战略游戏：从一座小岛起家，发展经济、组建军队，逐岛攻占直至夺取 Duskara。
 - [Stop Stutter](https://github.com/burakgon/stop-stutter) <img align="bottom" height="13" src="https://badgen.net/github/stars/burakgon/stop-stutter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/burakgon/stop-stutter?style=flat&label=" /> - 自动为 Moonlight、GeForce NOW、Parsec、Steam Link 等游戏串流应用提速，让画面更流畅、延迟更低。
 - [Sevoflurane](https://github.com/kageroumado/sevoflurane) <img align="bottom" height="13" src="https://badgen.net/github/stars/kageroumado/sevoflurane?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kageroumado/sevoflurane?style=flat&label=" /> - 以原生界面运行隐藏在 Wine 中的 Windows Steam 客户端，在 Apple Silicon 上畅玩 Steam 游戏。
+
+## 硬件
+
+- [OpenNaga](https://github.com/Zer0codestuff/OpenNaga) - 用于在 macOS 上自定义 Razer Naga 鼠标按键、DPI 和轮询率。
 
 ## 虚拟机
 
