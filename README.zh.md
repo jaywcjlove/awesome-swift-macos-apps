@@ -142,6 +142,7 @@
 - [启动台](#启动台)
 - [任务管理](#任务管理)
 - [生产力](#生产力)
+- [阅读](#阅读)
 - [屏幕保护程序](#屏幕保护程序)
 - [安全](#安全)
 - [文件共享](#文件共享)
@@ -1138,6 +1139,10 @@
 - [TaskNxt](https://github.com/thamaraiselvam/tasknxt) <img align="bottom" height="13" src="https://badgen.net/github/stars/thamaraiselvam/tasknxt?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/thamaraiselvam/tasknxt?style=flat&label=" /> - 无需账号的任务管理器，用三条泳道区分现在做、接下来做和可以再等的事。
 - [Satori](https://github.com/emcee5000/satori) <img align="bottom" height="13" src="https://badgen.net/github/stars/emcee5000/satori?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/emcee5000/satori?style=flat&label=" /> - 键盘优先的 GTD 任务管理工具，采用终端风格交互。
 - [Tempo (Crows-Storm)](https://github.com/Crows-Storm/Tempo) <img align="bottom" height="13" src="https://badgen.net/github/stars/Crows-Storm/Tempo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Crows-Storm/Tempo?style=flat&label=" /> - 本地优先的专注计时器，附带看板与私密工作记录。
+
+## 阅读
+
+- [Rapid Reader](https://github.com/Zer0codestuff/Rapid-Reader) - 结合 RSVP 速读与全文阅读的专注阅读应用。
 
 ## 屏幕保护程序
 

@@ -145,6 +145,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Launchpad](#launchpad)
 - [Task Manager](#task-manager)
 - [Productivity](#productivity)
+- [Reading](#reading)
 - [Screensaver](#screensaver)
 - [Security](#security)
 - [Sharing Files](#sharing-files)
@@ -1164,6 +1165,10 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [TaskNxt](https://github.com/thamaraiselvam/tasknxt) <img align="bottom" height="13" src="https://badgen.net/github/stars/thamaraiselvam/tasknxt?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/thamaraiselvam/tasknxt?style=flat&label=" /> - Account-free task manager with three lanes: what's due now, what's next, and what can wait.
 - [Satori](https://github.com/emcee5000/satori) <img align="bottom" height="13" src="https://badgen.net/github/stars/emcee5000/satori?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/emcee5000/satori?style=flat&label=" /> - Keyboard-first GTD app with a terminal-inspired workflow.
 - [Tempo (Crows-Storm)](https://github.com/Crows-Storm/Tempo) <img align="bottom" height="13" src="https://badgen.net/github/stars/Crows-Storm/Tempo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Crows-Storm/Tempo?style=flat&label=" /> - Local-first focus timer with a kanban board and private work history.
+
+## Reading
+
+- [Rapid Reader](https://github.com/Zer0codestuff/Rapid-Reader) - Focused reading app with RSVP speed reading and a full-text reader.
 
 ## Screensaver
 
