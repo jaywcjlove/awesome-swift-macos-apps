@@ -446,6 +446,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Database
 
+- [BerryDB](https://github.com/berry-apps/berrydb-desktop) <img align="bottom" height="13" src="https://badgen.net/github/stars/berry-apps/berrydb-desktop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/berry-apps/berrydb-desktop?style=flat&label=" /> - Fast native database client for macOS.
 - [Gridex](https://github.com/gridex/gridex) <img align="bottom" height="13" src="https://badgen.net/github/stars/gridex/gridex?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gridex/gridex?style=flat&label=" /> - AI-native database IDE for PostgreSQL, MySQL, SQLite, Redis, MongoDB, SQL Server, and ClickHouse with built-in MCP server and AI chat.
 - [PostgresGUI](https://github.com/postgresgui/postgresgui) <img align="bottom" height="13" src="https://badgen.net/github/stars/postgresgui/postgresgui?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/postgresgui/postgresgui?style=flat&label=" /> - A native PostgreSQL client.
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) <img align="bottom" height="13" src="https://badgen.net/github/stars/PostgresApp/PostgresApp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PostgresApp/PostgresApp?style=flat&label=" /> - The easiest way to get started with PostgreSQL on the Mac.
