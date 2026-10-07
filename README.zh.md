@@ -1192,6 +1192,7 @@
 - [Sentry](https://github.com/Lakr233/Sentry) <img align="bottom" height="13" src="https://badgen.net/github/stars/Lakr233/Sentry?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Lakr233/Sentry?style=flat&label=" /> - 在你离开时对异常活动发出提醒的安全监控工具。
 - [TouchBridge](https://github.com/HMAKT99/UnTouchID) <img align="bottom" height="13" src="https://badgen.net/github/stars/HMAKT99/UnTouchID?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/HMAKT99/UnTouchID?style=flat&label=" /> - 生物识别身份验证工具，支持手机、手表或浏览器解锁。
 - [Tracexy](https://github.com/RockxyApp/Tracexy) <img align="bottom" height="13" src="https://badgen.net/github/stars/RockxyApp/Tracexy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/RockxyApp/Tracexy?style=flat&label=" /> - 以会话为单位的网络分析工具，抓取或打开数据包后在本地工作区中查看主机、进程、协议、时序与原始数据包证据。
+- [Yowl](https://github.com/nejcar20/yowl) <img align="bottom" height="13" src="https://badgen.net/github/stars/nejcar20/yowl?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nejcar20/yowl?style=flat&label=" /> - 菜单栏防盗警报工具，MacBook 被拔掉电源时会响起警报并锁定屏幕，也可选择启用移动检测。
 
 ## 文件共享
 
