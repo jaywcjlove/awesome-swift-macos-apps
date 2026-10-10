@@ -1066,6 +1066,7 @@
 - [IPTVMac](https://github.com/Goelir/IPTVMac) <img align="bottom" height="13" src="https://badgen.net/github/stars/Goelir/IPTVMac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Goelir/IPTVMac?style=flat&label=" /> - 原生 IPTV 播放器，支持 Xtream Codes、M3U、字幕、画中画、回看和下载。
 - [NullPlayer](https://github.com/ad-repo/nullplayer) <img align="bottom" height="13" src="https://badgen.net/github/stars/ad-repo/nullplayer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ad-repo/nullplayer?style=flat&label=" /> - 音乐播放器，支持无界面 CLI、多源播放，可投射至 Sonos、Chromecast 与 UPnP/DLNA。
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wulkano/Plug?style=flat&label=" /> - 从 Hype Machine 中发现和收听音乐。
+- [Yingxia](https://github.com/jo32/tvbox-silicon) <img align="bottom" height="13" src="https://badgen.net/github/stars/jo32/tvbox-silicon?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jo32/tvbox-silicon?style=flat&label=" /> - 原生 TVBox 播放器，支持通过自有订阅浏览点播内容、跨源搜索和观看直播。
 
 ## 播客
 
