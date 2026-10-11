@@ -821,6 +821,7 @@
 
 ## 菜单栏
 
+- [Hardly Working](https://github.com/Blazmad/hardly-working) <img align="bottom" height="13" src="https://badgen.net/github/stars/Blazmad/hardly-working?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Blazmad/hardly-working?style=flat&label=" /> - 菜单栏应用，防止 Teams 和 Slack 将你显示为离开状态。
 - [Konechi](https://github.com/piro0919/konechi) <img align="bottom" height="13" src="https://badgen.net/github/stars/piro0919/konechi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/piro0919/konechi?style=flat&label=" /> - 显示当前是通过有线还是 Wi-Fi 连接。
 - [Nonja](https://github.com/piro0919/nonja) <img align="bottom" height="13" src="https://badgen.net/github/stars/piro0919/nonja?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/piro0919/nonja?style=flat&label=" /> - 安静的 macOS 通知收件箱，按来源应用分组。
 - [Okigae](https://github.com/piro0919/okigae) <img align="bottom" height="13" src="https://badgen.net/github/stars/piro0919/okigae?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/piro0919/okigae?style=flat&label=" /> - 把菜单栏的状态图标换成角色插画。
