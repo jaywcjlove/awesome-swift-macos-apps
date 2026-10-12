@@ -1650,6 +1650,7 @@
 - [WallpaperMachine](https://github.com/WallpaperMachine/WallpaperMachine) <img align="bottom" height="13" src="https://badgen.net/github/stars/WallpaperMachine/WallpaperMachine?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/WallpaperMachine/WallpaperMachine?style=flat&label=" /> - 实时壁纸应用，支持 Wallpaper Engine 场景、视频与网页壁纸，并提供锁屏扩展。
 - [Phosphene](https://github.com/kageroumado/phosphene) <img align="bottom" height="13" src="https://badgen.net/github/stars/kageroumado/phosphene?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kageroumado/phosphene?style=flat&label=" /> - 从系统设置的壁纸面板直接选择自定义视频壁纸，支持桌面与锁屏界面的任意视频播放。
 - [SpreadPaper](https://github.com/spreadpaper/SpreadPaper) <img align="bottom" height="13" src="https://badgen.net/github/stars/spreadpaper/SpreadPaper?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/spreadpaper/SpreadPaper?style=flat&label=" /> - 将一张高分辨率壁纸无缝铺满多个显示器。
+- [RainDesktop](https://github.com/gonzaroman/RainDesktop) <img align="bottom" height="13" src="https://badgen.net/github/stars/gonzaroman/RainDesktop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gonzaroman/RainDesktop?style=flat&label=" /> - 在 macOS 窗口后面下的一场雨：雨滴撞上标题栏弹开，闲置时你的 Mac 会慢慢被淹。
 
 ## 窗口管理
 
