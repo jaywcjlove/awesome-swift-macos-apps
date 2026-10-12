@@ -306,6 +306,7 @@
 - [Sero](https://github.com/tanayarya/Sero-App) <img align="bottom" height="13" src="https://badgen.net/github/stars/tanayarya/Sero-App?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tanayarya/Sero-App?style=flat&label=" /> - 私有本地 AI 工作区，可用本地模型与文档、研究资料、开发知识和结构化数据对话。
 - [Sidekick](https://github.com/johnbean393/Sidekick) <img align="bottom" height="13" src="https://badgen.net/github/stars/johnbean393/Sidekick?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/johnbean393/Sidekick?style=flat&label=" /> - 在 macOS 上用你的文件与本地 LLM 对话，无需额外配置。
 - [TurboFieldfare](https://github.com/drumih/turbo-fieldfare) <img align="bottom" height="13" src="https://badgen.net/github/stars/drumih/turbo-fieldfare?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/drumih/turbo-fieldfare?style=flat&label=" /> - 基于 Swift + Metal 的自定义运行时，约 2 GB 内存即可运行 Gemma 4 推理。
+- [M1K3](https://github.com/Round-Tower/M1K3) <img align="bottom" height="13" src="https://badgen.net/github/stars/Round-Tower/M1K3?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Round-Tower/M1K3?style=flat&label=" /> - 本地私密 AI：大模型、语音、RAG 知识图谱、加密通话转录、智能体与 MCP 服务器。
 
 ## AI
 
@@ -612,7 +613,6 @@
 - [CSVEditor](https://github.com/gahntpo/CSVEditor) <img align="bottom" height="13" src="https://badgen.net/github/stars/gahntpo/CSVEditor?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gahntpo/CSVEditor?style=flat&label=" /> - 用来打开和编辑 CSV 文件
 - [FINAL|FINAL](https://github.com/kerim/finalfinal) <img align="bottom" height="13" src="https://badgen.net/github/stars/kerim/finalfinal?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kerim/finalfinal?style=flat&label=" /> - 具备大纲、引用、版本管理与专注模式的长文写作编辑器。
 - [Nimble](https://github.com/scade-platform/Nimble) <img align="bottom" height="13" src="https://badgen.net/github/stars/scade-platform/Nimble?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/scade-platform/Nimble?style=flat&label=" /> - 轻量级本地代码编辑器。
-- [Oleafly](https://github.com/Oleafly/Oleafly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Oleafly/Oleafly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Oleafly/Oleafly?style=flat&label=" /> - 本地优先的科研写作工作区，支持 LaTeX、Typst、Markdown 和可选 AI 工具。
 
 ### Markdown
 

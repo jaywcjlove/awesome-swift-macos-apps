@@ -307,6 +307,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Sero](https://github.com/tanayarya/Sero-App) <img align="bottom" height="13" src="https://badgen.net/github/stars/tanayarya/Sero-App?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tanayarya/Sero-App?style=flat&label=" /> - Private local AI workspace for chatting with documents, research files, developer knowledge, and structured data using local models.
 - [Sidekick](https://github.com/johnbean393/Sidekick) <img align="bottom" height="13" src="https://badgen.net/github/stars/johnbean393/Sidekick?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/johnbean393/Sidekick?style=flat&label=" /> - Chat with a local LLM on macOS using your files — no extra setup.
 - [TurboFieldfare](https://github.com/drumih/turbo-fieldfare) <img align="bottom" height="13" src="https://badgen.net/github/stars/drumih/turbo-fieldfare?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/drumih/turbo-fieldfare?style=flat&label=" /> - Run Gemma 4 26B inference in ~2 GB of RAM via a custom Swift + Metal runtime.
+- [M1K3](https://github.com/Round-Tower/M1K3) <img align="bottom" height="13" src="https://badgen.net/github/stars/Round-Tower/M1K3?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Round-Tower/M1K3?style=flat&label=" /> - Private on-device AI: LLM, voice, RAG knowledge graph, encrypted transcription, agent, MCP server.
 
 ## AI
 
@@ -612,7 +613,6 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [CSVEditor](https://github.com/gahntpo/CSVEditor) <img align="bottom" height="13" src="https://badgen.net/github/stars/gahntpo/CSVEditor?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gahntpo/CSVEditor?style=flat&label=" /> - Used to open and edit CSV files.
 - [FINAL|FINAL](https://github.com/kerim/finalfinal) <img align="bottom" height="13" src="https://badgen.net/github/stars/kerim/finalfinal?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kerim/finalfinal?style=flat&label=" /> - Long-form writing editor with outlining, citations, versioning, and focus tools.
 - [Nimble](https://github.com/scade-platform/Nimble) <img align="bottom" height="13" src="https://badgen.net/github/stars/scade-platform/Nimble?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/scade-platform/Nimble?style=flat&label=" /> - Lightweight local code editor.
-- [Oleafly](https://github.com/Oleafly/Oleafly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Oleafly/Oleafly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Oleafly/Oleafly?style=flat&label=" /> - Local-first research writing workspace for LaTeX, Typst, and Markdown with optional AI tools.
 
 ### Markdown
 
