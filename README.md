@@ -612,6 +612,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [CSVEditor](https://github.com/gahntpo/CSVEditor) <img align="bottom" height="13" src="https://badgen.net/github/stars/gahntpo/CSVEditor?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gahntpo/CSVEditor?style=flat&label=" /> - Used to open and edit CSV files.
 - [FINAL|FINAL](https://github.com/kerim/finalfinal) <img align="bottom" height="13" src="https://badgen.net/github/stars/kerim/finalfinal?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kerim/finalfinal?style=flat&label=" /> - Long-form writing editor with outlining, citations, versioning, and focus tools.
 - [Nimble](https://github.com/scade-platform/Nimble) <img align="bottom" height="13" src="https://badgen.net/github/stars/scade-platform/Nimble?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/scade-platform/Nimble?style=flat&label=" /> - Lightweight local code editor.
+- [Oleafly](https://github.com/Oleafly/Oleafly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Oleafly/Oleafly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Oleafly/Oleafly?style=flat&label=" /> - Local-first research writing workspace for LaTeX, Typst, and Markdown with optional AI tools.
 
 ### Markdown
 

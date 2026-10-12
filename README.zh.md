@@ -612,6 +612,7 @@
 - [CSVEditor](https://github.com/gahntpo/CSVEditor) <img align="bottom" height="13" src="https://badgen.net/github/stars/gahntpo/CSVEditor?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gahntpo/CSVEditor?style=flat&label=" /> - 用来打开和编辑 CSV 文件
 - [FINAL|FINAL](https://github.com/kerim/finalfinal) <img align="bottom" height="13" src="https://badgen.net/github/stars/kerim/finalfinal?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kerim/finalfinal?style=flat&label=" /> - 具备大纲、引用、版本管理与专注模式的长文写作编辑器。
 - [Nimble](https://github.com/scade-platform/Nimble) <img align="bottom" height="13" src="https://badgen.net/github/stars/scade-platform/Nimble?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/scade-platform/Nimble?style=flat&label=" /> - 轻量级本地代码编辑器。
+- [Oleafly](https://github.com/Oleafly/Oleafly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Oleafly/Oleafly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Oleafly/Oleafly?style=flat&label=" /> - 本地优先的科研写作工作区，支持 LaTeX、Typst、Markdown 和可选 AI 工具。
 
 ### Markdown
 
