@@ -684,6 +684,7 @@
 - [Spyglass](https://github.com/magicelk235/spyglass) <img align="bottom" height="13" src="https://badgen.net/github/stars/magicelk235/spyglass?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/magicelk235/spyglass?style=flat&label=" /> - Google Workspace 文件 Quick Look 增强器，为 .gdoc、.gsheet 等文件显示真实文档预览而非原始 JSON。
 - [Torrent Preview](https://github.com/sveinbjornpalsson/torrentpreview/) <img align="bottom" height="13" src="https://badgen.net/github/stars/sveinbjornpalsson/torrentpreview?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sveinbjornpalsson/torrentpreview/?style=flat&label=" /> - 用于预览 `.torrent` 内容的 Quick Look 扩展。
 - [Window Glue](https://github.com/Conxt/WindowGlue) <img align="bottom" height="13" src="https://badgen.net/github/stars/Conxt/WindowGlue?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Conxt/WindowGlue?style=flat&label=" /> - 用于将两个窗口联动移动和缩放的工具。
+- [FinderSearch](https://github.com/zeusinsight/FinderSearch) <img align="bottom" height="13" src="https://badgen.net/github/stars/zeusinsight/FinderSearch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zeusinsight/FinderSearch?style=flat&label=" /> - 原生 Mac 文件浏览器：快速模糊匹配文件名搜索、浏览文件夹和预览文件。
 
 ## 游戏
 
