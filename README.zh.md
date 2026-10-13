@@ -1407,6 +1407,7 @@
 - [Tweaks](https://github.com/dinoki-ai/tweaks) <img align="bottom" height="13" src="https://badgen.net/github/stars/dinoki-ai/tweaks?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dinoki-ai/tweaks?style=flat&label=" /> - 只需一键，即可即时重写、改写或优化剪贴板中的任何文本。
 - [Whisk](https://github.com/nathan-poncet/whisk) <img align="bottom" height="13" src="https://badgen.net/github/stars/nathan-poncet/whisk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nathan-poncet/whisk?style=flat&label=" /> - 开源剪贴板管理器，可保存文本、链接、图片、文件和颜色。
 - [Yank](https://github.com/The-PatientZero/yank) <img align="bottom" height="13" src="https://badgen.net/github/stars/The-PatientZero/yank?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/The-PatientZero/yank?style=flat&label=" /> - 快速、私密的剪贴板管理器，支持历史搜索、OCR、标签和 iCloud 同步。
+- [Echo](https://github.com/akira82-ai/echo-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/akira82-ai/echo-app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/akira82-ai/echo-app?style=flat&label=" /> - 菜单栏剪贴板管理器：自动保存复制的文本、图片和文件，支持智能查找和秒级一键粘贴。
 
 ## 终端
 
