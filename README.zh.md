@@ -253,6 +253,7 @@
 - [yap](https://github.com/TerrifiedBug/yap) <img align="bottom" height="13" src="https://badgen.net/github/stars/TerrifiedBug/yap?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/TerrifiedBug/yap?style=flat&label=" /> - 设备端按键听写与会议转录工具，可将文本插入光标处。
 - [YapToText](https://github.com/ryleighnewman/YapToText) <img align="bottom" height="13" src="https://badgen.net/github/stars/ryleighnewman/YapToText?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ryleighnewman/YapToText?style=flat&label=" /> - 免费开源的语音听写工具，完全在本地运行，结合 Whisper 转写与本地 AI 润色，按下按键即可把文字输入光标处。
 - [BetterWispr](https://github.com/opennookorg/betterwispr) <img align="bottom" height="13" src="https://badgen.net/github/stars/opennookorg/betterwispr?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/opennookorg/betterwispr?style=flat&label=" /> - 免费开源、本地优先的 Wispr Flow 替代品：用 Whisper、Parakeet 和 Apple 语音在设备端听写。
+- [Reed Dictation](https://github.com/w20labs/reed) <img align="bottom" height="13" src="https://badgen.net/github/stars/w20labs/reed?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/w20labs/reed?style=flat&label=" /> - 免费、完全本地的按住说话听写工具：用 Parakeet 在设备端识别语音，并自动清理语气词和重说句子。
 
 ## 备份
 
