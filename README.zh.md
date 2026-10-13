@@ -1195,6 +1195,7 @@
 ## 阅读
 
 - [Rapid Reader](https://github.com/Zer0codestuff/Rapid-Reader) <img align="bottom" height="13" src="https://badgen.net/github/stars/Zer0codestuff/Rapid-Reader?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Zer0codestuff/Rapid-Reader?style=flat&label=" /> - 结合 RSVP 速读与全文阅读的专注阅读应用。
+- [Lemma](https://github.com/fus3r/lemma) <img align="bottom" height="13" src="https://badgen.net/github/stars/fus3r/lemma?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/fus3r/lemma?style=flat&label=" /> - 面向数学阅读的 PDF 阅读器：像编辑器理解代码那样理解教材和论文。
 
 ## 屏幕保护程序
 

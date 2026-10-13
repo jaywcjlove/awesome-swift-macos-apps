@@ -1222,6 +1222,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 ## Reading
 
 - [Rapid Reader](https://github.com/Zer0codestuff/Rapid-Reader) <img align="bottom" height="13" src="https://badgen.net/github/stars/Zer0codestuff/Rapid-Reader?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Zer0codestuff/Rapid-Reader?style=flat&label=" /> - Focused reading app with RSVP speed reading and a full-text reader.
+- [Lemma](https://github.com/fus3r/lemma) <img align="bottom" height="13" src="https://badgen.net/github/stars/fus3r/lemma?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/fus3r/lemma?style=flat&label=" /> - An IDE for reading math: a free PDF reader that understands textbooks and papers like editors do.
 
 ## Screensaver
 
