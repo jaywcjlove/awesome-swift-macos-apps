@@ -1411,6 +1411,7 @@
 - [Whisk](https://github.com/nathan-poncet/whisk) <img align="bottom" height="13" src="https://badgen.net/github/stars/nathan-poncet/whisk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nathan-poncet/whisk?style=flat&label=" /> - 开源剪贴板管理器，可保存文本、链接、图片、文件和颜色。
 - [Yank](https://github.com/The-PatientZero/yank) <img align="bottom" height="13" src="https://badgen.net/github/stars/The-PatientZero/yank?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/The-PatientZero/yank?style=flat&label=" /> - 快速、私密的剪贴板管理器，支持历史搜索、OCR、标签和 iCloud 同步。
 - [Echo](https://github.com/akira82-ai/echo-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/akira82-ai/echo-app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/akira82-ai/echo-app?style=flat&label=" /> - 菜单栏剪贴板管理器：自动保存复制的文本、图片和文件，支持智能查找和秒级一键粘贴。
+- [WolfClip](https://github.com/RakushkaTOP/wolfclip) <img align="bottom" height="13" src="https://badgen.net/github/stars/RakushkaTOP/wolfclip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/RakushkaTOP/wolfclip?style=flat&label=" /> - 适用于 macOS 和 Linux 的剪贴板历史管理器：按一个快捷键即可选取之前复制的内容并粘贴到任意应用。
 
 ## 终端
 
