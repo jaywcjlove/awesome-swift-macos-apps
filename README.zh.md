@@ -252,6 +252,7 @@
 - [Yap](https://github.com/FrigadeHQ/yap) <img align="bottom" height="13" src="https://badgen.net/github/stars/FrigadeHQ/yap?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/FrigadeHQ/yap?style=flat&label=" /> - 快速本地语音听写，无需账户即可在任意文本框中输入。
 - [yap](https://github.com/TerrifiedBug/yap) <img align="bottom" height="13" src="https://badgen.net/github/stars/TerrifiedBug/yap?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/TerrifiedBug/yap?style=flat&label=" /> - 设备端按键听写与会议转录工具，可将文本插入光标处。
 - [YapToText](https://github.com/ryleighnewman/YapToText) <img align="bottom" height="13" src="https://badgen.net/github/stars/ryleighnewman/YapToText?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ryleighnewman/YapToText?style=flat&label=" /> - 免费开源的语音听写工具，完全在本地运行，结合 Whisper 转写与本地 AI 润色，按下按键即可把文字输入光标处。
+- [BetterWispr](https://github.com/opennookorg/betterwispr) <img align="bottom" height="13" src="https://badgen.net/github/stars/opennookorg/betterwispr?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/opennookorg/betterwispr?style=flat&label=" /> - 免费开源、本地优先的 Wispr Flow 替代品：用 Whisper、Parakeet 和 Apple 语音在设备端听写。
 
 ## 备份
 
