@@ -1045,6 +1045,7 @@
 - [Spotifly](https://github.com/ralph/Spotifly) <img align="bottom" height="13" src="https://badgen.net/github/stars/ralph/Spotifly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ralph/Spotifly?style=flat&label=" /> - 轻量级 Spotify 播放器，提供简洁快速的播放控制。
 - [Vespertine](https://github.com/szeremeta1/Vespertine) <img align="bottom" height="13" src="https://badgen.net/github/stars/szeremeta1/Vespertine?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/szeremeta1/Vespertine?style=flat&label=" /> - Bit-Perfect 音乐播放器，按每首曲目的原生格式切换 DAC，支持 DSD、杜比全景声和 DTS 播放，并能识别伪 Hi-Res 文件。
 - [YouTube-Music](https://github.com/steve228uk/YouTube-Music) <img align="bottom" height="13" src="https://badgen.net/github/stars/steve228uk/YouTube-Music?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/steve228uk/YouTube-Music?style=flat&label=" /> - 针对 music.youtube.com 的 macOS 包装应用。
+- [Songtide](https://github.com/dcoded-dev/songtide) <img align="bottom" height="13" src="https://badgen.net/github/stars/dcoded-dev/songtide?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dcoded-dev/songtide?style=flat&label=" /> - 免费的 YouTube Music 原生 Mac 客户端：内置均衡器、可视化、同步歌词和菜单栏迷你播放器。
 
 ## 新闻
 
