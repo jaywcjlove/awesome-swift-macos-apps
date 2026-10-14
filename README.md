@@ -1641,6 +1641,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Network
 
+- [Louisa Wi-Fi](https://github.com/madeyexz/louisa-wifi) <img align="bottom" height="13" src="https://badgen.net/github/stars/madeyexz/louisa-wifi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/madeyexz/louisa-wifi?style=flat&label=" /> - Menu bar app that connects to any Louisa Coffee's Wi-Fi, handling each store's different password.
 - [Ping Warden](https://github.com/oliverames/ping-warden) <img align="bottom" height="13" src="https://badgen.net/github/stars/oliverames/ping-warden?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/oliverames/ping-warden?style=flat&label=" /> - Menu bar Mac app that keeps Apple Wireless Direct Link paused to cut latency during games and calls
 
 ## VPN & Proxy
