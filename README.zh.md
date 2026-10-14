@@ -297,6 +297,7 @@
 - [WardenApp](https://github.com/SidhuK/WardenApp) <img align="bottom" height="13" src="https://badgen.net/github/stars/SidhuK/WardenApp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/SidhuK/WardenApp?style=flat&label=" /> - 一款完全原生的 macOS AI 聊天应用
 - [WeChatBridge（微信流）](https://github.com/freestylefly/WeChatBridge) <img align="bottom" height="13" src="https://badgen.net/github/stars/freestylefly/WeChatBridge?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/freestylefly/WeChatBridge?style=flat&label=" /> - 从微信转发菜单把聊天记录送进 AI 智能体与本地知识库，全程本地处理。
 - [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/aldychris/WhatsAppBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aldychris/WhatsAppBar?style=flat&label=" /> - 从菜单栏发送 WhatsApp 消息。
+- [JoeBro](https://github.com/joexk1/JoeBro) <img align="bottom" height="13" src="https://badgen.net/github/stars/joexk1/JoeBro?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/joexk1/JoeBro?style=flat&label=" /> - 用于聊天和文档编辑的 AI 工作区，支持通过 Ollama 或任意 API 使用本地模型，带有记忆、MCP 工具和深度研究。
 
 ## 本地 LLM
 
