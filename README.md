@@ -1300,6 +1300,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [RedditOS](https://github.com/Dimillian/RedditOS) <img align="bottom" height="13" src="https://badgen.net/github/stars/Dimillian/RedditOS?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Dimillian/RedditOS?style=flat&label=" /> - A SwiftUI Reddit client for macOS.
 - [RsyncUI](https://github.com/rsyncOSX/RsyncUI) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsyncOSX/RsyncUI?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rsyncOSX/RsyncUI?style=flat&label=" /> - Graphical interface for rsync file synchronization and backup operations.
 - [Simpo](https://github.com/KeliCheng/Simpo) <img align="bottom" height="13" src="https://badgen.net/github/stars/KeliCheng/Simpo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/KeliCheng/Simpo?style=flat&label=" /> - macOS menubar app to post status quickly.
+- [System Data Unpacked](https://github.com/Jarvis322/macos-sysdata) <img align="bottom" height="13" src="https://badgen.net/github/stars/Jarvis322/macos-sysdata?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Jarvis322/macos-sysdata?style=flat&label=" /> - Mac app that shows what is inside macOS System Data and lets you delete it item by item.
 
 ## Streaming
 

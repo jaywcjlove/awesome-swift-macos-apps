@@ -1273,6 +1273,7 @@
 - [RedditOS](https://github.com/Dimillian/RedditOS) <img align="bottom" height="13" src="https://badgen.net/github/stars/Dimillian/RedditOS?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Dimillian/RedditOS?style=flat&label=" /> - 一个基于 SwiftUI 的 macOS Reddit 客户端。
 - [RsyncUI](https://github.com/rsyncOSX/RsyncUI) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsyncOSX/RsyncUI?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rsyncOSX/RsyncUI?style=flat&label=" /> - rsync 图形界面工具，简化文件同步和备份操作。
 - [Simpo](https://github.com/KeliCheng/Simpo) <img align="bottom" height="13" src="https://badgen.net/github/stars/KeliCheng/Simpo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/KeliCheng/Simpo?style=flat&label=" /> - macOS 菜单栏应用，用于快速发布状态。
+- [System Data Unpacked](https://github.com/Jarvis322/macos-sysdata) <img align="bottom" height="13" src="https://badgen.net/github/stars/Jarvis322/macos-sysdata?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Jarvis322/macos-sysdata?style=flat&label=" /> - 查看 macOS「系统数据」里到底是什么，并可逐项删除的 Mac 应用。
 
 ## 流媒体
 
