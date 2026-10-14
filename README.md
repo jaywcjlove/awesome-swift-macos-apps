@@ -717,6 +717,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 ## Hardware
 
 - [AM Native](https://github.com/op7418/AM-Native) <img align="bottom" height="13" src="https://badgen.net/github/stars/op7418/AM-Native?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/op7418/AM-Native?style=flat&label=" /> - Native macOS settings for the Angry Miao AM Infinity .97 mouse — battery, DPI, and button mapping.
+- [Charker](https://github.com/qzz0518/Charker) <img align="bottom" height="13" src="https://badgen.net/github/stars/qzz0518/Charker?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/qzz0518/Charker?style=flat&label=" /> - Native macOS companion for viewing and controlling the Anker Prime 160W and 250W chargers.
 - [OpenNaga](https://github.com/Zer0codestuff/OpenNaga) <img align="bottom" height="13" src="https://badgen.net/github/stars/Zer0codestuff/OpenNaga?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Zer0codestuff/OpenNaga?style=flat&label=" /> - Configure Razer Naga mouse buttons, DPI, and polling rate on macOS.
 
 ## Virtual Machines
