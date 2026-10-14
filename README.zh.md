@@ -156,6 +156,7 @@
 - [实用工具](#实用工具)
 - [压缩工具](#压缩工具)
 - [颜色选择器](#颜色选择器)
+- [网络](#网络)
 - [VPN & 代理](#vpn--代理)
 - [视频](#视频)
 - [壁纸](#壁纸)
@@ -1623,6 +1624,10 @@
 - [Piletto](https://github.com/timurverevkin/Piletto) <img align="bottom" height="13" src="https://badgen.net/github/stars/timurverevkin/Piletto?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/timurverevkin/Piletto?style=flat&label=" /> - 原生 macOS 颜色库，支持取色器、色板与 HEX/RGB/CMYK/LAB 色值。
 - [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/System-Color-Picker?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sindresorhus/System-Color-Picker?style=flat&label=" /> - The macOS color picker as an app with more features.
 - [Solid](https://github.com/phamfoo/Solid) <img align="bottom" height="13" src="https://badgen.net/github/stars/phamfoo/Solid?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/phamfoo/Solid?style=flat&label=" /> - 灵感来自 Figma 的 macOS 颜色选择器应用。
+
+## 网络
+
+- [Ping Warden](https://github.com/oliverames/ping-warden) <img align="bottom" height="13" src="https://badgen.net/github/stars/oliverames/ping-warden?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/oliverames/ping-warden?style=flat&label=" /> - 菜单栏 Mac 应用，在游戏和通话期间暂停 Apple Wireless Direct Link，以降低网络延迟。
 
 ## VPN & 代理
 

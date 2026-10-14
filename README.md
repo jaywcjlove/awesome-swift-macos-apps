@@ -157,6 +157,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Terminal](#terminal)
 - [Touch Bar](#touch-bar)
 - [Utilities](#utilities)
+- [Network](#network)
 - [VPN & Proxy](#vpn--proxy)
 - [Video](#video)
 - [Wallpaper](#wallpaper)
@@ -1626,6 +1627,10 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [WonderBox](https://github.com/jasonwong1991/WonderBox) <img align="bottom" height="13" src="https://badgen.net/github/stars/jasonwong1991/WonderBox?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jasonwong1991/WonderBox?style=flat&label=" /> - System toolkit: monitoring, cleanup, uninstaller, disk analysis, fan control, and keep-awake.
 - [YABA](https://github.com/Subfly/YABA) <img align="bottom" height="13" src="https://badgen.net/github/stars/Subfly/YABA?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Subfly/YABA?style=flat&label=" /> - A modern cross-platform bookmark manager that's privacy-focused and works offline.
 - [Magic Flip](https://github.com/svekl/magic-flip) <img align="bottom" height="13" src="https://badgen.net/github/stars/svekl/magic-flip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/svekl/magic-flip?style=flat&label=" /> - Inverts Apple Magic Trackpad for upside down use.
+
+## Network
+
+- [Ping Warden](https://github.com/oliverames/ping-warden) <img align="bottom" height="13" src="https://badgen.net/github/stars/oliverames/ping-warden?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/oliverames/ping-warden?style=flat&label=" /> - Menu bar Mac app that keeps Apple Wireless Direct Link paused to cut latency during games and calls
 
 ## VPN & Proxy
 
