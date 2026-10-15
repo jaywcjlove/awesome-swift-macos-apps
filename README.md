@@ -678,6 +678,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Finder
 
+- [Strata Files](https://github.com/cristipufu/strata-files) <img align="bottom" height="13" src="https://badgen.net/github/stars/cristipufu/strata-files?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/cristipufu/strata-files?style=flat&label=" /> - Keyboard-first file manager with fast search and disk space insights.
 - [Gocci](https://github.com/piro0919/gocci) <img align="bottom" height="13" src="https://badgen.net/github/stars/piro0919/gocci?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/piro0919/gocci?style=flat&label=" /> - Mounts Google Drive anywhere in Finder, from the menu bar.
 - [FileFluss](https://github.com/rana-gmbh/FileFluss) <img align="bottom" height="13" src="https://badgen.net/github/stars/rana-gmbh/FileFluss?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rana-gmbh/FileFluss?style=flat&label=" /> - Dual-panel file manager with cloud storage support for seamless file operations.
 - [RightMenu Master](https://github.com/jaywcjlove/rightmenu-master) <img align="bottom" height="13" src="https://badgen.net/github/stars/jaywcjlove/rightmenu-master?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jaywcjlove/rightmenu-master?style=flat&label=" /> - Finder right-click menu enhancer.

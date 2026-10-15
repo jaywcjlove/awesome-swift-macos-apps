@@ -678,6 +678,7 @@
 
 ## Finder
 
+- [Strata Files](https://github.com/cristipufu/strata-files) <img align="bottom" height="13" src="https://badgen.net/github/stars/cristipufu/strata-files?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/cristipufu/strata-files?style=flat&label=" /> - 键盘优先的文件管理器，支持快速搜索和磁盘空间分析。
 - [Gocci](https://github.com/piro0919/gocci) <img align="bottom" height="13" src="https://badgen.net/github/stars/piro0919/gocci?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/piro0919/gocci?style=flat&label=" /> - 从菜单栏把 Google 云端硬盘挂载到 Finder 的任意位置。
 - [FileFluss](https://github.com/rana-gmbh/FileFluss) <img align="bottom" height="13" src="https://badgen.net/github/stars/rana-gmbh/FileFluss?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rana-gmbh/FileFluss?style=flat&label=" /> - 支持云存储的双面板文件管理器，提供无缝的文件操作。
 - [RightMenu Master](https://github.com/jaywcjlove/rightmenu-master) <img align="bottom" height="13" src="https://badgen.net/github/stars/jaywcjlove/rightmenu-master?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jaywcjlove/rightmenu-master?style=flat&label=" /> - Finder 右键菜单增强工具。
