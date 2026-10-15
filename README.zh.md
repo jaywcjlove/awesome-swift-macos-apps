@@ -1327,6 +1327,7 @@
 
 ## 系统
 
+- [FanPilot](https://github.com/zyvren/FanPilot) <img align="bottom" height="13" src="https://badgen.net/github/stars/zyvren/FanPilot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zyvren/FanPilot?style=flat&label=" /> - Apple Silicon 风扇控制工具，实时查看温度并自定义转速规则。
 - [Aman Check](https://github.com/MidZai/aman_check) <img align="bottom" height="13" src="https://badgen.net/github/stars/MidZai/aman_check?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/MidZai/aman_check?style=flat&label=" /> - 检查二手 Mac 的硬件、电池状态，并引导测试各项设备功能。
 - [Abendrot](https://github.com/matthewrball/abendrot) <img align="bottom" height="13" src="https://badgen.net/github/stars/matthewrball/abendrot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/matthewrball/abendrot?style=flat&label=" /> - 免费开源，在当地日落时温暖每一块显示器。
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) <img align="bottom" height="13" src="https://badgen.net/github/stars/raphaelhanneken/apple-juice?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/raphaelhanneken/apple-juice?style=flat&label=" /> - macOS 的高级电池监测工具。

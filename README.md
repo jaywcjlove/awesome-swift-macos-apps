@@ -1354,6 +1354,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## System
 
+- [FanPilot](https://github.com/zyvren/FanPilot) <img align="bottom" height="13" src="https://badgen.net/github/stars/zyvren/FanPilot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zyvren/FanPilot?style=flat&label=" /> - Apple Silicon fan controller with live temperatures and custom speed rules.
 - [Aman Check](https://github.com/MidZai/aman_check) <img align="bottom" height="13" src="https://badgen.net/github/stars/MidZai/aman_check?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/MidZai/aman_check?style=flat&label=" /> - Used Mac condition checker for hardware, battery, and guided device tests.
 - [Abendrot](https://github.com/matthewrball/abendrot) <img align="bottom" height="13" src="https://badgen.net/github/stars/matthewrball/abendrot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/matthewrball/abendrot?style=flat&label=" /> - Free and open-source, warms every display at local sunset.
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) <img align="bottom" height="13" src="https://badgen.net/github/stars/raphaelhanneken/apple-juice?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/raphaelhanneken/apple-juice?style=flat&label=" /> - Advanced battery gauge for macOS.
