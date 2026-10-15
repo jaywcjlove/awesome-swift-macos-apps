@@ -1167,6 +1167,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Productivity
 
+- [EK Bridge](https://github.com/bereciartua/ek-bridge) <img align="bottom" height="13" src="https://badgen.net/github/stars/bereciartua/ek-bridge?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/bereciartua/ek-bridge?style=flat&label=" /> - Menu bar bridge for AI agents to access selected calendars and reminders with approval for changes.
 - [Amanu](https://github.com/gsamat/amanu) <img align="bottom" height="13" src="https://badgen.net/github/stars/gsamat/amanu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gsamat/amanu?style=flat&label=" /> - Auto records and transcribes online meetings with speaker separation and written summaries.
 - [AltTab](https://github.com/lwouis/alt-tab-macos) <img align="bottom" height="13" src="https://badgen.net/github/stars/lwouis/alt-tab-macos?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lwouis/alt-tab-macos?style=flat&label=" /> - Brings the Windows Alt-Tab functionality to macOS.
 - [Switch](https://github.com/Sanyam-G/switch) <img align="bottom" height="13" src="https://badgen.net/github/stars/Sanyam-G/switch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Sanyam-G/switch?style=flat&label=" /> - Keyboard-driven window switcher with inline filtering and app-level cycling.
