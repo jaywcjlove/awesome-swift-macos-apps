@@ -798,6 +798,7 @@
 
 ## 图像
 
+- [Photo Review](https://github.com/danielyaa5/photo-review) <img align="bottom" height="13" src="https://badgen.net/github/stars/danielyaa5/photo-review?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/danielyaa5/photo-review?style=flat&label=" /> - 查看 iCloud 照片占用空间，压缩大视频或删除不需要的内容。
 - [APNGb](https://github.com/shgodoroja/APNGb) <img align="bottom" height="13" src="https://badgen.net/github/stars/shgodoroja/APNGb?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/shgodoroja/APNGb?style=flat&label=" /> - macOS 应用程序，用于组装和拆解动画 PNG 文件。
 - [Clicke](https://github.com/nathbns/clicke) <img align="bottom" height="13" src="https://badgen.net/github/stars/nathbns/clicke?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nathbns/clicke?style=flat&label=" /> - 一款用于捕捉和美化截图应用。
 - [Freehand](https://github.com/wddwycc/Freehand) <img align="bottom" height="13" src="https://badgen.net/github/stars/wddwycc/Freehand?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wddwycc/Freehand?style=flat&label=" /> - macOS 状态栏应用程序，用于快速绘图。

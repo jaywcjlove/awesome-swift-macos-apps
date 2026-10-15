@@ -799,6 +799,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Images
 
+- [Photo Review](https://github.com/danielyaa5/photo-review) <img align="bottom" height="13" src="https://badgen.net/github/stars/danielyaa5/photo-review?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/danielyaa5/photo-review?style=flat&label=" /> - Review iCloud Photos storage, compress large videos, or delete unwanted media.
 - [APNGb](https://github.com/shgodoroja/APNGb) <img align="bottom" height="13" src="https://badgen.net/github/stars/shgodoroja/APNGb?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/shgodoroja/APNGb?style=flat&label=" /> - macOS app which assembles and disassembles animated png files.
 - [Clicke](https://github.com/nathbns/clicke) <img align="bottom" height="13" src="https://badgen.net/github/stars/nathbns/clicke?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nathbns/clicke?style=flat&label=" /> - A tool for capturing and beautifying screenshots.
 - [Freehand](https://github.com/wddwycc/Freehand) <img align="bottom" height="13" src="https://badgen.net/github/stars/wddwycc/Freehand?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wddwycc/Freehand?style=flat&label=" /> - macOS Status Bar App for quick sketch.
