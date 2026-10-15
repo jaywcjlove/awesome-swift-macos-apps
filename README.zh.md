@@ -166,6 +166,7 @@
 
 ## 音频
 
+- [Cornetta](https://github.com/stellakamikaze/cornetta) <img align="bottom" height="13" src="https://badgen.net/github/stars/stellakamikaze/cornetta?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/stellakamikaze/cornetta?style=flat&label=" /> - 通话录音工具，将麦克风与系统音频合并保存，并支持本地转写。
 - [AI Dictation](https://github.com/writingmate/aidictation) <img align="bottom" height="13" src="https://badgen.net/github/stars/writingmate/aidictation?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/writingmate/aidictation?style=flat&label=" /> - 语音转文字工具，在支持的设备上提供离线识别以及可选的云端转写和文本整理。
 - [AUHost](https://github.com/vgorloff/AUHost) <img align="bottom" height="13" src="https://badgen.net/github/stars/vgorloff/AUHost?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vgorloff/AUHost?style=flat&label=" /> - AudioUnits v3 插件托管工具。
 - [AudioMator](https://github.com/ChrisLloydME/AudioMator) <img align="bottom" height="13" src="https://badgen.net/github/stars/ChrisLloydME/AudioMator?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ChrisLloydME/AudioMator?style=flat&label=" /> - 音频元数据编辑器，支持标签查阅、批量编辑、封面管理及通过 MusicBrainz 标记发行版。
@@ -678,7 +679,6 @@
 
 ## Finder
 
-- [Strata Files](https://github.com/cristipufu/strata-files) <img align="bottom" height="13" src="https://badgen.net/github/stars/cristipufu/strata-files?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/cristipufu/strata-files?style=flat&label=" /> - 键盘优先的文件管理器，支持快速搜索和磁盘空间分析。
 - [Gocci](https://github.com/piro0919/gocci) <img align="bottom" height="13" src="https://badgen.net/github/stars/piro0919/gocci?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/piro0919/gocci?style=flat&label=" /> - 从菜单栏把 Google 云端硬盘挂载到 Finder 的任意位置。
 - [FileFluss](https://github.com/rana-gmbh/FileFluss) <img align="bottom" height="13" src="https://badgen.net/github/stars/rana-gmbh/FileFluss?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rana-gmbh/FileFluss?style=flat&label=" /> - 支持云存储的双面板文件管理器，提供无缝的文件操作。
 - [RightMenu Master](https://github.com/jaywcjlove/rightmenu-master) <img align="bottom" height="13" src="https://badgen.net/github/stars/jaywcjlove/rightmenu-master?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jaywcjlove/rightmenu-master?style=flat&label=" /> - Finder 右键菜单增强工具。
