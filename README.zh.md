@@ -1695,6 +1695,7 @@
 - [ShotTessera](https://github.com/ixiehao/ShotTessera) <img align="bottom" height="13" src="https://badgen.net/github/stars/ixiehao/ShotTessera?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ixiehao/ShotTessera?style=flat&label=" /> - 从视频中挑选关键帧并拼成一张干净的分镜图，全程本地完成。
 - [Maya](https://github.com/ronaldo-avalos/Maya) <img align="bottom" height="13" src="https://badgen.net/github/stars/ronaldo-avalos/Maya?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ronaldo-avalos/Maya?style=flat&label=" /> - 将 iPhone 屏幕录制转换为精美视频，支持设备框架与电影级缩放效果。
 - [Palmier Pro](https://github.com/palmier-io/palmier-pro) <img align="bottom" height="13" src="https://badgen.net/github/stars/palmier-io/palmier-pro?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/palmier-io/palmier-pro?style=flat&label=" /> - 开源视频编辑器，可在时间线中与 AI 代理协同生成和编辑视频。
+- [Toma](https://github.com/felipebasurto/toma) <img align="bottom" height="13" src="https://badgen.net/github/stars/felipebasurto/toma?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/felipebasurto/toma?style=flat&label=" /> - 菜单栏屏幕录制工具，可将屏幕区域录制为 MP4、HEVC 或 GIF。
 
 ## 壁纸
 
