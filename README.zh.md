@@ -1026,6 +1026,7 @@
 
 ## 刘海应用
 
+- [Agent Island](https://github.com/Tiwari1999/Agent-Island) <img align="bottom" height="13" src="https://badgen.net/github/stars/Tiwari1999/Agent-Island?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Tiwari1999/Agent-Island?style=flat&label=" /> - 在 MacBook 刘海中显示 Claude Code、Codex、Cursor 等编程代理。
 - [Atoll](https://github.com/Ebullioscopic/Atoll) <img align="bottom" height="13" src="https://badgen.net/github/stars/Ebullioscopic/Atoll?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Ebullioscopic/Atoll?style=flat&label=" /> - 把刘海区域变成可扩展的控制中心，集中处理媒体、实时活动、小组件和常用工具。
 - [Brink](https://github.com/StepanBlaha/Brink) <img align="bottom" height="13" src="https://badgen.net/github/stars/StepanBlaha/Brink?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/StepanBlaha/Brink?style=flat&label=" /> - 屏幕边缘的刘海区域，悬停即可快速查看 Notion 页面与任务。
 - [DynamicNotchKit](https://github.com/MrKai77/DynamicNotchKit) <img align="bottom" height="13" src="https://badgen.net/github/stars/MrKai77/DynamicNotchKit?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/MrKai77/DynamicNotchKit?style=flat&label=" /> - 让你的 macOS 应用无缝适配刘海屏时代

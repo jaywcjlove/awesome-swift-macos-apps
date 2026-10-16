@@ -1032,6 +1032,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Notch App
 
+- [Agent Island](https://github.com/Tiwari1999/Agent-Island) <img align="bottom" height="13" src="https://badgen.net/github/stars/Tiwari1999/Agent-Island?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Tiwari1999/Agent-Island?style=flat&label=" /> - Shows coding agents like Claude Code, Codex, and Cursor in your MacBook notch.
 - [Atoll](https://github.com/Ebullioscopic/Atoll) <img align="bottom" height="13" src="https://badgen.net/github/stars/Ebullioscopic/Atoll?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Ebullioscopic/Atoll?style=flat&label=" /> - Turns the notch into a dynamic control hub for media, live activities, widgets, and quick utilities.
 - [Brink](https://github.com/StepanBlaha/Brink) <img align="bottom" height="13" src="https://badgen.net/github/stars/StepanBlaha/Brink?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/StepanBlaha/Brink?style=flat&label=" /> - Screen-edge notch that keeps your Notion pages and tasks one hover away.
 - [DynamicNotchKit](https://github.com/MrKai77/DynamicNotchKit) <img align="bottom" height="13" src="https://badgen.net/github/stars/MrKai77/DynamicNotchKit?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/MrKai77/DynamicNotchKit?style=flat&label=" /> - Seamlessly adapt your macOS app to the notch era.
