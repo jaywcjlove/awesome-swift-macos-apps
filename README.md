@@ -109,6 +109,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Local LLM](#local-llm)
 - [AI](#ai)
   - [AI Usage/Status](#ai-usagestatus)
+  - [AI Agent Monitoring](#ai-agent-monitoring)
 - [Cryptocurrency](#cryptocurrency)
 - [Database](#database)
 - [Development](#development)
@@ -200,6 +201,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Mixio](https://github.com/RadixIV/Mixio) <img align="bottom" height="13" src="https://badgen.net/github/stars/RadixIV/Mixio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/RadixIV/Mixio?style=flat&label=" /> - Menu bar app for per-app volume, with per-tab browser volume and a 10-band equalizer.
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) <img align="bottom" height="13" src="https://badgen.net/github/stars/MonitorControl/MonitorControl?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/MonitorControl/MonitorControl?style=flat&label=" /> - Adjust external monitor settings.
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/NoiseBuddy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/insidegui/NoiseBuddy?style=flat&label=" /> - Quickly toggle AirPods modes.
+- [MicKeeper](https://github.com/fratayaydn/mickeeper) <img align="bottom" height="13" src="https://badgen.net/github/stars/fratayaydn/mickeeper?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/fratayaydn/mickeeper?style=flat&label=" /> - Prevents AirPods and iPhones from taking over your Mac's microphone and can lock its input level.
 - [NoMicSwitch](https://github.com/marks-zyz/NoMicSwitch) <img align="bottom" height="13" src="https://badgen.net/github/stars/marks-zyz/NoMicSwitch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/marks-zyz/NoMicSwitch?style=flat&label=" /> - Pins the default input device to the built-in mic and locks the input volume, so AirPods can't hijack your microphone.
 - [OpenVoiceFlow](https://github.com/shimoverse/openvoiceflow) <img align="bottom" height="13" src="https://badgen.net/github/stars/shimoverse/openvoiceflow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/shimoverse/openvoiceflow?style=flat&label=" /> - On-device voice dictation with local transcription and optional text cleanup.
 - [OpenWispr](https://github.com/seeknull/openwispr) <img align="bottom" height="13" src="https://badgen.net/github/stars/seeknull/openwispr?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/seeknull/openwispr?style=flat&label=" /> - Hotkey dictation that runs the speech model on-device and puts the text wherever your cursor is.
@@ -472,6 +474,10 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [nootch](https://github.com/DeepanshuMishraa/nootch) <img align="bottom" height="13" src="https://badgen.net/github/stars/DeepanshuMishraa/nootch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/DeepanshuMishraa/nootch?style=flat&label=" /> - Small expandable overlay that shows AI usage limits and agent activity across Claude, Codex, Cursor, and more while you keep working.
 - [DeepSeek Status](https://github.com/owenzhao/DeepSeekStatus) <img align="bottom" height="13" src="https://badgen.net/github/stars/owenzhao/DeepSeekStatus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/owenzhao/DeepSeekStatus?style=flat&label=" /> - Menu bar whale icon that shows whether DeepSeek API pricing is in peak or off-peak hours, with balance, billing countdown, and a usage heatmap.
 - [Pulse (qunqin24)](https://github.com/qunqin24/Pulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/qunqin24/Pulse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/qunqin24/Pulse?style=flat&label=" /> - Shows remaining AI coding quota as an edge ring for 70+ tools like Claude Code, Codex, and Cursor.
+
+## AI Agent Monitoring
+
+- [bodycam](https://github.com/omlahore/bodycam) <img align="bottom" height="13" src="https://badgen.net/github/stars/omlahore/bodycam?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/omlahore/bodycam?style=flat&label=" /> - Menu bar app and CLI recording what AI coding agents do, including the files and secrets they read.
 
 ## Cryptocurrency
 

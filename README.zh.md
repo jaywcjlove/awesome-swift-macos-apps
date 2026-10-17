@@ -108,6 +108,7 @@
 - [本地 LLM](#本地-llm)
 - [AI](#ai)
   - [AI 用量状态](#ai-用量状态)
+  - [AI 代理监控](#ai-代理监控)
 - [加密货币](#加密货币)
 - [数据库](#数据库)
 - [开发](#开发)
@@ -199,6 +200,7 @@
 - [Mixio](https://github.com/RadixIV/Mixio) <img align="bottom" height="13" src="https://badgen.net/github/stars/RadixIV/Mixio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/RadixIV/Mixio?style=flat&label=" /> - 菜单栏音量控制应用，可为每个应用单独调节音量，支持浏览器按标签页调节并提供 10 段均衡器。
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) <img align="bottom" height="13" src="https://badgen.net/github/stars/MonitorControl/MonitorControl?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/MonitorControl/MonitorControl?style=flat&label=" /> - 外接显示器亮度/音量调节。
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/NoiseBuddy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/insidegui/NoiseBuddy?style=flat&label=" /> - 快速切换 AirPods 模式。
+- [MicKeeper](https://github.com/fratayaydn/mickeeper) <img align="bottom" height="13" src="https://badgen.net/github/stars/fratayaydn/mickeeper?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/fratayaydn/mickeeper?style=flat&label=" /> - 防止 AirPods 和 iPhone 抢占 Mac 麦克风，并可锁定输入音量。
 - [NoMicSwitch](https://github.com/marks-zyz/NoMicSwitch) <img align="bottom" height="13" src="https://badgen.net/github/stars/marks-zyz/NoMicSwitch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/marks-zyz/NoMicSwitch?style=flat&label=" /> - 将默认输入固定为内置麦克风并锁定输入音量，防止 AirPods 抢占麦克风。
 - [OpenVoiceFlow](https://github.com/shimoverse/openvoiceflow) <img align="bottom" height="13" src="https://badgen.net/github/stars/shimoverse/openvoiceflow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/shimoverse/openvoiceflow?style=flat&label=" /> - 在设备上运行的语音听写工具，支持本地转录和可选的文本整理。
 - [OpenWispr](https://github.com/seeknull/openwispr) <img align="bottom" height="13" src="https://badgen.net/github/stars/seeknull/openwispr?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/seeknull/openwispr?style=flat&label=" /> - 语音模型在本机运行的热键听写工具，说完的文字直接输入到光标所在位置。
@@ -471,6 +473,10 @@
 - [nootch](https://github.com/DeepanshuMishraa/nootch) <img align="bottom" height="13" src="https://badgen.net/github/stars/DeepanshuMishraa/nootch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/DeepanshuMishraa/nootch?style=flat&label=" /> - 小巧可展开的悬浮层，可随时查看 Claude、Codex、Cursor 等多种 AI 工具的用量限制与代理活动状态。
 - [DeepSeek Status](https://github.com/owenzhao/DeepSeekStatus) <img align="bottom" height="13" src="https://badgen.net/github/stars/owenzhao/DeepSeekStatus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/owenzhao/DeepSeekStatus?style=flat&label=" /> - 以鲸鱼图标展示 DeepSeek API 当前处于高峰还是低谷计费时段，并可查看余额、计费倒计时与时段热力图。
 - [Pulse (qunqin24)](https://github.com/qunqin24/Pulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/qunqin24/Pulse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/qunqin24/Pulse?style=flat&label=" /> - 以停靠屏幕边缘的圆环显示 AI 编程服务剩余额度，支持 Claude Code、Codex、Cursor、Copilot 等 70 多个服务。
+
+### AI 代理监控
+
+- [bodycam](https://github.com/omlahore/bodycam) <img align="bottom" height="13" src="https://badgen.net/github/stars/omlahore/bodycam?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/omlahore/bodycam?style=flat&label=" /> - 记录 AI 编程代理在你的 Mac 上的行为，包括读取的文件和密钥。
 
 ## 加密货币
 
