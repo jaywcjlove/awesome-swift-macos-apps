@@ -123,6 +123,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
   - [Markdown](#markdown)
   - [Text](#text)
 - [Extensions](#extensions)
+- [Finance](#finance)
 - [Finder](#finder)
 - [Games](#games)
 - [Hardware](#hardware)
@@ -689,6 +690,10 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [ThenGenerator](https://github.com/87kangsw/ThenGenerator) <img align="bottom" height="13" src="https://badgen.net/github/stars/87kangsw/ThenGenerator?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/87kangsw/ThenGenerator?style=flat&label=" /> - Xcode Source Editor Extension for 'Then'
 - [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/Swift-open-source/UltraTabSaver?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Swift-open-source/UltraTabSaver?style=flat&label=" /> - Ultra TabSaver is an open-source Tab Manager for Safari
 - [nef](https://github.com/bow-swift/nef-plugin) <img align="bottom" height="13" src="https://badgen.net/github/stars/bow-swift/nef-plugin?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/bow-swift/nef-plugin?style=flat&label=" /> - Xcode extension for exporting selected code as snippets.
+
+## Finance
+
+- [Zielzeit](https://github.com/Mannafee/zielzeit-scalable-capital) - Read-only menu bar app that projects when your Scalable Capital portfolio may reach its goal.
 
 ## Finder
 

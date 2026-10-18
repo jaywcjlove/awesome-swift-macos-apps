@@ -122,6 +122,7 @@
   - [Markdown](#markdown)
   - [文本](#文本)
 - [扩展](#扩展)
+- [金融](#金融)
 - [Finder](#finder)
 - [游戏](#游戏)
 - [硬件](#硬件)
@@ -689,6 +690,10 @@
 - [ThenGenerator](https://github.com/87kangsw/ThenGenerator) <img align="bottom" height="13" src="https://badgen.net/github/stars/87kangsw/ThenGenerator?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/87kangsw/ThenGenerator?style=flat&label=" /> - 用于"Then"的 Xcode 源代码编辑器扩展。
 - [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/Swift-open-source/UltraTabSaver?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Swift-open-source/UltraTabSaver?style=flat&label=" /> - Ultra TabSaver 是一个开源的 Safari 标签管理器。
 - [nef](https://github.com/bow-swift/nef-plugin) <img align="bottom" height="13" src="https://badgen.net/github/stars/bow-swift/nef-plugin?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/bow-swift/nef-plugin?style=flat&label=" /> - 用于将所选代码导出为代码片段的 Xcode 扩展。
+
+## 金融
+
+- [Zielzeit](https://github.com/Mannafee/zielzeit-scalable-capital) - 只读菜单栏工具，预测 Scalable Capital 投资组合达到目标的时间。
 
 ## Finder
 
