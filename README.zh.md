@@ -1262,6 +1262,7 @@
 - [Life Saver](https://github.com/amiantos/lifesaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/amiantos/lifesaver?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/amiantos/lifesaver?style=flat&label=" /> - 基于 Conway 的生命游戏的抽象屏幕保护程序，使用 SpriteKit 实现。
 - [MinimalClock](https://github.com/mattiarossini/MinimalClock) <img align="bottom" height="13" src="https://badgen.net/github/stars/mattiarossini/MinimalClock?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mattiarossini/MinimalClock?style=flat&label=" /> - 简单而优雅的屏幕保护程序，显示时间。
 - [Predator](https://github.com/vpeschenkov/Predator) <img align="bottom" height="13" src="https://badgen.net/github/stars/vpeschenkov/Predator?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vpeschenkov/Predator?style=flat&label=" /> - 一款以掠食者为灵感的时钟屏幕保护程序，用于 macOS。
+- [Wortuhr](https://github.com/Diavolezza/wortuhr) <img align="bottom" height="13" src="https://badgen.net/github/stars/Diavolezza/wortuhr?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Diavolezza/wortuhr?style=flat&label=" /> - 以 11×10 字母网格显示时间的屏幕保护程序，支持德语、英式和美式英语、法语、意大利语及西班牙语。
 
 ## 安全
 

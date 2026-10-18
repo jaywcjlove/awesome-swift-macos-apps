@@ -1290,6 +1290,8 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [MinimalClock](https://github.com/mattiarossini/MinimalClock) <img align="bottom" height="13" src="https://badgen.net/github/stars/mattiarossini/MinimalClock?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mattiarossini/MinimalClock?style=flat&label=" /> - Simple and elegant screensaver that displays the time.
 - [Predator](https://github.com/vpeschenkov/Predator) <img align="bottom" height="13" src="https://badgen.net/github/stars/vpeschenkov/Predator?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vpeschenkov/Predator?style=flat&label=" /> - A predator-inspired clock screensaver for macOS
 
+- [Wortuhr](https://github.com/Diavolezza/wortuhr) - Word clock screensaver showing time on an 11×10 letter grid in six language variants.
+
 ## Security
 
 - [fob](https://github.com/olivierzol/fob) <img align="bottom" height="13" src="https://badgen.net/github/stars/olivierzol/fob?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/olivierzol/fob?style=flat&label=" /> - Secure Enclave-backed SSH key manager that restricts keys to approved hosts and authenticates with a single touch.
