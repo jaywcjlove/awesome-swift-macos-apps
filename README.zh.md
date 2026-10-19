@@ -482,6 +482,7 @@
 ### AI 代理监控
 
 - [bodycam](https://github.com/omlahore/bodycam) <img align="bottom" height="13" src="https://badgen.net/github/stars/omlahore/bodycam?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/omlahore/bodycam?style=flat&label=" /> - 记录 AI 编程代理在你的 Mac 上的行为，包括读取的文件和密钥。
+- [Sorcerer](https://github.com/gbrasil720/sorcerer) <img align="bottom" height="13" src="https://badgen.net/github/stars/gbrasil720/sorcerer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gbrasil720/sorcerer?style=flat&label=" /> - 模拟一群 AI 智能体对“如果……会怎样？”问题的反应，支持分支、投票和报告，基于 Claude Code、Codex CLI 或本地 Ollama。
 
 ## 加密货币
 
