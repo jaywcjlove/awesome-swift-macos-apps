@@ -37,13 +37,6 @@
   <a href="https://screensage.pro/">ScreenSage Pro, record beautiful screen recordings in minutes on macOS</a>
   <br><br>
 
-  <a href="https://ip.im/">
-    <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
-  </a>
-  <br>
-  <a href="https://ip.im/">IP.IM, Free IP address information query website</a>
-  <br><br>
-
   <a href="https://hipixel.5km.tech/">
     <img alt="HiPixel" width="400" src="https://jaywcjlove.github.io/sponsor/HiPixel.jpeg">
   </a>
