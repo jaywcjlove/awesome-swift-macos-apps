@@ -702,7 +702,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Finance
 
-- [Zielzeit](https://github.com/Mannafee/zielzeit-scalable-capital) - Read-only menu bar app that projects when your Scalable Capital portfolio may reach its goal.
+- [Zielzeit](https://github.com/Mannafee/zielzeit-scalable-capital) <img align="bottom" height="13" src="https://badgen.net/github/stars/zielzeit-scalable-capital?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zielzeit-scalable-capital?style=flat&label=" /> - Read-only menu bar app that projects when your Scalable Capital portfolio may reach its goal.
 
 ## Finder
 
