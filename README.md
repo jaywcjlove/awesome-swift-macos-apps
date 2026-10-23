@@ -1313,8 +1313,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Life Saver](https://github.com/amiantos/lifesaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/amiantos/lifesaver?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/amiantos/lifesaver?style=flat&label=" /> - An abstract screensaver based on Conway's Game of Life implemented with SpriteKit
 - [MinimalClock](https://github.com/mattiarossini/MinimalClock) <img align="bottom" height="13" src="https://badgen.net/github/stars/mattiarossini/MinimalClock?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mattiarossini/MinimalClock?style=flat&label=" /> - Simple and elegant screensaver that displays the time.
 - [Predator](https://github.com/vpeschenkov/Predator) <img align="bottom" height="13" src="https://badgen.net/github/stars/vpeschenkov/Predator?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vpeschenkov/Predator?style=flat&label=" /> - A predator-inspired clock screensaver for macOS
-
-- [Wortuhr](https://github.com/Diavolezza/wortuhr) - Word clock screensaver showing time on an 11×10 letter grid in six language variants.
+- [Wortuhr](https://github.com/Diavolezza/wortuhr) <img align="bottom" height="13" src="https://badgen.net/github/stars/Diavolezza/wortuhr?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Diavolezza/wortuhr?style=flat&label=" /> - Word clock screensaver showing time on an 11×10 letter grid in six language variants.
 
 ## Security
 
