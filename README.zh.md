@@ -705,7 +705,7 @@
 
 ## 金融
 
-- [Zielzeit](https://github.com/Mannafee/zielzeit-scalable-capital) <img align="bottom" height="13" src="https://badgen.net/github/stars/zielzeit-scalable-capital?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zielzeit-scalable-capital?style=flat&label=" /> - 只读菜单栏工具，预测 Scalable Capital 投资组合达到目标的时间。
+- [Zielzeit](https://github.com/Mannafee/zielzeit-scalable-capital) <img align="bottom" height="13" src="https://badgen.net/github/stars/Mannafee/zielzeit-scalable-capital?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Mannafee/zielzeit-scalable-capital?style=flat&label=" /> - 只读菜单栏工具，预测 Scalable Capital 投资组合达到目标的时间。
 
 ## Finder
 
@@ -789,7 +789,6 @@
 - [Gifski](https://github.com/sindresorhus/Gifski) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/Gifski?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sindresorhus/Gifski?style=flat&label=" /> - 将视频转换为高质量 GIF。
 - [ImageCanvas](https://github.com/viktorkpkn/ImageCanvas) <img align="bottom" height="13" src="https://badgen.net/github/stars/viktorkpkn/ImageCanvas?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/viktorkpkn/ImageCanvas?style=flat&label=" /> - 视觉参考板，在画布上排列图片，支持网格布局、批注和手绘涂鸦。
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) <img align="bottom" height="13" src="https://badgen.net/github/stars/CleanCocoa/InfiniteCanvas?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/CleanCocoa/InfiniteCanvas?style=flat&label=" /> - 概念证明 Mac 绘图应用程序。
-- [Nib](https://github.com/jordanpainter/nib) <img align="bottom" height="13" src="https://badgen.net/github/stars/jordanpainter/nib?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jordanpainter/nib?style=flat&label=" /> - 像素画编辑器，可将图片转为像素风并编辑、制作动画和导出 GIF。
 - [Qalam](https://github.com/nim444/qalam) <img align="bottom" height="13" src="https://badgen.net/github/stars/nim444/qalam?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nim444/qalam?style=flat&label=" /> - 将 Galaxy 手机的 S Pen 用作绘图板，并在录屏时直接书写标注。
 - [ItsPaint](https://github.com/joshlin2201/itspaint) <img align="bottom" height="13" src="https://badgen.net/github/stars/joshlin2201/itspaint?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/joshlin2201/itspaint?style=flat&label=" /> - 绘图工具，可按指定尺寸新建空白画布、绘制图形，并为截图添加自动编号的步骤标记和像素化。
 - [Compositor](https://github.com/robbietilton/Compositor) <img align="bottom" height="13" src="https://badgen.net/github/stars/robbietilton/Compositor?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/robbietilton/Compositor?style=flat&label=" /> - 免费开源的图像编辑器，目标是成为功能完备的 Photoshop 替代品。
