@@ -1710,6 +1710,7 @@
 ## 压缩工具
 
 - [Achico](https://github.com/nuance-dev/achico) <img align="bottom" height="13" src="https://badgen.net/github/stars/nuance-dev/achico?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nuance-dev/achico?style=flat&label=" /> - 免费的 MacOS 本地文件压缩应用
+- [Archivator](https://github.com/davidpraznik/Archivator) <img align="bottom" height="13" src="https://badgen.net/github/stars/davidpraznik/Archivator?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/davidpraznik/Archivator?style=flat&label=" /> - 菜单栏压缩和解压工具，拖动文件到转盘上即可操作。
 - [Arcora](https://github.com/wybaby168/Arcora) <img align="bottom" height="13" src="https://badgen.net/github/stars/wybaby168/Arcora?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wybaby168/Arcora?style=flat&label=" /> - 隐私优先的本地归档工具，支持多种格式归档文件的创建、浏览、解压与完整性校验。
 - [Dinky](https://github.com/heyderekj/dinky) <img align="bottom" height="13" src="https://badgen.net/github/stars/heyderekj/dinky?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/heyderekj/dinky?style=flat&label=" /> - 拖放即可压缩图片、视频和 PDF 的轻量工具。
 - [Kompakt](https://github.com/edinabazi/Kompakt) <img align="bottom" height="13" src="https://badgen.net/github/stars/edinabazi/Kompakt?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/edinabazi/Kompakt?style=flat&label=" /> - 拖放即用的图片与视频压缩转换工具，只需把文件拖进去即可完成。
