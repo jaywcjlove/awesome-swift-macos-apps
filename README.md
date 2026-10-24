@@ -783,6 +783,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Graphics
 
+- [Annotator](https://github.com/dorlugasigal/annotator) <img align="bottom" height="13" src="https://badgen.net/github/stars/dorlugasigal/annotator?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dorlugasigal/annotator?style=flat&label=" /> - On-screen annotation app for demos, reviews, and lessons, with editable marks.
 - [CropBatch](https://github.com/Xpycode/CropBatch) <img align="bottom" height="13" src="https://badgen.net/github/stars/Xpycode/CropBatch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Xpycode/CropBatch?style=flat&label=" /> - A macOS application to crop images in batch.
 - [ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) <img align="bottom" height="13" src="https://badgen.net/github/stars/chocoford/ExcalidrawZ?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/chocoford/ExcalidrawZ?style=flat&label=" /> - A virtual whiteboard for sketching hand-drawn-like diagrams with native file management and iCloud sync.
 - [FlowPeek](https://github.com/FlowPeek/flowpeek) <img align="bottom" height="13" src="https://badgen.net/github/stars/FlowPeek/flowpeek?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/FlowPeek/flowpeek?style=flat&label=" /> - Point at Mermaid source text anywhere and see the diagram rendered in place.

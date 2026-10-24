@@ -782,6 +782,7 @@
 
 ## 图形
 
+- [Annotator](https://github.com/dorlugasigal/annotator) <img align="bottom" height="13" src="https://badgen.net/github/stars/dorlugasigal/annotator?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dorlugasigal/annotator?style=flat&label=" /> - 用于演示、评审和教学的屏幕标注工具，所有笔迹均可编辑。
 - [CropBatch](https://github.com/Xpycode/CropBatch) <img align="bottom" height="13" src="https://badgen.net/github/stars/Xpycode/CropBatch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Xpycode/CropBatch?style=flat&label=" /> - 一款用于批量裁剪图像的 macOS 应用。
 - [ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) <img align="bottom" height="13" src="https://badgen.net/github/stars/chocoford/ExcalidrawZ?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/chocoford/ExcalidrawZ?style=flat&label=" /> - 虚拟白板绘图工具，支持手绘风格示意图，并集成原生文件管理和 iCloud 同步。
 - [FlowPeek](https://github.com/FlowPeek/flowpeek) <img align="bottom" height="13" src="https://badgen.net/github/stars/FlowPeek/flowpeek?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/FlowPeek/flowpeek?style=flat&label=" /> - 指向屏幕任意位置的 Mermaid 源码，即可就地渲染出对应图表。
