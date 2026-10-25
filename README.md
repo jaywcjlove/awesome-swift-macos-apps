@@ -496,7 +496,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 - [bodycam](https://github.com/omlahore/bodycam) <img align="bottom" height="13" src="https://badgen.net/github/stars/omlahore/bodycam?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/omlahore/bodycam?style=flat&label=" /> - Menu bar app and CLI recording what AI coding agents do, including the files and secrets they read.
 - [Loom](https://github.com/chaiwithcode/Loom) <img align="bottom" height="13" src="https://badgen.net/github/stars/chaiwithcode/Loom?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/chaiwithcode/Loom?style=flat&label=" /> - Read-only menu bar monitor for local Codex, Claude Code, and Antigravity sessions.
-- [Spyhop](https://github.com/leeleelee3264/spyhop) <img align="bottom" height="13" src="https://badgen.net/github/stars/leeleelee3264/spyhop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/leeleelee3264/spyhop?style=flat&label=" /> - Board of every running Claude Code, Codex and OMP session, each card showing progress as done, now and next steps read from the session transcript.
+- [Spyhop](https://github.com/leeleelee3264/spyhop) <img align="bottom" height="13" src="https://badgen.net/github/stars/leeleelee3264/spyhop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/leeleelee3264/spyhop?style=flat&label=" /> - Dashboard showing progress and next steps for running Claude Code, Codex, and OMP sessions.
 
 ## Cryptocurrency
 
