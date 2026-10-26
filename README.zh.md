@@ -1364,6 +1364,7 @@
 
 ## 清理卸载
 
+- [Adieu](https://github.com/lijunyu726/adieu) <img align="bottom" height="13" src="https://badgen.net/github/stars/lijunyu726/adieu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lijunyu726/adieu?style=flat&label=" /> - 卸载应用及其残留文件，并逐项说明删除原因。
 - [App Uninstaller](https://github.com/kamjin3086/AppUninstaller) <img align="bottom" height="13" src="https://badgen.net/github/stars/kamjin3086/AppUninstaller?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kamjin3086/AppUninstaller?style=flat&label=" /> - 支持拖放操作的轻量应用卸载工具。
 - [Atlas](https://github.com/CSZHK/CleanMyPc) <img align="bottom" height="13" src="https://badgen.net/github/stars/CSZHK/CleanMyPc?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/CSZHK/CleanMyPc?style=flat&label=" /> - 系统维护工作台，提供清理、诊断和安全恢复功能。
 - [Avakasha](https://github.com/danielsimisi-coder/avakasha) <img align="bottom" height="13" src="https://badgen.net/github/stars/danielsimisi-coder/avakasha?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/danielsimisi-coder/avakasha?style=flat&label=" /> - 通过显示增长的内容、规划可清理的项目，并将其移入可撤销的废纸篓或以校验过的副本移至外置磁盘，帮助保持磁盘空间充足。
