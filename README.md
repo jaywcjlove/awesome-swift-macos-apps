@@ -847,6 +847,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Images
 
+- [Anthora](https://github.com/barryanders/Anthora) <img align="bottom" height="13" src="https://badgen.net/github/stars/barryanders/Anthora?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/barryanders/Anthora?style=flat&label=" /> - Browse photo and video folders, create photo books, and export PDFs.
 - [Photo Review](https://github.com/danielyaa5/photo-review) <img align="bottom" height="13" src="https://badgen.net/github/stars/danielyaa5/photo-review?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/danielyaa5/photo-review?style=flat&label=" /> - Review iCloud Photos storage, compress large videos, or delete unwanted media.
 - [APNGb](https://github.com/shgodoroja/APNGb) <img align="bottom" height="13" src="https://badgen.net/github/stars/shgodoroja/APNGb?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/shgodoroja/APNGb?style=flat&label=" /> - macOS app which assembles and disassembles animated png files.
 - [BetterAirdrop](https://github.com/MoizAhmedd/betterairdrop) <img align="bottom" height="13" src="https://badgen.net/github/stars/MoizAhmedd/betterairdrop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/MoizAhmedd/betterairdrop?style=flat&label=" /> - Renames AirDropped photos by date, place and content, with HEIC to JPEG conversion and Undo.

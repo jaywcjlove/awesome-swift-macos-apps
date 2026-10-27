@@ -845,6 +845,7 @@
 
 ## 图像
 
+- [Anthora](https://github.com/barryanders/Anthora) <img align="bottom" height="13" src="https://badgen.net/github/stars/barryanders/Anthora?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/barryanders/Anthora?style=flat&label=" /> - 浏览文件夹中的照片和视频，制作照片书并导出 PDF。
 - [Photo Review](https://github.com/danielyaa5/photo-review) <img align="bottom" height="13" src="https://badgen.net/github/stars/danielyaa5/photo-review?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/danielyaa5/photo-review?style=flat&label=" /> - 查看 iCloud 照片占用空间，压缩大视频或删除不需要的内容。
 - [APNGb](https://github.com/shgodoroja/APNGb) <img align="bottom" height="13" src="https://badgen.net/github/stars/shgodoroja/APNGb?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/shgodoroja/APNGb?style=flat&label=" /> - macOS 应用程序，用于组装和拆解动画 PNG 文件。
 - [BetterAirdrop](https://github.com/MoizAhmedd/betterairdrop) <img align="bottom" height="13" src="https://badgen.net/github/stars/MoizAhmedd/betterairdrop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/MoizAhmedd/betterairdrop?style=flat&label=" /> - 按日期、地点和内容重命名通过 AirDrop 收到的照片，支持 HEIC 转 JPEG 和撤销。
