@@ -493,6 +493,7 @@
 - [nootch](https://github.com/DeepanshuMishraa/nootch) <img align="bottom" height="13" src="https://badgen.net/github/stars/DeepanshuMishraa/nootch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/DeepanshuMishraa/nootch?style=flat&label=" /> - 小巧可展开的悬浮层，可随时查看 Claude、Codex、Cursor 等多种 AI 工具的用量限制与代理活动状态。
 - [DeepSeek Status](https://github.com/owenzhao/DeepSeekStatus) <img align="bottom" height="13" src="https://badgen.net/github/stars/owenzhao/DeepSeekStatus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/owenzhao/DeepSeekStatus?style=flat&label=" /> - 以鲸鱼图标展示 DeepSeek API 当前处于高峰还是低谷计费时段，并可查看余额、计费倒计时与时段热力图。
 - [Pulse (qunqin24)](https://github.com/qunqin24/Pulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/qunqin24/Pulse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/qunqin24/Pulse?style=flat&label=" /> - 以停靠屏幕边缘的圆环显示 AI 编程服务剩余额度，支持 Claude Code、Codex、Cursor、Copilot 等 70 多个服务。
+- [Yardlet](https://github.com/zzunkie/yardlet) <img align="bottom" height="13" src="https://badgen.net/github/stars/zzunkie/yardlet?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zzunkie/yardlet?style=flat&label=" /> - 在项目工作区中并排运行 Codex、Claude Code 等编程代理。
 
 ### AI 代理监控
 
