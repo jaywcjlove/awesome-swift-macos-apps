@@ -751,6 +751,7 @@
 - [Torrent Preview](https://github.com/sveinbjornpalsson/torrentpreview/) <img align="bottom" height="13" src="https://badgen.net/github/stars/sveinbjornpalsson/torrentpreview?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sveinbjornpalsson/torrentpreview/?style=flat&label=" /> - 用于预览 `.torrent` 内容的 Quick Look 扩展。
 - [Window Glue](https://github.com/Conxt/WindowGlue) <img align="bottom" height="13" src="https://badgen.net/github/stars/Conxt/WindowGlue?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Conxt/WindowGlue?style=flat&label=" /> - 用于将两个窗口联动移动和缩放的工具。
 - [FinderSearch](https://github.com/zeusinsight/FinderSearch) <img align="bottom" height="13" src="https://badgen.net/github/stars/zeusinsight/FinderSearch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zeusinsight/FinderSearch?style=flat&label=" /> - 原生 Mac 文件浏览器：快速模糊匹配文件名搜索、浏览文件夹和预览文件。
+- [Shark - Better Finder](https://github.com/andronasef/shark) <img align="bottom" height="13" src="https://badgen.net/github/stars/andronasef/shark?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/andronasef/shark?style=flat&label=" /> - 带有标签页、分屏、内置终端和悬停预览的文件管理器。
 
 ## 游戏
 
