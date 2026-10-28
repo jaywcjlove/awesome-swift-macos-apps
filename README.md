@@ -4,6 +4,15 @@
   <br>
   <br>
 
+  <a href="https://amical.ai/?utm_source=awesome-mac">
+      <img alt="SubList" width="400" src="https://jaywcjlove.github.io/sponsor/amical.ai.jpg">
+  </a>
+  <br/>
+  <a href="https://amical.ai/?utm_source=awesome-mac"><b>Amical</b> - Type with your voice. Press a key and speak naturally.</a><br/>
+  <a href="https://amical.ai/?utm_source=awesome-mac">It comes out formatted for whatever app you're in. Local AI models, works offline, free and open source.</a>
+  <br/><br/>
+
+
   <a href="https://enconvo.com" target="_blank">
     <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
   </a>
@@ -1327,17 +1336,16 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/ivoronin/TomatoBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ivoronin/TomatoBar?style=flat&label=" /> - Pomodoro Technique Timer for macOS with Touch Bar support.
 - [TrueTone Manager](https://github.com/martinrusetski/true-tone-manager) <img align="bottom" height="13" src="https://badgen.net/github/stars/martinrusetski/true-tone-manager?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/martinrusetski/true-tone-manager?style=flat&label=" /> - Remembers True Tone preference per app and auto-applies it on app switch.
 - [TrelloApp](https://github.com/jlong/TrelloApp) <img align="bottom" height="13" src="https://badgen.net/github/stars/jlong/TrelloApp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jlong/TrelloApp?style=flat&label=" /> - Unofficial Trello desktop wrapper.
-- [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/Swift-open-source/UltraTabSaver?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Swift-open-source/UltraTabSaver?style=flat&label=" /> - Ultra TabSaver is an open-source Tab Manager for Safari
-- [UMST](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingToo) <img align="bottom" height="13" src="https://badgen.net/github/stars/nicoleyangcoding/UMST-UltimateMacSchedulingToo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nicoleyangcoding/UMST-UltimateMacSchedulingToo?style=flat&label=" /> - Desktop calendar and menu bar app for events, deadlines, and quick to-dos.
 - [Year Progress](https://github.com/ComputelessComputer/year-progress) <img align="bottom" height="13" src="https://badgen.net/github/stars/ComputelessComputer/year-progress?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ComputelessComputer/year-progress?style=flat&label=" /> - Menu bar app that shows year, month, and day progress bars.
 - [TapBuddy](https://github.com/shaozhengmao/TapBuddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/shaozhengmao/TapBuddy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/shaozhengmao/TapBuddy?style=flat&label=" /> - Desktop pet that reacts to your keyboard and mouse input.
 - [Yomu](https://github.com/sendyhalim/Yomu) <img align="bottom" height="13" src="https://badgen.net/github/stars/sendyhalim/Yomu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sendyhalim/Yomu?style=flat&label=" /> - Manga reader app for macOS.
+- [UMST](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) <img align="bottom" height="13" src="https://badgen.net/github/stars/nicoleyangcoding/UMST-UltimateMacSchedulingTool?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nicoleyangcoding/UMST-UltimateMacSchedulingTool?style=flat&label=" /> - Desktop calendar widget that combines Google, iCloud, Outlook, Apple Reminders, Canvas and other LMS deadlines, Todoist, Asana and Trello, with menu bar quick add.
+- [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/Swift-open-source/UltraTabSaver?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Swift-open-source/UltraTabSaver?style=flat&label=" /> - Ultra TabSaver is an open-source Tab Manager for Safari
 - [Viz](https://github.com/alienator88/Viz) <img align="bottom" height="13" src="https://badgen.net/github/stars/alienator88/Viz?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alienator88/Viz?style=flat&label=" /> - Capture text/QR Codes/Barcodes from screen snippets
 - [WebWatcher](https://github.com/ivg-design/web-watcher) <img align="bottom" height="13" src="https://badgen.net/github/stars/ivg-design/web-watcher?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ivg-design/web-watcher?style=flat&label=" /> - Monitors website updates and sends notifications.
 - [Wink](https://github.com/xrf9268-hue/Wink) <img align="bottom" height="13" src="https://badgen.net/github/stars/xrf9268-hue/Wink?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/xrf9268-hue/Wink?style=flat&label=" /> - Bind global shortcuts to apps — open, focus, and hide with a keystroke.
 - [ZenTime](https://github.com/PatpateePhangern/ZenTime) <img align="bottom" height="13" src="https://badgen.net/github/stars/PatpateePhangern/ZenTime?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PatpateePhangern/ZenTime?style=flat&label=" /> - Timed exam practice tool that tracks per-question time, signals overtime, and exports styled PDF reports.
 - [Starcat](https://github.com/starcat-app/Starcat) <img align="bottom" height="13" src="https://badgen.net/github/stars/starcat-app/Starcat?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/starcat-app/Starcat?style=flat&label=" /> - Syncs your GitHub Stars into a searchable, taggable local knowledge base with AI-assisted insights.
-- [UMST](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) <img align="bottom" height="13" src="https://badgen.net/github/stars/nicoleyangcoding/UMST-UltimateMacSchedulingTool?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nicoleyangcoding/UMST-UltimateMacSchedulingTool?style=flat&label=" /> - Desktop calendar widget that combines Google, iCloud, Outlook, Apple Reminders, Canvas and other LMS deadlines, Todoist, Asana and Trello, with menu bar quick add.
 
 ## Task Manager
 

@@ -4,6 +4,15 @@
   <br>
   <br>
 
+  <a href="https://amical.ai/?utm_source=awesome-mac">
+    <img alt="Amical" width="400" src="https://jaywcjlove.github.io/sponsor/amical.ai.jpg">
+  </a>
+  <br/>
+  <a href="https://amical.ai/?utm_source=awesome-mac"><b>Amical</b> - 语音输入，让文字自然呈现。</a><br/>
+  <a href="https://amical.ai/?utm_source=awesome-mac">按下快捷键，自然地说出你想表达的内容，文字会自动适配当前应用的格式。使用本地 AI 模型，支持离线运行，免费且开源。</a>
+  <br/><br/>
+
+
   <a href="https://www.enconvo.com/zh-CN" target="_blank">
     <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/enconvo.com.png">
   </a>
@@ -1298,17 +1307,16 @@
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/ivoronin/TomatoBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ivoronin/TomatoBar?style=flat&label=" /> - 支持 Touch Bar 的 macOS 番茄钟计时器。
 - [TrueTone Manager](https://github.com/martinrusetski/true-tone-manager) <img align="bottom" height="13" src="https://badgen.net/github/stars/martinrusetski/true-tone-manager?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/martinrusetski/true-tone-manager?style=flat&label=" /> - 记住每个应用的原彩显示偏好，切换应用时自动应用对应设置。
 - [TrelloApp](https://github.com/jlong/TrelloApp) <img align="bottom" height="13" src="https://badgen.net/github/stars/jlong/TrelloApp?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/jlong/TrelloApp?style=flat&label=" /> - 非官方 Trello 桌面包装工具。
-- [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/Swift-open-source/UltraTabSaver?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Swift-open-source/UltraTabSaver?style=flat&label=" /> - Ultra TabSaver 是一个开源的 Safari 标签管理器。
-- [UMST](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingToo) <img align="bottom" height="13" src="https://badgen.net/github/stars/nicoleyangcoding/UMST-UltimateMacSchedulingToo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nicoleyangcoding/UMST-UltimateMacSchedulingToo?style=flat&label=" /> - 整合多平台日历与截止事项的桌面日历和菜单栏应用。
 - [Year Progress](https://github.com/ComputelessComputer/year-progress) <img align="bottom" height="13" src="https://badgen.net/github/stars/ComputelessComputer/year-progress?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ComputelessComputer/year-progress?style=flat&label=" /> - 在菜单栏显示年、月、日进度条的工具。
 - [TapBuddy](https://github.com/shaozhengmao/TapBuddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/shaozhengmao/TapBuddy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/shaozhengmao/TapBuddy?style=flat&label=" /> - 会随键盘和鼠标操作实时互动的桌面宠物。
 - [Yomu](https://github.com/sendyhalim/Yomu) <img align="bottom" height="13" src="https://badgen.net/github/stars/sendyhalim/Yomu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sendyhalim/Yomu?style=flat&label=" /> - 针对 macOS 的漫画阅读器应用。
+- [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/Swift-open-source/UltraTabSaver?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Swift-open-source/UltraTabSaver?style=flat&label=" /> - Ultra TabSaver 是一个开源的 Safari 标签管理器。
+- [UMST](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) <img align="bottom" height="13" src="https://badgen.net/github/stars/nicoleyangcoding/UMST-UltimateMacSchedulingTool?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nicoleyangcoding/UMST-UltimateMacSchedulingTool?style=flat&label=" /> - 桌面日历小组件，汇总 Google、iCloud、Outlook、Apple 提醒事项、Canvas 等学习平台截止日期以及 Todoist、Asana、Trello，支持菜单栏快速添加。
 - [Viz](https://github.com/alienator88/Viz) <img align="bottom" height="13" src="https://badgen.net/github/stars/alienator88/Viz?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alienator88/Viz?style=flat&label=" /> - 从屏幕片段中捕获文本/二维码/条形码
 - [WebWatcher](https://github.com/ivg-design/web-watcher) <img align="bottom" height="13" src="https://badgen.net/github/stars/ivg-design/web-watcher?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ivg-design/web-watcher?style=flat&label=" /> - 监控网页更新并发送通知。
 - [Wink](https://github.com/xrf9268-hue/Wink) <img align="bottom" height="13" src="https://badgen.net/github/stars/xrf9268-hue/Wink?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/xrf9268-hue/Wink?style=flat&label=" /> - 通过全局快捷键快速打开、聚焦和隐藏应用。
 - [ZenTime](https://github.com/PatpateePhangern/ZenTime) <img align="bottom" height="13" src="https://badgen.net/github/stars/PatpateePhangern/ZenTime?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PatpateePhangern/ZenTime?style=flat&label=" /> - 限时考试练习工具，追踪每题用时并在超时提醒，可导出带标记的 PDF 报告。
 - [Starcat](https://github.com/starcat-app/Starcat) <img align="bottom" height="13" src="https://badgen.net/github/stars/starcat-app/Starcat?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/starcat-app/Starcat?style=flat&label=" /> - 把 GitHub Stars 同步为可搜索、可打标签、支持 AI 辅助理解的本地知识库。
-- [UMST](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) <img align="bottom" height="13" src="https://badgen.net/github/stars/nicoleyangcoding/UMST-UltimateMacSchedulingTool?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nicoleyangcoding/UMST-UltimateMacSchedulingTool?style=flat&label=" /> - 桌面日历小组件，汇总 Google、iCloud、Outlook、Apple 提醒事项、Canvas 等学习平台截止日期以及 Todoist、Asana、Trello，支持菜单栏快速添加。
 
 ## 任务管理
 
