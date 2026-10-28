@@ -44,6 +44,9 @@ jobs:
             - <meta name="apple-itunes-app" content="app-id=6670696072">
           menus:
             Home: index.html
+            TG: 
+              url: https://t.me/s/AwesomeMacApps
+              target: __blank
             Apps: 
               url: https://wangchujiang.com/#/app
               target: __blank
