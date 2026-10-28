@@ -715,6 +715,7 @@
 
 ## 金融
 
+- [StockDock](https://github.com/simonsruggi/StockDock) <img align="bottom" height="13" src="https://badgen.net/github/stars/simonsruggi/StockDock?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/simonsruggi/StockDock?style=flat&label=" /> - 菜单栏投资组合追踪工具，实时查看股票、ETF、加密货币及盈亏。
 - [Zielzeit](https://github.com/Mannafee/zielzeit-scalable-capital) <img align="bottom" height="13" src="https://badgen.net/github/stars/Mannafee/zielzeit-scalable-capital?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Mannafee/zielzeit-scalable-capital?style=flat&label=" /> - 只读菜单栏工具，预测 Scalable Capital 投资组合达到目标的时间。
 
 ## Finder
@@ -1084,7 +1085,6 @@
 - [StableBar](https://github.com/Seb-GRAF/StableBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/Seb-GRAF/StableBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Seb-GRAF/StableBar?style=flat&label=" /> - 可配置的菜单栏，支持主题、小组件和弹出窗口。
 - [Stats](https://github.com/exelban/stats) <img align="bottom" height="13" src="https://badgen.net/github/stars/exelban/stats?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/exelban/stats?style=flat&label=" /> - macOS 系统监视器，显示在菜单栏中。
 - [Status Trio](https://github.com/lingyired/status-trio) <img align="bottom" height="13" src="https://badgen.net/github/stars/lingyired/status-trio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lingyired/status-trio?style=flat&label=" /> - 菜单栏应用，将 Wi-Fi、电池与音量合并为一个紧凑、可配置的状态图标。
-- [StockDock](https://github.com/simonsruggi/StockDock) <img align="bottom" height="13" src="https://badgen.net/github/stars/simonsruggi/StockDock?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/simonsruggi/StockDock?style=flat&label=" /> - 菜单栏工具，实时追踪股票、ETF、加密货币及投资组合盈亏。
 - [SwiftBar](https://github.com/swiftbar/SwiftBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/swiftbar/SwiftBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/swiftbar/SwiftBar?style=flat&label=" /> - 可脚本化的菜单栏工具，定时运行插件并渲染可交互的下拉菜单。
 - [Tactile](https://github.com/Mason363/Tactile) <img align="bottom" height="13" src="https://badgen.net/github/stars/Mason363/Tactile?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Mason363/Tactile?style=flat&label=" /> - 当指针悬停在任意应用中可点击的元素上时，通过 Force Touch 触控板给予振动反馈，并可显示视觉提示作为低视力辅助。
 - [Frost](https://github.com/frostbar/frost) <img align="bottom" height="13" src="https://badgen.net/github/stars/frostbar/frost?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/frostbar/frost?style=flat&label=" /> - macOS 26 菜单栏管理工具，可隐藏不常用图标并一键取回。
