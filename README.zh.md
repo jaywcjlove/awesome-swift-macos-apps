@@ -1216,6 +1216,7 @@
 
 ## 启动台
 
+- [Copperlight](https://github.com/ramosrob/copperlight) <img align="bottom" height="13" src="https://badgen.net/github/stars/ramosrob/copperlight?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ramosrob/copperlight?style=flat&label=" /> - 键盘启动器，可搜索应用、文件、计算、剪贴板历史、笔记和窗口。
 - [Tinycast](https://github.com/abue-ammar/tinycast) <img align="bottom" height="13" src="https://badgen.net/github/stars/abue-ammar/tinycast?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/abue-ammar/tinycast?style=flat&label=" /> - 轻量原生启动器，支持应用搜索、剪贴板管理、窗口控制和自定义快捷键。
 - [look](https://github.com/kunkka19xx/look) <img align="bottom" height="13" src="https://badgen.net/github/stars/kunkka19xx/look?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kunkka19xx/look?style=flat&label=" /> - 一个键盘优先、本地优先的启动器，无需离开键盘即可打开应用、文件、文件夹、剪贴板历史和快捷命令。
 - [Launchy](https://github.com/Punshnut/macos-launchy) <img align="bottom" height="13" src="https://badgen.net/github/stars/Punshnut/macos-launchy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Punshnut/macos-launchy?style=flat&label=" /> - 免费开源启动器替代品。
