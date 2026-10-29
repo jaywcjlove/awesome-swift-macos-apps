@@ -4,12 +4,12 @@
   <br>
   <br>
 
-  <a href="https://amical.ai/?utm_source=awesome-mac">
+  <a href="https://amical.ai/?utm_source=awesome-mac" target="_blank" title="Amical - 语音输入，让文字自然呈现。">
     <img alt="Amical" width="400" src="https://jaywcjlove.github.io/sponsor/amical.ai.jpg">
   </a>
   <br/>
-  <a href="https://amical.ai/?utm_source=awesome-mac"><b>Amical</b> - 语音输入，让文字自然呈现。</a><br/>
-  <a href="https://amical.ai/?utm_source=awesome-mac">按下快捷键，自然地说出你想表达的内容，文字会自动适配当前应用的格式。使用本地 AI 模型，支持离线运行，免费且开源。</a>
+  <a href="https://amical.ai/?utm_source=awesome-mac" target="_blank"><b>Amical</b> - 语音输入，让文字自然呈现。</a><br/>
+  <a href="https://amical.ai/?utm_source=awesome-mac" target="_blank">按下快捷键，自然地说出你想表达的内容，文字会自动适配当前应用的格式。使用本地 AI 模型，支持离线运行，免费且开源。</a>
   <br/><br/>
 
 

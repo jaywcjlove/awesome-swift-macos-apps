@@ -4,8 +4,8 @@
   <br>
   <br>
 
-  <a href="https://amical.ai/?utm_source=awesome-mac">
-      <img alt="SubList" width="400" src="https://jaywcjlove.github.io/sponsor/amical.ai.jpg">
+  <a href="https://amical.ai/?utm_source=awesome-mac" target="_blank">
+    <img alt="Amical" width="400" src="https://jaywcjlove.github.io/sponsor/amical.ai.jpg">
   </a>
   <br/>
   <a href="https://amical.ai/?utm_source=awesome-mac"><b>Amical</b> - Type with your voice. Press a key and speak naturally.</a><br/>
