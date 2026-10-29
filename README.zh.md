@@ -543,6 +543,7 @@
 
 ### Git
 
+- [FoldGit](https://github.com/dufu1991/foldgit) <img align="bottom" height="13" src="https://badgen.net/github/stars/dufu1991/foldgit?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dufu1991/foldgit?style=flat&label=" /> - 原生 Git 客户端，支持管理仓库与 worktree、查看差异和提交更改。
 - [GPM](https://github.com/mtgto/GPM) <img align="bottom" height="13" src="https://badgen.net/github/stars/mtgto/GPM?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mtgto/GPM?style=flat&label=" /> - 用于轻松操作 GitHub 项目的 macOS 应用。
 - [GitBlamePR](https://github.com/maoyama/GitBlamePR) <img align="bottom" height="13" src="https://badgen.net/github/stars/maoyama/GitBlamePR?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/maoyama/GitBlamePR?style=flat&label=" /> - 显示每个文件中最后修改的行的 Mac 应用。
 - [GitSync](https://github.com/eonist/GitSync) <img align="bottom" height="13" src="https://badgen.net/github/stars/eonist/GitSync?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/eonist/GitSync?style=flat&label=" /> - 适用于 Mac 的极简 Git 客户端。

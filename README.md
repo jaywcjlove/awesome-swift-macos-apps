@@ -545,6 +545,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ### Git
 
+- [FoldGit](https://github.com/dufu1991/foldgit) <img align="bottom" height="13" src="https://badgen.net/github/stars/dufu1991/foldgit?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dufu1991/foldgit?style=flat&label=" /> - Native Git client for managing repositories, worktrees, diffs, and commits.
 - [GPM](https://github.com/mtgto/GPM) <img align="bottom" height="13" src="https://badgen.net/github/stars/mtgto/GPM?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mtgto/GPM?style=flat&label=" /> - macOS application for easily operating GitHub Projects.
 - [GitBlamePR](https://github.com/maoyama/GitBlamePR) <img align="bottom" height="13" src="https://badgen.net/github/stars/maoyama/GitBlamePR?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/maoyama/GitBlamePR?style=flat&label=" /> - Mac app that shows pull request last modified each line of a file
 - [GitSync](https://github.com/eonist/GitSync) <img align="bottom" height="13" src="https://badgen.net/github/stars/eonist/GitSync?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/eonist/GitSync?style=flat&label=" /> - Minimalistic Git client for Mac.
