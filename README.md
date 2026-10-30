@@ -943,6 +943,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Mail
 
+- [Mailflare](https://github.com/hieunc229/mailflare-macos) <img align="bottom" height="13" src="https://badgen.net/github/stars/hieunc229/mailflare-macos?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/hieunc229/mailflare-macos?style=flat&label=" /> - Fast email client for Mailflare, Gmail, Outlook, iCloud, and more.
 - [SimpleLogin](https://github.com/simple-login/mac-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/simple-login/mac-app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/simple-login/mac-app?style=flat&label=" /> - Email Alias solution: protect your real email address.
 
 ## Menubar

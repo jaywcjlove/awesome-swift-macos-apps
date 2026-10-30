@@ -942,6 +942,7 @@
 
 ## 邮件
 
+- [Mailflare](https://github.com/hieunc229/mailflare-macos) <img align="bottom" height="13" src="https://badgen.net/github/stars/hieunc229/mailflare-macos?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/hieunc229/mailflare-macos?style=flat&label=" /> - 支持 Mailflare、Gmail、Outlook 和 iCloud 等服务的快速邮件客户端。
 - [SimpleLogin](https://github.com/simple-login/mac-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/simple-login/mac-app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/simple-login/mac-app?style=flat&label=" /> - 邮件别名解决方案：保护您的真实电子邮件地址。
 
 ## 菜单栏
