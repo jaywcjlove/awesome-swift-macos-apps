@@ -947,6 +947,7 @@
 
 ## 菜单栏
 
+- [Swamp Converter](https://github.com/aansonsa/swamp-converter) <img align="bottom" height="13" src="https://badgen.net/github/stars/aansonsa/swamp-converter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aansonsa/swamp-converter?style=flat&label=" /> - 菜单栏文件转换工具：拖动文件，指针下方弹出转盘，放到想要的格式上即可转换。
 - [Hardly Working](https://github.com/Blazmad/hardly-working) <img align="bottom" height="13" src="https://badgen.net/github/stars/Blazmad/hardly-working?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Blazmad/hardly-working?style=flat&label=" /> - 菜单栏应用，防止 Teams 和 Slack 将你显示为离开状态。
 - [Mousip](https://github.com/daveleone/mousip) <img align="bottom" height="13" src="https://badgen.net/github/stars/daveleone/mousip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/daveleone/mousip?style=flat&label=" /> - 倾斜鼠标滚轮即可切换 macOS 桌面空间和全屏应用的菜单栏工具。
 - [Ring Stats](https://github.com/PetriLahdelma/ring-stats) <img align="bottom" height="13" src="https://badgen.net/github/stars/PetriLahdelma/ring-stats?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PetriLahdelma/ring-stats?style=flat&label=" /> - 在菜单栏显示 Oura 指环的分数和电量，数据从 Oura 直接到你的 Mac，没有服务器。
