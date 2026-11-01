@@ -794,6 +794,7 @@
 - [Charker](https://github.com/qzz0518/Charker) <img align="bottom" height="13" src="https://badgen.net/github/stars/qzz0518/Charker?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/qzz0518/Charker?style=flat&label=" /> - 非官方 macOS 应用，用于查看和控制 Anker Prime 160W 与 250W 充电器。
 - [Lavdeck](https://github.com/piedol/lavdeck) <img align="bottom" height="13" src="https://badgen.net/github/stars/piedol/lavdeck?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/piedol/lavdeck?style=flat&label=" /> - 非官方的 DJI Mic 系列 Mobile RX 配套工具，通过 USB 查看每支麦克风的状态，并设置单声道或立体声、增益和录音。
 - [OpenNaga](https://github.com/Zer0codestuff/OpenNaga) <img align="bottom" height="13" src="https://badgen.net/github/stars/Zer0codestuff/OpenNaga?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Zer0codestuff/OpenNaga?style=flat&label=" /> - 用于在 macOS 上自定义 Razer Naga 鼠标按键、DPI 和轮询率。
+- [RetinaLift](https://github.com/MhmdEssB/retinalift) <img align="bottom" height="13" src="https://badgen.net/github/stars/MhmdEssB/retinalift?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/MhmdEssB/retinalift?style=flat&label=" /> - 让 1440p 外接显示器显示 Retina 级清晰文字，全屏视频时自动开启 HDR 并调至最高亮度。
 
 ## 虚拟机
 
