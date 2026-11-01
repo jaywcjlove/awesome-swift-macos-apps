@@ -1465,6 +1465,7 @@
 - [Mac System Data Cleaner](https://github.com/prabch/Mac-SysData-Cleaner) <img align="bottom" height="13" src="https://badgen.net/github/stars/prabch/Mac-SysData-Cleaner?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/prabch/Mac-SysData-Cleaner?style=flat&label=" /> - 追踪并清理膨胀的系统缓存与隐藏垃圾文件。
 - [System Data](https://github.com/Jarvis322/macos-sysdata) <img align="bottom" height="13" src="https://badgen.net/github/stars/Jarvis322/macos-sysdata?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Jarvis322/macos-sysdata?style=flat&label=" /> - 逐项查看"系统数据"里到底存了什么，需要时再逐项手动删除。
 - [Tidymint](https://github.com/HaiTrung-Workspace/tidymint) <img align="bottom" height="13" src="https://badgen.net/github/stars/HaiTrung-Workspace/tidymint?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/HaiTrung-Workspace/tidymint?style=flat&label=" /> - Mac 清理工具，可查找杂乱文件并将选中项目移入废纸篓。
+- [Twinfold](https://github.com/Himanshu-Sangshetti/twinfold) <img align="bottom" height="13" src="https://badgen.net/github/stars/Himanshu-Sangshetti/twinfold?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Himanshu-Sangshetti/twinfold?style=flat&label=" /> - 利用 APFS 克隆合并重复文件，节省磁盘空间并保留原有路径。
 
 ## 系统
 
