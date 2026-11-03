@@ -118,6 +118,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Backup](#backup)
 - [Browser](#browser)
 - [Chat](#chat)
+- [Communication](#communication)
 - [Local LLM](#local-llm)
 - [AI](#ai)
   - [AI Usage/Status](#ai-usagestatus)
@@ -333,6 +334,10 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [WeChatBridge](https://github.com/freestylefly/WeChatBridge) <img align="bottom" height="13" src="https://badgen.net/github/stars/freestylefly/WeChatBridge?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/freestylefly/WeChatBridge?style=flat&label=" /> - Forwards WeChat chat history into AI agents and local knowledge bases, fully local.
 - [WhatsAppBar](https://github.com/aldychris/WhatsAppBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/aldychris/WhatsAppBar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aldychris/WhatsAppBar?style=flat&label=" /> - Send WhatsApp message from menu bar.
 - [JoeBro](https://github.com/joexk1/JoeBro) <img align="bottom" height="13" src="https://badgen.net/github/stars/joexk1/JoeBro?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/joexk1/JoeBro?style=flat&label=" /> - AI workspace for chat and document editing with local models via Ollama or any API, memory, MCP tools and deep research.
+
+## Communication
+
+- [MacroSIP](https://github.com/HSMM/MacroSIP) <img align="bottom" height="13" src="https://badgen.net/github/stars/HSMM/MacroSIP?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/HSMM/MacroSIP?style=flat&label=" /> - A SIP softphone for internet calls.
 
 ## Local LLM
 
