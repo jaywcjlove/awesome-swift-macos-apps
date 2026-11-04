@@ -972,6 +972,7 @@
 
 ## 菜单栏
 
+- [CallReady](https://github.com/theluckystrike/barframe-apps/tree/main/apps/CallReady) <img align="bottom" height="13" src="https://badgen.net/github/stars/theluckystrike/barframe-apps?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/theluckystrike/barframe-apps?style=flat&label=" /> - 显示下一场日历通话，蓝牙耳机接管麦克风时恢复首选麦克风，并用一个快捷键静音麦克风。
 - [Swamp Converter](https://github.com/aansonsa/swamp-converter) <img align="bottom" height="13" src="https://badgen.net/github/stars/aansonsa/swamp-converter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aansonsa/swamp-converter?style=flat&label=" /> - 菜单栏文件转换工具：拖动文件，指针下方弹出转盘，放到想要的格式上即可转换。
 - [Hardly Working](https://github.com/Blazmad/hardly-working) <img align="bottom" height="13" src="https://badgen.net/github/stars/Blazmad/hardly-working?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Blazmad/hardly-working?style=flat&label=" /> - 菜单栏应用，防止 Teams 和 Slack 将你显示为离开状态。
 - [Mousip](https://github.com/daveleone/mousip) <img align="bottom" height="13" src="https://badgen.net/github/stars/daveleone/mousip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/daveleone/mousip?style=flat&label=" /> - 倾斜鼠标滚轮即可切换 macOS 桌面空间和全屏应用的菜单栏工具。
