@@ -854,7 +854,6 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Pathstitch](https://github.com/Mason363/Pathstitch) <img align="bottom" height="13" src="https://badgen.net/github/stars/Mason363/Pathstitch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Mason363/Pathstitch?style=flat&label=" /> - CAD/CAM studio for leathercraft and pattern making, with DXF/SVG/PDF export and 3D model unfolding.
 - [Stitch](https://github.com/StitchDesign/Stitch) <img align="bottom" height="13" src="https://badgen.net/github/stars/StitchDesign/Stitch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/StitchDesign/Stitch?style=flat&label=" /> - Open-source, community-driven prototyping environment for building interactive app ideas.
 - [ScrollSnap](https://github.com/Brkgng/ScrollSnap) <img align="bottom" height="13" src="https://badgen.net/github/stars/Brkgng/ScrollSnap?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Brkgng/ScrollSnap?style=flat&label=" /> - A macOS app for capturing and stitching scrolling screenshots.
-- [ScreenCapture](https://github.com/sadopc/ScreenCapture) <img align="bottom" height="13" src="https://badgen.net/github/stars/sadopc/ScreenCapture?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sadopc/ScreenCapture?style=flat&label=" /> - For capturing and annotating screenshots
 
 ## Screenshot / Screen Recording
 
