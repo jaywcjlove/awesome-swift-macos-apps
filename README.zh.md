@@ -1507,6 +1507,7 @@
 - [System Data](https://github.com/Jarvis322/macos-sysdata) <img align="bottom" height="13" src="https://badgen.net/github/stars/Jarvis322/macos-sysdata?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Jarvis322/macos-sysdata?style=flat&label=" /> - 逐项查看"系统数据"里到底存了什么，需要时再逐项手动删除。
 - [Tidymint](https://github.com/HaiTrung-Workspace/tidymint) <img align="bottom" height="13" src="https://badgen.net/github/stars/HaiTrung-Workspace/tidymint?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/HaiTrung-Workspace/tidymint?style=flat&label=" /> - Mac 清理工具，可查找杂乱文件并将选中项目移入废纸篓。
 - [Twinfold](https://github.com/Himanshu-Sangshetti/twinfold) <img align="bottom" height="13" src="https://badgen.net/github/stars/Himanshu-Sangshetti/twinfold?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Himanshu-Sangshetti/twinfold?style=flat&label=" /> - 利用 APFS 克隆合并重复文件，节省磁盘空间并保留原有路径。
+- [Yokoi](https://github.com/indieocean/yokoi) <img align="bottom" height="13" src="https://badgen.net/github/stars/indieocean/yokoi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/indieocean/yokoi?style=flat&label=" /> - 面向开发者的清理工具，回收 node_modules、DerivedData、构建目录、缓存和 Docker 占用的空间，默认移入废纸篓并可放回。 ([Homepage](https://indieocean.github.io/yokoi/))
 
 ## 系统
 
