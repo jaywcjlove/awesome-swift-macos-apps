@@ -558,6 +558,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Development
 
+- [Scene](https://github.com/InsaneArts/Scene) <img align="bottom" height="13" src="https://badgen.net/github/stars/InsaneArts/Scene?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/InsaneArts/Scene?style=flat&label=" /> - Sync macOS, terminal, editor, and CLI themes, with one-click restoration of original settings.
 - [Stringz](https://github.com/mohakapt/Stringz) <img align="bottom" height="13" src="https://badgen.net/github/stars/mohakapt/Stringz?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mohakapt/Stringz?style=flat&label=" /> - Localization editor for app string files.
 - [Vesalius](https://github.com/haplollc/Vesalius) <img align="bottom" height="13" src="https://badgen.net/github/stars/haplollc/Vesalius?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/haplollc/Vesalius?style=flat&label=" /> - A map of your codebase for Claude Code: an on-device code graph with an MCP server, CLI, Mac app and VS Code extension.
 

@@ -556,6 +556,7 @@
 
 ## 开发
 
+- [Scene](https://github.com/InsaneArts/Scene) <img align="bottom" height="13" src="https://badgen.net/github/stars/InsaneArts/Scene?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/InsaneArts/Scene?style=flat&label=" /> - 一键同步 macOS、终端、编辑器和命令行工具的主题，并可恢复原始配置。
 - [Stringz](https://github.com/mohakapt/Stringz) <img align="bottom" height="13" src="https://badgen.net/github/stars/mohakapt/Stringz?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mohakapt/Stringz?style=flat&label=" /> - 应用字符串本地化编辑器。
 - [Vesalius](https://github.com/haplollc/Vesalius) <img align="bottom" height="13" src="https://badgen.net/github/stars/haplollc/Vesalius?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/haplollc/Vesalius?style=flat&label=" /> - 为 Claude Code 提供本地代码库关系图，集成 MCP、CLI、Mac 应用和 VS Code 扩展。
 
