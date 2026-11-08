@@ -760,6 +760,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 ## Finance
 
 - [StockDock](https://github.com/simonsruggi/StockDock) <img align="bottom" height="13" src="https://badgen.net/github/stars/simonsruggi/StockDock?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/simonsruggi/StockDock?style=flat&label=" /> - Menu bar app for tracking stocks, ETFs, crypto, and portfolio performance.
+- [Tape](https://github.com/Yvsleyen00941/Tape) <img align="bottom" height="13" src="https://badgen.net/github/stars/Yvsleyen00941/Tape?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Yvsleyen00941/Tape?style=flat&label=" /> - Stock ticker in the empty corner beside the Dock.
 - [Zielzeit](https://github.com/Mannafee/zielzeit-scalable-capital) <img align="bottom" height="13" src="https://badgen.net/github/stars/Mannafee/zielzeit-scalable-capital?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Mannafee/zielzeit-scalable-capital?style=flat&label=" /> - Read-only menu bar app that projects when your Scalable Capital portfolio may reach its goal.
 
 ## Finder
