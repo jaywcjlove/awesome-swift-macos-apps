@@ -859,6 +859,7 @@
 - [Pathstitch](https://github.com/Mason363/Pathstitch) <img align="bottom" height="13" src="https://badgen.net/github/stars/Mason363/Pathstitch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Mason363/Pathstitch?style=flat&label=" /> - 皮艺和打版 CAD/CAM 工具，支持导出 DXF/SVG/PDF 及 3D 模型展开。
 - [Stitch](https://github.com/StitchDesign/Stitch) <img align="bottom" height="13" src="https://badgen.net/github/stars/StitchDesign/Stitch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/StitchDesign/Stitch?style=flat&label=" /> - 开源、社区驱动的原型设计环境，用于快速构建交互式应用创意。
 - [ScrollSnap](https://github.com/Brkgng/ScrollSnap) <img align="bottom" height="13" src="https://badgen.net/github/stars/Brkgng/ScrollSnap?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Brkgng/ScrollSnap?style=flat&label=" /> - 捕捉和拼接滚动截图的 macOS 应用
+- [Grids](https://github.com/geragarazagh/grids) <img align="bottom" height="13" src="https://badgen.net/github/stars/geragarazagh/grids?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/geragarazagh/grids?style=flat&label=" /> - 开源网格叠加工具，可在整个屏幕上叠加二分与四分、黄金比例、三分法或 8pt 网格，点击可直接穿透。
 
 ## 截图/屏幕录制
 
