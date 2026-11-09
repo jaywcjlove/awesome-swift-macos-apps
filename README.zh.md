@@ -293,6 +293,7 @@
 - [BetterWispr](https://github.com/opennookorg/betterwispr) <img align="bottom" height="13" src="https://badgen.net/github/stars/opennookorg/betterwispr?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/opennookorg/betterwispr?style=flat&label=" /> - 免费开源、本地优先的 Wispr Flow 替代品：用 Whisper、Parakeet 和 Apple 语音在设备端听写。
 - [Reed Dictation](https://github.com/w20labs/reed) <img align="bottom" height="13" src="https://badgen.net/github/stars/w20labs/reed?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/w20labs/reed?style=flat&label=" /> - 免费、完全本地的按住说话听写工具：用 Parakeet 在设备端识别语音，并自动清理语气词和重说句子。
 - [Utter](https://github.com/h3x-levi/Utter) <img align="bottom" height="13" src="https://badgen.net/github/stars/h3x-levi/Utter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/h3x-levi/Utter?style=flat&label=" /> - Mac 上的本地语音听写：按住按键说话，松开后文字出现在光标处，离线可用、无需账户。
+- [STT](https://github.com/geragarazagh/stt) <img align="bottom" height="13" src="https://badgen.net/github/stars/geragarazagh/stt?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/geragarazagh/stt?style=flat&label=" /> - 开源离线听写工具，按快捷键说话，文字即输入到当前应用，使用本地 Whisper、Parakeet 或 Qwen 模型。
 
 ## 备份
 
