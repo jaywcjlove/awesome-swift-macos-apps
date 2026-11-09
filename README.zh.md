@@ -1385,6 +1385,7 @@
 - [ZenTime](https://github.com/PatpateePhangern/ZenTime) <img align="bottom" height="13" src="https://badgen.net/github/stars/PatpateePhangern/ZenTime?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PatpateePhangern/ZenTime?style=flat&label=" /> - 限时考试练习工具，追踪每题用时并在超时提醒，可导出带标记的 PDF 报告。
 - [Starcat](https://github.com/starcat-app/Starcat) <img align="bottom" height="13" src="https://badgen.net/github/stars/starcat-app/Starcat?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/starcat-app/Starcat?style=flat&label=" /> - 把 GitHub Stars 同步为可搜索、可打标签、支持 AI 辅助理解的本地知识库。
 - [SATF](https://github.com/tran-minh-khoi/SATF) <img align="bottom" height="13" src="https://badgen.net/github/stars/tran-minh-khoi/SATF?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tran-minh-khoi/SATF?style=flat&label=" /> - 拖动文件时轻轻一晃，即可在光标下的环形菜单中转换格式、合并为 PDF、压缩或解压。
+- [OCR](https://github.com/geragarazagh/ocr) <img align="bottom" height="13" src="https://badgen.net/github/stars/geragarazagh/ocr?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/geragarazagh/ocr?style=flat&label=" /> - 开源屏幕 OCR 工具，用快捷键框选屏幕任意区域，即可复制其中的文字或二维码内容，基于 Apple Vision 离线运行。
 
 ## 任务管理
 
