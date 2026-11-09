@@ -1895,6 +1895,7 @@
 - [Piletto](https://github.com/timurverevkin/Piletto) <img align="bottom" height="13" src="https://badgen.net/github/stars/timurverevkin/Piletto?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/timurverevkin/Piletto?style=flat&label=" /> - 原生 macOS 颜色库，支持取色器、色板与 HEX/RGB/CMYK/LAB 色值。
 - [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/System-Color-Picker?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sindresorhus/System-Color-Picker?style=flat&label=" /> - The macOS color picker as an app with more features.
 - [Solid](https://github.com/phamfoo/Solid) <img align="bottom" height="13" src="https://badgen.net/github/stars/phamfoo/Solid?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/phamfoo/Solid?style=flat&label=" /> - 灵感来自 Figma 的 macOS 颜色选择器应用。
+- [#HEX](https://github.com/geragarazagh/hex) <img align="bottom" height="13" src="https://badgen.net/github/stars/geragarazagh/hex?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/geragarazagh/hex?style=flat&label=" /> - 开源取色器，用快捷键打开 macOS 的取色器，点击屏幕上任意像素即可复制其 HEX 色值。
 
 ## 网络
 
