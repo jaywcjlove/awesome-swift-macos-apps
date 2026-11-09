@@ -1226,6 +1226,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Piletto](https://github.com/timurverevkin/Piletto) <img align="bottom" height="13" src="https://badgen.net/github/stars/timurverevkin/Piletto?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/timurverevkin/Piletto?style=flat&label=" /> - Native macOS color library with eyedropper, palettes, and HEX/RGB/CMYK/LAB codes.
 - [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/System-Color-Picker?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sindresorhus/System-Color-Picker?style=flat&label=" /> - The macOS color picker as an app with more features.
 - [Solid](https://github.com/phamfoo/Solid) <img align="bottom" height="13" src="https://badgen.net/github/stars/phamfoo/Solid?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/phamfoo/Solid?style=flat&label=" /> - Color picker app for macOS inspired by Figma.
+- [#HEX](https://github.com/geragarazagh/hex) <img align="bottom" height="13" src="https://badgen.net/github/stars/geragarazagh/hex?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/geragarazagh/hex?style=flat&label=" /> - Open-source color picker that opens the macOS color sampler with a keyboard shortcut and copies the clicked pixel as a HEX code.
 
 ## Music
 
