@@ -452,6 +452,7 @@
 - [Grux](https://github.com/dotcomjack/grux) <img align="bottom" height="13" src="https://badgen.net/github/stars/dotcomjack/grux?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dotcomjack/grux?style=flat&label=" /> - 可运行可撤销的终端会话，并访问本地邮件、日历、备忘录和文件的 AI 智能体，支持自带 API 密钥或本地模型。
 - [Pie](https://github.com/hieunc229/Pie) <img align="bottom" height="13" src="https://badgen.net/github/stars/hieunc229/Pie?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/hieunc229/Pie?style=flat&label=" /> - Pi 编码代理的桌面客户端，集中管理项目、会话与差异。
 - [QDuo](https://github.com/XueshiQiao/qduo) <img align="bottom" height="13" src="https://badgen.net/github/stars/XueshiQiao/qduo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/XueshiQiao/qduo?style=flat&label=" /> - 在任意应用选中文本，光标处即可运行自定义操作——翻译、润色、搜索或询问 AI。
+- [macos-cli](https://github.com/manuaudio/macos-cli) <img align="bottom" height="13" src="https://badgen.net/github/stars/manuaudio/macos-cli?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/manuaudio/macos-cli?style=flat&label=" /> - 命令行工具，让脚本和 AI 智能体以 JSON 读写日历、通讯录、邮件、备忘录、提醒事项、窗口和屏幕。
 
 ### AI 用量/状态
 
