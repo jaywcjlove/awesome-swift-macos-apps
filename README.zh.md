@@ -723,6 +723,7 @@
 - [CSVEditor](https://github.com/gahntpo/CSVEditor) <img align="bottom" height="13" src="https://badgen.net/github/stars/gahntpo/CSVEditor?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gahntpo/CSVEditor?style=flat&label=" /> - 用来打开和编辑 CSV 文件
 - [FINAL|FINAL](https://github.com/kerim/finalfinal) <img align="bottom" height="13" src="https://badgen.net/github/stars/kerim/finalfinal?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kerim/finalfinal?style=flat&label=" /> - 具备大纲、引用、版本管理与专注模式的长文写作编辑器。
 - [Nimble](https://github.com/scade-platform/Nimble) <img align="bottom" height="13" src="https://badgen.net/github/stars/scade-platform/Nimble?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/scade-platform/Nimble?style=flat&label=" /> - 轻量级本地代码编辑器。
+- [Silica](https://github.com/dqhieu/Silica) <img align="bottom" height="13" src="https://badgen.net/github/stars/dqhieu/Silica?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dqhieu/Silica?style=flat&label=" /> - 轻量级代码编辑器，支持文件搜索、语法高亮、代码缩略图和 Markdown 预览。
 
 ### Markdown
 
