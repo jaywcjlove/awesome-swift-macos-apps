@@ -532,6 +532,7 @@
 
 ### AI 代理监控
 
+- [Airbag](https://github.com/a1murt/airbag) <img align="bottom" height="13" src="https://badgen.net/github/stars/a1murt/airbag?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/a1murt/airbag?style=flat&label=" /> - 在 AI 编程代理执行可能修改文件的 shell 命令前为项目创建快照的菜单栏应用和命令行工具，可从菜单栏撤销误删的文件和被清空的 .env。
 - [bodycam](https://github.com/omlahore/bodycam) <img align="bottom" height="13" src="https://badgen.net/github/stars/omlahore/bodycam?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/omlahore/bodycam?style=flat&label=" /> - 记录 AI 编程代理在你的 Mac 上的行为，包括读取的文件和密钥。
 - [Loom](https://github.com/chaiwithcode/Loom) <img align="bottom" height="13" src="https://badgen.net/github/stars/chaiwithcode/Loom?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/chaiwithcode/Loom?style=flat&label=" /> - 用于监控本地 Codex、Claude Code 和 Antigravity 会话的只读菜单栏工具。
 - [mcpock](https://github.com/aka-kika/mcpock) <img align="bottom" height="13" src="https://badgen.net/github/stars/aka-kika/mcpock?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/aka-kika/mcpock?style=flat&label=" /> - 检查 AI 代理使用的 MCP 服务器是否可用、响应速度及配置是否一致。
