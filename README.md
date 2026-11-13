@@ -725,6 +725,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [FINAL|FINAL](https://github.com/kerim/finalfinal) <img align="bottom" height="13" src="https://badgen.net/github/stars/kerim/finalfinal?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kerim/finalfinal?style=flat&label=" /> - Long-form writing editor with outlining, citations, versioning, and focus tools.
 - [Nimble](https://github.com/scade-platform/Nimble) <img align="bottom" height="13" src="https://badgen.net/github/stars/scade-platform/Nimble?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/scade-platform/Nimble?style=flat&label=" /> - Lightweight local code editor.
 - [Silica](https://github.com/dqhieu/Silica) <img align="bottom" height="13" src="https://badgen.net/github/stars/dqhieu/Silica?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dqhieu/Silica?style=flat&label=" /> - Lightweight code editor with file search, syntax highlighting, a minimap, and Markdown preview.
+- [vsux](https://github.com/shadowDragons/vsux) <img align="bottom" height="13" src="https://badgen.net/github/stars/shadowDragons/vsux?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/shadowDragons/vsux?style=flat&label=" /> - Lightweight editor for parallel projects with integrated terminals and Git review.
 
 ### Markdown
 
