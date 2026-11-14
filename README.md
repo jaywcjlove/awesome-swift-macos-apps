@@ -313,6 +313,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Browser
 
+- [arowser](https://github.com/HankMonster/arowser) <img align="bottom" height="13" src="https://badgen.net/github/stars/HankMonster/arowser?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/HankMonster/arowser?style=flat&label=" /> - Borderless web windows for macOS that coding agents can program through a CLI.
 - [browbro](https://github.com/tiagomoraes/browbro) <img align="bottom" height="13" src="https://badgen.net/github/stars/tiagomoraes/browbro?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tiagomoraes/browbro?style=flat&label=" /> - Choose which browser opens each web link.
 - [Browserdoor](https://github.com/schowave/browserdoor) <img align="bottom" height="13" src="https://badgen.net/github/stars/schowave/browserdoor?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/schowave/browserdoor?style=flat&label=" /> - Link picker for choosing a Zen space, Chrome profile, or browser.
 - [Browserly](https://github.com/andyzasl/browserly) <img align="bottom" height="13" src="https://badgen.net/github/stars/andyzasl/browserly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/andyzasl/browserly?style=flat&label=" /> - Routes URLs to the right browser based on custom rules.

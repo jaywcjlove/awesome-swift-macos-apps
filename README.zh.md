@@ -311,6 +311,7 @@
 
 ## 浏览器
 
+- [arowser](https://github.com/HankMonster/arowser) <img align="bottom" height="13" src="https://badgen.net/github/stars/HankMonster/arowser?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/HankMonster/arowser?style=flat&label=" /> - 可由编码智能体通过命令行编程控制的 macOS 无边框网页窗口。
 - [browbro](https://github.com/tiagomoraes/browbro) <img align="bottom" height="13" src="https://badgen.net/github/stars/tiagomoraes/browbro?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tiagomoraes/browbro?style=flat&label=" /> - 选择浏览器打开网页链接。
 - [Browserdoor](https://github.com/schowave/browserdoor) <img align="bottom" height="13" src="https://badgen.net/github/stars/schowave/browserdoor?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/schowave/browserdoor?style=flat&label=" /> - 链接选择工具，可选择 Zen 空间、Chrome 配置文件或浏览器打开链接。
 - [Browserly](https://github.com/andyzasl/browserly) <img align="bottom" height="13" src="https://badgen.net/github/stars/andyzasl/browserly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/andyzasl/browserly?style=flat&label=" /> - 根据自定义规则将 URL 路由到对应浏览器。
