@@ -1510,6 +1510,7 @@
 ## 流媒体
 
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wulkano/Plug?style=flat&label=" /> - 从 Hype Machine 中发现和收听音乐。
+- [Wianu](https://github.com/timwehrle/wianu) <img align="bottom" height="13" src="https://badgen.net/github/stars/timwehrle/wianu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/timwehrle/wianu?style=flat&label=" /> - 集中浏览流媒体平台、搜索影视内容并管理观看清单。
 
 ## 清理卸载
 

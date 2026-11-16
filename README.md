@@ -1542,6 +1542,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 ## Streaming
 
 - [Plug](https://github.com/wulkano/Plug) <img align="bottom" height="13" src="https://badgen.net/github/stars/wulkano/Plug?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wulkano/Plug?style=flat&label=" /> - Discover and listen to music from Hype Machine.
+- [Wianu](https://github.com/timwehrle/wianu) <img align="bottom" height="13" src="https://badgen.net/github/stars/timwehrle/wianu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/timwehrle/wianu?style=flat&label=" /> - Browse streaming services, search movies and shows, and keep a watchlist in one app.
 
 ## Cleanup & Uninstall
 
