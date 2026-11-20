@@ -1458,6 +1458,7 @@
 - [Leaf](https://github.com/chengffei/leaf) <img align="bottom" height="13" src="https://badgen.net/github/stars/chengffei/leaf?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/chengffei/leaf?style=flat&label=" /> - 轻量级电子书阅读器，支持 EPUB、MOBI 和 AZW3 格式。
 - [Lemma](https://github.com/fus3r/lemma) <img align="bottom" height="13" src="https://badgen.net/github/stars/fus3r/lemma?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/fus3r/lemma?style=flat&label=" /> - 面向数学阅读的 PDF 阅读器：像编辑器理解代码那样理解教材和论文。
 - [Rapid Reader](https://github.com/Zer0codestuff/Rapid-Reader) <img align="bottom" height="13" src="https://badgen.net/github/stars/Zer0codestuff/Rapid-Reader?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Zer0codestuff/Rapid-Reader?style=flat&label=" /> - 结合 RSVP 速读与全文阅读的专注阅读应用。
+- [Rede](https://github.com/qyangcv/Rede) <img align="bottom" height="13" src="https://badgen.net/github/stars/qyangcv/Rede?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/qyangcv/Rede?style=flat&label=" /> - 仅提供中文界面的 EPUB 阅读器，可通过 iCloud 同步书籍、阅读进度和笔记。
 - [Rime](https://github.com/Yvsleyen00941/Rime) <img align="bottom" height="13" src="https://badgen.net/github/stars/Yvsleyen00941/Rime?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Yvsleyen00941/Rime?style=flat&label=" /> - 极简 PDF 阅读器，仅显示页面并冻结屏幕其余部分。
 
 ## 屏幕保护程序
