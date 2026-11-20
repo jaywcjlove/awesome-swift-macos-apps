@@ -791,6 +791,7 @@
 
 ## Finder
 
+- [Finder Grouping Assistant](https://github.com/myyccccc/Finder-Grouping-Assistant) <img align="bottom" height="13" src="https://badgen.net/github/stars/myyccccc/Finder-Grouping-Assistant?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/myyccccc/Finder-Grouping-Assistant?style=flat&label=" /> - 菜单栏小工具，自动为每个 Finder 窗口应用你选的分组和排序。
 - [Gocci](https://github.com/piro0919/gocci) <img align="bottom" height="13" src="https://badgen.net/github/stars/piro0919/gocci?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/piro0919/gocci?style=flat&label=" /> - 从菜单栏把 Google 云端硬盘挂载到 Finder 的任意位置。
 - [FileFluss](https://github.com/rana-gmbh/FileFluss) <img align="bottom" height="13" src="https://badgen.net/github/stars/rana-gmbh/FileFluss?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rana-gmbh/FileFluss?style=flat&label=" /> - 支持云存储的双面板文件管理器，提供无缝的文件操作。
 - [FileMint](https://github.com/FileMintApp/FileMint) <img align="bottom" height="13" src="https://badgen.net/github/stars/FileMintApp/FileMint?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/FileMintApp/FileMint?style=flat&label=" /> - 在 Finder 右键菜单中通过模板创建和管理文件的扩展。
