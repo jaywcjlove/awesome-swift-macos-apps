@@ -140,7 +140,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Finder](#finder)
 - [Games](#games)
 - [Hardware](#hardware)
-- [Virtual Machines](#virtual-machine)
+- [Virtual Machines](#virtual-machines)
 - [Graphics](#graphics)
 - [Screenshot / Screen Recording](#screenshot--screen-recording)
 - [IDE](#ide)
