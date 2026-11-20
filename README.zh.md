@@ -1984,6 +1984,7 @@
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) <img align="bottom" height="13" src="https://badgen.net/github/stars/GeiserX/VPN-Bypass?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/GeiserX/VPN-Bypass?style=flat&label=" /> - 菜单栏 VPN 分流工具，可为指定域名和服务绕过或强制使用 VPN。
 - [Rockxy](https://github.com/RockxyApp/Rockxy) <img align="bottom" height="13" src="https://badgen.net/github/stars/RockxyApp/Rockxy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/RockxyApp/Rockxy?style=flat&label=" /> - 用于拦截、检查和操作网络流量的 HTTP/HTTPS 调试代理工具。
 - [WhereAmIP](https://github.com/frinsen/whereamip) <img align="bottom" height="13" src="https://badgen.net/github/stars/frinsen/whereamip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/frinsen/whereamip?style=flat&label=" /> - 菜单栏显示出口 IP 所在国国旗，可感知 VPN 与 iCloud 私人转送的影响。
+- [unbraid](https://github.com/quiet-crafts/unbraid-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/quiet-crafts/unbraid-mac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/quiet-crafts/unbraid-mac?style=flat&label=" /> - 按应用分流的 VPN 客户端：每个应用可以使用自己的出口或绕过 VPN，同时 Tailscale 保持连接。
 
 ## 视频
 
