@@ -54,7 +54,7 @@ If you use a repo-local Codex skill or prompt template, make sure the output sti
 Use the same format as existing items:
 
 ```md
-- [AppName](https://github.com/owner/repo) <img align="bottom" height="13" src="https://badgen.net/github/stars/owner/repo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/owner/repo?style=flat&label=" /> - One-sentence description.
+- [AppName](https://github.com/owner/repo) <img align="bottom" height="13" src="https://badgen.net/github/stars/owner/repo?style=flat&label=" /> - One-sentence description.
 ```
 
 ## Writing rules
