@@ -1722,6 +1722,7 @@
 - [Skrepka](https://github.com/psoldunov/skrepka) <img align="bottom" height="13" src="https://badgen.net/github/stars/psoldunov/skrepka?style=flat&label=" /> - 剪贴板历史管理器，快捷键呼出不抢焦点的选择器，配对设备间在局域网内共享历史。
 - [SmartClipboard](https://github.com/saihgupr/SmartClipboard) <img align="bottom" height="13" src="https://badgen.net/github/stars/saihgupr/SmartClipboard?style=flat&label=" /> - AI 驱动的剪贴板管理器，支持语义搜索，提升剪贴板体验。
 - [Tameo](https://github.com/supergodak/tameo) <img align="bottom" height="13" src="https://badgen.net/github/stars/supergodak/tameo?style=flat&label=" /> - 现代隐私优先的剪贴板管理器，Clipy 的原生继任者。
+- [Tietie](https://github.com/KLWSharpe/tietie) <img align="bottom" height="13" src="https://badgen.net/github/stars/KLWSharpe/tietie?style=flat&label=" /> - 按数字键直接粘贴、还能用图片里的文字找回截图的剪贴板历史工具，界面为繁体中文。
 - [Tweaks](https://github.com/dinoki-ai/tweaks) <img align="bottom" height="13" src="https://badgen.net/github/stars/dinoki-ai/tweaks?style=flat&label=" /> - 只需一键，即可即时重写、改写或优化剪贴板中的任何文本。
 - [Whisk](https://github.com/nathan-poncet/whisk) <img align="bottom" height="13" src="https://badgen.net/github/stars/nathan-poncet/whisk?style=flat&label=" /> - 开源剪贴板管理器，可保存文本、链接、图片、文件和颜色。
 - [Yank](https://github.com/The-PatientZero/yank) <img align="bottom" height="13" src="https://badgen.net/github/stars/The-PatientZero/yank?style=flat&label=" /> - 快速、私密的剪贴板管理器，支持历史搜索、OCR、标签和 iCloud 同步。
