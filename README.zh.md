@@ -1879,6 +1879,7 @@
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/NoiseBuddy?style=flat&label=" /> - 在 Touch Bar 或菜单栏中控制 AirPods Pro 的听音模式。
 - [Noti](https://github.com/jariz/Noti/) <img align="bottom" height="13" src="https://badgen.net/github/stars/jariz/Noti/?style=flat&label=" /> - 在 Mac 上接收 Android 通知（通过 PushBullet）。
 - [NotchPrompter](https://github.com/jpomykala/NotchPrompter) <img align="bottom" height="13" src="https://badgen.net/github/stars/jpomykala/NotchPrompter?style=flat&label=" /> - 让文本始终可见并支持语音激活滚动的悬浮提词器。
+- [ezNTFS](https://github.com/ixiehao/ezNTFS) <img align="bottom" height="13" src="https://badgen.net/github/stars/ixiehao/ezNTFS?style=flat&label=" /> - 通过 macFUSE 和 NTFS-3G 挂载外接 NTFS 磁盘并读写文件。
 - [ntfsmac](https://github.com/khr898/ntfsmac) <img align="bottom" height="13" src="https://badgen.net/github/stars/khr898/ntfsmac?style=flat&label=" /> - 在 Apple Silicon 上读写 NTFS 磁盘，无需内核扩展或修改 SIP。
 - [NTFSTool](https://github.com/ntfstool/ntfstool) <img align="bottom" height="13" src="https://badgen.net/github/stars/ntfstool/ntfstool?style=flat&label=" /> - 基于 FSKit 的 NTFS 磁盘读写工具，无需内核扩展。
 - [Omnimount](https://github.com/ramdoor/omnimount) <img align="bottom" height="13" src="https://badgen.net/github/stars/ramdoor/omnimount?style=flat&label=" /> - 通过 FUSE 在 macOS 上读写 ext4 和 NTFS，提供菜单栏应用与命令行工具。
