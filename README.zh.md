@@ -758,6 +758,7 @@
 - [PreviewMD](https://github.com/ychani/PreviewMD) <img align="bottom" height="13" src="https://badgen.net/github/stars/ychani/PreviewMD?style=flat&label=" /> - 在 Finder 中预览 Markdown 文件，并阅读文件或文件夹中的内容。
 - [Quill](https://github.com/hridaya423/quill) <img align="bottom" height="13" src="https://badgen.net/github/stars/hridaya423/quill?style=flat&label=" /> - 让 Claude Code、Codex 或 Cursor 在原处修改草稿的 Markdown 编辑器，每处修改都可保留或撤销。
 - [SSMV](https://github.com/raeseoklee/ssmv) <img align="bottom" height="13" src="https://badgen.net/github/stars/raeseoklee/ssmv?style=flat&label=" /> - 轻量级 Markdown 阅读器，支持通过大纲跳转章节，并可一键导出 PDF。
+- [Typeset.md](https://github.com/deeflect/typeset) <img align="bottom" height="13" src="https://badgen.net/github/stars/deeflect/typeset?style=flat&label=" /> - 专为阅读 AI 编程助手和 GitHub 仓库生成文档打造的原生 Markdown 阅读器。
 
 ### 文本
 

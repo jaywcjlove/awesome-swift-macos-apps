@@ -759,6 +759,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [PreviewMD](https://github.com/ychani/PreviewMD) <img align="bottom" height="13" src="https://badgen.net/github/stars/ychani/PreviewMD?style=flat&label=" /> - Preview Markdown files in Finder and read files or folders.
 - [Quill](https://github.com/hridaya423/quill) <img align="bottom" height="13" src="https://badgen.net/github/stars/hridaya423/quill?style=flat&label=" /> - A Markdown editor where Claude Code, Codex or Cursor edits your draft in place, and you keep or revert each change.
 - [SSMV](https://github.com/raeseoklee/ssmv) <img align="bottom" height="13" src="https://badgen.net/github/stars/raeseoklee/ssmv?style=flat&label=" /> - Lightweight Markdown viewer with an outline for jumping between sections and one-click PDF export.
+- [Typeset.md](https://github.com/deeflect/typeset) <img align="bottom" height="13" src="https://badgen.net/github/stars/deeflect/typeset?style=flat&label=" /> - Native Markdown reader optimized for AI coding assistant and GitHub docs.
 
 ### Text
 
