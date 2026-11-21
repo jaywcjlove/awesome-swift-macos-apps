@@ -718,6 +718,7 @@
 - [Maltex](https://github.com/lpgneg19/Maltex) <img align="bottom" height="13" src="https://badgen.net/github/stars/lpgneg19/Maltex?style=flat&label=" /> - 基于 aria2 的下载管理器。
 - [Pastel](https://github.com/EEliberto/IPA-Download) <img align="bottom" height="13" src="https://badgen.net/github/stars/EEliberto/IPA-Download?style=flat&label=" /> - 用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。
 - [Pluck](https://github.com/Astrofrogger/pluck) <img align="bottom" height="13" src="https://badgen.net/github/stars/Astrofrogger/pluck?style=flat&label=" /> - 可在 Mac 应用里下载 YouTube、Spotify、Apple Music 链接及几乎所有网站上的视频和音乐。
+- [Reel](https://github.com/shivvaaxx/Reel) <img align="bottom" height="13" src="https://badgen.net/github/stars/shivvaaxx/Reel?style=flat&label=" /> - 原生 macOS 下载管理器，支持从 1000 多个网站下载视频、图片和音频。
 - [闪电全能(Shandian)](https://github.com/chenmozhe008/shandian-download) <img align="bottom" height="13" src="https://badgen.net/github/stars/chenmozhe008/shandian-download?style=flat&label=" /> - 集磁力、种子、直链和主流平台视频下载于一体的 Mac 下载管理器。
 - [Swifty Download Manager](https://github.com/Kyle-Ye/SwiftyDownloadManager) <img align="bottom" height="13" src="https://badgen.net/github/stars/Kyle-Ye/SwiftyDownloadManager?style=flat&label=" /> - 适用于 macOS、iOS 和 iPadOS 的原生下载管理器，支持断点续传、详细进度、持久历史与 Safari/Chrome 浏览器接管。
 - [TBD](https://github.com/eliorpom-cmd/to-be-downloaded) <img align="bottom" height="13" src="https://badgen.net/github/stars/eliorpom-cmd/to-be-downloaded?style=flat&label=" /> - 粘贴链接即可下载文件，基于 yt-dlp，还可在自家 Wi-Fi 下用手机远程驱动。
