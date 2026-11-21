@@ -1230,6 +1230,7 @@
 - [DynamicNotchKit](https://github.com/MrKai77/DynamicNotchKit) <img align="bottom" height="13" src="https://badgen.net/github/stars/MrKai77/DynamicNotchKit?style=flat&label=" /> - 让你的 macOS 应用无缝适配刘海屏时代
 - [Glance](https://github.com/glanceformac/glance) <img align="bottom" height="13" src="https://badgen.net/github/stars/glanceformac/glance?style=flat&label=" /> - 刘海多功能面板，集中查看音乐、天气、日历、专注计时、剪贴板、文件和通知。
 - [Gojo](https://github.com/rohoswagger/gojo) <img align="bottom" height="13" src="https://badgen.net/github/stars/rohoswagger/gojo?style=flat&label=" /> - 把刘海变成标签式 HUD，集成音乐、剪贴板历史、文件架、窗口管理等常用控制。
+- [GravityNotch](https://github.com/adrielakak/GravityNotch) <img align="bottom" height="13" src="https://badgen.net/github/stars/adrielakak/GravityNotch?style=flat&label=" /> - 将刘海变成灵动岛，提供系统 HUD、带同步歌词的锁屏播放器、AirPods 电量、剪贴板历史、屏幕 OCR 以及 Claude Code 智能体状态追踪。
 - [HideNotch](https://github.com/niklasravnsborg/HideNotch) <img align="bottom" height="13" src="https://badgen.net/github/stars/niklasravnsborg/HideNotch?style=flat&label=" /> - 将菜单栏变黑以隐藏刘海，也可为屏幕边角添加圆角。
 - [Ledge](https://github.com/egemertbalcik/Ledge) <img align="bottom" height="13" src="https://badgen.net/github/stars/egemertbalcik/Ledge?style=flat&label=" /> - 在刘海中显示正在播放的音乐、计时器和即将开始的会议等信息。
 - [Peninsula](https://github.com/Celve/Peninsula) <img align="bottom" height="13" src="https://badgen.net/github/stars/Celve/Peninsula?style=flat&label=" /> - 基于 macOS 刘海的窗口管理器和消息中心
