@@ -794,6 +794,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Finder
 
+- [cmdX](https://github.com/YONN2222/cmdX) <img align="bottom" height="13" src="https://badgen.net/github/stars/YONN2222/cmdX?style=flat&label=" /> - Adds ⌘X and ⌘V shortcuts to cut and move files in Finder.
 - [Finder Grouping Assistant](https://github.com/myyccccc/Finder-Grouping-Assistant) <img align="bottom" height="13" src="https://badgen.net/github/stars/myyccccc/Finder-Grouping-Assistant?style=flat&label=" /> - Menu bar app that applies your chosen grouping and sorting to every Finder window automatically.
 - [Gocci](https://github.com/piro0919/gocci) <img align="bottom" height="13" src="https://badgen.net/github/stars/piro0919/gocci?style=flat&label=" /> - Mounts Google Drive anywhere in Finder, from the menu bar.
 - [FileFluss](https://github.com/rana-gmbh/FileFluss) <img align="bottom" height="13" src="https://badgen.net/github/stars/rana-gmbh/FileFluss?style=flat&label=" /> - Dual-panel file manager with cloud storage support for seamless file operations.

@@ -792,6 +792,7 @@
 
 ## Finder
 
+- [cmdX](https://github.com/YONN2222/cmdX) <img align="bottom" height="13" src="https://badgen.net/github/stars/YONN2222/cmdX?style=flat&label=" /> - 为 Finder 添加 ⌘X 剪切与 ⌘V 移动文件快捷键。
 - [Finder Grouping Assistant](https://github.com/myyccccc/Finder-Grouping-Assistant) <img align="bottom" height="13" src="https://badgen.net/github/stars/myyccccc/Finder-Grouping-Assistant?style=flat&label=" /> - 菜单栏小工具，自动为每个 Finder 窗口应用你选的分组和排序。
 - [Gocci](https://github.com/piro0919/gocci) <img align="bottom" height="13" src="https://badgen.net/github/stars/piro0919/gocci?style=flat&label=" /> - 从菜单栏把 Google 云端硬盘挂载到 Finder 的任意位置。
 - [FileFluss](https://github.com/rana-gmbh/FileFluss) <img align="bottom" height="13" src="https://badgen.net/github/stars/rana-gmbh/FileFluss?style=flat&label=" /> - 支持云存储的双面板文件管理器，提供无缝的文件操作。
