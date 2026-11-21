@@ -254,6 +254,7 @@
 - [Scope](https://github.com/billthefarmer/audiotools/tree/master/Scope/swift) <img align="bottom" height="13" src="https://badgen.net/github/stars/billthefarmer/audiotools?style=flat&label=" /> - 音频示波器工具。
 - [ShengJi(声迹)](https://github.com/maddylaneeee/ShengJi) <img align="bottom" height="13" src="https://badgen.net/github/stars/maddylaneeee/ShengJi?style=flat&label=" /> - 面向麦克风、媒体文件和系统音频的开源本地转录与字幕编辑器。
 - [SmartPause](https://github.com/yasinozmeen/smartpause) <img align="bottom" height="13" src="https://badgen.net/github/stars/yasinozmeen/smartpause?style=flat&label=" /> - 将播放/暂停媒体键路由到当前真正在播放声音的应用。
+- [Smorza](https://github.com/rokoov/smorza) <img align="bottom" height="13" src="https://badgen.net/github/stars/rokoov/smorza?style=flat&label=" /> - 逐应用音量混音器，可单独调节音量、静音并选择输出设备。
 - [Sonexis](https://github.com/skanda-vyas-srinivasan/Sonexis) <img align="bottom" height="13" src="https://badgen.net/github/stars/skanda-vyas-srinivasan/Sonexis?style=flat&label=" /> - 系统级音频处理器，支持可视化 EQ、压缩、混响与 AU 插件效果链，无需虚拟驱动。
 - [Sound Guard](https://github.com/wlzh/sound-guard-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/wlzh/sound-guard-mac?style=flat&label=" /> - 单向输出音量守护：长时间无播放自动静音，不经点击确认绝不恢复。
 - [Spotify4BigSur](https://github.com/fabiusBile/Spotify4BigSur) <img align="bottom" height="13" src="https://badgen.net/github/stars/fabiusBile/Spotify4BigSur?style=flat&label=" /> - Spotify 通知中心小组件。
