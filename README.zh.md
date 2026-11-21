@@ -867,6 +867,7 @@
 - [berth](https://github.com/tofa84/berth) <img align="bottom" height="13" src="https://badgen.net/github/stars/tofa84/berth?style=flat&label=" /> - Apple 容器 CLI 的原生 GUI，通过 XPC 提供实时日志、动态状态和类型化数据。
 - [Berthly](https://github.com/henrywang/Berthly) <img align="bottom" height="13" src="https://badgen.net/github/stars/henrywang/Berthly?style=flat&label=" /> - Apple 容器工具的原生 GUI，支持菜单栏实时监控与拖拽构建镜像。
 - [GhostVM](https://github.com/groundwater/GhostVM) <img align="bottom" height="13" src="https://badgen.net/github/stars/groundwater/GhostVM?style=flat&label=" /> - 用于创建隔离工作区、快照和可移植虚拟机包的虚拟机管理器。
+- [Hangar](https://github.com/baseguard/hangar) <img align="bottom" height="13" src="https://badgen.net/github/stars/baseguard/hangar?style=flat&label=" /> - 在虚拟机中隔离运行 AI 编程代理，保护 Mac 主机。
 - [Contained](https://github.com/tdeverx/contained-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/tdeverx/contained-app?style=flat&label=" /> - 原生 SwiftUI 界面，用于运行和管理 Linux 容器的 Apple Container CLI 前端。
 - [iContainer](https://github.com/nico81/iContainer) <img align="bottom" height="13" src="https://badgen.net/github/stars/nico81/iContainer?style=flat&label=" /> - Apple Container 的 GUI 应用。
 - [ContainerUtility](https://github.com/erdaltoprak/ContainerUtility) <img align="bottom" height="13" src="https://badgen.net/github/stars/erdaltoprak/ContainerUtility?style=flat&label=" /> - 通过容器 CLI 管理容器、镜像、网络和卷的 SwiftUI 实用工具。
