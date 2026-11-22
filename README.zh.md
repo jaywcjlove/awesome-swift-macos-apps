@@ -813,6 +813,7 @@
 - [FolderForge](https://github.com/KeplSiv/FolderForge) <img align="bottom" height="13" src="https://badgen.net/github/stars/KeplSiv/FolderForge?style=flat&label=" /> - 使用颜色、图片、符号、文字、表情符号或 ICNS 文件自定义文件夹图标。
 - [Foldout](https://github.com/justadityaraj/folderglass) <img align="bottom" height="13" src="https://badgen.net/github/stars/justadityaraj/folderglass?style=flat&label=" /> - 用 Quick Look 预览文件夹内容、大小、文件类型及项目详情。
 - [Neatly](https://github.com/alpozaydin/neatly) <img align="bottom" height="13" src="https://badgen.net/github/stars/alpozaydin/neatly?style=flat&label=" /> - 根据文件内容重命名并推荐文件夹的 AI 工具。
+- [NewFile](https://github.com/mariusgm/newfile) <img align="bottom" height="13" src="https://badgen.net/github/stars/mariusgm/newfile?style=flat&label=" /> - 为 Finder 添加新建文件按钮和右键菜单，可快速创建自定义类型文件。
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) <img align="bottom" height="13" src="https://badgen.net/github/stars/Ji4n1ng/OpenInTerminal?style=flat&label=" /> - 用于在终端中打开当前文件夹的 Finder 工具栏工具。
 - [OpenInHelix](https://github.com/dickiedyce/OpenInHelix) <img align="bottom" height="13" src="https://badgen.net/github/stars/dickiedyce/OpenInHelix?style=flat&label=" /> - 可在 Finder 中双击文件时通过终端用 Helix 编辑器打开。
 - [OpenShelf](https://github.com/Manan-Santoki/OpenShelf) <img align="bottom" height="13" src="https://badgen.net/github/stars/Manan-Santoki/OpenShelf?style=flat&label=" /> - 拖动文件时呼出扇形菜单，快速整理文件。
