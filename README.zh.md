@@ -455,6 +455,7 @@
 - [SummonOS](https://github.com/RohiRIK/SummonOS) <img align="bottom" height="13" src="https://badgen.net/github/stars/RohiRIK/SummonOS?style=flat&label=" /> - 为 AI 智能体提供 macOS 系统访问与可撤销设置管理能力的原生工具。
 - [SuperIsland](https://github.com/shobhit99/SuperIsland) <img align="bottom" height="13" src="https://badgen.net/github/stars/shobhit99/SuperIsland?style=flat&label=" /> - 将刘海区域变为可交互灵动岛，实时显示媒体、电量、天气、日历和通知。
 - [TabType](https://github.com/nilava/TabType) <img align="bottom" height="13" src="https://badgen.net/github/stars/nilava/TabType?style=flat&label=" /> - 完全本地的 AI 输入预测，在你打字时预测后续词汇，无需联网、无需账号。
+- [Talis](https://github.com/viowai/7viow-talis) <img align="bottom" height="13" src="https://badgen.net/github/stars/viowai/7viow-talis?style=flat&label=" /> - 提示词工作台，可通过追问完善思路，并复用个人模板。
 - [VibeProxy](https://github.com/automazeio/vibeproxy) <img align="bottom" height="13" src="https://badgen.net/github/stars/automazeio/vibeproxy?style=flat&label=" /> - 菜单栏应用，无需 API 密钥即可用现有订阅与 AI 编码工具集成。
 - [Warden](https://github.com/SidhuK/WardenApp) <img align="bottom" height="13" src="https://badgen.net/github/stars/SidhuK/WardenApp?style=flat&label=" /> - 支持本地模型和内置网页搜索的多提供商 AI 聊天客户端。
 - [Writing Tools](https://github.com/theJayTea/WritingTools) <img align="bottom" height="13" src="https://badgen.net/github/stars/theJayTea/WritingTools?style=flat&label=" /> - 全局 AI 写作助手，用于语法与表达优化。
