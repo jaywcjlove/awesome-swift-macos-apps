@@ -1893,6 +1893,7 @@
 - [NTFSTool](https://github.com/ntfstool/ntfstool) <img align="bottom" height="13" src="https://badgen.net/github/stars/ntfstool/ntfstool?style=flat&label=" /> - 基于 FSKit 的 NTFS 磁盘读写工具，无需内核扩展。
 - [Omnimount](https://github.com/ramdoor/omnimount) <img align="bottom" height="13" src="https://badgen.net/github/stars/ramdoor/omnimount?style=flat&label=" /> - 通过 FUSE 在 macOS 上读写 ext4 和 NTFS，提供菜单栏应用与命令行工具。
 - [OpenDisk](https://github.com/137137137/OpenDisk) <img align="bottom" height="13" src="https://badgen.net/github/stars/137137137/OpenDisk?style=flat&label=" /> - 一款快速、免费、开源的磁盘空间分析工具，以交互式旭日图可视化磁盘占用。
+- [OpenGestures](https://github.com/01wil/OpenGestures) <img align="bottom" height="13" src="https://badgen.net/github/stars/01wil/OpenGestures?style=flat&label=" /> - 将内置触控板和 Magic Trackpad 的多指手势映射为自定义操作。
 - [OpenHaystack](https://github.com/seemoo-lab/openhaystack) <img align="bottom" height="13" src="https://badgen.net/github/stars/seemoo-lab/openhaystack?style=flat&label=" /> - 通过苹果"查找"网络追踪蓝牙设备的开源工具。
 - [MacDirStat](https://github.com/phalladar/MacDirStat) <img align="bottom" height="13" src="https://badgen.net/github/stars/phalladar/MacDirStat?style=flat&label=" /> - 免费磁盘空间分析工具，以彩色树图展示文件占用情况。
 - [SpaceMap](https://github.com/renkagod/spacemap) <img align="bottom" height="13" src="https://badgen.net/github/stars/renkagod/spacemap?style=flat&label=" /> - 磁盘空间分析工具，以可缩放树图展示占用并实时更新扫描结果。
@@ -1938,7 +1939,7 @@
 - [TreeMap](https://github.com/Prithvi-Web/TreeMap-Disk-Visualizer) <img align="bottom" height="13" src="https://badgen.net/github/stars/Prithvi-Web/TreeMap-Disk-Visualizer?style=flat&label=" /> - 磁盘空间可视化工具，以树图展示文件占用并支持打开或删除文件。
 - [TrackNotch](https://github.com/manojacharix/tracknotch) <img align="bottom" height="13" src="https://badgen.net/github/stars/manojacharix/tracknotch?style=flat&label=" /> - 实时追踪 Claude、OpenAI、Cursor、Codex 等 LLM 用量，并在刘海区或菜单栏顶部显示。
 - [TrackWeight](https://github.com/KrishKrosh/TrackWeight) <img align="bottom" height="13" src="https://badgen.net/github/stars/KrishKrosh/TrackWeight?style=flat&label=" /> - 把你的 MacBook 触控板变成精准的数字秤。
-- [TripleClick](https://github.com/wilu222/tripleclick) <img align="bottom" height="13" src="https://badgen.net/github/stars/wilu222/tripleclick?style=flat&label=" /> - 将三指点按触控板转换为鼠标中键点击，并支持中键拖拽。
+- [TripleClick](https://github.com/wilu222/tripleclick) <img align="bottom" height="13" src="https://badgen.net/github/stars/wilu222/tripleclick?style=flat&label=" /> - 将触控板三指轻点映射为鼠标中键点击。
 - [TypeCue](https://github.com/alexpolonsky/TypeCue) <img align="bottom" height="13" src="https://badgen.net/github/stars/alexpolonsky/TypeCue?style=flat&label=" /> - 将剧本以真实击键的拟人速度逐段输入到任意应用中，每次按键触发一段。
 - [Typeflux](https://github.com/mylxsw/typeflux) <img align="bottom" height="13" src="https://badgen.net/github/stars/mylxsw/typeflux?style=flat&label=" /> - 按住 Fn 即可语音听写，双击 Fn 快速提问，将高精度语音转文字输入到任意应用并支持本地模型。
 - [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/Swift-open-source/UltraTabSaver?style=flat&label=" /> - Ultra TabSaver 是一个开源 Safari 标签管理器。
