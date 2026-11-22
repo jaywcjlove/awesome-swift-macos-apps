@@ -215,6 +215,7 @@
 - [inlaut](https://github.com/tobymarks/inlaut) <img align="bottom" height="13" src="https://badgen.net/github/stars/tobymarks/inlaut?style=flat&label=" /> - 轻量菜单栏语音听写工具，采用本地语音识别，重点支持德语。
 - [JackMate](https://github.com/zinc75/JackMate) <img align="bottom" height="13" src="https://badgen.net/github/stars/zinc75/JackMate?style=flat&label=" /> - 原生菜单栏应用，用于管理 JACK 音频服务器。
 - [Lavdeck](https://github.com/piedol/lavdeck) <img align="bottom" height="13" src="https://badgen.net/github/stars/piedol/lavdeck?style=flat&label=" /> - 在菜单栏查看 DJI Mic Series Mobile RX 状态并控制模式、增益和录音。
+- [LazyTune](https://github.com/Vic3z/LazyTune) <img align="bottom" height="13" src="https://badgen.net/github/stars/Vic3z/LazyTune?style=flat&label=" /> - 轻量级菜单栏应用级音频混音器，支持零干预直通（Zero-Touch Passthrough）以及网页与桌面播放器的通用媒体键（F7/F8/F9）控制。
 - [LyricsX](https://github.com/ddddxxx/LyricsX) <img align="bottom" height="13" src="https://badgen.net/github/stars/ddddxxx/LyricsX?style=flat&label=" /> - 显示 iTunes、Spotify 歌词。
 - [Lyrimuse](https://github.com/Yudaotor/lyrimuse) <img align="bottom" height="13" src="https://badgen.net/github/stars/Yudaotor/lyrimuse?style=flat&label=" /> - 跟随 Apple Music、QQ 音乐、网易云音乐、酷狗、Spotify 等正在播放的歌曲实时显示逐字同步歌词的悬浮歌词工具，并支持 Last.fm 听歌记录与翻译。
 - [Local Transcriber](https://github.com/teconomix/local-transcriber) <img align="bottom" height="13" src="https://badgen.net/github/stars/teconomix/local-transcriber?style=flat&label=" /> - 本地转录会议、通话和听写内容，并识别说话人。
