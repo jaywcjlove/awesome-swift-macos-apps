@@ -1859,6 +1859,7 @@
 - [HoldMac](https://github.com/Funnyrz/HoldMac) <img align="bottom" height="13" src="https://badgen.net/github/stars/Funnyrz/HoldMac?style=flat&label=" /> - 菜单栏文件暂存区，中转 Finder 拖拽流程中的文件。
 - [HoldQ](https://github.com/geragarazagh/holdq) <img align="bottom" height="13" src="https://badgen.net/github/stars/geragarazagh/holdq?style=flat&label=" /> - 防误退出工具：只有按住 ⌘Q 一秒才会退出应用。
 - [iGestures](https://github.com/ron159/iGestures) <img align="bottom" height="13" src="https://badgen.net/github/stars/ron159/iGestures?style=flat&label=" /> - 原生轻量鼠标手势工具，按住拖拽松开即可触发快捷命令。
+- [InputBattery](https://github.com/dirkkredinger/InputBattery) <img align="bottom" height="13" src="https://badgen.net/github/stars/dirkkredinger/InputBattery?style=flat&label=" /> - 在菜单栏和小组件中监控蓝牙键盘、鼠标和耳机的剩余电量。
 - [Keyden](https://github.com/tasselx/Keyden) <img align="bottom" height="13" src="https://badgen.net/github/stars/tasselx/Keyden?style=flat&label=" /> - 简洁优雅的 macOS 菜单栏 TOTP 验证。
 - [Kipless](https://github.com/ShiinaLabs/Kipless) <img align="bottom" height="13" src="https://badgen.net/github/stars/ShiinaLabs/Kipless?style=flat&label=" /> - 菜单栏防休眠工具，提供 System、Display 和 Closed Lid 三种模式。
 - [Lunar](https://github.com/alin23/lunar) <img align="bottom" height="13" src="https://badgen.net/github/stars/alin23/lunar?style=flat&label=" /> - 为外部显示器提供智能自适应亮度调节。
