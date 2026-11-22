@@ -1693,6 +1693,7 @@
 - [Clipp](https://github.com/martona/clipp) <img align="bottom" height="13" src="https://badgen.net/github/stars/martona/clipp?style=flat&label=" /> - 适用于可信设备的点对点剪贴板同步工具，可在自有网络中直接共享内容。
 - [Clippy](https://github.com/yarasaa/Clippy) <img align="bottom" height="13" src="https://badgen.net/github/stars/yarasaa/Clippy?style=flat&label=" /> - 支持卡片式历史、智能内容识别和本地 AI 文本处理的剪贴板管理工具。
 - [Clipfield](https://github.com/jolleyDesign/clipfield) <img align="bottom" height="13" src="https://badgen.net/github/stars/jolleyDesign/clipfield?style=flat&label=" /> - 美观实用的开源剪贴板管理器，支持历史搜索与快速粘贴。
+- [ClipHat](https://github.com/getguruhat/cliphat-macos) <img align="bottom" height="13" src="https://badgen.net/github/stars/getguruhat/cliphat-macos?style=flat&label=" /> - 保存文本、链接、图片和文件的剪贴板历史侧边栏，支持搜索、恢复与拖拽。
 - [Clipivo](https://github.com/jishnumahanta/clipivo) <img align="bottom" height="13" src="https://badgen.net/github/stars/jishnumahanta/clipivo?style=flat&label=" /> - 原生 macOS 剪贴板管理器，提供无限量且可搜索的历史记录。
 - [ClipLock](https://github.com/ed0157/ClipLock) <img align="bottom" height="13" src="https://badgen.net/github/stars/ed0157/ClipLock?style=flat&label=" /> - 轻量级菜单栏剪贴板历史应用，复制内容以 AES-256-GCM 加密保存，一键即可清空。
 - [Clip’M](https://github.com/Frazer/clipM) <img align="bottom" height="13" src="https://badgen.net/github/stars/Frazer/clipM?style=flat&label=" /> - 剪贴板管理工具，支持历史记录搜索、预览、可复用片段和粘贴内容转换。
