@@ -1830,6 +1830,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 - [AppDuo](https://github.com/tamia6/AppDuo) <img align="bottom" height="13" src="https://badgen.net/github/stars/tamia6/AppDuo?style=flat&label=" /> - App cloning tool with custom names, icons, and separate data directories.
 - [Airwave](https://github.com/sallliisa/Airwave) <img align="bottom" height="13" src="https://badgen.net/github/stars/sallliisa/Airwave?style=flat&label=" /> - Adds spatial audio to macOS for more immersive headphone sound.
+- [airplay-screen](https://github.com/drumandbytes/airplay-screen) <img align="bottom" height="13" src="https://badgen.net/github/stars/drumandbytes/airplay-screen?style=flat&label=" /> - Starts and stops AirPlay screen mirroring from the command line, with the menu bar hidden.
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/mortenjust/androidtool-mac?style=flat&label=" /> - Utility for one-click mobile screenshots, recordings, and app installs.
 - [Deskset](https://github.com/jokyme/Deskset) <img align="bottom" height="13" src="https://badgen.net/github/stars/jokyme/Deskset?style=flat&label=" /> - Native macOS desktop widgets with support for Rainmeter skins.
 - [Device Hub Pro](https://github.com/gitemre/device-hub-pro) <img align="bottom" height="13" src="https://badgen.net/github/stars/gitemre/device-hub-pro?style=flat&label=" /> - Mirror, control, and manage Android and iOS devices from your Mac.
