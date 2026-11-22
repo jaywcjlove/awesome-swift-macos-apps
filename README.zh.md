@@ -1937,6 +1937,7 @@
 - [TreeMap](https://github.com/Prithvi-Web/TreeMap-Disk-Visualizer) <img align="bottom" height="13" src="https://badgen.net/github/stars/Prithvi-Web/TreeMap-Disk-Visualizer?style=flat&label=" /> - 磁盘空间可视化工具，以树图展示文件占用并支持打开或删除文件。
 - [TrackNotch](https://github.com/manojacharix/tracknotch) <img align="bottom" height="13" src="https://badgen.net/github/stars/manojacharix/tracknotch?style=flat&label=" /> - 实时追踪 Claude、OpenAI、Cursor、Codex 等 LLM 用量，并在刘海区或菜单栏顶部显示。
 - [TrackWeight](https://github.com/KrishKrosh/TrackWeight) <img align="bottom" height="13" src="https://badgen.net/github/stars/KrishKrosh/TrackWeight?style=flat&label=" /> - 把你的 MacBook 触控板变成精准的数字秤。
+- [TripleClick](https://github.com/wilu222/tripleclick) <img align="bottom" height="13" src="https://badgen.net/github/stars/wilu222/tripleclick?style=flat&label=" /> - 将三指点按触控板转换为鼠标中键点击，并支持中键拖拽。
 - [TypeCue](https://github.com/alexpolonsky/TypeCue) <img align="bottom" height="13" src="https://badgen.net/github/stars/alexpolonsky/TypeCue?style=flat&label=" /> - 将剧本以真实击键的拟人速度逐段输入到任意应用中，每次按键触发一段。
 - [Typeflux](https://github.com/mylxsw/typeflux) <img align="bottom" height="13" src="https://badgen.net/github/stars/mylxsw/typeflux?style=flat&label=" /> - 按住 Fn 即可语音听写，双击 Fn 快速提问，将高精度语音转文字输入到任意应用并支持本地模型。
 - [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) <img align="bottom" height="13" src="https://badgen.net/github/stars/Swift-open-source/UltraTabSaver?style=flat&label=" /> - Ultra TabSaver 是一个开源 Safari 标签管理器。
