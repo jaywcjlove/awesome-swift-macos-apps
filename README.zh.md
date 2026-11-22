@@ -1522,6 +1522,7 @@
 - [ClipSync](https://github.com/WinShell-Bhanu/ClipSync) <img align="bottom" height="13" src="https://badgen.net/github/stars/WinShell-Bhanu/ClipSync?style=flat&label=" /> - 在 Android 和 Mac 之间即时、安全地同步剪贴板并传输文件。
 - [CrocApp](https://github.com/bakirgdev/CrocApp) <img align="bottom" height="13" src="https://badgen.net/github/stars/bakirgdev/CrocApp?style=flat&label=" /> - 使用加密口令向其他设备发送文件、文件夹和文本。
 - [Dropper](https://github.com/dropper-devs/dropper) <img align="bottom" height="13" src="https://badgen.net/github/stars/dropper-devs/dropper?style=flat&label=" /> - 拖拽文件到菜单栏，直接上传至你的 Cloudflare R2 存储桶并获取分享链接。
+- [FreeMacDroid](https://github.com/abolfazl-moeini/FreeMacDroid) <img align="bottom" height="13" src="https://badgen.net/github/stars/abolfazl-moeini/FreeMacDroid?style=flat&label=" /> - 通过 USB 将 Android 手机挂载到 Finder，像外置磁盘一样管理文件。
 - [mac2imgur](https://github.com/mileswd/mac2imgur) <img align="bottom" height="13" src="https://badgen.net/github/stars/mileswd/mac2imgur?style=flat&label=" /> - 图片和截图快速上传 Imgur 分享工具。
 - [Perch](https://github.com/maxthegray/Perch) <img align="bottom" height="13" src="https://badgen.net/github/stars/maxthegray/Perch?style=flat&label=" /> - 屏幕边缘拖放暂存架，可先存放文件或内容，稍后再拖入任意应用。
 - [RetroDrop](https://github.com/samir-bujawdeh/RetroDrop) <img align="bottom" height="13" src="https://badgen.net/github/stars/samir-bujawdeh/RetroDrop?style=flat&label=" /> - 通过 Wi-Fi 把旧 iPhone 的照片和视频传到 Mac。
