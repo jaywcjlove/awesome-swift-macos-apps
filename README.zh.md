@@ -1188,6 +1188,7 @@
 - [Ports](https://github.com/CorvidLabs/Ports) <img align="bottom" height="13" src="https://badgen.net/github/stars/CorvidLabs/Ports?style=flat&label=" /> - macOS 菜单栏端口查看器和管理器。
 - [PortRadar](https://github.com/joeystdio/PortRadar) <img align="bottom" height="13" src="https://badgen.net/github/stars/joeystdio/PortRadar?style=flat&label=" /> - 在菜单栏查看和管理本地及开发端口。
 - [Portside](https://github.com/brentc22/portside) <img align="bottom" height="13" src="https://badgen.net/github/stars/brentc22/portside?style=flat&label=" /> - 在菜单栏按仓库与 Git worktree 分组查看开发服务器，并可一键停止。
+- [PowerLock](https://github.com/pandengyao/PowerLock) <img align="bottom" height="13" src="https://badgen.net/github/stars/pandengyao/PowerLock?style=flat&label=" /> - 插电时让 MacBook 合盖保持唤醒，拔电后恢复休眠。
 - [Qind](https://github.com/soonxf/Qind) <img align="bottom" height="13" src="https://badgen.net/github/stars/soonxf/Qind?style=flat&label=" /> - 菜单栏工具集，集成截图、录屏、剪贴板、应用快捷键与输入法切换等模块。
 - [Quickeys](https://github.com/alexrosenfeld10/Quickeys) <img align="bottom" height="13" src="https://badgen.net/github/stars/alexrosenfeld10/Quickeys?style=flat&label=" /> - 支持快速下拉记笔记的工具。
 - [QuickNetStats](https://github.com/FI-153/QuickNetStats) <img align="bottom" height="13" src="https://badgen.net/github/stars/FI-153/QuickNetStats?style=flat&label=" /> - 在菜单栏中直接显示网络统计信息与状态洞察。
