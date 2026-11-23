@@ -1281,7 +1281,7 @@
 - [MacMusicPlayer](https://github.com/samzong/macmusicplayer) <img align="bottom" height="13" src="https://badgen.net/github/stars/samzong/macmusicplayer?style=flat&label=" /> - 一款简洁、轻量的 macOS 音乐播放器。
 - [MAcordion](https://github.com/bruiselea/MAcordion) <img align="bottom" height="13" src="https://badgen.net/github/stars/bruiselea/MAcordion?style=flat&label=" /> - 将笔记本电脑变成可演奏的手风琴，开合屏幕带动风箱，用键盘演奏音符。
 - [MadTunes](https://github.com/ShikiSuen/MadTunes) <img align="bottom" height="13" src="https://badgen.net/github/stars/ShikiSuen/MadTunes?style=flat&label=" /> - 一款针对音频发烧友设计的简便的高音质音乐播放器。
-- [Mooziac](https://github.com/shirkeharsh/mooziac) <img align="bottom" height="13" src="https://badgen.net/github/stars/shirkeharsh/mooziac?style=flat&label=" /> - YouTube Music 与本地音频的菜单栏播放器，带轻量 Dynamic Island 界面、同步歌词和触控板手势。
+- [Mooziac](https://github.com/shirkeharsh/mooziac) <img align="bottom" height="13" src="https://badgen.net/github/stars/shirkeharsh/mooziac?style=flat&label=" /> - 原生 YouTube 和 YouTube Music 播放器，支持本地音频和同步歌词。
 - [NotchMuse](https://github.com/Xiye88/NotchMuse) <img align="bottom" height="13" src="https://badgen.net/github/stars/Xiye88/NotchMuse?style=flat&label=" /> - 聚合多平台同步歌词，可在菜单栏、刘海、侧边栏或 Dock 显示。
 - [Music Router](https://github.com/drumandbytes/music-router) <img align="bottom" height="13" src="https://badgen.net/github/stars/drumandbytes/music-router?style=flat&label=" /> - 阻止 Music.app 自动启动，并把键盘媒体键路由给真正该接收它们的播放应用。
 - [Needle](https://github.com/Yvsleyen00941/Needle) <img align="bottom" height="13" src="https://badgen.net/github/stars/Yvsleyen00941/Needle?style=flat&label=" /> - 在 Dock 旁的角落显示当前播放曲目的专辑封面与歌曲名称。
