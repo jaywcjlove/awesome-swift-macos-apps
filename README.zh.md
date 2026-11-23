@@ -1734,6 +1734,7 @@
 - [Recall](https://github.com/cnazk/recall-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/cnazk/recall-mac?style=flat&label=" /> - 剪贴板管理工具，内置端侧语义搜索，按含义而非字词查找复制内容，并严格保护凭据。
 - [SparlaCopy](https://github.com/jeroensparla/sparlacopy) <img align="bottom" height="13" src="https://badgen.net/github/stars/jeroensparla/sparlacopy?style=flat&label=" /> - 开源菜单栏剪贴板工具，提供编号槽位、FIFO 队列、纯文本转换和智能粘贴配置。
 - [Skrepka](https://github.com/psoldunov/skrepka) <img align="bottom" height="13" src="https://badgen.net/github/stars/psoldunov/skrepka?style=flat&label=" /> - 剪贴板历史管理器，快捷键呼出不抢焦点的选择器，配对设备间在局域网内共享历史。
+- [SmartClip](https://github.com/reathloo/smartClip) <img align="bottom" height="13" src="https://badgen.net/github/stars/reathloo/smartClip?style=flat&label=" /> - 注重隐私的剪贴板历史工具，采用本地加密存储，并自动保护敏感复制内容。
 - [SmartClipboard](https://github.com/saihgupr/SmartClipboard) <img align="bottom" height="13" src="https://badgen.net/github/stars/saihgupr/SmartClipboard?style=flat&label=" /> - AI 驱动的剪贴板管理器，支持语义搜索，提升剪贴板体验。
 - [Tameo](https://github.com/supergodak/tameo) <img align="bottom" height="13" src="https://badgen.net/github/stars/supergodak/tameo?style=flat&label=" /> - 现代隐私优先的剪贴板管理器，Clipy 的原生继任者。
 - [Tietie](https://github.com/KLWSharpe/tietie) <img align="bottom" height="13" src="https://badgen.net/github/stars/KLWSharpe/tietie?style=flat&label=" /> - 按数字键直接粘贴、还能用图片里的文字找回截图的剪贴板历史工具，界面为繁体中文。
