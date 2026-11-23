@@ -946,6 +946,7 @@
 - [PrimeSnap](https://github.com/nivohavi/primesnap) <img align="bottom" height="13" src="https://badgen.net/github/stars/nivohavi/primesnap?style=flat&label=" /> - 轻量级截图美化工具，支持截图、加框、标注、涂黑和复制。
 - [Topkit](https://github.com/taimansulimani/topkit) <img align="bottom" height="13" src="https://badgen.net/github/stars/taimansulimani/topkit?style=flat&label=" /> - 菜单栏工具，支持复制粘贴、演示标注，以及录制带标注的截图与视频，并可自定义全局快捷键。
 - [Sitch](https://github.com/phalladar/Sitch) <img align="bottom" height="13" src="https://badgen.net/github/stars/phalladar/Sitch?style=flat&label=" /> - 免费的开源 Skitch 替代品：快捷键截屏、加上标志性箭头、模糊敏感信息，一键粘贴到 Slack。
+- [WE Screenshot](https://github.com/JaffarSk24/WE-Screenshot) <img align="bottom" height="13" src="https://badgen.net/github/stars/JaffarSk24/WE-Screenshot?style=flat&label=" /> - 菜单栏截图工具，支持标注和按需上传至 Google 云端硬盘。
 
 ## IDE
 

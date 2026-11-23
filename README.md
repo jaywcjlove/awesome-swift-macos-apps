@@ -949,6 +949,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [PrimeSnap](https://github.com/nivohavi/primesnap) <img align="bottom" height="13" src="https://badgen.net/github/stars/nivohavi/primesnap?style=flat&label=" /> - Lightweight screenshot beautifier for macOS: capture, frame, annotate, redact, and copy.
 - [Topkit](https://github.com/taimansulimani/topkit) <img align="bottom" height="13" src="https://badgen.net/github/stars/taimansulimani/topkit?style=flat&label=" /> - Menu bar tool for copy/paste, presenting, and recording annotated screenshots and videos, with customizable global shortcuts.
 - [Sitch](https://github.com/phalladar/Sitch) <img align="bottom" height="13" src="https://badgen.net/github/stars/phalladar/Sitch?style=flat&label=" /> - Free Skitch alternative: hotkey capture, iconic arrow, blur, and paste straight into Slack.
+- [WE Screenshot](https://github.com/JaffarSk24/WE-Screenshot) <img align="bottom" height="13" src="https://badgen.net/github/stars/JaffarSk24/WE-Screenshot?style=flat&label=" /> - Menu bar screenshot tool with annotation and optional Google Drive upload.
 
 ## IDE
 
