@@ -286,6 +286,7 @@
 - [jmc](https://github.com/jcm93/jmc) <img align="bottom" height="13" src="https://badgen.net/github/stars/jcm93/jmc?style=flat&label=" /> - macOS 媒体管理器。
 - [waveSDR](https://github.com/getoffmyhack/waveSDR) <img align="bottom" height="13" src="https://badgen.net/github/stars/getoffmyhack/waveSDR?style=flat&label=" /> - 无线电接收应用。
 - [Voice Island](https://github.com/Voice-Island/voice-island) <img align="bottom" height="13" src="https://badgen.net/github/stars/Voice-Island/voice-island?style=flat&label=" /> - 在 Mac 上通过语音输入文字、执行操作并获取回答的语音应用。
+- [VoiceFn](https://github.com/relsett/voicefn) <img align="bottom" height="13" src="https://badgen.net/github/stars/relsett/voicefn?style=flat&label=" /> - 按住或按下 Fn 键语音输入，并将文字实时输入到光标位置。
 - [VoiceInput](https://github.com/yetone/voice-input-dist) <img align="bottom" height="13" src="https://badgen.net/github/stars/yetone/voice-input-dist?style=flat&label=" /> - 实时语音转文字工具，可将转写内容直接输入到当前聚焦应用。
 - [VoiceInk](https://github.com/Beingpax/VoiceInk) <img align="bottom" height="13" src="https://badgen.net/github/stars/Beingpax/VoiceInk?style=flat&label=" /> - 实时语音转文字工具。
 - [Voicely](https://github.com/StulkovLD/Voicely) <img align="bottom" height="13" src="https://badgen.net/github/stars/StulkovLD/Voicely?style=flat&label=" /> - 本地离线语音输入，可录制通话并区分说话人、转写音视频文件，并提供供 AI 编码助手使用的本地 MCP 服务器。
