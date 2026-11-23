@@ -1914,6 +1914,7 @@
 - [Pelmet](https://github.com/fif7y/pelmet) <img align="bottom" height="13" src="https://badgen.net/github/stars/fif7y/pelmet?style=flat&label=" /> - 隐藏不需要的菜单栏图标，悬停、点击或按下快捷键即可让图标重新滑出显示。
 - [PortKiller](https://github.com/productdevbook/port-killer) <img align="bottom" height="13" src="https://badgen.net/github/stars/productdevbook/port-killer?style=flat&label=" /> - 一款用于查找并终止端口进程的 macOS 菜单栏应用。
 - [Pinster](https://github.com/nickustinov/pinster-macos) <img align="bottom" height="13" src="https://badgen.net/github/stars/nickustinov/pinster-macos?style=flat&label=" /> - 菜单栏应用，可快速访问置顶网站。
+- [Pokelet](https://github.com/smcnab1/pokelet) <img align="bottom" height="13" src="https://badgen.net/github/stars/smcnab1/pokelet?style=flat&label=" /> - 原生 macOS 动画光标工具，提供卡通光标角色、点击特效和可选音效。
 - [Quant Keyboard](https://github.com/avklyuev79-hash/quant-keyboard) <img align="bottom" height="13" src="https://badgen.net/github/stars/avklyuev79-hash/quant-keyboard?style=flat&label=" /> - 键盘布局自动切换器，在错误布局下打字时自动修正文本，完全离线运行。
 - [Read Assist](https://github.com/ai-nuke/read-assist) <img align="bottom" height="13" src="https://badgen.net/github/stars/ai-nuke/read-assist?style=flat&label=" /> - 阅读伴侣，随读随问，结合上下文解释词义并把段落讲得通俗易懂。
 - [Reclaim](https://github.com/akmittal/reclaim) <img align="bottom" height="13" src="https://badgen.net/github/stars/akmittal/reclaim?style=flat&label=" /> - 轻量级系统优化工具，可清理垃圾文件、卸载应用和分析磁盘空间。
