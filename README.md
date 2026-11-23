@@ -1385,6 +1385,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 ## Launchpad
 
 - [Copperlight](https://github.com/ramosrob/copperlight) <img align="bottom" height="13" src="https://badgen.net/github/stars/ramosrob/copperlight?style=flat&label=" /> - Keyboard launcher for apps, files, math, clipboard history, notes, and windows.
+- [Dock Tile](https://github.com/k97/dock-tile) <img align="bottom" height="13" src="https://badgen.net/github/stars/k97/dock-tile?style=flat&label=" /> - Creates custom Dock folders to group and launch apps.
 - [Foundry](https://github.com/hridaya423/foundry) <img align="bottom" height="13" src="https://badgen.net/github/stars/hridaya423/foundry?style=flat&label=" /> - A native launcher with clipboard history, snippets, window layouts, file search and AI chat in one panel.
 - [Keylane](https://github.com/Acckion/Keylane) <img align="bottom" height="13" src="https://badgen.net/github/stars/Acckion/Keylane?style=flat&label=" /> - Keyboard launcher for apps, files, clipboard history, and system tools.
 - [KidoX](https://github.com/defcc/kidox.app) <img align="bottom" height="13" src="https://badgen.net/github/stars/defcc/kidox.app?style=flat&label=" /> - A modern Launchpad replacement with fast search, clean organization, and keyboard-friendly navigation.

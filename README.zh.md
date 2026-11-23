@@ -1358,6 +1358,7 @@
 ## 启动台
 
 - [Copperlight](https://github.com/ramosrob/copperlight) <img align="bottom" height="13" src="https://badgen.net/github/stars/ramosrob/copperlight?style=flat&label=" /> - 键盘启动器，可搜索应用、文件、计算、剪贴板历史、笔记和窗口。
+- [Dock Tile](https://github.com/k97/dock-tile) <img align="bottom" height="13" src="https://badgen.net/github/stars/k97/dock-tile?style=flat&label=" /> - 创建自定义 Dock 文件夹，分组并快速启动应用。
 - [Foundry](https://github.com/hridaya423/foundry) <img align="bottom" height="13" src="https://badgen.net/github/stars/hridaya423/foundry?style=flat&label=" /> - 原生启动器，在一个面板中集成剪贴板历史、文本片段、窗口布局、文件搜索和 AI 聊天。
 - [Keylane](https://github.com/Acckion/Keylane) <img align="bottom" height="13" src="https://badgen.net/github/stars/Acckion/Keylane?style=flat&label=" /> - 键盘启动器，可搜索并打开应用、文件，查看剪贴板历史和调用系统工具。
 - [KidoX](https://github.com/defcc/kidox.app) <img align="bottom" height="13" src="https://badgen.net/github/stars/defcc/kidox.app?style=flat&label=" /> - 现代 Launchpad 替代品，支持快速搜索、清晰组织和键盘友好导航。
