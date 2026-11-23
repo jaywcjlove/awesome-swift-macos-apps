@@ -1956,6 +1956,7 @@
 - [eul](https://github.com/gao-sun/eul) <img align="bottom" height="13" src="https://badgen.net/github/stars/gao-sun/eul?style=flat&label=" /> - 用 SwiftUI 编写的 macOS 状态监视应用程序。
 - [mac-sound-fix](https://github.com/dragstor/mac-sound-fix) <img align="bottom" height="13" src="https://badgen.net/github/stars/dragstor/mac-sound-fix?style=flat&label=" /> - Mac 声音重新启用工具。
 - [wechsel](https://github.com/friedrichweise/wechsel) <img align="bottom" height="13" src="https://badgen.net/github/stars/friedrichweise/wechsel?style=flat&label=" /> - 使用键盘管理蓝牙连接。
+- [Verticar](https://github.com/sarogreco/Verticar) <img align="bottom" height="13" src="https://badgen.net/github/stars/sarogreco/Verticar?style=flat&label=" /> - 通过 Sidecar 将 iPad 变为 Mac 的竖屏副显示器。
 - [Vorssaint](https://github.com/vorssaint/vorssaint-utils) <img align="bottom" height="13" src="https://badgen.net/github/stars/vorssaint/vorssaint-utils?style=flat&label=" /> - 一个集成了防休眠、单应用音调、窗口切换和深度卸载等功能的开源免费本地工具箱。
 - [VolumeGlass](https://github.com/aarush67/VolumeGlass-Code) <img align="bottom" height="13" src="https://badgen.net/github/stars/aarush67/VolumeGlass-Code?style=flat&label=" /> - 一款 iOS 风格的玻璃质感 macOS 音量指示器。
 - [WatchPointer](https://github.com/umarz317/WatchPointer) <img align="bottom" height="13" src="https://badgen.net/github/stars/umarz317/WatchPointer?style=flat&label=" /> - 通过蓝牙将 Apple Watch 的手腕动作转换为 Mac 光标移动、点击和拖拽。
