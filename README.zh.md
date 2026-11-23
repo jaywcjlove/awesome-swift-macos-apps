@@ -813,6 +813,7 @@
 - [Findly](https://github.com/rocavence/Findly-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/rocavence/Findly-app?style=flat&label=" /> - 可从屏幕边缘呼出的 Finder 风格文件抽屉菜单栏应用。
 - [FlowVision](https://github.com/netdcy/FlowVision) <img align="bottom" height="13" src="https://badgen.net/github/stars/netdcy/FlowVision?style=flat&label=" /> - 瀑布流式图像与视频查看器。
 - [Kumquat](https://github.com/TheAlexRay/kumquat) <img align="bottom" height="13" src="https://badgen.net/github/stars/TheAlexRay/kumquat?style=flat&label=" /> - 菜单栏文件转换工具，支持处理多种媒体和文档格式。
+- [Lokii](https://github.com/huangy7/lokii) <img align="bottom" height="13" src="https://badgen.net/github/stars/huangy7/lokii?style=flat&label=" /> - 原生 macOS 文件搜索工具，提供近乎即时的搜索结果。
 - [小羊贴纸铺 · mie-iconner](https://github.com/xw-meow/mie-iconner) <img align="bottom" height="13" src="https://badgen.net/github/stars/xw-meow/mie-iconner?style=flat&label=" /> - 将喜欢的图片设为文件夹图标，随时可还原。
 - [FolderForge](https://github.com/KeplSiv/FolderForge) <img align="bottom" height="13" src="https://badgen.net/github/stars/KeplSiv/FolderForge?style=flat&label=" /> - 使用颜色、图片、符号、文字、表情符号或 ICNS 文件自定义文件夹图标。
 - [Foldout](https://github.com/justadityaraj/folderglass) <img align="bottom" height="13" src="https://badgen.net/github/stars/justadityaraj/folderglass?style=flat&label=" /> - 用 Quick Look 预览文件夹内容、大小、文件类型及项目详情。
