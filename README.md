@@ -843,6 +843,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Window Glue](https://github.com/Conxt/WindowGlue) <img align="bottom" height="13" src="https://badgen.net/github/stars/Conxt/WindowGlue?style=flat&label=" /> - Tool for linking two windows to move and resize together.
 - [FinderSearch](https://github.com/zeusinsight/FinderSearch) <img align="bottom" height="13" src="https://badgen.net/github/stars/zeusinsight/FinderSearch?style=flat&label=" /> - Native Mac file browser with fast fuzzy filename search, folder browsing, and previews.
 - [Shark - Better Finder](https://github.com/andronasef/shark) <img align="bottom" height="13" src="https://badgen.net/github/stars/andronasef/shark?style=flat&label=" /> - File manager with tabs, split panes, a built-in terminal, and hover previews.
+- [QuickRight](https://apps.apple.com/us/app/quickright/id6763963598?mt=12) - Finder right-click menu enhancer written in Swift: creates files from templates, cuts and moves files, copies paths, opens a terminal in the current folder, converts and compresses images, and checks SHA-256 hashes.
 
 ## Games
 
