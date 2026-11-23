@@ -1029,6 +1029,7 @@
 - [Tonecap](https://github.com/stanczykwyatt/tonecap) <img align="bottom" height="13" src="https://badgen.net/github/stars/stanczykwyatt/tonecap?style=flat&label=" /> - 打字时播放机械键盘声音，由轴体、定位板、外壳和键帽设置合成，而不是录音。
 - [unfd](https://github.com/alpha2xyz/unfd) <img align="bottom" height="13" src="https://badgen.net/github/stars/alpha2xyz/unfd?style=flat&label=" /> - 阿拉伯语与英语键盘布局切换工具，可修正错位输入的文本。
 - [Unshaky](https://github.com/aahung/Unshaky) <img align="bottom" height="13" src="https://badgen.net/github/stars/aahung/Unshaky?style=flat&label=" /> - 用于减少蝴蝶键盘重复按键的工具。
+- [WE KeySwitcher](https://github.com/JaffarSk24/WE-KeySwitcher) <img align="bottom" height="13" src="https://badgen.net/github/stars/JaffarSk24/WE-KeySwitcher?style=flat&label=" /> - 在 Apple Silicon Mac 上修正俄语与英语或斯洛伐克语键盘布局输错的文本。
 - [WinKeys](https://github.com/neural-beat/winkeys) <img align="bottom" height="13" src="https://badgen.net/github/stars/neural-beat/winkeys?style=flat&label=" /> - 开源键盘快捷键重映射工具，将 Windows 的快捷键习惯搬到 Mac，适合刚从 Windows 切换过来的用户。
 - [vChewing 唯音](https://github.com/vChewing/vChewing-macOS) <img align="bottom" height="13" src="https://badgen.net/github/stars/vChewing/vChewing-macOS?style=flat&label=" /> - 支持拼音与注音输入的开源中文输入法。
 - [Yahoo! KeyKey 2](https://github.com/teddychan/yahoo-keykey-2) <img align="bottom" height="13" src="https://badgen.net/github/stars/teddychan/yahoo-keykey-2?style=flat&label=" /> - 繁体中文仓颉与速成输入法。
