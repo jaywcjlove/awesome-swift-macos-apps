@@ -452,6 +452,7 @@
 - [Personal Ops Manual](https://github.com/aka-kika/personal-ops-manual) <img align="bottom" height="13" src="https://badgen.net/github/stars/aka-kika/personal-ops-manual?style=flat&label=" /> - 本地优先的 macOS 配置手册，用 Markdown 记录设备、服务与智能体信息，并通过 MCP 提供给 AI 助手。
 - [Porter](https://github.com/matteogilioli/porter-for-claude-desktop) <img align="bottom" height="13" src="https://badgen.net/github/stars/matteogilioli/porter-for-claude-desktop?style=flat&label=" /> - 管理多个 Claude Desktop 账号并在账号间迁移会话的菜单栏应用。
 - [Prowl](https://github.com/onevcat/Prowl) <img align="bottom" height="13" src="https://badgen.net/github/stars/onevcat/Prowl?style=flat&label=" /> - 用于并行运行 AI 编码代理的命令中心。
+- [SafariPilot](https://github.com/johnsusek/SafariPilotMCP) <img align="bottom" height="13" src="https://badgen.net/github/stars/johnsusek/SafariPilotMCP?style=flat&label=" /> - 本地 MCP 服务，让 AI 智能体直接操作已登录的 Safari 浏览器。
 - [Sesame](https://github.com/qiwei66/sesame) <img align="bottom" height="13" src="https://badgen.net/github/stars/qiwei66/sesame?style=flat&label=" /> - 用自然语言检索 Claude Code、Codex 对话中的 AI 产出。
 - [SummonOS](https://github.com/RohiRIK/SummonOS) <img align="bottom" height="13" src="https://badgen.net/github/stars/RohiRIK/SummonOS?style=flat&label=" /> - 为 AI 智能体提供 macOS 系统访问与可撤销设置管理能力的原生工具。
 - [SuperIsland](https://github.com/shobhit99/SuperIsland) <img align="bottom" height="13" src="https://badgen.net/github/stars/shobhit99/SuperIsland?style=flat&label=" /> - 将刘海区域变为可交互灵动岛，实时显示媒体、电量、天气、日历和通知。
