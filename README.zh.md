@@ -1831,6 +1831,7 @@
 - [Candela](https://github.com/Rydersel/Candela) <img align="bottom" height="13" src="https://badgen.net/github/stars/Rydersel/Candela?style=flat&label=" /> - 保护显示器免受烧屏与老化损伤，提供面板健康与缺陷检查，以及亮度、音量和 HiDPI 缩放控制。
 - [CapaTheNotch](https://github.com/maximfakel/capa-the-notch) <img align="bottom" height="13" src="https://badgen.net/github/stars/maximfakel/capa-the-notch?style=flat&label=" /> - 在 MacBook 刘海显示编程代理的用量限制和重置时间。
 - [Crisp](https://github.com/didriksg/Crisp) <img align="bottom" height="13" src="https://badgen.net/github/stars/didriksg/Crisp?style=flat&label=" /> - 外接显示器管理工具，支持 HiDPI 分辨率、亮度、颜色和预设配置，免费开源。
+- [Cursie](https://github.com/kwd421/macOS_Cursie) <img align="bottom" height="13" src="https://badgen.net/github/stars/kwd421/macOS_Cursie?style=flat&label=" /> - 导入 Windows 光标主题并将其应用为 macOS 系统鼠标指针。
 - [cmdX](https://github.com/YONN2222/cmdX) <img align="bottom" height="13" src="https://badgen.net/github/stars/YONN2222/cmdX?style=flat&label=" /> - 为 Finder 加上 Cmd + X 文件剪切功能。
 - [CalmMouse](https://github.com/Malik1942/CalmMouse) <img align="bottom" height="13" src="https://badgen.net/github/stars/Malik1942/CalmMouse?style=flat&label=" /> - 让你的 Magic Mouse 不再在每次点击时误滚动页面。
 - [CopySight](https://github.com/copysightapp/copysight) <img align="bottom" height="13" src="https://badgen.net/github/stars/copysightapp/copysight?style=flat&label=" /> - 开源菜单栏 OCR 工具，使用端侧识别从任意屏幕区域私密复制文字。
