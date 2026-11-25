@@ -1848,6 +1848,7 @@
 - [Tophat](https://github.com/Shopify/tophat) <img align="bottom" height="13" src="https://badgen.net/github/stars/Shopify/tophat?style=flat&label=" /> - 用于安装和测试 CI 构建产物中移动应用版本的工具。
 - [DragLocker](https://github.com/taikun114/DragLocker) <img align="bottom" height="13" src="https://badgen.net/github/stars/taikun114/DragLocker?style=flat&label=" /> - 提供拖拽锁定功能，松开鼠标按键后仍可继续拖动。
 - [Drag.on](https://github.com/Assim-Genshi/drag.on) <img align="bottom" height="13" src="https://badgen.net/github/stars/Assim-Genshi/drag.on?style=flat&label=" /> - 拖放暂存架，可存放文件、随时调用并即时转换图片。
+- [DockDesk](https://github.com/chdominguez/DockDesk) <img align="bottom" height="13" src="https://badgen.net/github/stars/chdominguez/DockDesk?style=flat&label=" /> - 通过一根 Dell WD19 扩展坞连接线实现双显示器独立桌面。
 - [DockFinity](https://github.com/nick-friedrich/dockfinity) <img align="bottom" height="13" src="https://badgen.net/github/stars/nick-friedrich/dockfinity?style=flat&label=" /> - 轻松管理多个 macOS Dock 配置文件。
 - [DockLift](https://github.com/jaywcjlove/dock-lift) <img align="bottom" height="13" src="https://badgen.net/github/stars/jaywcjlove/dock-lift?style=flat&label=" /> - 点击 Dock 图标时将应用窗口调至当前屏幕，多显示器场景下的利器。
 - [Docky](https://github.com/josejuanqm/docky) <img align="bottom" height="13" src="https://badgen.net/github/stars/josejuanqm/docky?style=flat&label=" /> - Dock 替代工具，支持可配置布局、小组件、全屏启动台、实时窗口切换和自定义脚本操作。
