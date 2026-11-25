@@ -1652,6 +1652,7 @@
 - [eul](https://github.com/gao-sun/eul) <img align="bottom" height="13" src="https://badgen.net/github/stars/gao-sun/eul?style=flat&label=" /> - 用 SwiftUI 编写的 macOS 状态监视应用程序。
 - [Fan Control Utility](https://github.com/ShahzaibAli02/Fanny-MacOs-FanControl) <img align="bottom" height="13" src="https://badgen.net/github/stars/ShahzaibAli02/Fanny-MacOs-FanControl?style=flat&label=" /> - 实时风扇转速监控与控制器，支持手动和自动模式，兼容 Intel 和 Apple Silicon。
 - [MacFanPro](https://github.com/macfanpro/macfanpro) <img align="bottom" height="13" src="https://badgen.net/github/stars/macfanpro/macfanpro?style=flat&label=" /> - 免费开源的风扇控制工具，提供菜单栏界面与命令行两种方式，适配 Apple Silicon，无订阅、无遥测。
+- [FanShift](https://github.com/KrisWonka/FanShift) <img align="bottom" height="13" src="https://badgen.net/github/stars/KrisWonka/FanShift?style=flat&label=" /> - 菜单栏风扇控制，用一个全局快捷键在自己画的「温度 → 转速」曲线之间循环切换。
 - [FindDiskKiller](https://github.com/jianyintang/find-disk-killer) <img align="bottom" height="13" src="https://badgen.net/github/stars/jianyintang/find-disk-killer?style=flat&label=" /> - 监控磁盘 I/O、CPU、网络与文件活动，找出磁盘占用的来源。
 - [Juice](https://github.com/brianmichel/Juice) <img align="bottom" height="13" src="https://badgen.net/github/stars/brianmichel/Juice?style=flat&label=" /> - 让你的电池信息更有趣。
 - [Kombucha](https://github.com/askuksov/kombucha) <img align="bottom" height="13" src="https://badgen.net/github/stars/askuksov/kombucha?style=flat&label=" /> - 菜单栏应用，将 MacBook 充电限制在你设定的电量区间内，以延长电池寿命。
