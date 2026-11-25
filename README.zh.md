@@ -1666,6 +1666,7 @@
 - [MacState](https://github.com/snail007/macstate) <img align="bottom" height="13" src="https://badgen.net/github/stars/snail007/macstate?style=flat&label=" /> - 轻量级菜单栏系统监控工具，将多个关键指标合并到单个状态栏项中。
 - [NotificationNanny](https://github.com/chessper53/NotificationNanny) <img align="bottom" height="13" src="https://badgen.net/github/stars/chessper53/NotificationNanny?style=flat&label=" /> - 自定义系统通知横幅的位置、大小、颜色和动画。
 - [Overkill](https://github.com/KrauseFx/overkill-for-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/KrauseFx/overkill-for-mac?style=flat&label=" /> - 连接 iPhone 时停止 iTunes 自动打开。
+- [Peek](https://github.com/athlan20/peek) <img align="bottom" height="13" src="https://badgen.net/github/stars/athlan20/peek?style=flat&label=" /> - 集系统监控、磁盘空间分析和应用卸载于一体的菜单栏工具。
 - [PingPlace](https://github.com/NotWadeGrimridge/PingPlace) <img align="bottom" height="13" src="https://badgen.net/github/stars/NotWadeGrimridge/PingPlace?style=flat&label=" /> - 控制通知在屏幕上的显示位置。
 - [PerformanceDaddy](https://github.com/Significant-Hobbies/performancedaddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/Significant-Hobbies/performancedaddy?style=flat&label=" /> - 性能调查工具，查看本地进程、占用端口与内存，支持经审核的进程终止。
 - [ProcExp](https://github.com/microsoft/Procexp-Mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/microsoft/Procexp-Mac?style=flat&label=" /> - 进程管理与监控工具，可查看实时进程树、线程、模块及系统性能。
