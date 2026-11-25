@@ -2076,6 +2076,7 @@
 - [ApolloShell](https://github.com/Silvertree2010/ApolloShell) <img align="bottom" height="13" src="https://badgen.net/github/stars/Silvertree2010/ApolloShell?style=flat&label=" /> - 由可自由拼装的屏幕边缘面板组成的桌面 Shell。
 - [AnyDrag](https://github.com/XueshiQiao/AnyDrag) <img align="bottom" height="13" src="https://badgen.net/github/stars/XueshiQiao/AnyDrag?style=flat&label=" /> - 按住修饰键即可从窗口任意位置拖拽移动，如原生标题栏般顺滑。
 - [AnyPiP](https://github.com/hreinssondev/AnyPiP) <img align="bottom" height="13" src="https://badgen.net/github/stars/hreinssondev/AnyPiP?style=flat&label=" /> - 将当前最前窗口一键切换为始终置顶的画中画悬浮窗。
+- [AutoWindow](https://github.com/Carpe-Futurum/autowindow) <img align="bottom" height="13" src="https://badgen.net/github/stars/Carpe-Futurum/autowindow?style=flat&label=" /> - 按显示器组合和 Mission Control 桌面恢复窗口布局的菜单栏工具。
 - [BetterCmdTab](https://github.com/rokartur/BetterCmdTab) <img align="bottom" height="13" src="https://badgen.net/github/stars/rokartur/BetterCmdTab?style=flat&label=" /> - 快速原生的 ⌘Tab 替代品，采用液态玻璃设计，零遥测。
 - [Bower](https://github.com/truthofmatthew/bower) <img align="bottom" height="13" src="https://badgen.net/github/stars/truthofmatthew/bower?style=flat&label=" /> - 窗口与工作区管理工具，可按项目保存布局并跨显示器快速切换。
 - [CloseUp](https://github.com/oomol-lab/CloseUp) <img align="bottom" height="13" src="https://badgen.net/github/stars/oomol-lab/CloseUp?style=flat&label=" /> - 在 Mission Control 中叠加窗口控制按钮，并支持完整的键盘操作。
