@@ -1414,6 +1414,7 @@
 - [Input Source Pro](https://github.com/runjuu/InputSourcePro) <img align="bottom" height="13" src="https://badgen.net/github/stars/runjuu/InputSourcePro?style=flat&label=" /> - 自动切换输入法加上适时的提示。
 - [KeyHolder](https://github.com/Clipy/KeyHolder) <img align="bottom" height="13" src="https://badgen.net/github/stars/Clipy/KeyHolder?style=flat&label=" /> - 在 macOS 中记录快捷键，类似 Alfred.app。
 - [Kiwix](https://github.com/kiwix/apple) <img align="bottom" height="13" src="https://badgen.net/github/stars/kiwix/apple?style=flat&label=" /> - 针对 iOS 和 macOS 的 Kiwix，基于 Swift 构建。
+- [KuroCat](https://github.com/chanke17/KuroCat) <img align="bottom" height="13" src="https://badgen.net/github/stars/chanke17/KuroCat?style=flat&label=" /> - 随键盘和鼠标操作互动的跨平台桌面宠物猫。
 - [LocateCursor](https://github.com/luciodaou/LocateCursor) <img align="bottom" height="13" src="https://badgen.net/github/stars/luciodaou/LocateCursor?style=flat&label=" /> - 一款 macOS 光标高亮定位工具。
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) <img align="bottom" height="13" src="https://badgen.net/github/stars/fespinoza/LinkedIdeas?style=flat&label=" /> - macOS 应用，用于记录和连接想法。
 - [DayDream](https://github.com/getnorthlight/daydream) <img align="bottom" height="13" src="https://badgen.net/github/stars/getnorthlight/daydream?style=flat&label=" /> - 本地记录应用与窗口使用历史，可自行浏览或连接 AI 查询。
