@@ -866,6 +866,7 @@
 - [AM Native](https://github.com/op7418/AM-Native) <img align="bottom" height="13" src="https://badgen.net/github/stars/op7418/AM-Native?style=flat&label=" /> - 为 Angry Miao AM Infinity .97 鼠标打造的原生 macOS 设置工具，可调整电池、DPI、板载按键映射与灯效。
 - [Better Wacom](https://github.com/myyccccc/Better-Wacom) <img align="bottom" height="13" src="https://badgen.net/github/stars/myyccccc/Better-Wacom?style=flat&label=" /> - 为 Wacom Intuos Pro M（2025，PTK-670）设置按 App 切换的快捷键、长按动作和多模式波轮，更多型号计划中。
 - [CalmMouse](https://github.com/Malik1942/CalmMouse) <img align="bottom" height="13" src="https://badgen.net/github/stars/Malik1942/CalmMouse?style=flat&label=" /> - 让妙控鼠标点击时不再滚动页面；也为滚轮鼠标提供平滑滚动，并能把游戏手柄当鼠标用。
+- [CablePeek](https://github.com/diegobruegger-prog/cablepeek) <img align="bottom" height="13" src="https://badgen.net/github/stars/diegobruegger-prog/cablepeek?style=flat&label=" /> - 在屏幕边缘显示各 USB-C 端口的连接速度，悬停即可弹出磁盘。
 - [Charker](https://github.com/qzz0518/Charker) <img align="bottom" height="13" src="https://badgen.net/github/stars/qzz0518/Charker?style=flat&label=" /> - 非官方 macOS 应用，用于查看和控制 Anker Prime 160W 与 250W 充电器。
 - [Lavdeck](https://github.com/piedol/lavdeck) <img align="bottom" height="13" src="https://badgen.net/github/stars/piedol/lavdeck?style=flat&label=" /> - 非官方的 DJI Mic 系列 Mobile RX 配套工具，通过 USB 查看每支麦克风的状态，并设置单声道或立体声、增益和录音。
 - [OpenNaga](https://github.com/Zer0codestuff/OpenNaga) <img align="bottom" height="13" src="https://badgen.net/github/stars/Zer0codestuff/OpenNaga?style=flat&label=" /> - 用于在 macOS 上自定义 Razer Naga 鼠标按键、DPI 和轮询率。
