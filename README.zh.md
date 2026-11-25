@@ -985,6 +985,7 @@
 - [Photo Batch Importer](https://github.com/jianfenglin-git/photo-batch-importer/) <img align="bottom" height="13" src="https://badgen.net/github/stars/jianfenglin-git/photo-batch-importer?style=flat&label=" /> - 按 EXIF 命名规则从 SD/CF 卡批量导入照片。
 - [PhotoMiner](https://github.com/gergelysanta/photominer) <img align="bottom" height="13" src="https://badgen.net/github/stars/gergelysanta/photominer?style=flat&label=" /> - macOS 应用程序，用于查找和恢复您磁盘上遗失的照片。
 - [Redlamp](https://github.com/pdcgomes/redlamp) <img align="bottom" height="13" src="https://badgen.net/github/stars/pdcgomes/redlamp?style=flat&label=" /> - 适用于 Mac、iPad 和 iPhone 的原生 RAW 照片编辑器，提供熟悉的 Lightroom 式体验。
+- [Silverphase](https://github.com/akinal5765-byte/Silverphase) <img align="bottom" height="13" src="https://badgen.net/github/stars/akinal5765-byte/Silverphase?style=flat&label=" /> - 数字暗房工具，为数码照片模拟胶片拍摄和暗房冲印效果。
 - [SpatialSlideshow](https://github.com/elliotttate/SpatialSlideshow/) <img align="bottom" height="13" src="https://badgen.net/github/stars/elliotttate/SpatialSlideshow?style=flat&label=" /> - 空间照片幻灯片工具，调用已安装的 Apple 照片 Reframe 模型生成空间视图，完全本地运行。
 - [Quick Draw](https://github.com/maxchuquimia/quickdraw) <img align="bottom" height="13" src="https://badgen.net/github/stars/maxchuquimia/quickdraw?style=flat&label=" /> - 用于截图和演示的屏幕绘图工具。
 - [Screenbar](https://github.com/crilleengvall/Screenbar) <img align="bottom" height="13" src="https://badgen.net/github/stars/crilleengvall/Screenbar?style=flat&label=" /> - macOS 菜单栏应用程序，用于自动截图。
