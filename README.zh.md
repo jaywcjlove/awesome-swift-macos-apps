@@ -1280,6 +1280,7 @@
 
 - [Aural](https://github.com/kartik-venugopal/aural-player) <img align="bottom" height="13" src="https://badgen.net/github/stars/kartik-venugopal/aural-player?style=flat&label=" /> - 音频文件播放器，灵感来自Winamp。
 - [Bòcan](https://github.com/bocan/bocan-music) <img align="bottom" height="13" src="https://badgen.net/github/stars/bocan/bocan-music?style=flat&label=" /> - 面向本地音乐库的离线播放器，支持无缝播放、DSP 效果链、ReplayGain 与多种格式。
+- [Cadence](https://github.com/alexandryasukaitisss-cmd/cadence-macos) <img align="bottom" height="13" src="https://badgen.net/github/stars/alexandryasukaitisss-cmd/cadence-macos?style=flat&label=" /> - 以键盘操作为主的原生 Apple Music 音乐库浏览应用。
 - [ChordDetector](https://github.com/cemolcay/ChordDetector) <img align="bottom" height="13" src="https://badgen.net/github/stars/cemolcay/ChordDetector?style=flat&label=" /> - 小型菜单栏应用程序，可以监听 iTunes 和 Spotify，检测歌曲的和弦！
 - [cmux](https://github.com/manaflow-ai/cmux) <img align="bottom" height="13" src="https://badgen.net/github/stars/manaflow-ai/cmux?style=flat&label=" /> - 基于 Ghostty 的终端工作区工具，支持垂直选项卡、浏览器数据导入、自定义命令和自动化接口，适合 AI 编码工作流。
 - [EMU-Script](https://github.com/sylvain-pearson/EMU-Script) <img align="bottom" height="13" src="https://badgen.net/github/stars/sylvain-pearson/EMU-Script?style=flat&label=" /> - 基于脚本的电子音乐创作工具。
