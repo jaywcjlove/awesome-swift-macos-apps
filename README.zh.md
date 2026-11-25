@@ -839,6 +839,7 @@
 - [SidebarFavorites](https://github.com/ivg-design/SidebarFavorites) <img align="bottom" height="13" src="https://badgen.net/github/stars/ivg-design/SidebarFavorites?style=flat&label=" /> - 将自定义文件夹添加到 macOS Finder 收藏夹，并设置图标
 - [Spyglass](https://github.com/magicelk235/spyglass) <img align="bottom" height="13" src="https://badgen.net/github/stars/magicelk235/spyglass?style=flat&label=" /> - Google Workspace 文件 Quick Look 增强器，为 .gdoc、.gsheet 等文件显示真实文档预览而非原始 JSON。
 - [Strata Files](https://github.com/cristipufu/strata-files) <img align="bottom" height="13" src="https://badgen.net/github/stars/cristipufu/strata-files?style=flat&label=" /> - 键盘优先的 Finder 替代品，支持即时搜索、实时文件夹大小、磁盘占用图与双面板。
+- [Tidywise](https://github.com/floorianmb/tidywise) <img align="bottom" height="13" src="https://badgen.net/github/stars/floorianmb/tidywise?style=flat&label=" /> - 使用本地 AI 将文件自动整理到主题文件夹中。
 - [Torrent Preview](https://github.com/sveinbjornpalsson/torrentpreview/) <img align="bottom" height="13" src="https://badgen.net/github/stars/sveinbjornpalsson/torrentpreview?style=flat&label=" /> - 用于预览 `.torrent` 内容的 Quick Look 扩展。
 - [Totum Commander](https://github.com/Toys-D/TotumCommander) <img align="bottom" height="13" src="https://badgen.net/github/stars/Toys-D/TotumCommander?style=flat&label=" /> - macOS 双面板文件管理器。
 - [Treewise](https://github.com/mag243/treewise) <img align="bottom" height="13" src="https://badgen.net/github/stars/mag243/treewise?style=flat&label=" /> - Windows Explorer 操作逻辑的原生 macOS 文件浏览器。
