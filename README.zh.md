@@ -1806,6 +1806,7 @@
 - [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) <img align="bottom" height="13" src="https://badgen.net/github/stars/touchbar/Touch-Bar-Preview?style=flat&label=" /> - 用于在 Touch Bar 上预览设计的工具。
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/touch-bar-simulator?style=flat&label=" /> - 在任何 Mac 上使用 Touch Bar。
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) <img align="bottom" height="13" src="https://badgen.net/github/stars/ilyalesik/touch-emoji?style=flat&label=" /> - MacBook Pro Touch Bar 的 Emoji 选择器。
+- [VYSHYVKA BAR](https://github.com/sapio-sat/vyshyvka-bar) <img align="bottom" height="13" src="https://badgen.net/github/stars/sapio-sat/vyshyvka-bar?style=flat&label=" /> - 将乌克兰传统刺绣装饰与实用控制功能带到 MacBook Pro Touch Bar。
 
 ## 实用工具
 

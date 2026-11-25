@@ -1839,6 +1839,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview) <img align="bottom" height="13" src="https://badgen.net/github/stars/touchbar/Touch-Bar-Preview?style=flat&label=" /> - Preview tool for testing designs on the Touch Bar.
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) <img align="bottom" height="13" src="https://badgen.net/github/stars/sindresorhus/touch-bar-simulator?style=flat&label=" /> - Use the Touch Bar on any Mac.
 - [Touch Emoji](https://github.com/ilyalesik/touch-emoji) <img align="bottom" height="13" src="https://badgen.net/github/stars/ilyalesik/touch-emoji?style=flat&label=" /> - Emoji picker for MacBook Pro Touch Bar.
+- [VYSHYVKA BAR](https://github.com/sapio-sat/vyshyvka-bar) <img align="bottom" height="13" src="https://badgen.net/github/stars/sapio-sat/vyshyvka-bar?style=flat&label=" /> - Adds Ukrainian embroidered patterns and useful controls to the MacBook Pro Touch Bar.
 
 ## Utilities
 
