@@ -1285,6 +1285,7 @@
 - [ChordDetector](https://github.com/cemolcay/ChordDetector) <img align="bottom" height="13" src="https://badgen.net/github/stars/cemolcay/ChordDetector?style=flat&label=" /> - 小型菜单栏应用程序，可以监听 iTunes 和 Spotify，检测歌曲的和弦！
 - [cmux](https://github.com/manaflow-ai/cmux) <img align="bottom" height="13" src="https://badgen.net/github/stars/manaflow-ai/cmux?style=flat&label=" /> - 基于 Ghostty 的终端工作区工具，支持垂直选项卡、浏览器数据导入、自定义命令和自动化接口，适合 AI 编码工作流。
 - [EMU-Script](https://github.com/sylvain-pearson/EMU-Script) <img align="bottom" height="13" src="https://badgen.net/github/stars/sylvain-pearson/EMU-Script?style=flat&label=" /> - 基于脚本的电子音乐创作工具。
+- [iCanHazMusic](https://github.com/deseven/iCanHazMusic) <img align="bottom" height="13" src="https://badgen.net/github/stars/deseven/iCanHazMusic?style=flat&label=" /> - 基于播放列表的音乐播放器，支持本地音乐库和 Subsonic 服务器。
 - [iTunes Graphs](https://github.com/Zac-Garby/iTunes-Graphs) <img align="bottom" height="13" src="https://badgen.net/github/stars/Zac-Garby/iTunes-Graphs?style=flat&label=" /> - macOS 应用程序，用于将您的 iTunes 库可视化为图表。
 - [Kaset](https://github.com/sozercan/kaset) <img align="bottom" height="13" src="https://badgen.net/github/stars/sozercan/kaset?style=flat&label=" /> - 原生 macOS YouTube Music 客户端，采用 Liquid Glass UI。
 - [Kumone](https://github.com/missuo/kumone) <img align="bottom" height="13" src="https://badgen.net/github/stars/missuo/kumone?style=flat&label=" /> - 原生网易云音乐客户端，采用 SwiftUI 编写，支持 Sparkle 自动更新。
