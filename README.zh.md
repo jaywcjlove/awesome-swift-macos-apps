@@ -415,6 +415,7 @@
 - [Poli](https://github.com/luchi0208/Poli) <img align="bottom" height="13" src="https://badgen.net/github/stars/luchi0208/Poli?style=flat&label=" /> - 在任意应用中提供校对、改写、总结、翻译等功能的端侧 AI 写作助手。
 - [Prism](https://github.com/okooo5km/Prism) <img align="bottom" height="13" src="https://badgen.net/github/stars/okooo5km/Prism?style=flat&label=" /> - 一键切换 Claude Code API 提供商的 SwiftUI 菜单栏应用。
 - [Quotio](https://github.com/nguyenphutrong/quotio) <img align="bottom" height="13" src="https://badgen.net/github/stars/nguyenphutrong/quotio?style=flat&label=" /> - 支持配额跟踪和自动切换的 AI 订阅管理工具。
+- [Relaycat](https://github.com/krutikJain/relaycat) <img align="bottom" height="13" src="https://badgen.net/github/stars/krutikJain/relaycat?style=flat&label=" /> - 菜单栏应用，可运行多个 Claude 桌面账号，一键切换并带上聊天记录，同时显示每个账号的会话和每周用量限制。
 - [Ironsmith](https://github.com/Jeidoban/Ironsmith) <img align="bottom" height="13" src="https://badgen.net/github/stars/Jeidoban/Ironsmith?style=flat&label=" /> - 靠 AI 描述需求就能一键生成 SwiftUI 原生小应用。
 - [JustSessions](https://github.com/yangzichao/JustSessions) <img align="bottom" height="13" src="https://badgen.net/github/stars/yangzichao/JustSessions?style=flat&label=" /> - 用于查找、阅读和恢复 Claude Code、Codex 等编程代理会话的原生工作台，保留原有命令行界面。
 - [kevMac](https://github.com/arinltte/kevMac) <img align="bottom" height="13" src="https://badgen.net/github/stars/arinltte/kevMac?style=flat&label=" /> - 粘贴文档、以简单表单提问，即可获得带动态概率条的校准答案，全部本地运行。
