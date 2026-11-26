@@ -827,6 +827,7 @@
 - [ClickMate](https://github.com/Funnyrz/ClickMate) <img align="bottom" height="13" src="https://badgen.net/github/stars/Funnyrz/ClickMate?style=flat&label=" /> - 为 Finder 右键菜单添加可配置的快捷操作子菜单。
 - [CSV Quick Look](https://github.com/adamorad/csv-quick-look) <img align="bottom" height="13" src="https://badgen.net/github/stars/adamorad/csv-quick-look?style=flat&label=" /> - 以电子表格样式预览 CSV 文件的 Quick Look 扩展。
 - [PeekX](https://github.com/altic-dev/PeekX) <img align="bottom" height="13" src="https://badgen.net/github/stars/altic-dev/PeekX?style=flat&label=" /> - macOS 上的文件夹预览快速查看扩展。
+- [Floppeek](https://github.com/gfazioli/floppeek) <img align="bottom" height="13" src="https://badgen.net/github/stars/gfazioli/floppeek?style=flat&label=" /> - 以 Workbench 风格文件列表预览 Amiga .adf 磁盘镜像的 Quick Look 扩展。
 - [Quick Symlink](https://github.com/ololx/quick-symlink) <img align="bottom" height="13" src="https://badgen.net/github/stars/ololx/quick-symlink?style=flat&label=" /> - 用于创建符号链接的 Finder 扩展。
 - [Forel](https://github.com/forel-app/forel) <img align="bottom" height="13" src="https://badgen.net/github/stars/forel-app/forel?style=flat&label=" /> - 开源文件自动化工具，监控文件夹并按规则自动处理文件，Hazel 的替代方案。
 - [Rascal](https://github.com/chang-07/rascal) <img align="bottom" height="13" src="https://badgen.net/github/stars/chang-07/rascal?style=flat&label=" /> - 键盘优先的 Finder 替代品，支持双面板、命令面板、Vim 键位与内联终端。
