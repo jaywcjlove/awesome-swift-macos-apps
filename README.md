@@ -955,6 +955,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Topkit](https://github.com/taimansulimani/topkit) <img align="bottom" height="13" src="https://badgen.net/github/stars/taimansulimani/topkit?style=flat&label=" /> - Menu bar tool for copy/paste, presenting, and recording annotated screenshots and videos, with customizable global shortcuts.
 - [Sitch](https://github.com/phalladar/Sitch) <img align="bottom" height="13" src="https://badgen.net/github/stars/phalladar/Sitch?style=flat&label=" /> - Free Skitch alternative: hotkey capture, iconic arrow, blur, and paste straight into Slack.
 - [WE Screenshot](https://github.com/JaffarSk24/WE-Screenshot) <img align="bottom" height="13" src="https://badgen.net/github/stars/JaffarSk24/WE-Screenshot?style=flat&label=" /> - Menu bar screenshot tool with annotation and optional Google Drive upload.
+- [OhMyShot](https://github.com/MMFoundation/OhMyShot) <img align="bottom" height="13" src="https://badgen.net/github/stars/MMFoundation/OhMyShot?style=flat&label=" /> - Native menu bar tool for screenshots, scrolling capture, annotation, pinning, screen recording with Studio auto-zoom, and on-device OCR. ([Homepage](https://www.ohmyshot.org/))
 
 ## IDE
 
