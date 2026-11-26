@@ -1517,6 +1517,7 @@
 - [Glance](https://github.com/jonnyoo/glance) <img align="bottom" height="13" src="https://badgen.net/github/stars/jonnyoo/glance?style=flat&label=" /> - 基于设备端人脸识别，看一眼刘海区灵动岛即可解锁 Mac，无需输入密码或触碰 Touch ID。
 - [Hey Mac](https://github.com/iharshitmaurya/HeyMac) <img align="bottom" height="13" src="https://badgen.net/github/stars/iharshitmaurya/HeyMac?style=flat&label=" /> - 通过本地人脸识别解锁屏幕，并为选定应用提供隐私遮罩。
 - [Keyholdr](https://github.com/OlixIgnacious/keyholdr) <img align="bottom" height="13" src="https://badgen.net/github/stars/OlixIgnacious/keyholdr?style=flat&label=" /> - 轻量安全的密钥存储管理工具。
+- [Keynod](https://github.com/OnurrUgur/keynod) <img align="bottom" height="13" src="https://badgen.net/github/stars/OnurrUgur/keynod?style=flat&label=" /> - 生物识别密钥保险箱，可控制 AI 编程助手对凭据的访问。
 - [Lockpaw](https://github.com/sorkila/lockpaw) <img align="bottom" height="13" src="https://badgen.net/github/stars/sorkila/lockpaw?style=flat&label=" /> - 菜单栏屏幕守卫 — 使用快捷键锁定/解锁显示器，支持 Touch ID 备用解锁。
 - [Mactokio](https://github.com/dalirnet/mactokio) <img align="bottom" height="13" src="https://badgen.net/github/stars/dalirnet/mactokio?style=flat&label=" /> - TOTP/HOTP 验证码工具，密钥经 AES-256 加密并与硬件绑定，始终保存在本机，无云端、无同步、无账号。
 - [MakLock](https://github.com/dutkiewiczmaciej/MakLock) <img align="bottom" height="13" src="https://badgen.net/github/stars/dutkiewiczmaciej/MakLock?style=flat&label=" /> - 菜单栏应用，使用 Touch ID、Apple Watch 近场感应或密码锁定应用程序，支持全屏模糊覆盖。
