@@ -2042,6 +2042,7 @@
 
 - [Cronica](https://github.com/eggerco/cronica) <img align="bottom" height="13" src="https://badgen.net/github/stars/eggerco/cronica?style=flat&label=" /> - 极简跨设备观影追剧提醒应用。
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital) <img align="bottom" height="13" src="https://badgen.net/github/stars/zagahr/Conferences.digital?style=flat&label=" /> - 用于浏览开发者大会演讲视频的工具。
+- [CutWord（剪字）](https://github.com/wang-builds/cutword) <img align="bottom" height="13" src="https://badgen.net/github/stars/wang-builds/cutword?style=flat&label=" /> - 通过编辑转写文字剪辑口播视频的 AI 工具。
 - [Datamosh](https://github.com/maelswarm/Datamosh) <img align="bottom" height="13" src="https://badgen.net/github/stars/maelswarm/Datamosh?style=flat&label=" /> - 在 macOS 上对视频进行数据马赛克处理。
 - [Face Data](https://github.com/xiaohk/FaceData) <img align="bottom" height="13" src="https://badgen.net/github/stars/xiaohk/FaceData?style=flat&label=" /> - 用于自动标注视频中地标的 macOS 应用程序。
 - [HookCut](https://github.com/markksantos/HookCut) <img align="bottom" height="13" src="https://badgen.net/github/stars/markksantos/HookCut?style=flat&label=" /> - 借助 GPT-4o 或 Claude 在长播客和视频录音中找出精彩片段，并导出为 FCPXML、Premiere XML 或 EDL 时间线。([Homepage](https://nosleeplab.com/apps/hookcut))

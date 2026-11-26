@@ -2050,6 +2050,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 - [Cronica](https://github.com/eggerco/cronica) <img align="bottom" height="13" src="https://badgen.net/github/stars/eggerco/cronica?style=flat&label=" /> - A minimalist cross-device watchlist app for movies and TV shows.
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital) <img align="bottom" height="13" src="https://badgen.net/github/stars/zagahr/Conferences.digital?style=flat&label=" /> - Video browser for talks from developer conferences.
+- [CutWord](https://github.com/wang-builds/cutword) <img align="bottom" height="13" src="https://badgen.net/github/stars/wang-builds/cutword?style=flat&label=" /> - AI-powered editor for cutting talking-head videos by editing transcribed text.
 - [Datamosh](https://github.com/maelswarm/Datamosh) <img align="bottom" height="13" src="https://badgen.net/github/stars/maelswarm/Datamosh?style=flat&label=" /> - Datamosh your videos on macOS.
 - [Face Data](https://github.com/xiaohk/FaceData) <img align="bottom" height="13" src="https://badgen.net/github/stars/xiaohk/FaceData?style=flat&label=" /> - macOS application used to auto-annotate landmarks from a video.
 - [HookCut](https://github.com/markksantos/HookCut) <img align="bottom" height="13" src="https://badgen.net/github/stars/markksantos/HookCut?style=flat&label=" /> - Finds highlight moments in long podcast and video recordings with GPT-4o or Claude and exports them as FCPXML, Premiere XML or EDL timelines. ([Homepage](https://nosleeplab.com/apps/hookcut))
