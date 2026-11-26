@@ -814,7 +814,6 @@
 - [FiScript](https://github.com/Mortennn/FiScript) <img align="bottom" height="13" src="https://badgen.net/github/stars/Mortennn/FiScript?style=flat&label=" /> - 从 macOS Finder 的上下文菜单（CTRL+单击）执行自定义脚本。
 - [Finder Go](https://github.com/onmyway133/FinderGo) <img align="bottom" height="13" src="https://badgen.net/github/stars/onmyway133/FinderGo?style=flat&label=" /> - macOS 应用程序和 Finder 同步扩展，用于从 Finder 打开 Terminal、iTerm、Hyper。
 - [Findly](https://github.com/rocavence/Findly-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/rocavence/Findly-app?style=flat&label=" /> - 可从屏幕边缘呼出的 Finder 风格文件抽屉菜单栏应用。
-- [FlowVision](https://github.com/netdcy/FlowVision) <img align="bottom" height="13" src="https://badgen.net/github/stars/netdcy/FlowVision?style=flat&label=" /> - 瀑布流式图像与视频查看器。
 - [Kumquat](https://github.com/TheAlexRay/kumquat) <img align="bottom" height="13" src="https://badgen.net/github/stars/TheAlexRay/kumquat?style=flat&label=" /> - 菜单栏文件转换工具，支持处理多种媒体和文档格式。
 - [Lokii](https://github.com/huangy7/lokii) <img align="bottom" height="13" src="https://badgen.net/github/stars/huangy7/lokii?style=flat&label=" /> - 原生 macOS 文件搜索工具，提供近乎即时的搜索结果。
 - [小羊贴纸铺 · mie-iconner](https://github.com/xw-meow/mie-iconner) <img align="bottom" height="13" src="https://badgen.net/github/stars/xw-meow/mie-iconner?style=flat&label=" /> - 将喜欢的图片设为文件夹图标，随时可还原。
@@ -968,6 +967,7 @@
 - [Freehand](https://github.com/wddwycc/Freehand) <img align="bottom" height="13" src="https://badgen.net/github/stars/wddwycc/Freehand?style=flat&label=" /> - macOS 状态栏应用程序，用于快速绘图。
 - [Featherview](https://github.com/featherview/featherview) <img align="bottom" height="13" src="https://badgen.net/github/stars/featherview/featherview?style=flat&label=" /> - 快速轻巧的键盘驱动图片查看器，支持批量转换。
 - [Flipic](https://github.com/xmasdong/flipic) <img align="bottom" height="13" src="https://badgen.net/github/stars/xmasdong/flipic?style=flat&label=" /> - 挑片看图器：方向键翻页、100% 查焦点、Lightroom 可读的 XMP 评分、本机清理模式。
+- [FlowVision](https://github.com/netdcy/FlowVision) <img align="bottom" height="13" src="https://badgen.net/github/stars/netdcy/FlowVision?style=flat&label=" /> - 支持文件管理的瀑布流图片与视频浏览器。
 - [HiPixel](https://github.com/okooo5km/HiPixel) <img align="bottom" height="13" src="https://badgen.net/github/stars/okooo5km/HiPixel?style=flat&label=" /> - AI 驱动的 macOS 图像超分辨率应用。
 - [WaifuX](https://github.com/jipika/WaifuX) <img align="bottom" height="13" src="https://badgen.net/github/stars/jipika/WaifuX?style=flat&label=" /> - 集壁纸、动态背景和动漫视频于一体的开源 ACG 应用。
 - [WatermarkFlow](https://github.com/wlzh/watermark-flow-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/wlzh/watermark-flow-mac?style=flat&label=" /> - 菜单栏小工具：对剪贴板图片添加水印后复制回剪贴板，直接粘贴发布。
