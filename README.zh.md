@@ -1119,6 +1119,7 @@
 - [Hidden Bar](https://github.com/dwarvesf/hidden) <img align="bottom" height="13" src="https://badgen.net/github/stars/dwarvesf/hidden?style=flat&label=" /> - 一款超轻的 macOS 工具，帮助隐藏菜单栏图标。
 - [horita](https://github.com/cordwainersmith/horita) <img align="bottom" height="13" src="https://badgen.net/github/stars/cordwainersmith/horita?style=flat&label=" /> - 菜单栏显示下一场会议与倒计时，点击即可一键加入通话，不读取额外日历数据。
 - [Holeberry](https://github.com/pedrovieira/Holeberry) <img align="bottom" height="13" src="https://badgen.net/github/stars/pedrovieira/Holeberry?style=flat&label=" /> - 原生 macOS 菜单栏应用，用于监控和控制你的 Pi-hole 实例。
+- [holzBar](https://github.com/holzcloud/holzBar) <img align="bottom" height="13" src="https://badgen.net/github/stars/holzcloud/holzBar?style=flat&label=" /> - 支持配置方案、快捷键、自动化、小组件和系统读数的菜单栏管理器，派生自 Ice。
 - [Hop](https://github.com/antonyshakirov/hop) <img align="bottom" height="13" src="https://badgen.net/github/stars/antonyshakirov/hop?style=flat&label=" /> - 极简菜单栏多合一工具，按需启用计时、待办、防休眠、剪贴板历史、文件转换、窗口管理和轻量 BT 下载等模块，最多四个标签页收纳所有功能。
 - [Hop (sercanatalik)](https://github.com/sercanatalik/hop-remote-launcher) <img align="bottom" height="13" src="https://badgen.net/github/stars/sercanatalik/hop-remote-launcher?style=flat&label=" /> - 菜单栏远程连接启动器，支持快速连接 Mac、Windows 和 Linux 电脑。
 - [iGlance](https://github.com/iglance/iGlance) <img align="bottom" height="13" src="https://badgen.net/github/stars/iglance/iGlance?style=flat&label=" /> - macOS 系统监视器（CPU、内存、网络、风扇和电池），显示在状态栏中。
