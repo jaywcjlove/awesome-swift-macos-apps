@@ -1418,6 +1418,7 @@
 - [Griasa](https://github.com/Stari-am/griasa) <img align="bottom" height="13" src="https://badgen.net/github/stars/Stari-am/griasa?style=flat&label=" /> - 记录会议中的承诺，并在下次通话前提醒你的菜单栏应用。
 - [LockIn](https://github.com/HumbleBee14/LockIn) <img align="bottom" height="13" src="https://badgen.net/github/stars/HumbleBee14/LockIn?style=flat&label=" /> - 按预设时间表屏蔽干扰网站和应用，无扩展、无快捷关闭开关。
 - [Lockin](https://github.com/sigma-prog/lockin) <img align="bottom" height="13" src="https://badgen.net/github/stars/sigma-prog/lockin?style=flat&label=" /> - 免费的应用与网站干扰屏蔽工具。
+- [Seawall](https://github.com/NikOneZ1/seawall) <img align="bottom" height="13" src="https://badgen.net/github/stars/NikOneZ1/seawall?style=flat&label=" /> - 锁定干扰网站和应用直至设定时间，提前解除需要等待。
 - [LockMic](https://github.com/oochernyshev/lockmic) <img align="bottom" height="13" src="https://badgen.net/github/stars/oochernyshev/lockmic?style=flat&label=" /> - 全局麦克风静音工具，支持快捷键和屏幕提示。
 - [Hexa](https://github.com/suobset/hexa) <img align="bottom" height="13" src="https://badgen.net/github/stars/suobset/hexa?style=flat&label=" /> - 支持进制即时转换的程序员计算器。
 - [Hex](https://github.com/kitlangton/Hex) <img align="bottom" height="13" src="https://badgen.net/github/stars/kitlangton/Hex?style=flat&label=" /> - 按住快捷键即可语音转文字并粘贴到任意位置的语音转写工具。
