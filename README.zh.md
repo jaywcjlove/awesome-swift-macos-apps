@@ -1420,6 +1420,7 @@
 - [LockMic](https://github.com/oochernyshev/lockmic) <img align="bottom" height="13" src="https://badgen.net/github/stars/oochernyshev/lockmic?style=flat&label=" /> - 全局麦克风静音工具，支持快捷键和屏幕提示。
 - [Hexa](https://github.com/suobset/hexa) <img align="bottom" height="13" src="https://badgen.net/github/stars/suobset/hexa?style=flat&label=" /> - 支持进制即时转换的程序员计算器。
 - [Hex](https://github.com/kitlangton/Hex) <img align="bottom" height="13" src="https://badgen.net/github/stars/kitlangton/Hex?style=flat&label=" /> - 按住快捷键即可语音转文字并粘贴到任意位置的语音转写工具。
+- [HomePlay](https://github.com/surfine/HomePlay) <img align="bottom" height="13" src="https://badgen.net/github/stars/surfine/HomePlay?style=flat&label=" /> - 拥有互动眼睛的桌面伙伴，可快捷查看音乐、计时器和消息。
 - [Input Source Pro](https://github.com/runjuu/InputSourcePro) <img align="bottom" height="13" src="https://badgen.net/github/stars/runjuu/InputSourcePro?style=flat&label=" /> - 自动切换输入法加上适时的提示。
 - [KeyHolder](https://github.com/Clipy/KeyHolder) <img align="bottom" height="13" src="https://badgen.net/github/stars/Clipy/KeyHolder?style=flat&label=" /> - 在 macOS 中记录快捷键，类似 Alfred.app。
 - [Kiwix](https://github.com/kiwix/apple) <img align="bottom" height="13" src="https://badgen.net/github/stars/kiwix/apple?style=flat&label=" /> - 针对 iOS 和 macOS 的 Kiwix，基于 Swift 构建。
