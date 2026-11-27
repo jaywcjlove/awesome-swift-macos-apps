@@ -2153,6 +2153,7 @@
 - [Tungsten Edge](https://github.com/moonbai-studio/tungsten-edge) <img align="bottom" height="13" src="https://badgen.net/github/stars/moonbai-studio/tungsten-edge?style=flat&label=" /> - 每窗口任务栏，一键切换任意窗口，界面清爽不杂乱。
 - [WindowHop](https://github.com/martonpaulo/windowhop) <img align="bottom" height="13" src="https://badgen.net/github/stars/martonpaulo/windowhop?style=flat&label=" /> - 窗口级切换器，以大图标或实时预览在窗口之间快速切换。
 - [Window Layout Memory](https://github.com/wlzh/window-layout-memory) <img align="bottom" height="13" src="https://badgen.net/github/stars/wlzh/window-layout-memory?style=flat&label=" /> - 按显示器配置分别记忆窗口大小与位置，重新连接或重新登录后自动恢复布局。
+- [WindowShade](https://github.com/surfine/WindowShade) <img align="bottom" height="13" src="https://badgen.net/github/stars/surfine/WindowShade?style=flat&label=" /> - 双击标题栏，窗口就卷成停在原处的一条细栏，再双击即可展开。
 - [Windows](https://github.com/ciro-maciel/windows) <img align="bottom" height="13" src="https://badgen.net/github/stars/ciro-maciel/windows?style=flat&label=" /> - 菜单栏窗口管理工具，通过快捷键或拖到屏幕边缘，将窗口吸附为二分、全屏、居中或自定义尺寸。
 - [WinMux](https://github.com/zimengxiong/winmux/) <img align="bottom" height="13" src="https://badgen.net/github/stars/zimengxiong/winmux?style=flat&label=" /> - 通过悬停意图区移动、分屏、成组和交换窗口的窗口管理器。
 - [XEasyMotion](https://github.com/h2ero/XEasyMotion) <img align="bottom" height="13" src="https://badgen.net/github/stars/h2ero/XEasyMotion?style=flat&label=" /> - 使用键盘控制鼠标。
