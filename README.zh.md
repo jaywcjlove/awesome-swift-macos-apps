@@ -2027,6 +2027,7 @@
 - [Louisa Wi-Fi](https://github.com/madeyexz/louisa-wifi) <img align="bottom" height="13" src="https://badgen.net/github/stars/madeyexz/louisa-wifi?style=flat&label=" /> - 菜单栏应用，自动连接全台任何一家路易莎咖啡的 Wi-Fi，无需手动输入每家店不同的密码。
 - [NetMeter](https://github.com/pr4th4meshh/net-meter) <img align="bottom" height="13" src="https://badgen.net/github/stars/pr4th4meshh/net-meter?style=flat&label=" /> - 在菜单栏实时显示上传和下载速度。
 - [NetworkMonitor](https://github.com/kevinabouhanna/NetworkMonitor) <img align="bottom" height="13" src="https://badgen.net/github/stars/kevinabouhanna/NetworkMonitor?style=flat&label=" /> - 在菜单栏实时显示网速和各应用的每日流量。
+- [OpenScreens](https://github.com/burakgon/OpenScreens) <img align="bottom" height="13" src="https://badgen.net/github/stars/burakgon/OpenScreens?style=flat&label=" /> - 远程桌面客户端，可控制 Mac 及启用 VNC 的 Windows、Linux 和树莓派设备。
 - [Ping Warden](https://github.com/oliverames/ping-warden) <img align="bottom" height="13" src="https://badgen.net/github/stars/oliverames/ping-warden?style=flat&label=" /> - 菜单栏 Mac 应用，在游戏和通话期间暂停 Apple Wireless Direct Link，以降低网络延迟。
 - [TCP Viewer](https://github.com/ProxymanApp/TCPViewer) <img align="bottom" height="13" src="https://badgen.net/github/stars/ProxymanApp/TCPViewer?style=flat&label=" /> - macOS 网络数据包捕获与解析工具。
 
