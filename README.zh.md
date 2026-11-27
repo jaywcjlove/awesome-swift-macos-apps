@@ -807,6 +807,7 @@
 - [Gocci](https://github.com/piro0919/gocci) <img align="bottom" height="13" src="https://badgen.net/github/stars/piro0919/gocci?style=flat&label=" /> - 从菜单栏把 Google 云端硬盘挂载到 Finder 的任意位置。
 - [FileFluss](https://github.com/rana-gmbh/FileFluss) <img align="bottom" height="13" src="https://badgen.net/github/stars/rana-gmbh/FileFluss?style=flat&label=" /> - 支持云存储的双面板文件管理器，提供无缝的文件操作。
 - [FileMint](https://github.com/FileMintApp/FileMint) <img align="bottom" height="13" src="https://badgen.net/github/stars/FileMintApp/FileMint?style=flat&label=" /> - 在 Finder 右键菜单中通过模板创建和管理文件的扩展。
+- [Filetor](https://github.com/davidpraznik/Filetor) <img align="bottom" height="13" src="https://badgen.net/github/stars/davidpraznik/Filetor?style=flat&label=" /> - 双栏文件管理器，支持文件夹比较、图片处理和压缩文件管理。
 - [RightMenu Master](https://github.com/jaywcjlove/rightmenu-master) <img align="bottom" height="13" src="https://badgen.net/github/stars/jaywcjlove/rightmenu-master?style=flat&label=" /> - Finder 右键菜单增强工具。
 - [FinderRight](https://github.com/funny-dog/FinderRight) <img align="bottom" height="13" src="https://badgen.net/github/stars/funny-dog/FinderRight?style=flat&label=" /> - 为 Finder 右键菜单添加新建文件、打开终端或编辑器、复制路径及剪切粘贴等操作。
 - [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) <img align="bottom" height="13" src="https://badgen.net/github/stars/powerwolf543/DuplicateFinder?style=flat&label=" /> - 用于查找同名重复文件的工具。
