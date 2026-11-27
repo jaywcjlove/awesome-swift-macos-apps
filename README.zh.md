@@ -2100,6 +2100,7 @@
 - [CommandH](https://github.com/MattSenter/commandh) <img align="bottom" height="13" src="https://badgen.net/github/stars/MattSenter/commandh?style=flat&label=" /> - 按下 Cmd+H 隐藏当前应用，快速显示桌面。
 - [MissionClose](https://github.com/beqaabu/MissionClose) <img align="bottom" height="13" src="https://badgen.net/github/stars/beqaabu/MissionClose?style=flat&label=" /> - 可直接在 Mission Control 中关闭窗口。
 - [Convoker](https://github.com/varie-ai/convoker) <img align="bottom" height="13" src="https://badgen.net/github/stars/varie-ai/convoker?style=flat&label=" /> - 按应用聚合、聚焦或分屏管理全部窗口的工具。
+- [DAWN](https://github.com/open-dawn/dawn) <img align="bottom" height="13" src="https://badgen.net/github/stars/open-dawn/dawn?style=flat&label=" /> - 工作区管理工具，用于组织应用和窗口并切换工作区。
 - [Defi](https://github.com/qeude/Defi) <img align="bottom" height="13" src="https://badgen.net/github/stars/qeude/Defi?style=flat&label=" /> - 受 Niri 启发的原生快速滚动平铺窗口管理器。
 - [Desktop Profiles](https://github.com/mamiksik/Desktop-Profiles) <img align="bottom" height="13" src="https://badgen.net/github/stars/mamiksik/Desktop-Profiles?style=flat&label=" /> - 一款创新的桌面/窗口管理器。
 - [Dockit](https://github.com/XiCheng148/Dockit) <img align="bottom" height="13" src="https://badgen.net/github/stars/XiCheng148/Dockit?style=flat&label=" /> - 一款可以将任何窗口停靠到屏幕边缘的应用程序。
