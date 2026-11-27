@@ -1886,6 +1886,7 @@
 - [Gearbox](https://github.com/hgayan7/gearbox) <img align="bottom" height="13" src="https://badgen.net/github/stars/hgayan7/gearbox?style=flat&label=" /> - 用于调度和运行后台任务的本地自动化工具。
 - [Gray](https://github.com/zenangst/Gray) <img align="bottom" height="13" src="https://badgen.net/github/stars/zenangst/Gray?style=flat&label=" /> - 按应用切换浅色或深色外观的工具。
 - [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) <img align="bottom" height="13" src="https://badgen.net/github/stars/rkbhochalya/grayscale-mode?style=flat&label=" /> - 从菜单栏管理灰度模式。
+- [halo](https://github.com/isnow890/halo) <img align="bottom" height="13" src="https://badgen.net/github/stars/isnow890/halo?style=flat&label=" /> - 根据光标位置调节显示器亮度和 HiDPI 缩放的菜单栏工具。
 - [Harbor](https://github.com/harkhowalia-1/Harbor) <img align="bottom" height="13" src="https://badgen.net/github/stars/harkhowalia-1/Harbor?style=flat&label=" /> - 在 Apple 芯片 Mac 上将 iPhone 和 iPad 应用作为原生 Mac 应用运行。
 - [Headless Guard](https://github.com/study8677/HeadlessGuard) <img align="bottom" height="13" src="https://badgen.net/github/stars/study8677/HeadlessGuard?style=flat&label=" /> - 发现并停止遗留的自动化浏览器进程，防止其抢占 Chrome 启动或静默消耗系统资源。
 - [HoldMac](https://github.com/Funnyrz/HoldMac) <img align="bottom" height="13" src="https://badgen.net/github/stars/Funnyrz/HoldMac?style=flat&label=" /> - 菜单栏文件暂存区，中转 Finder 拖拽流程中的文件。
