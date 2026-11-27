@@ -2166,6 +2166,7 @@
 - [Frit](https://github.com/theluckystrike/frit) <img align="bottom" height="13" src="https://badgen.net/github/stars/theluckystrike/frit?style=flat&label=" /> - 陶艺釉料配方本：原料变更时重算配方，把单一氧化物调整到目标值，并按编号查找烧成试片。
 - [Guard](https://github.com/FaisalFehad/Guard) <img align="bottom" height="13" src="https://badgen.net/github/stars/FaisalFehad/Guard?style=flat&label=" /> - 会在应用读取画面前冻结摄像头访问并请求审批的监控工具。
 - [HealthAtlas](https://github.com/Schrotty74/HealthAtlas) <img align="bottom" height="13" src="https://badgen.net/github/stars/Schrotty74/HealthAtlas?style=flat&label=" /> - 隐私优先的健康仪表盘，将本地 Apple Health 导出文件转化为趋势与个人模式的清晰可视化洞察。
+- [HomePlay](https://github.com/surfine/HomePlay) <img align="bottom" height="13" src="https://badgen.net/github/stars/surfine/HomePlay?style=flat&label=" /> - 待在桌面上的 3D 桌宠，有一双眼睛，可以显示 iPhone 的 CarPlay。
 - [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) <img align="bottom" height="13" src="https://badgen.net/github/stars/insidegui/KeyframesPlayer?style=flat&label=" /> - 用于预览 Facebook Keyframes 动画的播放器。
 - [Letters](https://github.com/klaaspieter/letters) <img align="bottom" height="13" src="https://badgen.net/github/stars/klaaspieter/letters?style=flat&label=" /> - 教孩子们字母和如何打字。
 - [QorumLogs](https://github.com/Esqarrouth/QorumLogs) <img align="bottom" height="13" src="https://badgen.net/github/stars/Esqarrouth/QorumLogs?style=flat&label=" /> - 适用于 Xcode 和 Google Docs 的 Swift 日志工具。
