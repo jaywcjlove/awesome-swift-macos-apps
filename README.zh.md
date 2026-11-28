@@ -847,6 +847,7 @@
 - [Totum Commander](https://github.com/Toys-D/TotumCommander) <img align="bottom" height="13" src="https://badgen.net/github/stars/Toys-D/TotumCommander?style=flat&label=" /> - macOS 双面板文件管理器。
 - [Treewise](https://github.com/mag243/treewise) <img align="bottom" height="13" src="https://badgen.net/github/stars/mag243/treewise?style=flat&label=" /> - Windows Explorer 操作逻辑的原生 macOS 文件浏览器。
 - [Window Glue](https://github.com/Conxt/WindowGlue) <img align="bottom" height="13" src="https://badgen.net/github/stars/Conxt/WindowGlue?style=flat&label=" /> - 用于将两个窗口联动移动和缩放的工具。
+- [YummyOrange](https://github.com/furqan4545/yummyorange) <img align="bottom" height="13" src="https://badgen.net/github/stars/furqan4545/yummyorange?style=flat&label=" /> - 拖动文件时按下修饰键，在弹出的环形轮盘上松手即可转换、编辑、压缩或剪辑文件，也能从浏览器链接保存视频。
 - [FinderSearch](https://github.com/zeusinsight/FinderSearch) <img align="bottom" height="13" src="https://badgen.net/github/stars/zeusinsight/FinderSearch?style=flat&label=" /> - 原生 Mac 文件浏览器：快速模糊匹配文件名搜索、浏览文件夹和预览文件。
 - [Shark - Better Finder](https://github.com/andronasef/shark) <img align="bottom" height="13" src="https://badgen.net/github/stars/andronasef/shark?style=flat&label=" /> - 带有标签页、分屏、内置终端和悬停预览的文件管理器。
 
