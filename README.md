@@ -850,6 +850,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Totum Commander](https://github.com/Toys-D/TotumCommander) <img align="bottom" height="13" src="https://badgen.net/github/stars/Toys-D/TotumCommander?style=flat&label=" /> - Dual-pane file manager for macOS.
 - [Treewise](https://github.com/mag243/treewise) <img align="bottom" height="13" src="https://badgen.net/github/stars/mag243/treewise?style=flat&label=" /> - Windows Explorer-style file browser with native macOS experience.
 - [Window Glue](https://github.com/Conxt/WindowGlue) <img align="bottom" height="13" src="https://badgen.net/github/stars/Conxt/WindowGlue?style=flat&label=" /> - Tool for linking two windows to move and resize together.
+- [YummyOrange](https://github.com/furqan4545/yummyorange) <img align="bottom" height="13" src="https://badgen.net/github/stars/furqan4545/yummyorange?style=flat&label=" /> - Drag a file, tap a modifier key and drop it on a radial wheel to convert, edit, compress or trim it, or save a video from a browser link.
 - [FinderSearch](https://github.com/zeusinsight/FinderSearch) <img align="bottom" height="13" src="https://badgen.net/github/stars/zeusinsight/FinderSearch?style=flat&label=" /> - Native Mac file browser with fast fuzzy filename search, folder browsing, and previews.
 - [Shark - Better Finder](https://github.com/andronasef/shark) <img align="bottom" height="13" src="https://badgen.net/github/stars/andronasef/shark?style=flat&label=" /> - File manager with tabs, split panes, a built-in terminal, and hover previews.
 
