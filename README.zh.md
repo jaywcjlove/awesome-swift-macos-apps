@@ -1703,6 +1703,7 @@
 - [Thunderbolt Budget](https://github.com/ekwipt/ThunderboltBudget) <img align="bottom" height="13" src="https://badgen.net/github/stars/ekwipt/ThunderboltBudget?style=flat&label=" /> - 用于实时监控 Thunderbolt 和 USB4 原始带宽占用的工具。
 - [Stasis](https://github.com/srimanachanta/Stasis) <img align="bottom" height="13" src="https://badgen.net/github/stars/srimanachanta/Stasis?style=flat&label=" /> - 智能电池菜单栏工具，可实时查看电源指标并管理充电上限。
 - [Sonor](https://github.com/sonor-studio/Sonor) <img align="bottom" height="13" src="https://badgen.net/github/stars/sonor-studio/Sonor?style=flat&label=" /> - 隐私优先的端侧语音转文字与 AI 文本处理工具，由 MLX 驱动，全部在本地离线运行。
+- [TrueClose](https://github.com/nhatnam7kz/TrueClose) <img align="bottom" height="13" src="https://badgen.net/github/stars/nhatnam7kz/TrueClose?style=flat&label=" /> - 菜单栏工具，在应用的最后一个窗口关闭时自动退出该应用。
 - [TurboKiller](https://github.com/nicotech-studio/turbo-killer) <img align="bottom" height="13" src="https://badgen.net/github/stars/nicotech-studio/turbo-killer?style=flat&label=" /> - 菜单栏工具，用于控制 Intel Turbo Boost。
 - [Vifty](https://github.com/Reedtrullz/Vifty) <img align="bottom" height="13" src="https://badgen.net/github/stars/Reedtrullz/Vifty?style=flat&label=" /> - 菜单栏风扇控制与充电功率监控工具，支持实时温度、转速调节和可复用温控曲线。
 - [VisorPro](https://github.com/sonor-studio/VisorPro) <img align="bottom" height="13" src="https://badgen.net/github/stars/sonor-studio/VisorPro?style=flat&label=" /> - 用更现代、高度可自定义的屏幕悬浮提示替换原生音量与亮度 OSD，并附带系统状态监控。
