@@ -1349,6 +1349,7 @@
 - [Memozia](https://github.com/oceanix-pr/Memozia) <img align="bottom" height="13" src="https://badgen.net/github/stars/oceanix-pr/Memozia?style=flat&label=" /> - 本地优先的 AI 会议助手，支持转录、总结和行动事项。
 - [OpenOats](https://github.com/yazinsai/OpenOats) <img align="bottom" height="13" src="https://badgen.net/github/stars/yazinsai/OpenOats?style=flat&label=" /> - 会议笔记工具，实时转录对话并搜索笔记以浮现相关内容。
 - [Theo Notes](https://github.com/jankutschera/theonotes) <img align="bottom" height="13" src="https://badgen.net/github/stars/jankutschera/theonotes?style=flat&label=" /> - Markdown 笔记应用，支持 AI 工具通过 MCP 读取、搜索和编辑笔记。
+- [Thoughts](https://github.com/HlaKarki/thoughts) <img align="bottom" height="13" src="https://badgen.net/github/stars/HlaKarki/thoughts?style=flat&label=" /> - 轻量级笔记应用，快速收集文字、待办和图片，并在屏幕边缘面板中查看。
 - [tmpNote](https://github.com/buddax2/tmpNote) <img align="bottom" height="13" src="https://badgen.net/github/stars/buddax2/tmpNote?style=flat&label=" /> - 非常简单的 macOS 应用，用于做临时笔记。
 - [Wisp](https://github.com/sulemaanhamza/wisp) <img align="bottom" height="13" src="https://badgen.net/github/stars/sulemaanhamza/wisp?style=flat&label=" /> - 一键快捷调出的极简便签簿，输入后按 Esc 退出。
 - [Zettel](https://github.com/AlexW00/Zettel) <img align="bottom" height="13" src="https://badgen.net/github/stars/AlexW00/Zettel?style=flat&label=" /> - 极简无干扰笔记工具，支持 Markdown 与标签组织。
