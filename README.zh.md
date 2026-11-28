@@ -1962,6 +1962,7 @@
 - [ScreenShade](https://github.com/zm2529/ScreenShade) <img align="bottom" height="13" src="https://badgen.net/github/stars/zm2529/ScreenShade?style=flat&label=" /> - AI 操作桌面时遮黑屏幕的工具。
 - [ScreenTranslate](https://github.com/hcmhcs/screenTranslate) <img align="bottom" height="13" src="https://badgen.net/github/stars/hcmhcs/screenTranslate?style=flat&label=" /> - 支持 OCR 截图与划词直译的屏幕文本翻译工具，默认端侧处理。
 - [Scrollr](https://github.com/atuuuuuuu/Scrollr) <img align="bottom" height="13" src="https://badgen.net/github/stars/atuuuuuuu/Scrollr?style=flat&label=" /> - 独立反转外接鼠标滚动方向，同时保留触控板设置的菜单栏工具。
+- [Seven](https://github.com/crismakes/Seven) <img align="bottom" height="13" src="https://badgen.net/github/stars/crismakes/Seven?style=flat&label=" /> - 支持原地翻译替换、截图标注和本机文字识别的菜单栏工具。
 - [ShinyMac](https://github.com/Cosmin-T/ShinyMac) <img align="bottom" height="13" src="https://badgen.net/github/stars/Cosmin-T/ShinyMac?style=flat&label=" /> - 锁定你的 Mac 键盘和触控板，确保安全清洁。
 - [Side Screen](https://github.com/tranvuongquocdat/SideScreen) <img align="bottom" height="13" src="https://badgen.net/github/stars/tranvuongquocdat/SideScreen?style=flat&label=" /> - 将 Android 平板变为第二显示器，支持 USB-C 或 WiFi 无线连接。
 - [Swift Quit](https://github.com/onebadidea/swiftquit) <img align="bottom" height="13" src="https://badgen.net/github/stars/onebadidea/swiftquit?style=flat&label=" /> - 在关闭窗口时自动退出 macOS 应用程序。
