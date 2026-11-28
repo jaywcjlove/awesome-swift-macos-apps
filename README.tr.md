@@ -104,10 +104,11 @@ Harika Açık Kaynaklı Swift macOS Uygulamaları
 [![Telegram Channel](https://img.shields.io/badge/%20-Telegram-00618f.svg?logo=Telegram)](https://t.me/s/AwesomeMacApps)
 [![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://x.com/jaywcjlove)
 [![Awesome Mac](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
-[![english](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md) [![中文](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README.zh.md)
 
 Bu liste, üretkenlikten yardımcı araçlara kadar geniş bir kategori yelpazesini kapsayan `Swift` ile geliştirilmiş açık kaynaklı macOS uygulamalarını derler.
 macOS geliştiricileri için bu projeler, pratik `Swift` uygulamalarını sergiler ve arayüz tasarımı, performans optimizasyonu ve menü çubuğu entegrasyonu gibi temel macOS becerilerinde ustalaşmanıza yardımcı olacak yüksek kaliteli kod örnekleri ile en iyi uygulamaları sunar.
+
+[中文](README.zh.md) • [English](README.md)
 
 PR aracılığıyla katkılarınızı bekliyorum; uygulamanızı sosyal medya hesabımda ([𝕏](https://x.com/jaywcjlove)) da paylaşacağım.
 

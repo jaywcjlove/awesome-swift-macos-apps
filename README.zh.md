@@ -103,10 +103,11 @@
 [![Telegram Channel](https://img.shields.io/badge/%20-Telegram-00618f.svg?logo=Telegram)](https://t.me/s/AwesomeMacApps)
 [![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://x.com/jaywcjlove)
 [![Awesome Mac](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-mac)
-[![english](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md) [Türkçe](README.tr.md)
 
 本列表精选了使用 `Swift` 开发的开源 macOS 应用，覆盖从生产力到实用工具的广泛场景。
 对于 macOS 开发者而言，这些项目提供了高质量的代码示例与最佳实践，帮助你系统掌握界面构建、性能优化、菜单栏集成等 macOS 开发关键能力。
+
+[English](README.md) • [Türkçe](README.tr.md)
 
 欢迎通过 PR 提交你的开源项目，我会在我的社交媒体账号 ([𝕏](https://x.com/jaywcjlove)) 上推荐你的应用。
 
